@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt10293938",
+    "imdb_id": "tt10293938",
+    "revision": "576c2b15dd1e39c011f3278699f852aced240cd0",
+    "wikidata_id": "Q89414035",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Outer_Banks_(TV_series)"
+  },
+  "coverage_sha256": "9653483c4b1b279e577e9835e4e40990bd4630daf820ff3080989f12fa8d0e2b",
+  "generated_at": "2026-09-03T19:41:40.543480+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2021-archives/outer-banks-02.cache/cache.20211007.tar.xz",
+      "sha256": "92f3f002b2b58918cd1ffff4edb3db46f1b32db912864eeb471ed7c791ef7e94",
+      "size": 408437632
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-coverage-evidence/outer-banks-02.md",
+      "sha256": "ba5d7acfa0fe1bbe40e7064b8edc7a6be10915f6a73fe3bc1eee0f895b39e5c8",
+      "size": 550
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-cache-stream-receipts/outer-banks-02.json",
+      "sha256": "0b6def5a25b80bdb7b6748c122049557e04e72e82728dadbb93f42c502500ab5",
+      "size": 2446
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-product-receipts/outer-banks-02.json",
+      "sha256": "0ac468a76672789d8626884bd8c5b6fa293348bf8afab89103779eee821ee416",
+      "size": 366
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-control/worker-map.json",
+      "sha256": "8007c46b300872bb9f00ced6cb29d0e2aa49e73a513f4c30d0e8765a7e08ef2c",
+      "size": 89669
+    }
+  },
+  "media_object": "outer-banks-02",
+  "published_files": {
+    "data/csv/bytes/outer-banks-02-cumulative-detail.2021-btiha-itemized-by-bytes.csv": "6acbe27f585432ff55e8c7be7e784af65df55ab53350afc772b4ba4404e8a6c3",
+    "docs/itemized/figures/outer-banks-02-carto-4k.webp": "fe964221f5b5b51272ad382ea8bc3d2e5957fd802606398f35f710a84ae4242f",
+    "docs/itemized/figures/outer-banks-02-carto.png": "e370e31c0bda9bd208f70f35a8bb146e8337a3e60cf6775abef2b2c3a621b290",
+    "docs/itemized/figures/outer-banks-02-cumulative-detail-btiha-itemized-by-bytes.svg": "82657b9dde37eba69b8a161dae13529f3a45b29f3a6d9c830cbdc5f1b82a7a46",
+    "docs/itemized/figures/outer-banks-02-data-ge-1080p-4k.webp": "707590f1fffbb60f5988fc952f5f7a573f77d3580a2b3080072a949577d95429",
+    "docs/itemized/figures/outer-banks-02-data-ge-1080p.webp": "816e1ecd58c1697ccdc45aa1cdf2c8f21719b676f3ddbea4fdb59c612ff45229",
+    "docs/itemized/figures/outer-banks-02-data-lt-1080p-4k.webp": "bf3b6e86974f0d99d698ffd6cffca463afc39f8b7775ed19bce13f99bb7c3825",
+    "docs/itemized/figures/outer-banks-02-data-lt-1080p.webp": "199f442cd600454df2c3f2e579ae57c6c7adccf2418142a759d65994718c4288",
+    "docs/itemized/figures/outer-banks-02-downloads-by-day-day.svg": "eccda7990ef224426a6b5feb7954c142e878bcf0056e7e36d4249e64080eb52b",
+    "docs/itemized/figures/outer-banks-02-downloads-by-week-outer-banks-02-week.svg": "a854c265b3be5a10fbb4401ef098e258b0eac07ffec25e4b5fe3e54fcb028fea",
+    "docs/itemized/outer-banks-02-sample-cache-audit.md": "d16cf56d67ab8c69f1c5c52b62840d6a5b8b23d2e6035f094723ab7ad167acc2",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "84873e743da03017b556934ba0f591c7ba6b051e",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/outer-banks-02/tmp/outer-banks-02-cumulative-btiha.geojson",
+        "sha256": "c6864c2f4b709e52b0da9e3d23e7d81546ad4f1fcd784aa00036c66fdeb5a701",
+        "size": 77630815
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/outer-banks-02/tmp/outer-banks-02-cumulative-btiha-media-objects.json",
+        "sha256": "b1062085ed6ac4984e5d47c6fbd131bcc0387696dc2eef6e6ad497ca76ba286b",
+        "size": 659879
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "outer-banks-02",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          83.0,
+          56.0,
+          53.0,
+          50.0,
+          47.0,
+          45.0,
+          44.0,
+          38.0,
+          35.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Ashburn",
+          "Columbus",
+          "London",
+          "New York City",
+          "Seattle",
+          "Seoul",
+          "Moscow",
+          "Tokyo",
+          "Independence",
+          "Shanghai"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          77.0,
+          59.0,
+          58.0,
+          54.0,
+          47.0,
+          47.0,
+          41.0,
+          37.0,
+          37.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Columbus",
+          "Ashburn",
+          "New York City",
+          "London",
+          "Seattle",
+          "Seoul",
+          "Tokyo",
+          "Independence",
+          "Shanghai",
+          "Moscow"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 24,
+        "y_tick_labels": 20
+      },
+      "histogram": {
+        "bars": 24,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 10,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "84873e743da03017b556934ba0f591c7ba6b051e",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "903f8276e5f31a4387bb88a459e5012c544222f6",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "576c2b15dd1e39c011f3278699f852aced240cd0"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2021"
+}
