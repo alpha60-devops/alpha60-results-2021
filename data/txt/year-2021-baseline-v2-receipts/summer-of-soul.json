@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt7378922",
+    "imdb_id": "tt7378922",
+    "revision": "576c2b15dd1e39c011f3278699f852aced240cd0",
+    "wikidata_id": "Q104213699",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Summer_of_Soul"
+  },
+  "coverage_sha256": "dbfcd803d7e73a3e60570d9efde5c74713f943a8e6d7eb1348e75934b15f2eed",
+  "generated_at": "2026-09-03T22:43:39.497784+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2021-archives/summer-of-soul.cache/cache.20210910.tar.xz",
+      "sha256": "111a4a4d5c5f6fe2e20d406aa7c898dcddd550f6155d71bec5e5cc42f7ef360e",
+      "size": 71658112
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-coverage-evidence/summer-of-soul.md",
+      "sha256": "04245d0b1d89fc6648b3aa8d84db33508b4880e03d1cc8a39d2d87bcfe6a81b7",
+      "size": 550
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-cache-stream-receipts/summer-of-soul.json",
+      "sha256": "98e014af04292a04c6c30e772daefe98aeea713df36f0a625de6293ef4cd3b6a",
+      "size": 2441
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-product-receipts/summer-of-soul.json",
+      "sha256": "158fa79473ee4de2209ff9deb254756f959961cfa59c9f4b1a0a3a1d3bb5d38b",
+      "size": 366
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-control/worker-map.json",
+      "sha256": "7579d04c5dcdc59b240a95af1b60b0ea4d32d602a822e3a67b7b6f311e3066b9",
+      "size": 91326
+    }
+  },
+  "media_object": "summer-of-soul",
+  "published_files": {
+    "data/csv/bytes/summer-of-soul-cumulative-detail.2021-btiha-itemized-by-bytes.csv": "b6fdb9afe8925418c2615a4cbf8365af329bfe395cd663b5a60466b217de2ab9",
+    "docs/itemized/figures/summer-of-soul-carto-4k.webp": "d2368cd7686076c7ac8ce75e3b6d78d4b56abb8cb49fe66c3d4019bce13384e2",
+    "docs/itemized/figures/summer-of-soul-carto.png": "f2eb4d271d093d5dbdecce7515de3c7c6fb4bc2e6838b03f772468d7ca2e790a",
+    "docs/itemized/figures/summer-of-soul-cumulative-detail-btiha-itemized-by-bytes.svg": "f1e644cd49bfe019e60a3e3d01d6be4c883d18bc541b406fdc7eaea12c5e24e3",
+    "docs/itemized/figures/summer-of-soul-data-ge-1080p-4k.webp": "957318403bc6159410b8783090201648067a3b6295ca042c7e3e1b918f78f8ec",
+    "docs/itemized/figures/summer-of-soul-data-ge-1080p.webp": "e1446e22f34814c22e3a5de4c1f170e755380d8c2ee400e2e5de9d7a806302be",
+    "docs/itemized/figures/summer-of-soul-data-lt-1080p-4k.webp": "2c1f059c52ed879e5149439e18e0a05c71439561fac043288b2883dd8147acdb",
+    "docs/itemized/figures/summer-of-soul-data-lt-1080p.webp": "fece97114fad39102167c33f399c13b3f874e4a4b788b87b51f361f4e72f98c7",
+    "docs/itemized/figures/summer-of-soul-downloads-by-day-day.svg": "49bd4c8d616c01db742555b15bbcea0a6ea694e6e2e1fda59ca17120ba0c4618",
+    "docs/itemized/figures/summer-of-soul-downloads-by-week-summer-of-soul-week.svg": "2e31541cb15bf9e5f6ca3b3773d788241c5fde6cdc80ee0c0547ccd88db5edad",
+    "docs/itemized/summer-of-soul-sample-cache-audit.md": "277881511fcd0121caa49f07b43f59132c49432ef598a171014a23e87bb23f38",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "84873e743da03017b556934ba0f591c7ba6b051e",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/summer-of-soul/tmp/summer-of-soul-cumulative-btiha.geojson",
+        "sha256": "20056cedd4abfaf8921a8cf032e83ae3ef6b416e1ef6fb5dface16932d2d2e38",
+        "size": 11088570
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/summer-of-soul/tmp/summer-of-soul-cumulative-btiha-media-objects.json",
+        "sha256": "2bb44ffbab006e6a44817d61f5361c2bfff11e87b35b5d6e0c924b9e073fd91b",
+        "size": 65695
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "summer-of-soul",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          53.0,
+          43.0,
+          37.0,
+          34.0,
+          29.0,
+          28.0,
+          27.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "London",
+          "New York City",
+          "Columbus",
+          "Ashburn",
+          "Seattle",
+          "Tokyo",
+          "Amsterdam",
+          "Frankfurt am Main",
+          "Boardman",
+          "Toronto"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          78.0,
+          70.0,
+          59.0,
+          50.0,
+          47.0,
+          43.0,
+          42.0,
+          37.0,
+          31.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Columbus",
+          "London",
+          "New York City",
+          "Seattle",
+          "Tokyo",
+          "Seoul",
+          "Ashburn",
+          "Independence",
+          "Shanghai",
+          "Boardman"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 24,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 15,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 6,
+        "x_tick_marks": 6,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 10,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "84873e743da03017b556934ba0f591c7ba6b051e",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "903f8276e5f31a4387bb88a459e5012c544222f6",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "576c2b15dd1e39c011f3278699f852aced240cd0"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2021"
+}

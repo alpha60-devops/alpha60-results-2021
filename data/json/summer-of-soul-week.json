@@ -1,0 +1,4007 @@
+{
+    "collection_name": "Summer of Soul",
+    "collection_id": "",
+    "collection_key": "summer-of-soul",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "sample_duration": "2021-07-03-to-2021-09-10",
+    "sample_days": 70,
+    "sample_year_start": 2021,
+    "sample_year_end": 2021,
+    "sample_day_year_start": 184,
+    "sample_day_year_end": 253,
+    "collection_week": [
+        {
+    "number": "week-00001",
+    "btiha_size": 18,
+    "udownloaders_total": 71788,
+    "uuploaders_total": 9573
+},
+        {
+    "number": "week-00002",
+    "btiha_size": 18,
+    "udownloaders_total": 147855,
+    "uuploaders_total": 17898
+},
+        {
+    "number": "week-00003",
+    "btiha_size": 19,
+    "udownloaders_total": 206965,
+    "uuploaders_total": 24587
+},
+        {
+    "number": "week-00004",
+    "btiha_size": 22,
+    "udownloaders_total": 261100,
+    "uuploaders_total": 29750
+},
+        {
+    "number": "week-00005",
+    "btiha_size": 22,
+    "udownloaders_total": 342538,
+    "uuploaders_total": 34958
+},
+        {
+    "number": "week-00006",
+    "btiha_size": 22,
+    "udownloaders_total": 415926,
+    "uuploaders_total": 39653
+},
+        {
+    "number": "week-00007",
+    "btiha_size": 22,
+    "udownloaders_total": 471634,
+    "uuploaders_total": 44487
+},
+        {
+    "number": "week-00008",
+    "btiha_size": 22,
+    "udownloaders_total": 523613,
+    "uuploaders_total": 48716
+},
+        {
+    "number": "week-00009",
+    "btiha_size": 22,
+    "udownloaders_total": 583355,
+    "uuploaders_total": 52779
+},
+        {
+    "number": "week-00010",
+    "btiha_size": 22,
+    "udownloaders_total": 638933,
+    "uuploaders_total": 56943
+}
+    ],
+    "collection_week_by_btiha": [
+        [
+    {
+        "id": 34,
+        "name": "multi-btih-4-2-x-Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.720p.WEB.H264-NAISU-[rarbg.to]",
+        "btih": "5e617809ef25d54fcc2e2a93d91a427972edead9",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 2.817888781,
+        "creation": "2021-07-02T04:34:29.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 16095,
+        "uuploaders": 2642
+    },
+    {
+        "id": 30,
+        "name": "multi-btih-0-2-x-Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.1080p.WEB.H264-NAISU-[rarbg.to]",
+        "btih": "55806113efe80ac99a86cbf023c9ac044a0a3b7d",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 5.18685391,
+        "creation": "2021-07-02T04:34:32.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 7350,
+        "uuploaders": 1142
+    },
+    {
+        "id": 13,
+        "name": "Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.2160p.WEB.H265-NAISU [IPT]",
+        "btih": "05f82e96879ca7a4ab82b2c175d2d12752bf287b",
+        "resolution": "2160",
+        "encoding": "265",
+        "gigabytes": 10.347375329,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 7235,
+        "uuploaders": 523
+    },
+    {
+        "id": 33,
+        "name": "multi-btih-3-2-x-Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.2160p.WEB.H265-NAISU-[rarbg.to]",
+        "btih": "f6f592b001245dc183db850ec99d7e6252721a6a",
+        "resolution": "2160",
+        "encoding": "265",
+        "gigabytes": 10.44552367,
+        "creation": "2021-07-02T04:49:15.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 7104,
+        "uuploaders": 482
+    },
+    {
+        "id": 31,
+        "name": "multi-btih-1-2-x-Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.1080p.WEBRip.x264-RARBG-[rarbg.to]",
+        "btih": "a8aa2610655b8fb979f707c73969e58a8e41b8e1",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 2.407449966,
+        "creation": "2021-07-02T07:17:39.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 6584,
+        "uuploaders": 897
+    },
+    {
+        "id": 1,
+        "name": "Summer Of Soul ...Or When The Revolution Could Not Be Televised (2021) [1080p] [WEBRip] [5.1] [YTS.MX]",
+        "btih": "8b142b6f3cc398f486e54a980db3ce0032e34a4e",
+        "resolution": "1080",
+        "encoding": "none",
+        "gigabytes": 2.328373368,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 5850,
+        "uuploaders": 749
+    },
+    {
+        "id": 16,
+        "name": "Summer.of.Soul.or.When.the.Revolution.Could.Not.Be.Televised.2021.720p.WEB-DL.x265.HEVC-HDETG.com",
+        "btih": "94921de7b9af1d2aed372d6e6ff0929cfa4d493b",
+        "resolution": "720",
+        "encoding": "265",
+        "gigabytes": 0.775033162,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 4261,
+        "uuploaders": 166
+    },
+    {
+        "id": 17,
+        "name": "Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.720p.WEB.H264-NAISU [IPT]",
+        "btih": "9c30667953bb51ada3d3b22755bc48f5c3f5c2bd",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 2.845412773,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 3795,
+        "uuploaders": 131
+    },
+    {
+        "id": 36,
+        "name": "multi-btih-6-2-x-Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.WEBRip.x264-ION10-[rarbg.to]",
+        "btih": "9e6045d0fbb754f10f8d262ccc520ddbaf72d24e",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 1.201408922,
+        "creation": "2021-07-02T05:31:04.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 2433,
+        "uuploaders": 670
+    },
+    {
+        "id": 29,
+        "name": "www.Torrenting.com   -    Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.720p",
+        "btih": "6a7a5ed1e842a3be2e329c45960dd2c7f730bcf9",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 2.845411117,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 2420,
+        "uuploaders": 222
+    },
+    {
+        "id": 3,
+        "name": "Summer Of Soul ...Or When The Revolution Could Not Be Televised (2021) [720p] [WEBRip] [YTS.MX]",
+        "btih": "a56c314f570538d63a1c85c2177dbf96ee591ade",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 1.132838143,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 2358,
+        "uuploaders": 272
+    },
+    {
+        "id": 5,
+        "name": "Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.1080p.WEB.H264-NAISU [IPT]",
+        "btih": "01051628eb7cecad10fd593a7b77f720a8dc9ffd",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 5.237176825,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 2329,
+        "uuploaders": 704
+    },
+    {
+        "id": 32,
+        "name": "multi-btih-2-2-x-Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.1080p.WEBRip.x265-RARBG-[rarbg.to]",
+        "btih": "82a297903d48174f8ef2c9511b4682871ce5be61",
+        "resolution": "1080",
+        "encoding": "265",
+        "gigabytes": 1.967826655,
+        "creation": "2021-07-02T11:43:59.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 1128,
+        "uuploaders": 209
+    },
+    {
+        "id": 20,
+        "name": "Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.720p.WEBRip.800MB.x264-GalaxyRG[TGx]",
+        "btih": "d5e6716650b7f00fc12c6f462997baa7c0830d0a",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 0.836688197,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 867,
+        "uuploaders": 127
+    },
+    {
+        "id": 28,
+        "name": "www.Torrenting.com   -    Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.1080p",
+        "btih": "4c3a61f0f11a7a06a4defe929d74b204b5fcbf87",
+        "resolution": "1080",
+        "encoding": "none",
+        "gigabytes": 5.237174984,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 851,
+        "uuploaders": 188
+    },
+    {
+        "id": 4,
+        "name": "summer.-of.-soul....-or.-when.-the.-revolution.-could.-not.-be.-televised.-2021.",
+        "btih": "e4c1ed9ee94f22e36b6667a2da8a1020e617f907",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 2.206203904,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 445,
+        "uuploaders": 290
+    },
+    {
+        "id": 12,
+        "name": "Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.1080p.WEBRip.x265",
+        "btih": "433ad386277e7f49e0278af1f51cf91a55c50537",
+        "resolution": "1080",
+        "encoding": "265",
+        "gigabytes": 1.967826522,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 413,
+        "uuploaders": 148
+    },
+    {
+        "id": 35,
+        "name": "multi-btih-5-2-x-Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.WEBRip.XviD.MP3-XVID-[rarbg.to]",
+        "btih": "d35e4608f66c94d191c2e31e65fea25874c163ab",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 1.593528087,
+        "creation": "2021-07-02T05:06:03.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 270,
+        "uuploaders": 11
+    }
+],
+        [
+    {
+        "id": 34,
+        "name": "multi-btih-4-2-x-Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.720p.WEB.H264-NAISU-[rarbg.to]",
+        "btih": "5e617809ef25d54fcc2e2a93d91a427972edead9",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 2.817888781,
+        "creation": "2021-07-02T04:34:29.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 26015,
+        "uuploaders": 4352
+    },
+    {
+        "id": 31,
+        "name": "multi-btih-1-2-x-Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.1080p.WEBRip.x264-RARBG-[rarbg.to]",
+        "btih": "a8aa2610655b8fb979f707c73969e58a8e41b8e1",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 2.407449966,
+        "creation": "2021-07-02T07:17:39.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 18000,
+        "uuploaders": 1611
+    },
+    {
+        "id": 30,
+        "name": "multi-btih-0-2-x-Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.1080p.WEB.H264-NAISU-[rarbg.to]",
+        "btih": "55806113efe80ac99a86cbf023c9ac044a0a3b7d",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 5.18685391,
+        "creation": "2021-07-02T04:34:32.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 17530,
+        "uuploaders": 1786
+    },
+    {
+        "id": 1,
+        "name": "Summer Of Soul ...Or When The Revolution Could Not Be Televised (2021) [1080p] [WEBRip] [5.1] [YTS.MX]",
+        "btih": "8b142b6f3cc398f486e54a980db3ce0032e34a4e",
+        "resolution": "1080",
+        "encoding": "none",
+        "gigabytes": 2.328373368,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 13154,
+        "uuploaders": 2743
+    },
+    {
+        "id": 13,
+        "name": "Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.2160p.WEB.H265-NAISU [IPT]",
+        "btih": "05f82e96879ca7a4ab82b2c175d2d12752bf287b",
+        "resolution": "2160",
+        "encoding": "265",
+        "gigabytes": 10.347375329,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 12015,
+        "uuploaders": 801
+    },
+    {
+        "id": 33,
+        "name": "multi-btih-3-2-x-Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.2160p.WEB.H265-NAISU-[rarbg.to]",
+        "btih": "f6f592b001245dc183db850ec99d7e6252721a6a",
+        "resolution": "2160",
+        "encoding": "265",
+        "gigabytes": 10.44552367,
+        "creation": "2021-07-02T04:49:15.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 11694,
+        "uuploaders": 799
+    },
+    {
+        "id": 36,
+        "name": "multi-btih-6-2-x-Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.WEBRip.x264-ION10-[rarbg.to]",
+        "btih": "9e6045d0fbb754f10f8d262ccc520ddbaf72d24e",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 1.201408922,
+        "creation": "2021-07-02T05:31:04.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 8489,
+        "uuploaders": 1005
+    },
+    {
+        "id": 3,
+        "name": "Summer Of Soul ...Or When The Revolution Could Not Be Televised (2021) [720p] [WEBRip] [YTS.MX]",
+        "btih": "a56c314f570538d63a1c85c2177dbf96ee591ade",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 1.132838143,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 8310,
+        "uuploaders": 915
+    },
+    {
+        "id": 29,
+        "name": "www.Torrenting.com   -    Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.720p",
+        "btih": "6a7a5ed1e842a3be2e329c45960dd2c7f730bcf9",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 2.845411117,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 8068,
+        "uuploaders": 530
+    },
+    {
+        "id": 16,
+        "name": "Summer.of.Soul.or.When.the.Revolution.Could.Not.Be.Televised.2021.720p.WEB-DL.x265.HEVC-HDETG.com",
+        "btih": "94921de7b9af1d2aed372d6e6ff0929cfa4d493b",
+        "resolution": "720",
+        "encoding": "265",
+        "gigabytes": 0.775033162,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 5606,
+        "uuploaders": 276
+    },
+    {
+        "id": 17,
+        "name": "Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.720p.WEB.H264-NAISU [IPT]",
+        "btih": "9c30667953bb51ada3d3b22755bc48f5c3f5c2bd",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 2.845412773,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 5146,
+        "uuploaders": 248
+    },
+    {
+        "id": 5,
+        "name": "Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.1080p.WEB.H264-NAISU [IPT]",
+        "btih": "01051628eb7cecad10fd593a7b77f720a8dc9ffd",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 5.237176825,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 4063,
+        "uuploaders": 999
+    },
+    {
+        "id": 32,
+        "name": "multi-btih-2-2-x-Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.1080p.WEBRip.x265-RARBG-[rarbg.to]",
+        "btih": "82a297903d48174f8ef2c9511b4682871ce5be61",
+        "resolution": "1080",
+        "encoding": "265",
+        "gigabytes": 1.967826655,
+        "creation": "2021-07-02T11:43:59.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 3907,
+        "uuploaders": 579
+    },
+    {
+        "id": 28,
+        "name": "www.Torrenting.com   -    Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.1080p",
+        "btih": "4c3a61f0f11a7a06a4defe929d74b204b5fcbf87",
+        "resolution": "1080",
+        "encoding": "none",
+        "gigabytes": 5.237174984,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 1900,
+        "uuploaders": 404
+    },
+    {
+        "id": 20,
+        "name": "Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.720p.WEBRip.800MB.x264-GalaxyRG[TGx]",
+        "btih": "d5e6716650b7f00fc12c6f462997baa7c0830d0a",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 0.836688197,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 1600,
+        "uuploaders": 203
+    },
+    {
+        "id": 35,
+        "name": "multi-btih-5-2-x-Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.WEBRip.XviD.MP3-XVID-[rarbg.to]",
+        "btih": "d35e4608f66c94d191c2e31e65fea25874c163ab",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 1.593528087,
+        "creation": "2021-07-02T05:06:03.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 1088,
+        "uuploaders": 44
+    },
+    {
+        "id": 4,
+        "name": "summer.-of.-soul....-or.-when.-the.-revolution.-could.-not.-be.-televised.-2021.",
+        "btih": "e4c1ed9ee94f22e36b6667a2da8a1020e617f907",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 2.206203904,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 686,
+        "uuploaders": 389
+    },
+    {
+        "id": 12,
+        "name": "Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.1080p.WEBRip.x265",
+        "btih": "433ad386277e7f49e0278af1f51cf91a55c50537",
+        "resolution": "1080",
+        "encoding": "265",
+        "gigabytes": 1.967826522,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 584,
+        "uuploaders": 214
+    }
+],
+        [
+    {
+        "id": 34,
+        "name": "multi-btih-4-2-x-Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.720p.WEB.H264-NAISU-[rarbg.to]",
+        "btih": "5e617809ef25d54fcc2e2a93d91a427972edead9",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 2.817888781,
+        "creation": "2021-07-02T04:34:29.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 34445,
+        "uuploaders": 6305
+    },
+    {
+        "id": 30,
+        "name": "multi-btih-0-2-x-Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.1080p.WEB.H264-NAISU-[rarbg.to]",
+        "btih": "55806113efe80ac99a86cbf023c9ac044a0a3b7d",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 5.18685391,
+        "creation": "2021-07-02T04:34:32.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 24499,
+        "uuploaders": 2376
+    },
+    {
+        "id": 31,
+        "name": "multi-btih-1-2-x-Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.1080p.WEBRip.x264-RARBG-[rarbg.to]",
+        "btih": "a8aa2610655b8fb979f707c73969e58a8e41b8e1",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 2.407449966,
+        "creation": "2021-07-02T07:17:39.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 24189,
+        "uuploaders": 2324
+    },
+    {
+        "id": 1,
+        "name": "Summer Of Soul ...Or When The Revolution Could Not Be Televised (2021) [1080p] [WEBRip] [5.1] [YTS.MX]",
+        "btih": "8b142b6f3cc398f486e54a980db3ce0032e34a4e",
+        "resolution": "1080",
+        "encoding": "none",
+        "gigabytes": 2.328373368,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 17249,
+        "uuploaders": 3522
+    },
+    {
+        "id": 13,
+        "name": "Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.2160p.WEB.H265-NAISU [IPT]",
+        "btih": "05f82e96879ca7a4ab82b2c175d2d12752bf287b",
+        "resolution": "2160",
+        "encoding": "265",
+        "gigabytes": 10.347375329,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 15635,
+        "uuploaders": 1060
+    },
+    {
+        "id": 33,
+        "name": "multi-btih-3-2-x-Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.2160p.WEB.H265-NAISU-[rarbg.to]",
+        "btih": "f6f592b001245dc183db850ec99d7e6252721a6a",
+        "resolution": "2160",
+        "encoding": "265",
+        "gigabytes": 10.44552367,
+        "creation": "2021-07-02T04:49:15.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 15522,
+        "uuploaders": 1039
+    },
+    {
+        "id": 3,
+        "name": "Summer Of Soul ...Or When The Revolution Could Not Be Televised (2021) [720p] [WEBRip] [YTS.MX]",
+        "btih": "a56c314f570538d63a1c85c2177dbf96ee591ade",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 1.132838143,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 15101,
+        "uuploaders": 1330
+    },
+    {
+        "id": 29,
+        "name": "www.Torrenting.com   -    Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.720p",
+        "btih": "6a7a5ed1e842a3be2e329c45960dd2c7f730bcf9",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 2.845411117,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 12331,
+        "uuploaders": 836
+    },
+    {
+        "id": 36,
+        "name": "multi-btih-6-2-x-Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.WEBRip.x264-ION10-[rarbg.to]",
+        "btih": "9e6045d0fbb754f10f8d262ccc520ddbaf72d24e",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 1.201408922,
+        "creation": "2021-07-02T05:31:04.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 11564,
+        "uuploaders": 1240
+    },
+    {
+        "id": 16,
+        "name": "Summer.of.Soul.or.When.the.Revolution.Could.Not.Be.Televised.2021.720p.WEB-DL.x265.HEVC-HDETG.com",
+        "btih": "94921de7b9af1d2aed372d6e6ff0929cfa4d493b",
+        "resolution": "720",
+        "encoding": "265",
+        "gigabytes": 0.775033162,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 6924,
+        "uuploaders": 359
+    },
+    {
+        "id": 5,
+        "name": "Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.1080p.WEB.H264-NAISU [IPT]",
+        "btih": "01051628eb7cecad10fd593a7b77f720a8dc9ffd",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 5.237176825,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 6618,
+        "uuploaders": 1263
+    },
+    {
+        "id": 17,
+        "name": "Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.720p.WEB.H264-NAISU [IPT]",
+        "btih": "9c30667953bb51ada3d3b22755bc48f5c3f5c2bd",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 2.845412773,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 6449,
+        "uuploaders": 326
+    },
+    {
+        "id": 32,
+        "name": "multi-btih-2-2-x-Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.1080p.WEBRip.x265-RARBG-[rarbg.to]",
+        "btih": "82a297903d48174f8ef2c9511b4682871ce5be61",
+        "resolution": "1080",
+        "encoding": "265",
+        "gigabytes": 1.967826655,
+        "creation": "2021-07-02T11:43:59.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 6012,
+        "uuploaders": 894
+    },
+    {
+        "id": 28,
+        "name": "www.Torrenting.com   -    Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.1080p",
+        "btih": "4c3a61f0f11a7a06a4defe929d74b204b5fcbf87",
+        "resolution": "1080",
+        "encoding": "none",
+        "gigabytes": 5.237174984,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 2802,
+        "uuploaders": 609
+    },
+    {
+        "id": 20,
+        "name": "Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.720p.WEBRip.800MB.x264-GalaxyRG[TGx]",
+        "btih": "d5e6716650b7f00fc12c6f462997baa7c0830d0a",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 0.836688197,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 2643,
+        "uuploaders": 274
+    },
+    {
+        "id": 35,
+        "name": "multi-btih-5-2-x-Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.WEBRip.XviD.MP3-XVID-[rarbg.to]",
+        "btih": "d35e4608f66c94d191c2e31e65fea25874c163ab",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 1.593528087,
+        "creation": "2021-07-02T05:06:03.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 2434,
+        "uuploaders": 68
+    },
+    {
+        "id": 27,
+        "name": "Verão da alma (Summer of Soul) (2021) WEBRip [Dublado Portugues] BRAZINO777",
+        "btih": "7354ec79b52e94e8b964c6d815a0837bb191500d",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 1.511187394,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 961,
+        "uuploaders": 26
+    },
+    {
+        "id": 4,
+        "name": "summer.-of.-soul....-or.-when.-the.-revolution.-could.-not.-be.-televised.-2021.",
+        "btih": "e4c1ed9ee94f22e36b6667a2da8a1020e617f907",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 2.206203904,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 824,
+        "uuploaders": 479
+    },
+    {
+        "id": 12,
+        "name": "Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.1080p.WEBRip.x265",
+        "btih": "433ad386277e7f49e0278af1f51cf91a55c50537",
+        "resolution": "1080",
+        "encoding": "265",
+        "gigabytes": 1.967826522,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 763,
+        "uuploaders": 257
+    }
+],
+        [
+    {
+        "id": 34,
+        "name": "multi-btih-4-2-x-Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.720p.WEB.H264-NAISU-[rarbg.to]",
+        "btih": "5e617809ef25d54fcc2e2a93d91a427972edead9",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 2.817888781,
+        "creation": "2021-07-02T04:34:29.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 41513,
+        "uuploaders": 7743
+    },
+    {
+        "id": 31,
+        "name": "multi-btih-1-2-x-Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.1080p.WEBRip.x264-RARBG-[rarbg.to]",
+        "btih": "a8aa2610655b8fb979f707c73969e58a8e41b8e1",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 2.407449966,
+        "creation": "2021-07-02T07:17:39.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 29372,
+        "uuploaders": 2853
+    },
+    {
+        "id": 30,
+        "name": "multi-btih-0-2-x-Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.1080p.WEB.H264-NAISU-[rarbg.to]",
+        "btih": "55806113efe80ac99a86cbf023c9ac044a0a3b7d",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 5.18685391,
+        "creation": "2021-07-02T04:34:32.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 28918,
+        "uuploaders": 2832
+    },
+    {
+        "id": 3,
+        "name": "Summer Of Soul ...Or When The Revolution Could Not Be Televised (2021) [720p] [WEBRip] [YTS.MX]",
+        "btih": "a56c314f570538d63a1c85c2177dbf96ee591ade",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 1.132838143,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 26674,
+        "uuploaders": 1657
+    },
+    {
+        "id": 1,
+        "name": "Summer Of Soul ...Or When The Revolution Could Not Be Televised (2021) [1080p] [WEBRip] [5.1] [YTS.MX]",
+        "btih": "8b142b6f3cc398f486e54a980db3ce0032e34a4e",
+        "resolution": "1080",
+        "encoding": "none",
+        "gigabytes": 2.328373368,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 20053,
+        "uuploaders": 4014
+    },
+    {
+        "id": 29,
+        "name": "www.Torrenting.com   -    Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.720p",
+        "btih": "6a7a5ed1e842a3be2e329c45960dd2c7f730bcf9",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 2.845411117,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 17576,
+        "uuploaders": 1094
+    },
+    {
+        "id": 33,
+        "name": "multi-btih-3-2-x-Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.2160p.WEB.H265-NAISU-[rarbg.to]",
+        "btih": "f6f592b001245dc183db850ec99d7e6252721a6a",
+        "resolution": "2160",
+        "encoding": "265",
+        "gigabytes": 10.44552367,
+        "creation": "2021-07-02T04:49:15.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 17493,
+        "uuploaders": 1225
+    },
+    {
+        "id": 13,
+        "name": "Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.2160p.WEB.H265-NAISU [IPT]",
+        "btih": "05f82e96879ca7a4ab82b2c175d2d12752bf287b",
+        "resolution": "2160",
+        "encoding": "265",
+        "gigabytes": 10.347375329,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 17465,
+        "uuploaders": 1240
+    },
+    {
+        "id": 36,
+        "name": "multi-btih-6-2-x-Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.WEBRip.x264-ION10-[rarbg.to]",
+        "btih": "9e6045d0fbb754f10f8d262ccc520ddbaf72d24e",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 1.201408922,
+        "creation": "2021-07-02T05:31:04.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 15095,
+        "uuploaders": 1415
+    },
+    {
+        "id": 32,
+        "name": "multi-btih-2-2-x-Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.1080p.WEBRip.x265-RARBG-[rarbg.to]",
+        "btih": "82a297903d48174f8ef2c9511b4682871ce5be61",
+        "resolution": "1080",
+        "encoding": "265",
+        "gigabytes": 1.967826655,
+        "creation": "2021-07-02T11:43:59.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 9853,
+        "uuploaders": 1178
+    },
+    {
+        "id": 5,
+        "name": "Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.1080p.WEB.H264-NAISU [IPT]",
+        "btih": "01051628eb7cecad10fd593a7b77f720a8dc9ffd",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 5.237176825,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 7950,
+        "uuploaders": 1460
+    },
+    {
+        "id": 16,
+        "name": "Summer.of.Soul.or.When.the.Revolution.Could.Not.Be.Televised.2021.720p.WEB-DL.x265.HEVC-HDETG.com",
+        "btih": "94921de7b9af1d2aed372d6e6ff0929cfa4d493b",
+        "resolution": "720",
+        "encoding": "265",
+        "gigabytes": 0.775033162,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 7645,
+        "uuploaders": 439
+    },
+    {
+        "id": 17,
+        "name": "Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.720p.WEB.H264-NAISU [IPT]",
+        "btih": "9c30667953bb51ada3d3b22755bc48f5c3f5c2bd",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 2.845412773,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 7094,
+        "uuploaders": 399
+    },
+    {
+        "id": 28,
+        "name": "www.Torrenting.com   -    Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.1080p",
+        "btih": "4c3a61f0f11a7a06a4defe929d74b204b5fcbf87",
+        "resolution": "1080",
+        "encoding": "none",
+        "gigabytes": 5.237174984,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 3836,
+        "uuploaders": 786
+    },
+    {
+        "id": 20,
+        "name": "Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.720p.WEBRip.800MB.x264-GalaxyRG[TGx]",
+        "btih": "d5e6716650b7f00fc12c6f462997baa7c0830d0a",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 0.836688197,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 3447,
+        "uuploaders": 319
+    },
+    {
+        "id": 35,
+        "name": "multi-btih-5-2-x-Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.WEBRip.XviD.MP3-XVID-[rarbg.to]",
+        "btih": "d35e4608f66c94d191c2e31e65fea25874c163ab",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 1.593528087,
+        "creation": "2021-07-02T05:06:03.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 3036,
+        "uuploaders": 107
+    },
+    {
+        "id": 27,
+        "name": "Verão da alma (Summer of Soul) (2021) WEBRip [Dublado Portugues] BRAZINO777",
+        "btih": "7354ec79b52e94e8b964c6d815a0837bb191500d",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 1.511187394,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 1203,
+        "uuploaders": 54
+    },
+    {
+        "id": 4,
+        "name": "summer.-of.-soul....-or.-when.-the.-revolution.-could.-not.-be.-televised.-2021.",
+        "btih": "e4c1ed9ee94f22e36b6667a2da8a1020e617f907",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 2.206203904,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 916,
+        "uuploaders": 539
+    },
+    {
+        "id": 12,
+        "name": "Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.1080p.WEBRip.x265",
+        "btih": "433ad386277e7f49e0278af1f51cf91a55c50537",
+        "resolution": "1080",
+        "encoding": "265",
+        "gigabytes": 1.967826522,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 853,
+        "uuploaders": 302
+    },
+    {
+        "id": 25,
+        "name": "Verão da alma (Summer of Soul) (2021) 1080p WEBRip [Dublado Portugues] BRAZINO777",
+        "btih": "0872c4f6e22c20ee4f6f2d1f45e21ee2f9ef60eb",
+        "resolution": "1080",
+        "encoding": "none",
+        "gigabytes": 3.775465029,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 404,
+        "uuploaders": 17
+    },
+    {
+        "id": 26,
+        "name": "Verão da alma (Summer of Soul) (2021) 720p WEBRip [Dublado Portugues] BRAZINO777",
+        "btih": "3cea8efa1e25017bfbac4fd552beda7cc90fb1a7",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 2.00310489,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 375,
+        "uuploaders": 17
+    },
+    {
+        "id": 2,
+        "name": "Summer Of Soul ...Or When The Revolution Could Not Be Televised (2021) [2160p] [4K] [WEB] [5.1] [YTS.MX]",
+        "btih": "8a9e3a8c5287a3a10ce72db9e6aa9b75c7432beb",
+        "resolution": "2160",
+        "encoding": "none",
+        "gigabytes": 5.636767816,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 329,
+        "uuploaders": 60
+    }
+],
+        [
+    {
+        "id": 34,
+        "name": "multi-btih-4-2-x-Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.720p.WEB.H264-NAISU-[rarbg.to]",
+        "btih": "5e617809ef25d54fcc2e2a93d91a427972edead9",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 2.817888781,
+        "creation": "2021-07-02T04:34:29.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 55769,
+        "uuploaders": 9000
+    },
+    {
+        "id": 3,
+        "name": "Summer Of Soul ...Or When The Revolution Could Not Be Televised (2021) [720p] [WEBRip] [YTS.MX]",
+        "btih": "a56c314f570538d63a1c85c2177dbf96ee591ade",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 1.132838143,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 32845,
+        "uuploaders": 2003
+    },
+    {
+        "id": 30,
+        "name": "multi-btih-0-2-x-Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.1080p.WEB.H264-NAISU-[rarbg.to]",
+        "btih": "55806113efe80ac99a86cbf023c9ac044a0a3b7d",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 5.18685391,
+        "creation": "2021-07-02T04:34:32.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 32541,
+        "uuploaders": 3265
+    },
+    {
+        "id": 31,
+        "name": "multi-btih-1-2-x-Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.1080p.WEBRip.x264-RARBG-[rarbg.to]",
+        "btih": "a8aa2610655b8fb979f707c73969e58a8e41b8e1",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 2.407449966,
+        "creation": "2021-07-02T07:17:39.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 32121,
+        "uuploaders": 3334
+    },
+    {
+        "id": 29,
+        "name": "www.Torrenting.com   -    Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.720p",
+        "btih": "6a7a5ed1e842a3be2e329c45960dd2c7f730bcf9",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 2.845411117,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 26833,
+        "uuploaders": 1321
+    },
+    {
+        "id": 1,
+        "name": "Summer Of Soul ...Or When The Revolution Could Not Be Televised (2021) [1080p] [WEBRip] [5.1] [YTS.MX]",
+        "btih": "8b142b6f3cc398f486e54a980db3ce0032e34a4e",
+        "resolution": "1080",
+        "encoding": "none",
+        "gigabytes": 2.328373368,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 25344,
+        "uuploaders": 4527
+    },
+    {
+        "id": 33,
+        "name": "multi-btih-3-2-x-Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.2160p.WEB.H265-NAISU-[rarbg.to]",
+        "btih": "f6f592b001245dc183db850ec99d7e6252721a6a",
+        "resolution": "2160",
+        "encoding": "265",
+        "gigabytes": 10.44552367,
+        "creation": "2021-07-02T04:49:15.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 18842,
+        "uuploaders": 1419
+    },
+    {
+        "id": 13,
+        "name": "Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.2160p.WEB.H265-NAISU [IPT]",
+        "btih": "05f82e96879ca7a4ab82b2c175d2d12752bf287b",
+        "resolution": "2160",
+        "encoding": "265",
+        "gigabytes": 10.347375329,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 18752,
+        "uuploaders": 1456
+    },
+    {
+        "id": 36,
+        "name": "multi-btih-6-2-x-Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.WEBRip.x264-ION10-[rarbg.to]",
+        "btih": "9e6045d0fbb754f10f8d262ccc520ddbaf72d24e",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 1.201408922,
+        "creation": "2021-07-02T05:31:04.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 17999,
+        "uuploaders": 1589
+    },
+    {
+        "id": 20,
+        "name": "Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.720p.WEBRip.800MB.x264-GalaxyRG[TGx]",
+        "btih": "d5e6716650b7f00fc12c6f462997baa7c0830d0a",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 0.836688197,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 11855,
+        "uuploaders": 353
+    },
+    {
+        "id": 32,
+        "name": "multi-btih-2-2-x-Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.1080p.WEBRip.x265-RARBG-[rarbg.to]",
+        "btih": "82a297903d48174f8ef2c9511b4682871ce5be61",
+        "resolution": "1080",
+        "encoding": "265",
+        "gigabytes": 1.967826655,
+        "creation": "2021-07-02T11:43:59.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 11362,
+        "uuploaders": 1414
+    },
+    {
+        "id": 5,
+        "name": "Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.1080p.WEB.H264-NAISU [IPT]",
+        "btih": "01051628eb7cecad10fd593a7b77f720a8dc9ffd",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 5.237176825,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 10148,
+        "uuploaders": 1643
+    },
+    {
+        "id": 16,
+        "name": "Summer.of.Soul.or.When.the.Revolution.Could.Not.Be.Televised.2021.720p.WEB-DL.x265.HEVC-HDETG.com",
+        "btih": "94921de7b9af1d2aed372d6e6ff0929cfa4d493b",
+        "resolution": "720",
+        "encoding": "265",
+        "gigabytes": 0.775033162,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 9143,
+        "uuploaders": 515
+    },
+    {
+        "id": 17,
+        "name": "Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.720p.WEB.H264-NAISU [IPT]",
+        "btih": "9c30667953bb51ada3d3b22755bc48f5c3f5c2bd",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 2.845412773,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 8501,
+        "uuploaders": 467
+    },
+    {
+        "id": 27,
+        "name": "Verão da alma (Summer of Soul) (2021) WEBRip [Dublado Portugues] BRAZINO777",
+        "btih": "7354ec79b52e94e8b964c6d815a0837bb191500d",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 1.511187394,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 6710,
+        "uuploaders": 79
+    },
+    {
+        "id": 28,
+        "name": "www.Torrenting.com   -    Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.1080p",
+        "btih": "4c3a61f0f11a7a06a4defe929d74b204b5fcbf87",
+        "resolution": "1080",
+        "encoding": "none",
+        "gigabytes": 5.237174984,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 5891,
+        "uuploaders": 944
+    },
+    {
+        "id": 26,
+        "name": "Verão da alma (Summer of Soul) (2021) 720p WEBRip [Dublado Portugues] BRAZINO777",
+        "btih": "3cea8efa1e25017bfbac4fd552beda7cc90fb1a7",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 2.00310489,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 5840,
+        "uuploaders": 82
+    },
+    {
+        "id": 35,
+        "name": "multi-btih-5-2-x-Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.WEBRip.XviD.MP3-XVID-[rarbg.to]",
+        "btih": "d35e4608f66c94d191c2e31e65fea25874c163ab",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 1.593528087,
+        "creation": "2021-07-02T05:06:03.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 5182,
+        "uuploaders": 204
+    },
+    {
+        "id": 25,
+        "name": "Verão da alma (Summer of Soul) (2021) 1080p WEBRip [Dublado Portugues] BRAZINO777",
+        "btih": "0872c4f6e22c20ee4f6f2d1f45e21ee2f9ef60eb",
+        "resolution": "1080",
+        "encoding": "none",
+        "gigabytes": 3.775465029,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 3279,
+        "uuploaders": 93
+    },
+    {
+        "id": 2,
+        "name": "Summer Of Soul ...Or When The Revolution Could Not Be Televised (2021) [2160p] [4K] [WEB] [5.1] [YTS.MX]",
+        "btih": "8a9e3a8c5287a3a10ce72db9e6aa9b75c7432beb",
+        "resolution": "2160",
+        "encoding": "none",
+        "gigabytes": 5.636767816,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 1620,
+        "uuploaders": 315
+    },
+    {
+        "id": 4,
+        "name": "summer.-of.-soul....-or.-when.-the.-revolution.-could.-not.-be.-televised.-2021.",
+        "btih": "e4c1ed9ee94f22e36b6667a2da8a1020e617f907",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 2.206203904,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 1025,
+        "uuploaders": 600
+    },
+    {
+        "id": 12,
+        "name": "Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.1080p.WEBRip.x265",
+        "btih": "433ad386277e7f49e0278af1f51cf91a55c50537",
+        "resolution": "1080",
+        "encoding": "265",
+        "gigabytes": 1.967826522,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 936,
+        "uuploaders": 335
+    }
+],
+        [
+    {
+        "id": 34,
+        "name": "multi-btih-4-2-x-Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.720p.WEB.H264-NAISU-[rarbg.to]",
+        "btih": "5e617809ef25d54fcc2e2a93d91a427972edead9",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 2.817888781,
+        "creation": "2021-07-02T04:34:29.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 70847,
+        "uuploaders": 10022
+    },
+    {
+        "id": 30,
+        "name": "multi-btih-0-2-x-Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.1080p.WEB.H264-NAISU-[rarbg.to]",
+        "btih": "55806113efe80ac99a86cbf023c9ac044a0a3b7d",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 5.18685391,
+        "creation": "2021-07-02T04:34:32.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 35952,
+        "uuploaders": 3657
+    },
+    {
+        "id": 31,
+        "name": "multi-btih-1-2-x-Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.1080p.WEBRip.x264-RARBG-[rarbg.to]",
+        "btih": "a8aa2610655b8fb979f707c73969e58a8e41b8e1",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 2.407449966,
+        "creation": "2021-07-02T07:17:39.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 35797,
+        "uuploaders": 3722
+    },
+    {
+        "id": 3,
+        "name": "Summer Of Soul ...Or When The Revolution Could Not Be Televised (2021) [720p] [WEBRip] [YTS.MX]",
+        "btih": "a56c314f570538d63a1c85c2177dbf96ee591ade",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 1.132838143,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 35227,
+        "uuploaders": 2358
+    },
+    {
+        "id": 29,
+        "name": "www.Torrenting.com   -    Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.720p",
+        "btih": "6a7a5ed1e842a3be2e329c45960dd2c7f730bcf9",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 2.845411117,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 28675,
+        "uuploaders": 1565
+    },
+    {
+        "id": 1,
+        "name": "Summer Of Soul ...Or When The Revolution Could Not Be Televised (2021) [1080p] [WEBRip] [5.1] [YTS.MX]",
+        "btih": "8b142b6f3cc398f486e54a980db3ce0032e34a4e",
+        "resolution": "1080",
+        "encoding": "none",
+        "gigabytes": 2.328373368,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 27972,
+        "uuploaders": 5016
+    },
+    {
+        "id": 36,
+        "name": "multi-btih-6-2-x-Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.WEBRip.x264-ION10-[rarbg.to]",
+        "btih": "9e6045d0fbb754f10f8d262ccc520ddbaf72d24e",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 1.201408922,
+        "creation": "2021-07-02T05:31:04.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 22850,
+        "uuploaders": 1747
+    },
+    {
+        "id": 20,
+        "name": "Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.720p.WEBRip.800MB.x264-GalaxyRG[TGx]",
+        "btih": "d5e6716650b7f00fc12c6f462997baa7c0830d0a",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 0.836688197,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 21960,
+        "uuploaders": 393
+    },
+    {
+        "id": 33,
+        "name": "multi-btih-3-2-x-Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.2160p.WEB.H265-NAISU-[rarbg.to]",
+        "btih": "f6f592b001245dc183db850ec99d7e6252721a6a",
+        "resolution": "2160",
+        "encoding": "265",
+        "gigabytes": 10.44552367,
+        "creation": "2021-07-02T04:49:15.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 19880,
+        "uuploaders": 1624
+    },
+    {
+        "id": 13,
+        "name": "Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.2160p.WEB.H265-NAISU [IPT]",
+        "btih": "05f82e96879ca7a4ab82b2c175d2d12752bf287b",
+        "resolution": "2160",
+        "encoding": "265",
+        "gigabytes": 10.347375329,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 19637,
+        "uuploaders": 1645
+    },
+    {
+        "id": 32,
+        "name": "multi-btih-2-2-x-Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.1080p.WEBRip.x265-RARBG-[rarbg.to]",
+        "btih": "82a297903d48174f8ef2c9511b4682871ce5be61",
+        "resolution": "1080",
+        "encoding": "265",
+        "gigabytes": 1.967826655,
+        "creation": "2021-07-02T11:43:59.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 12843,
+        "uuploaders": 1603
+    },
+    {
+        "id": 5,
+        "name": "Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.1080p.WEB.H264-NAISU [IPT]",
+        "btih": "01051628eb7cecad10fd593a7b77f720a8dc9ffd",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 5.237176825,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 11228,
+        "uuploaders": 1798
+    },
+    {
+        "id": 16,
+        "name": "Summer.of.Soul.or.When.the.Revolution.Could.Not.Be.Televised.2021.720p.WEB-DL.x265.HEVC-HDETG.com",
+        "btih": "94921de7b9af1d2aed372d6e6ff0929cfa4d493b",
+        "resolution": "720",
+        "encoding": "265",
+        "gigabytes": 0.775033162,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 11212,
+        "uuploaders": 592
+    },
+    {
+        "id": 27,
+        "name": "Verão da alma (Summer of Soul) (2021) WEBRip [Dublado Portugues] BRAZINO777",
+        "btih": "7354ec79b52e94e8b964c6d815a0837bb191500d",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 1.511187394,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 10996,
+        "uuploaders": 101
+    },
+    {
+        "id": 17,
+        "name": "Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.720p.WEB.H264-NAISU [IPT]",
+        "btih": "9c30667953bb51ada3d3b22755bc48f5c3f5c2bd",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 2.845412773,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 10486,
+        "uuploaders": 541
+    },
+    {
+        "id": 26,
+        "name": "Verão da alma (Summer of Soul) (2021) 720p WEBRip [Dublado Portugues] BRAZINO777",
+        "btih": "3cea8efa1e25017bfbac4fd552beda7cc90fb1a7",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 2.00310489,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 10451,
+        "uuploaders": 132
+    },
+    {
+        "id": 28,
+        "name": "www.Torrenting.com   -    Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.1080p",
+        "btih": "4c3a61f0f11a7a06a4defe929d74b204b5fcbf87",
+        "resolution": "1080",
+        "encoding": "none",
+        "gigabytes": 5.237174984,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 8117,
+        "uuploaders": 1105
+    },
+    {
+        "id": 35,
+        "name": "multi-btih-5-2-x-Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.WEBRip.XviD.MP3-XVID-[rarbg.to]",
+        "btih": "d35e4608f66c94d191c2e31e65fea25874c163ab",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 1.593528087,
+        "creation": "2021-07-02T05:06:03.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 7337,
+        "uuploaders": 303
+    },
+    {
+        "id": 25,
+        "name": "Verão da alma (Summer of Soul) (2021) 1080p WEBRip [Dublado Portugues] BRAZINO777",
+        "btih": "0872c4f6e22c20ee4f6f2d1f45e21ee2f9ef60eb",
+        "resolution": "1080",
+        "encoding": "none",
+        "gigabytes": 3.775465029,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 6644,
+        "uuploaders": 154
+    },
+    {
+        "id": 2,
+        "name": "Summer Of Soul ...Or When The Revolution Could Not Be Televised (2021) [2160p] [4K] [WEB] [5.1] [YTS.MX]",
+        "btih": "8a9e3a8c5287a3a10ce72db9e6aa9b75c7432beb",
+        "resolution": "2160",
+        "encoding": "none",
+        "gigabytes": 5.636767816,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 5694,
+        "uuploaders": 562
+    },
+    {
+        "id": 4,
+        "name": "summer.-of.-soul....-or.-when.-the.-revolution.-could.-not.-be.-televised.-2021.",
+        "btih": "e4c1ed9ee94f22e36b6667a2da8a1020e617f907",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 2.206203904,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 1107,
+        "uuploaders": 639
+    },
+    {
+        "id": 12,
+        "name": "Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.1080p.WEBRip.x265",
+        "btih": "433ad386277e7f49e0278af1f51cf91a55c50537",
+        "resolution": "1080",
+        "encoding": "265",
+        "gigabytes": 1.967826522,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 1014,
+        "uuploaders": 374
+    }
+],
+        [
+    {
+        "id": 34,
+        "name": "multi-btih-4-2-x-Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.720p.WEB.H264-NAISU-[rarbg.to]",
+        "btih": "5e617809ef25d54fcc2e2a93d91a427972edead9",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 2.817888781,
+        "creation": "2021-07-02T04:34:29.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 76479,
+        "uuploaders": 11056
+    },
+    {
+        "id": 31,
+        "name": "multi-btih-1-2-x-Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.1080p.WEBRip.x264-RARBG-[rarbg.to]",
+        "btih": "a8aa2610655b8fb979f707c73969e58a8e41b8e1",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 2.407449966,
+        "creation": "2021-07-02T07:17:39.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 39348,
+        "uuploaders": 4195
+    },
+    {
+        "id": 30,
+        "name": "multi-btih-0-2-x-Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.1080p.WEB.H264-NAISU-[rarbg.to]",
+        "btih": "55806113efe80ac99a86cbf023c9ac044a0a3b7d",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 5.18685391,
+        "creation": "2021-07-02T04:34:32.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 38695,
+        "uuploaders": 4073
+    },
+    {
+        "id": 3,
+        "name": "Summer Of Soul ...Or When The Revolution Could Not Be Televised (2021) [720p] [WEBRip] [YTS.MX]",
+        "btih": "a56c314f570538d63a1c85c2177dbf96ee591ade",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 1.132838143,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 37252,
+        "uuploaders": 2782
+    },
+    {
+        "id": 1,
+        "name": "Summer Of Soul ...Or When The Revolution Could Not Be Televised (2021) [1080p] [WEBRip] [5.1] [YTS.MX]",
+        "btih": "8b142b6f3cc398f486e54a980db3ce0032e34a4e",
+        "resolution": "1080",
+        "encoding": "none",
+        "gigabytes": 2.328373368,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 32282,
+        "uuploaders": 5457
+    },
+    {
+        "id": 29,
+        "name": "www.Torrenting.com   -    Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.720p",
+        "btih": "6a7a5ed1e842a3be2e329c45960dd2c7f730bcf9",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 2.845411117,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 31142,
+        "uuploaders": 1801
+    },
+    {
+        "id": 36,
+        "name": "multi-btih-6-2-x-Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.WEBRip.x264-ION10-[rarbg.to]",
+        "btih": "9e6045d0fbb754f10f8d262ccc520ddbaf72d24e",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 1.201408922,
+        "creation": "2021-07-02T05:31:04.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 30479,
+        "uuploaders": 1905
+    },
+    {
+        "id": 20,
+        "name": "Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.720p.WEBRip.800MB.x264-GalaxyRG[TGx]",
+        "btih": "d5e6716650b7f00fc12c6f462997baa7c0830d0a",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 0.836688197,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 22773,
+        "uuploaders": 428
+    },
+    {
+        "id": 33,
+        "name": "multi-btih-3-2-x-Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.2160p.WEB.H265-NAISU-[rarbg.to]",
+        "btih": "f6f592b001245dc183db850ec99d7e6252721a6a",
+        "resolution": "2160",
+        "encoding": "265",
+        "gigabytes": 10.44552367,
+        "creation": "2021-07-02T04:49:15.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 21264,
+        "uuploaders": 1843
+    },
+    {
+        "id": 13,
+        "name": "Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.2160p.WEB.H265-NAISU [IPT]",
+        "btih": "05f82e96879ca7a4ab82b2c175d2d12752bf287b",
+        "resolution": "2160",
+        "encoding": "265",
+        "gigabytes": 10.347375329,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 20825,
+        "uuploaders": 1808
+    },
+    {
+        "id": 26,
+        "name": "Verão da alma (Summer of Soul) (2021) 720p WEBRip [Dublado Portugues] BRAZINO777",
+        "btih": "3cea8efa1e25017bfbac4fd552beda7cc90fb1a7",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 2.00310489,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 17922,
+        "uuploaders": 171
+    },
+    {
+        "id": 32,
+        "name": "multi-btih-2-2-x-Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.1080p.WEBRip.x265-RARBG-[rarbg.to]",
+        "btih": "82a297903d48174f8ef2c9511b4682871ce5be61",
+        "resolution": "1080",
+        "encoding": "265",
+        "gigabytes": 1.967826655,
+        "creation": "2021-07-02T11:43:59.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 14875,
+        "uuploaders": 1822
+    },
+    {
+        "id": 27,
+        "name": "Verão da alma (Summer of Soul) (2021) WEBRip [Dublado Portugues] BRAZINO777",
+        "btih": "7354ec79b52e94e8b964c6d815a0837bb191500d",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 1.511187394,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 13395,
+        "uuploaders": 123
+    },
+    {
+        "id": 16,
+        "name": "Summer.of.Soul.or.When.the.Revolution.Could.Not.Be.Televised.2021.720p.WEB-DL.x265.HEVC-HDETG.com",
+        "btih": "94921de7b9af1d2aed372d6e6ff0929cfa4d493b",
+        "resolution": "720",
+        "encoding": "265",
+        "gigabytes": 0.775033162,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 12686,
+        "uuploaders": 675
+    },
+    {
+        "id": 5,
+        "name": "Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.1080p.WEB.H264-NAISU [IPT]",
+        "btih": "01051628eb7cecad10fd593a7b77f720a8dc9ffd",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 5.237176825,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 11904,
+        "uuploaders": 1969
+    },
+    {
+        "id": 17,
+        "name": "Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.720p.WEB.H264-NAISU [IPT]",
+        "btih": "9c30667953bb51ada3d3b22755bc48f5c3f5c2bd",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 2.845412773,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 11787,
+        "uuploaders": 625
+    },
+    {
+        "id": 35,
+        "name": "multi-btih-5-2-x-Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.WEBRip.XviD.MP3-XVID-[rarbg.to]",
+        "btih": "d35e4608f66c94d191c2e31e65fea25874c163ab",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 1.593528087,
+        "creation": "2021-07-02T05:06:03.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 10837,
+        "uuploaders": 388
+    },
+    {
+        "id": 28,
+        "name": "www.Torrenting.com   -    Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.1080p",
+        "btih": "4c3a61f0f11a7a06a4defe929d74b204b5fcbf87",
+        "resolution": "1080",
+        "encoding": "none",
+        "gigabytes": 5.237174984,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 8809,
+        "uuploaders": 1278
+    },
+    {
+        "id": 2,
+        "name": "Summer Of Soul ...Or When The Revolution Could Not Be Televised (2021) [2160p] [4K] [WEB] [5.1] [YTS.MX]",
+        "btih": "8a9e3a8c5287a3a10ce72db9e6aa9b75c7432beb",
+        "resolution": "2160",
+        "encoding": "none",
+        "gigabytes": 5.636767816,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 8377,
+        "uuploaders": 809
+    },
+    {
+        "id": 25,
+        "name": "Verão da alma (Summer of Soul) (2021) 1080p WEBRip [Dublado Portugues] BRAZINO777",
+        "btih": "0872c4f6e22c20ee4f6f2d1f45e21ee2f9ef60eb",
+        "resolution": "1080",
+        "encoding": "none",
+        "gigabytes": 3.775465029,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 8241,
+        "uuploaders": 195
+    },
+    {
+        "id": 4,
+        "name": "summer.-of.-soul....-or.-when.-the.-revolution.-could.-not.-be.-televised.-2021.",
+        "btih": "e4c1ed9ee94f22e36b6667a2da8a1020e617f907",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 2.206203904,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 1179,
+        "uuploaders": 682
+    },
+    {
+        "id": 12,
+        "name": "Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.1080p.WEBRip.x265",
+        "btih": "433ad386277e7f49e0278af1f51cf91a55c50537",
+        "resolution": "1080",
+        "encoding": "265",
+        "gigabytes": 1.967826522,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 1083,
+        "uuploaders": 402
+    }
+],
+        [
+    {
+        "id": 34,
+        "name": "multi-btih-4-2-x-Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.720p.WEB.H264-NAISU-[rarbg.to]",
+        "btih": "5e617809ef25d54fcc2e2a93d91a427972edead9",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 2.817888781,
+        "creation": "2021-07-02T04:34:29.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 83144,
+        "uuploaders": 12045
+    },
+    {
+        "id": 3,
+        "name": "Summer Of Soul ...Or When The Revolution Could Not Be Televised (2021) [720p] [WEBRip] [YTS.MX]",
+        "btih": "a56c314f570538d63a1c85c2177dbf96ee591ade",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 1.132838143,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 42331,
+        "uuploaders": 3117
+    },
+    {
+        "id": 31,
+        "name": "multi-btih-1-2-x-Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.1080p.WEBRip.x264-RARBG-[rarbg.to]",
+        "btih": "a8aa2610655b8fb979f707c73969e58a8e41b8e1",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 2.407449966,
+        "creation": "2021-07-02T07:17:39.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 41929,
+        "uuploaders": 4622
+    },
+    {
+        "id": 30,
+        "name": "multi-btih-0-2-x-Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.1080p.WEB.H264-NAISU-[rarbg.to]",
+        "btih": "55806113efe80ac99a86cbf023c9ac044a0a3b7d",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 5.18685391,
+        "creation": "2021-07-02T04:34:32.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 41398,
+        "uuploaders": 4444
+    },
+    {
+        "id": 36,
+        "name": "multi-btih-6-2-x-Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.WEBRip.x264-ION10-[rarbg.to]",
+        "btih": "9e6045d0fbb754f10f8d262ccc520ddbaf72d24e",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 1.201408922,
+        "creation": "2021-07-02T05:31:04.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 35005,
+        "uuploaders": 2035
+    },
+    {
+        "id": 1,
+        "name": "Summer Of Soul ...Or When The Revolution Could Not Be Televised (2021) [1080p] [WEBRip] [5.1] [YTS.MX]",
+        "btih": "8b142b6f3cc398f486e54a980db3ce0032e34a4e",
+        "resolution": "1080",
+        "encoding": "none",
+        "gigabytes": 2.328373368,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 34477,
+        "uuploaders": 5842
+    },
+    {
+        "id": 29,
+        "name": "www.Torrenting.com   -    Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.720p",
+        "btih": "6a7a5ed1e842a3be2e329c45960dd2c7f730bcf9",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 2.845411117,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 33348,
+        "uuploaders": 2018
+    },
+    {
+        "id": 20,
+        "name": "Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.720p.WEBRip.800MB.x264-GalaxyRG[TGx]",
+        "btih": "d5e6716650b7f00fc12c6f462997baa7c0830d0a",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 0.836688197,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 24460,
+        "uuploaders": 457
+    },
+    {
+        "id": 26,
+        "name": "Verão da alma (Summer of Soul) (2021) 720p WEBRip [Dublado Portugues] BRAZINO777",
+        "btih": "3cea8efa1e25017bfbac4fd552beda7cc90fb1a7",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 2.00310489,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 22709,
+        "uuploaders": 210
+    },
+    {
+        "id": 33,
+        "name": "multi-btih-3-2-x-Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.2160p.WEB.H265-NAISU-[rarbg.to]",
+        "btih": "f6f592b001245dc183db850ec99d7e6252721a6a",
+        "resolution": "2160",
+        "encoding": "265",
+        "gigabytes": 10.44552367,
+        "creation": "2021-07-02T04:49:15.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 22624,
+        "uuploaders": 2028
+    },
+    {
+        "id": 13,
+        "name": "Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.2160p.WEB.H265-NAISU [IPT]",
+        "btih": "05f82e96879ca7a4ab82b2c175d2d12752bf287b",
+        "resolution": "2160",
+        "encoding": "265",
+        "gigabytes": 10.347375329,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 22079,
+        "uuploaders": 1990
+    },
+    {
+        "id": 27,
+        "name": "Verão da alma (Summer of Soul) (2021) WEBRip [Dublado Portugues] BRAZINO777",
+        "btih": "7354ec79b52e94e8b964c6d815a0837bb191500d",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 1.511187394,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 16386,
+        "uuploaders": 146
+    },
+    {
+        "id": 32,
+        "name": "multi-btih-2-2-x-Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.1080p.WEBRip.x265-RARBG-[rarbg.to]",
+        "btih": "82a297903d48174f8ef2c9511b4682871ce5be61",
+        "resolution": "1080",
+        "encoding": "265",
+        "gigabytes": 1.967826655,
+        "creation": "2021-07-02T11:43:59.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 16270,
+        "uuploaders": 2029
+    },
+    {
+        "id": 35,
+        "name": "multi-btih-5-2-x-Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.WEBRip.XviD.MP3-XVID-[rarbg.to]",
+        "btih": "d35e4608f66c94d191c2e31e65fea25874c163ab",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 1.593528087,
+        "creation": "2021-07-02T05:06:03.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 14371,
+        "uuploaders": 456
+    },
+    {
+        "id": 16,
+        "name": "Summer.of.Soul.or.When.the.Revolution.Could.Not.Be.Televised.2021.720p.WEB-DL.x265.HEVC-HDETG.com",
+        "btih": "94921de7b9af1d2aed372d6e6ff0929cfa4d493b",
+        "resolution": "720",
+        "encoding": "265",
+        "gigabytes": 0.775033162,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 14208,
+        "uuploaders": 714
+    },
+    {
+        "id": 17,
+        "name": "Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.720p.WEB.H264-NAISU [IPT]",
+        "btih": "9c30667953bb51ada3d3b22755bc48f5c3f5c2bd",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 2.845412773,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 13132,
+        "uuploaders": 661
+    },
+    {
+        "id": 5,
+        "name": "Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.1080p.WEB.H264-NAISU [IPT]",
+        "btih": "01051628eb7cecad10fd593a7b77f720a8dc9ffd",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 5.237176825,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 12757,
+        "uuploaders": 2126
+    },
+    {
+        "id": 2,
+        "name": "Summer Of Soul ...Or When The Revolution Could Not Be Televised (2021) [2160p] [4K] [WEB] [5.1] [YTS.MX]",
+        "btih": "8a9e3a8c5287a3a10ce72db9e6aa9b75c7432beb",
+        "resolution": "2160",
+        "encoding": "none",
+        "gigabytes": 5.636767816,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 11210,
+        "uuploaders": 1021
+    },
+    {
+        "id": 25,
+        "name": "Verão da alma (Summer of Soul) (2021) 1080p WEBRip [Dublado Portugues] BRAZINO777",
+        "btih": "0872c4f6e22c20ee4f6f2d1f45e21ee2f9ef60eb",
+        "resolution": "1080",
+        "encoding": "none",
+        "gigabytes": 3.775465029,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 10050,
+        "uuploaders": 236
+    },
+    {
+        "id": 28,
+        "name": "www.Torrenting.com   -    Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.1080p",
+        "btih": "4c3a61f0f11a7a06a4defe929d74b204b5fcbf87",
+        "resolution": "1080",
+        "encoding": "none",
+        "gigabytes": 5.237174984,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 9330,
+        "uuploaders": 1392
+    },
+    {
+        "id": 4,
+        "name": "summer.-of.-soul....-or.-when.-the.-revolution.-could.-not.-be.-televised.-2021.",
+        "btih": "e4c1ed9ee94f22e36b6667a2da8a1020e617f907",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 2.206203904,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 1233,
+        "uuploaders": 706
+    },
+    {
+        "id": 12,
+        "name": "Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.1080p.WEBRip.x265",
+        "btih": "433ad386277e7f49e0278af1f51cf91a55c50537",
+        "resolution": "1080",
+        "encoding": "265",
+        "gigabytes": 1.967826522,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 1162,
+        "uuploaders": 421
+    }
+],
+        [
+    {
+        "id": 34,
+        "name": "multi-btih-4-2-x-Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.720p.WEB.H264-NAISU-[rarbg.to]",
+        "btih": "5e617809ef25d54fcc2e2a93d91a427972edead9",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 2.817888781,
+        "creation": "2021-07-02T04:34:29.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 88711,
+        "uuploaders": 12963
+    },
+    {
+        "id": 3,
+        "name": "Summer Of Soul ...Or When The Revolution Could Not Be Televised (2021) [720p] [WEBRip] [YTS.MX]",
+        "btih": "a56c314f570538d63a1c85c2177dbf96ee591ade",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 1.132838143,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 51900,
+        "uuploaders": 3451
+    },
+    {
+        "id": 31,
+        "name": "multi-btih-1-2-x-Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.1080p.WEBRip.x264-RARBG-[rarbg.to]",
+        "btih": "a8aa2610655b8fb979f707c73969e58a8e41b8e1",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 2.407449966,
+        "creation": "2021-07-02T07:17:39.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 44190,
+        "uuploaders": 5036
+    },
+    {
+        "id": 36,
+        "name": "multi-btih-6-2-x-Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.WEBRip.x264-ION10-[rarbg.to]",
+        "btih": "9e6045d0fbb754f10f8d262ccc520ddbaf72d24e",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 1.201408922,
+        "creation": "2021-07-02T05:31:04.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 44158,
+        "uuploaders": 2152
+    },
+    {
+        "id": 30,
+        "name": "multi-btih-0-2-x-Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.1080p.WEB.H264-NAISU-[rarbg.to]",
+        "btih": "55806113efe80ac99a86cbf023c9ac044a0a3b7d",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 5.18685391,
+        "creation": "2021-07-02T04:34:32.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 43628,
+        "uuploaders": 4842
+    },
+    {
+        "id": 1,
+        "name": "Summer Of Soul ...Or When The Revolution Could Not Be Televised (2021) [1080p] [WEBRip] [5.1] [YTS.MX]",
+        "btih": "8b142b6f3cc398f486e54a980db3ce0032e34a4e",
+        "resolution": "1080",
+        "encoding": "none",
+        "gigabytes": 2.328373368,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 36150,
+        "uuploaders": 6169
+    },
+    {
+        "id": 29,
+        "name": "www.Torrenting.com   -    Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.720p",
+        "btih": "6a7a5ed1e842a3be2e329c45960dd2c7f730bcf9",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 2.845411117,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 35879,
+        "uuploaders": 2233
+    },
+    {
+        "id": 26,
+        "name": "Verão da alma (Summer of Soul) (2021) 720p WEBRip [Dublado Portugues] BRAZINO777",
+        "btih": "3cea8efa1e25017bfbac4fd552beda7cc90fb1a7",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 2.00310489,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 27123,
+        "uuploaders": 240
+    },
+    {
+        "id": 33,
+        "name": "multi-btih-3-2-x-Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.2160p.WEB.H265-NAISU-[rarbg.to]",
+        "btih": "f6f592b001245dc183db850ec99d7e6252721a6a",
+        "resolution": "2160",
+        "encoding": "265",
+        "gigabytes": 10.44552367,
+        "creation": "2021-07-02T04:49:15.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 25424,
+        "uuploaders": 2199
+    },
+    {
+        "id": 20,
+        "name": "Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.720p.WEBRip.800MB.x264-GalaxyRG[TGx]",
+        "btih": "d5e6716650b7f00fc12c6f462997baa7c0830d0a",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 0.836688197,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 24951,
+        "uuploaders": 487
+    },
+    {
+        "id": 13,
+        "name": "Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.2160p.WEB.H265-NAISU [IPT]",
+        "btih": "05f82e96879ca7a4ab82b2c175d2d12752bf287b",
+        "resolution": "2160",
+        "encoding": "265",
+        "gigabytes": 10.347375329,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 24932,
+        "uuploaders": 2125
+    },
+    {
+        "id": 27,
+        "name": "Verão da alma (Summer of Soul) (2021) WEBRip [Dublado Portugues] BRAZINO777",
+        "btih": "7354ec79b52e94e8b964c6d815a0837bb191500d",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 1.511187394,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 18473,
+        "uuploaders": 168
+    },
+    {
+        "id": 32,
+        "name": "multi-btih-2-2-x-Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.1080p.WEBRip.x265-RARBG-[rarbg.to]",
+        "btih": "82a297903d48174f8ef2c9511b4682871ce5be61",
+        "resolution": "1080",
+        "encoding": "265",
+        "gigabytes": 1.967826655,
+        "creation": "2021-07-02T11:43:59.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 17649,
+        "uuploaders": 2213
+    },
+    {
+        "id": 35,
+        "name": "multi-btih-5-2-x-Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.WEBRip.XviD.MP3-XVID-[rarbg.to]",
+        "btih": "d35e4608f66c94d191c2e31e65fea25874c163ab",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 1.593528087,
+        "creation": "2021-07-02T05:06:03.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 17156,
+        "uuploaders": 528
+    },
+    {
+        "id": 16,
+        "name": "Summer.of.Soul.or.When.the.Revolution.Could.Not.Be.Televised.2021.720p.WEB-DL.x265.HEVC-HDETG.com",
+        "btih": "94921de7b9af1d2aed372d6e6ff0929cfa4d493b",
+        "resolution": "720",
+        "encoding": "265",
+        "gigabytes": 0.775033162,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 16198,
+        "uuploaders": 743
+    },
+    {
+        "id": 17,
+        "name": "Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.720p.WEB.H264-NAISU [IPT]",
+        "btih": "9c30667953bb51ada3d3b22755bc48f5c3f5c2bd",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 2.845412773,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 15094,
+        "uuploaders": 689
+    },
+    {
+        "id": 5,
+        "name": "Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.1080p.WEB.H264-NAISU [IPT]",
+        "btih": "01051628eb7cecad10fd593a7b77f720a8dc9ffd",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 5.237176825,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 13868,
+        "uuploaders": 2307
+    },
+    {
+        "id": 2,
+        "name": "Summer Of Soul ...Or When The Revolution Could Not Be Televised (2021) [2160p] [4K] [WEB] [5.1] [YTS.MX]",
+        "btih": "8a9e3a8c5287a3a10ce72db9e6aa9b75c7432beb",
+        "resolution": "2160",
+        "encoding": "none",
+        "gigabytes": 5.636767816,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 13209,
+        "uuploaders": 1220
+    },
+    {
+        "id": 25,
+        "name": "Verão da alma (Summer of Soul) (2021) 1080p WEBRip [Dublado Portugues] BRAZINO777",
+        "btih": "0872c4f6e22c20ee4f6f2d1f45e21ee2f9ef60eb",
+        "resolution": "1080",
+        "encoding": "none",
+        "gigabytes": 3.775465029,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 11173,
+        "uuploaders": 273
+    },
+    {
+        "id": 28,
+        "name": "www.Torrenting.com   -    Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.1080p",
+        "btih": "4c3a61f0f11a7a06a4defe929d74b204b5fcbf87",
+        "resolution": "1080",
+        "encoding": "none",
+        "gigabytes": 5.237174984,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 10944,
+        "uuploaders": 1538
+    },
+    {
+        "id": 4,
+        "name": "summer.-of.-soul....-or.-when.-the.-revolution.-could.-not.-be.-televised.-2021.",
+        "btih": "e4c1ed9ee94f22e36b6667a2da8a1020e617f907",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 2.206203904,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 1304,
+        "uuploaders": 749
+    },
+    {
+        "id": 12,
+        "name": "Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.1080p.WEBRip.x265",
+        "btih": "433ad386277e7f49e0278af1f51cf91a55c50537",
+        "resolution": "1080",
+        "encoding": "265",
+        "gigabytes": 1.967826522,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 1241,
+        "uuploaders": 454
+    }
+],
+        [
+    {
+        "id": 34,
+        "name": "multi-btih-4-2-x-Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.720p.WEB.H264-NAISU-[rarbg.to]",
+        "btih": "5e617809ef25d54fcc2e2a93d91a427972edead9",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 2.817888781,
+        "creation": "2021-07-02T04:34:29.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 94453,
+        "uuploaders": 13807
+    },
+    {
+        "id": 3,
+        "name": "Summer Of Soul ...Or When The Revolution Could Not Be Televised (2021) [720p] [WEBRip] [YTS.MX]",
+        "btih": "a56c314f570538d63a1c85c2177dbf96ee591ade",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 1.132838143,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 55982,
+        "uuploaders": 3749
+    },
+    {
+        "id": 36,
+        "name": "multi-btih-6-2-x-Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.WEBRip.x264-ION10-[rarbg.to]",
+        "btih": "9e6045d0fbb754f10f8d262ccc520ddbaf72d24e",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 1.201408922,
+        "creation": "2021-07-02T05:31:04.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 49597,
+        "uuploaders": 2264
+    },
+    {
+        "id": 31,
+        "name": "multi-btih-1-2-x-Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.1080p.WEBRip.x264-RARBG-[rarbg.to]",
+        "btih": "a8aa2610655b8fb979f707c73969e58a8e41b8e1",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 2.407449966,
+        "creation": "2021-07-02T07:17:39.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 46774,
+        "uuploaders": 5541
+    },
+    {
+        "id": 30,
+        "name": "multi-btih-0-2-x-Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.1080p.WEB.H264-NAISU-[rarbg.to]",
+        "btih": "55806113efe80ac99a86cbf023c9ac044a0a3b7d",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 5.18685391,
+        "creation": "2021-07-02T04:34:32.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 45396,
+        "uuploaders": 5277
+    },
+    {
+        "id": 1,
+        "name": "Summer Of Soul ...Or When The Revolution Could Not Be Televised (2021) [1080p] [WEBRip] [5.1] [YTS.MX]",
+        "btih": "8b142b6f3cc398f486e54a980db3ce0032e34a4e",
+        "resolution": "1080",
+        "encoding": "none",
+        "gigabytes": 2.328373368,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 41024,
+        "uuploaders": 6505
+    },
+    {
+        "id": 29,
+        "name": "www.Torrenting.com   -    Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.720p",
+        "btih": "6a7a5ed1e842a3be2e329c45960dd2c7f730bcf9",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 2.845411117,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 38492,
+        "uuploaders": 2444
+    },
+    {
+        "id": 26,
+        "name": "Verão da alma (Summer of Soul) (2021) 720p WEBRip [Dublado Portugues] BRAZINO777",
+        "btih": "3cea8efa1e25017bfbac4fd552beda7cc90fb1a7",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 2.00310489,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 30936,
+        "uuploaders": 272
+    },
+    {
+        "id": 33,
+        "name": "multi-btih-3-2-x-Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.2160p.WEB.H265-NAISU-[rarbg.to]",
+        "btih": "f6f592b001245dc183db850ec99d7e6252721a6a",
+        "resolution": "2160",
+        "encoding": "265",
+        "gigabytes": 10.44552367,
+        "creation": "2021-07-02T04:49:15.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 27202,
+        "uuploaders": 2401
+    },
+    {
+        "id": 13,
+        "name": "Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.2160p.WEB.H265-NAISU [IPT]",
+        "btih": "05f82e96879ca7a4ab82b2c175d2d12752bf287b",
+        "resolution": "2160",
+        "encoding": "265",
+        "gigabytes": 10.347375329,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 26554,
+        "uuploaders": 2278
+    },
+    {
+        "id": 20,
+        "name": "Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.720p.WEBRip.800MB.x264-GalaxyRG[TGx]",
+        "btih": "d5e6716650b7f00fc12c6f462997baa7c0830d0a",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 0.836688197,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 25881,
+        "uuploaders": 518
+    },
+    {
+        "id": 32,
+        "name": "multi-btih-2-2-x-Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.1080p.WEBRip.x265-RARBG-[rarbg.to]",
+        "btih": "82a297903d48174f8ef2c9511b4682871ce5be61",
+        "resolution": "1080",
+        "encoding": "265",
+        "gigabytes": 1.967826655,
+        "creation": "2021-07-02T11:43:59.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 21995,
+        "uuploaders": 2453
+    },
+    {
+        "id": 35,
+        "name": "multi-btih-5-2-x-Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.WEBRip.XviD.MP3-XVID-[rarbg.to]",
+        "btih": "d35e4608f66c94d191c2e31e65fea25874c163ab",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 1.593528087,
+        "creation": "2021-07-02T05:06:03.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 21844,
+        "uuploaders": 605
+    },
+    {
+        "id": 16,
+        "name": "Summer.of.Soul.or.When.the.Revolution.Could.Not.Be.Televised.2021.720p.WEB-DL.x265.HEVC-HDETG.com",
+        "btih": "94921de7b9af1d2aed372d6e6ff0929cfa4d493b",
+        "resolution": "720",
+        "encoding": "265",
+        "gigabytes": 0.775033162,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 18822,
+        "uuploaders": 780
+    },
+    {
+        "id": 27,
+        "name": "Verão da alma (Summer of Soul) (2021) WEBRip [Dublado Portugues] BRAZINO777",
+        "btih": "7354ec79b52e94e8b964c6d815a0837bb191500d",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 1.511187394,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 18665,
+        "uuploaders": 191
+    },
+    {
+        "id": 17,
+        "name": "Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.720p.WEB.H264-NAISU [IPT]",
+        "btih": "9c30667953bb51ada3d3b22755bc48f5c3f5c2bd",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 2.845412773,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 17504,
+        "uuploaders": 725
+    },
+    {
+        "id": 2,
+        "name": "Summer Of Soul ...Or When The Revolution Could Not Be Televised (2021) [2160p] [4K] [WEB] [5.1] [YTS.MX]",
+        "btih": "8a9e3a8c5287a3a10ce72db9e6aa9b75c7432beb",
+        "resolution": "2160",
+        "encoding": "none",
+        "gigabytes": 5.636767816,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 15435,
+        "uuploaders": 1411
+    },
+    {
+        "id": 5,
+        "name": "Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.1080p.WEB.H264-NAISU [IPT]",
+        "btih": "01051628eb7cecad10fd593a7b77f720a8dc9ffd",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 5.237176825,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 14502,
+        "uuploaders": 2457
+    },
+    {
+        "id": 25,
+        "name": "Verão da alma (Summer of Soul) (2021) 1080p WEBRip [Dublado Portugues] BRAZINO777",
+        "btih": "0872c4f6e22c20ee4f6f2d1f45e21ee2f9ef60eb",
+        "resolution": "1080",
+        "encoding": "none",
+        "gigabytes": 3.775465029,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 13210,
+        "uuploaders": 305
+    },
+    {
+        "id": 28,
+        "name": "www.Torrenting.com   -    Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.1080p",
+        "btih": "4c3a61f0f11a7a06a4defe929d74b204b5fcbf87",
+        "resolution": "1080",
+        "encoding": "none",
+        "gigabytes": 5.237174984,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 11973,
+        "uuploaders": 1693
+    },
+    {
+        "id": 4,
+        "name": "summer.-of.-soul....-or.-when.-the.-revolution.-could.-not.-be.-televised.-2021.",
+        "btih": "e4c1ed9ee94f22e36b6667a2da8a1020e617f907",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 2.206203904,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 1383,
+        "uuploaders": 788
+    },
+    {
+        "id": 12,
+        "name": "Summer.of.Soul.Or.When.the.Revolution.Could.Not.Be.Televised.2021.1080p.WEBRip.x265",
+        "btih": "433ad386277e7f49e0278af1f51cf91a55c50537",
+        "resolution": "1080",
+        "encoding": "265",
+        "gigabytes": 1.967826522,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 1309,
+        "uuploaders": 479
+    }
+]
+    ],
+    "collection_week_by_country": [
+        [
+    {
+        "number": "BRA_week_1",
+        "btiha_size": 17,
+        "udownloaders_total": 1657,
+        "uuploaders_total": 369
+    },
+    {
+        "number": "CAN_week_1",
+        "btiha_size": 18,
+        "udownloaders_total": 4064,
+        "uuploaders_total": 946
+    },
+    {
+        "number": "CHN_week_1",
+        "btiha_size": 16,
+        "udownloaders_total": 3480,
+        "uuploaders_total": 178
+    },
+    {
+        "number": "DEU_week_1",
+        "btiha_size": 18,
+        "udownloaders_total": 1814,
+        "uuploaders_total": 283
+    },
+    {
+        "number": "ESP_week_1",
+        "btiha_size": 17,
+        "udownloaders_total": 976,
+        "uuploaders_total": 179
+    },
+    {
+        "number": "FRA_week_1",
+        "btiha_size": 18,
+        "udownloaders_total": 1583,
+        "uuploaders_total": 161
+    },
+    {
+        "number": "HKG_week_1",
+        "btiha_size": 17,
+        "udownloaders_total": 423,
+        "uuploaders_total": 58
+    },
+    {
+        "number": "JPN_week_1",
+        "btiha_size": 17,
+        "udownloaders_total": 1934,
+        "uuploaders_total": 73
+    },
+    {
+        "number": "KOR_week_1",
+        "btiha_size": 17,
+        "udownloaders_total": 1151,
+        "uuploaders_total": 43
+    },
+    {
+        "number": "MEX_week_1",
+        "btiha_size": 17,
+        "udownloaders_total": 353,
+        "uuploaders_total": 94
+    },
+    {
+        "number": "NLD_week_1",
+        "btiha_size": 18,
+        "udownloaders_total": 2532,
+        "uuploaders_total": 636
+    },
+    {
+        "number": "RUS_week_1",
+        "btiha_size": 17,
+        "udownloaders_total": 1379,
+        "uuploaders_total": 67
+    },
+    {
+        "number": "SWE_week_1",
+        "btiha_size": 18,
+        "udownloaders_total": 784,
+        "uuploaders_total": 140
+    },
+    {
+        "number": "TUR_week_1",
+        "btiha_size": 15,
+        "udownloaders_total": 209,
+        "uuploaders_total": 45
+    },
+    {
+        "number": "UKR_week_1",
+        "btiha_size": 17,
+        "udownloaders_total": 190,
+        "uuploaders_total": 17
+    },
+    {
+        "number": "USA_week_1",
+        "btiha_size": 18,
+        "udownloaders_total": 24150,
+        "uuploaders_total": 2631
+    }
+],
+        [
+    {
+        "number": "BRA_week_2",
+        "btiha_size": 18,
+        "udownloaders_total": 3526,
+        "uuploaders_total": 757
+    },
+    {
+        "number": "CAN_week_2",
+        "btiha_size": 18,
+        "udownloaders_total": 7241,
+        "uuploaders_total": 1549
+    },
+    {
+        "number": "CHN_week_2",
+        "btiha_size": 16,
+        "udownloaders_total": 7314,
+        "uuploaders_total": 283
+    },
+    {
+        "number": "DEU_week_2",
+        "btiha_size": 18,
+        "udownloaders_total": 3946,
+        "uuploaders_total": 586
+    },
+    {
+        "number": "ESP_week_2",
+        "btiha_size": 17,
+        "udownloaders_total": 2143,
+        "uuploaders_total": 397
+    },
+    {
+        "number": "FRA_week_2",
+        "btiha_size": 18,
+        "udownloaders_total": 3122,
+        "uuploaders_total": 293
+    },
+    {
+        "number": "HKG_week_2",
+        "btiha_size": 17,
+        "udownloaders_total": 775,
+        "uuploaders_total": 88
+    },
+    {
+        "number": "JPN_week_2",
+        "btiha_size": 17,
+        "udownloaders_total": 4260,
+        "uuploaders_total": 117
+    },
+    {
+        "number": "KOR_week_2",
+        "btiha_size": 17,
+        "udownloaders_total": 2494,
+        "uuploaders_total": 84
+    },
+    {
+        "number": "MEX_week_2",
+        "btiha_size": 17,
+        "udownloaders_total": 722,
+        "uuploaders_total": 178
+    },
+    {
+        "number": "NLD_week_2",
+        "btiha_size": 18,
+        "udownloaders_total": 4336,
+        "uuploaders_total": 1060
+    },
+    {
+        "number": "RUS_week_2",
+        "btiha_size": 17,
+        "udownloaders_total": 2902,
+        "uuploaders_total": 102
+    },
+    {
+        "number": "SWE_week_2",
+        "btiha_size": 18,
+        "udownloaders_total": 1648,
+        "uuploaders_total": 241
+    },
+    {
+        "number": "TUR_week_2",
+        "btiha_size": 16,
+        "udownloaders_total": 451,
+        "uuploaders_total": 97
+    },
+    {
+        "number": "UKR_week_2",
+        "btiha_size": 17,
+        "udownloaders_total": 379,
+        "uuploaders_total": 34
+    },
+    {
+        "number": "USA_week_2",
+        "btiha_size": 18,
+        "udownloaders_total": 48997,
+        "uuploaders_total": 4612
+    }
+],
+        [
+    {
+        "number": "BRA_week_3",
+        "btiha_size": 19,
+        "udownloaders_total": 4945,
+        "uuploaders_total": 1072
+    },
+    {
+        "number": "CAN_week_3",
+        "btiha_size": 19,
+        "udownloaders_total": 9412,
+        "uuploaders_total": 1969
+    },
+    {
+        "number": "CHN_week_3",
+        "btiha_size": 17,
+        "udownloaders_total": 10085,
+        "uuploaders_total": 347
+    },
+    {
+        "number": "DEU_week_3",
+        "btiha_size": 19,
+        "udownloaders_total": 5628,
+        "uuploaders_total": 900
+    },
+    {
+        "number": "ESP_week_3",
+        "btiha_size": 19,
+        "udownloaders_total": 3351,
+        "uuploaders_total": 658
+    },
+    {
+        "number": "FRA_week_3",
+        "btiha_size": 19,
+        "udownloaders_total": 4361,
+        "uuploaders_total": 372
+    },
+    {
+        "number": "HKG_week_3",
+        "btiha_size": 18,
+        "udownloaders_total": 1044,
+        "uuploaders_total": 115
+    },
+    {
+        "number": "JPN_week_3",
+        "btiha_size": 18,
+        "udownloaders_total": 5950,
+        "uuploaders_total": 166
+    },
+    {
+        "number": "KOR_week_3",
+        "btiha_size": 18,
+        "udownloaders_total": 3516,
+        "uuploaders_total": 102
+    },
+    {
+        "number": "MEX_week_3",
+        "btiha_size": 18,
+        "udownloaders_total": 1006,
+        "uuploaders_total": 248
+    },
+    {
+        "number": "NLD_week_3",
+        "btiha_size": 19,
+        "udownloaders_total": 5726,
+        "uuploaders_total": 1299
+    },
+    {
+        "number": "RUS_week_3",
+        "btiha_size": 18,
+        "udownloaders_total": 4756,
+        "uuploaders_total": 131
+    },
+    {
+        "number": "SWE_week_3",
+        "btiha_size": 19,
+        "udownloaders_total": 2373,
+        "uuploaders_total": 339
+    },
+    {
+        "number": "TUR_week_3",
+        "btiha_size": 17,
+        "udownloaders_total": 614,
+        "uuploaders_total": 126
+    },
+    {
+        "number": "UKR_week_3",
+        "btiha_size": 18,
+        "udownloaders_total": 651,
+        "uuploaders_total": 42
+    },
+    {
+        "number": "USA_week_3",
+        "btiha_size": 19,
+        "udownloaders_total": 67002,
+        "uuploaders_total": 5962
+    }
+],
+        [
+    {
+        "number": "BRA_week_4",
+        "btiha_size": 22,
+        "udownloaders_total": 6531,
+        "uuploaders_total": 1348
+    },
+    {
+        "number": "CAN_week_4",
+        "btiha_size": 22,
+        "udownloaders_total": 11166,
+        "uuploaders_total": 2300
+    },
+    {
+        "number": "CHN_week_4",
+        "btiha_size": 20,
+        "udownloaders_total": 12990,
+        "uuploaders_total": 394
+    },
+    {
+        "number": "DEU_week_4",
+        "btiha_size": 22,
+        "udownloaders_total": 7346,
+        "uuploaders_total": 1195
+    },
+    {
+        "number": "ESP_week_4",
+        "btiha_size": 22,
+        "udownloaders_total": 4318,
+        "uuploaders_total": 850
+    },
+    {
+        "number": "FRA_week_4",
+        "btiha_size": 22,
+        "udownloaders_total": 5575,
+        "uuploaders_total": 465
+    },
+    {
+        "number": "HKG_week_4",
+        "btiha_size": 20,
+        "udownloaders_total": 1311,
+        "uuploaders_total": 135
+    },
+    {
+        "number": "JPN_week_4",
+        "btiha_size": 22,
+        "udownloaders_total": 7741,
+        "uuploaders_total": 203
+    },
+    {
+        "number": "KOR_week_4",
+        "btiha_size": 21,
+        "udownloaders_total": 4511,
+        "uuploaders_total": 119
+    },
+    {
+        "number": "MEX_week_4",
+        "btiha_size": 19,
+        "udownloaders_total": 1298,
+        "uuploaders_total": 298
+    },
+    {
+        "number": "NLD_week_4",
+        "btiha_size": 22,
+        "udownloaders_total": 6954,
+        "uuploaders_total": 1509
+    },
+    {
+        "number": "RUS_week_4",
+        "btiha_size": 21,
+        "udownloaders_total": 6153,
+        "uuploaders_total": 156
+    },
+    {
+        "number": "SWE_week_4",
+        "btiha_size": 22,
+        "udownloaders_total": 3037,
+        "uuploaders_total": 445
+    },
+    {
+        "number": "TUR_week_4",
+        "btiha_size": 19,
+        "udownloaders_total": 789,
+        "uuploaders_total": 148
+    },
+    {
+        "number": "UKR_week_4",
+        "btiha_size": 21,
+        "udownloaders_total": 857,
+        "uuploaders_total": 52
+    },
+    {
+        "number": "USA_week_4",
+        "btiha_size": 22,
+        "udownloaders_total": 83696,
+        "uuploaders_total": 7087
+    }
+],
+        [
+    {
+        "number": "BRA_week_5",
+        "btiha_size": 22,
+        "udownloaders_total": 8651,
+        "uuploaders_total": 1595
+    },
+    {
+        "number": "CAN_week_5",
+        "btiha_size": 22,
+        "udownloaders_total": 13262,
+        "uuploaders_total": 2539
+    },
+    {
+        "number": "CHN_week_5",
+        "btiha_size": 20,
+        "udownloaders_total": 18005,
+        "uuploaders_total": 467
+    },
+    {
+        "number": "DEU_week_5",
+        "btiha_size": 22,
+        "udownloaders_total": 9876,
+        "uuploaders_total": 1529
+    },
+    {
+        "number": "ESP_week_5",
+        "btiha_size": 22,
+        "udownloaders_total": 5622,
+        "uuploaders_total": 1052
+    },
+    {
+        "number": "FRA_week_5",
+        "btiha_size": 22,
+        "udownloaders_total": 7549,
+        "uuploaders_total": 573
+    },
+    {
+        "number": "HKG_week_5",
+        "btiha_size": 21,
+        "udownloaders_total": 1722,
+        "uuploaders_total": 161
+    },
+    {
+        "number": "JPN_week_5",
+        "btiha_size": 22,
+        "udownloaders_total": 10667,
+        "uuploaders_total": 229
+    },
+    {
+        "number": "KOR_week_5",
+        "btiha_size": 21,
+        "udownloaders_total": 6362,
+        "uuploaders_total": 130
+    },
+    {
+        "number": "MEX_week_5",
+        "btiha_size": 21,
+        "udownloaders_total": 1659,
+        "uuploaders_total": 352
+    },
+    {
+        "number": "NLD_week_5",
+        "btiha_size": 22,
+        "udownloaders_total": 8593,
+        "uuploaders_total": 1718
+    },
+    {
+        "number": "RUS_week_5",
+        "btiha_size": 21,
+        "udownloaders_total": 8249,
+        "uuploaders_total": 181
+    },
+    {
+        "number": "SWE_week_5",
+        "btiha_size": 22,
+        "udownloaders_total": 3933,
+        "uuploaders_total": 542
+    },
+    {
+        "number": "TUR_week_5",
+        "btiha_size": 20,
+        "udownloaders_total": 1062,
+        "uuploaders_total": 174
+    },
+    {
+        "number": "UKR_week_5",
+        "btiha_size": 21,
+        "udownloaders_total": 1157,
+        "uuploaders_total": 60
+    },
+    {
+        "number": "USA_week_5",
+        "btiha_size": 22,
+        "udownloaders_total": 109407,
+        "uuploaders_total": 8175
+    }
+],
+        [
+    {
+        "number": "BRA_week_6",
+        "btiha_size": 22,
+        "udownloaders_total": 10411,
+        "uuploaders_total": 1835
+    },
+    {
+        "number": "CAN_week_6",
+        "btiha_size": 22,
+        "udownloaders_total": 15178,
+        "uuploaders_total": 2756
+    },
+    {
+        "number": "CHN_week_6",
+        "btiha_size": 20,
+        "udownloaders_total": 22558,
+        "uuploaders_total": 528
+    },
+    {
+        "number": "DEU_week_6",
+        "btiha_size": 22,
+        "udownloaders_total": 12187,
+        "uuploaders_total": 1879
+    },
+    {
+        "number": "ESP_week_6",
+        "btiha_size": 22,
+        "udownloaders_total": 6805,
+        "uuploaders_total": 1248
+    },
+    {
+        "number": "FRA_week_6",
+        "btiha_size": 22,
+        "udownloaders_total": 9242,
+        "uuploaders_total": 629
+    },
+    {
+        "number": "HKG_week_6",
+        "btiha_size": 21,
+        "udownloaders_total": 2108,
+        "uuploaders_total": 179
+    },
+    {
+        "number": "JPN_week_6",
+        "btiha_size": 22,
+        "udownloaders_total": 13404,
+        "uuploaders_total": 256
+    },
+    {
+        "number": "KOR_week_6",
+        "btiha_size": 21,
+        "udownloaders_total": 7986,
+        "uuploaders_total": 138
+    },
+    {
+        "number": "MEX_week_6",
+        "btiha_size": 21,
+        "udownloaders_total": 1997,
+        "uuploaders_total": 397
+    },
+    {
+        "number": "NLD_week_6",
+        "btiha_size": 22,
+        "udownloaders_total": 9940,
+        "uuploaders_total": 1889
+    },
+    {
+        "number": "RUS_week_6",
+        "btiha_size": 21,
+        "udownloaders_total": 10320,
+        "uuploaders_total": 194
+    },
+    {
+        "number": "SWE_week_6",
+        "btiha_size": 22,
+        "udownloaders_total": 4818,
+        "uuploaders_total": 641
+    },
+    {
+        "number": "TUR_week_6",
+        "btiha_size": 20,
+        "udownloaders_total": 1304,
+        "uuploaders_total": 192
+    },
+    {
+        "number": "UKR_week_6",
+        "btiha_size": 21,
+        "udownloaders_total": 1433,
+        "uuploaders_total": 66
+    },
+    {
+        "number": "USA_week_6",
+        "btiha_size": 22,
+        "udownloaders_total": 132709,
+        "uuploaders_total": 9226
+    }
+],
+        [
+    {
+        "number": "BRA_week_7",
+        "btiha_size": 22,
+        "udownloaders_total": 11694,
+        "uuploaders_total": 2042
+    },
+    {
+        "number": "CAN_week_7",
+        "btiha_size": 22,
+        "udownloaders_total": 16738,
+        "uuploaders_total": 2973
+    },
+    {
+        "number": "CHN_week_7",
+        "btiha_size": 20,
+        "udownloaders_total": 25527,
+        "uuploaders_total": 579
+    },
+    {
+        "number": "DEU_week_7",
+        "btiha_size": 22,
+        "udownloaders_total": 13787,
+        "uuploaders_total": 2197
+    },
+    {
+        "number": "ESP_week_7",
+        "btiha_size": 22,
+        "udownloaders_total": 7767,
+        "uuploaders_total": 1463
+    },
+    {
+        "number": "FRA_week_7",
+        "btiha_size": 22,
+        "udownloaders_total": 10562,
+        "uuploaders_total": 719
+    },
+    {
+        "number": "HKG_week_7",
+        "btiha_size": 21,
+        "udownloaders_total": 2373,
+        "uuploaders_total": 192
+    },
+    {
+        "number": "JPN_week_7",
+        "btiha_size": 22,
+        "udownloaders_total": 15286,
+        "uuploaders_total": 288
+    },
+    {
+        "number": "KOR_week_7",
+        "btiha_size": 21,
+        "udownloaders_total": 9399,
+        "uuploaders_total": 146
+    },
+    {
+        "number": "MEX_week_7",
+        "btiha_size": 21,
+        "udownloaders_total": 2221,
+        "uuploaders_total": 443
+    },
+    {
+        "number": "NLD_week_7",
+        "btiha_size": 22,
+        "udownloaders_total": 11459,
+        "uuploaders_total": 2152
+    },
+    {
+        "number": "RUS_week_7",
+        "btiha_size": 21,
+        "udownloaders_total": 14144,
+        "uuploaders_total": 207
+    },
+    {
+        "number": "SWE_week_7",
+        "btiha_size": 22,
+        "udownloaders_total": 5432,
+        "uuploaders_total": 726
+    },
+    {
+        "number": "TUR_week_7",
+        "btiha_size": 20,
+        "udownloaders_total": 1437,
+        "uuploaders_total": 207
+    },
+    {
+        "number": "UKR_week_7",
+        "btiha_size": 21,
+        "udownloaders_total": 1747,
+        "uuploaders_total": 69
+    },
+    {
+        "number": "USA_week_7",
+        "btiha_size": 22,
+        "udownloaders_total": 149121,
+        "uuploaders_total": 10434
+    }
+],
+        [
+    {
+        "number": "BRA_week_8",
+        "btiha_size": 22,
+        "udownloaders_total": 12912,
+        "uuploaders_total": 2204
+    },
+    {
+        "number": "CAN_week_8",
+        "btiha_size": 22,
+        "udownloaders_total": 18184,
+        "uuploaders_total": 3165
+    },
+    {
+        "number": "CHN_week_8",
+        "btiha_size": 20,
+        "udownloaders_total": 28415,
+        "uuploaders_total": 631
+    },
+    {
+        "number": "DEU_week_8",
+        "btiha_size": 22,
+        "udownloaders_total": 15365,
+        "uuploaders_total": 2475
+    },
+    {
+        "number": "ESP_week_8",
+        "btiha_size": 22,
+        "udownloaders_total": 8683,
+        "uuploaders_total": 1625
+    },
+    {
+        "number": "FRA_week_8",
+        "btiha_size": 22,
+        "udownloaders_total": 11895,
+        "uuploaders_total": 779
+    },
+    {
+        "number": "HKG_week_8",
+        "btiha_size": 21,
+        "udownloaders_total": 2638,
+        "uuploaders_total": 219
+    },
+    {
+        "number": "JPN_week_8",
+        "btiha_size": 22,
+        "udownloaders_total": 17034,
+        "uuploaders_total": 319
+    },
+    {
+        "number": "KOR_week_8",
+        "btiha_size": 21,
+        "udownloaders_total": 10749,
+        "uuploaders_total": 161
+    },
+    {
+        "number": "MEX_week_8",
+        "btiha_size": 21,
+        "udownloaders_total": 2455,
+        "uuploaders_total": 487
+    },
+    {
+        "number": "NLD_week_8",
+        "btiha_size": 22,
+        "udownloaders_total": 12642,
+        "uuploaders_total": 2359
+    },
+    {
+        "number": "RUS_week_8",
+        "btiha_size": 21,
+        "udownloaders_total": 17152,
+        "uuploaders_total": 220
+    },
+    {
+        "number": "SWE_week_8",
+        "btiha_size": 22,
+        "udownloaders_total": 5933,
+        "uuploaders_total": 796
+    },
+    {
+        "number": "TUR_week_8",
+        "btiha_size": 20,
+        "udownloaders_total": 1653,
+        "uuploaders_total": 228
+    },
+    {
+        "number": "UKR_week_8",
+        "btiha_size": 21,
+        "udownloaders_total": 2017,
+        "uuploaders_total": 72
+    },
+    {
+        "number": "USA_week_8",
+        "btiha_size": 22,
+        "udownloaders_total": 164454,
+        "uuploaders_total": 11552
+    }
+],
+        [
+    {
+        "number": "BRA_week_9",
+        "btiha_size": 22,
+        "udownloaders_total": 14407,
+        "uuploaders_total": 2352
+    },
+    {
+        "number": "CAN_week_9",
+        "btiha_size": 22,
+        "udownloaders_total": 19623,
+        "uuploaders_total": 3329
+    },
+    {
+        "number": "CHN_week_9",
+        "btiha_size": 20,
+        "udownloaders_total": 32040,
+        "uuploaders_total": 673
+    },
+    {
+        "number": "DEU_week_9",
+        "btiha_size": 22,
+        "udownloaders_total": 17354,
+        "uuploaders_total": 2725
+    },
+    {
+        "number": "ESP_week_9",
+        "btiha_size": 22,
+        "udownloaders_total": 9778,
+        "uuploaders_total": 1774
+    },
+    {
+        "number": "FRA_week_9",
+        "btiha_size": 22,
+        "udownloaders_total": 13479,
+        "uuploaders_total": 831
+    },
+    {
+        "number": "HKG_week_9",
+        "btiha_size": 21,
+        "udownloaders_total": 2946,
+        "uuploaders_total": 244
+    },
+    {
+        "number": "JPN_week_9",
+        "btiha_size": 22,
+        "udownloaders_total": 19257,
+        "uuploaders_total": 385
+    },
+    {
+        "number": "KOR_week_9",
+        "btiha_size": 21,
+        "udownloaders_total": 12196,
+        "uuploaders_total": 168
+    },
+    {
+        "number": "MEX_week_9",
+        "btiha_size": 21,
+        "udownloaders_total": 2815,
+        "uuploaders_total": 547
+    },
+    {
+        "number": "NLD_week_9",
+        "btiha_size": 22,
+        "udownloaders_total": 14021,
+        "uuploaders_total": 2588
+    },
+    {
+        "number": "RUS_week_9",
+        "btiha_size": 21,
+        "udownloaders_total": 18800,
+        "uuploaders_total": 235
+    },
+    {
+        "number": "SWE_week_9",
+        "btiha_size": 22,
+        "udownloaders_total": 6432,
+        "uuploaders_total": 843
+    },
+    {
+        "number": "TUR_week_9",
+        "btiha_size": 20,
+        "udownloaders_total": 1934,
+        "uuploaders_total": 242
+    },
+    {
+        "number": "UKR_week_9",
+        "btiha_size": 21,
+        "udownloaders_total": 2252,
+        "uuploaders_total": 74
+    },
+    {
+        "number": "USA_week_9",
+        "btiha_size": 22,
+        "udownloaders_total": 182640,
+        "uuploaders_total": 12582
+    }
+],
+        [
+    {
+        "number": "BRA_week_10",
+        "btiha_size": 22,
+        "udownloaders_total": 15715,
+        "uuploaders_total": 2530
+    },
+    {
+        "number": "CAN_week_10",
+        "btiha_size": 22,
+        "udownloaders_total": 21213,
+        "uuploaders_total": 3505
+    },
+    {
+        "number": "CHN_week_10",
+        "btiha_size": 20,
+        "udownloaders_total": 35282,
+        "uuploaders_total": 711
+    },
+    {
+        "number": "DEU_week_10",
+        "btiha_size": 22,
+        "udownloaders_total": 19070,
+        "uuploaders_total": 3006
+    },
+    {
+        "number": "ESP_week_10",
+        "btiha_size": 22,
+        "udownloaders_total": 10678,
+        "uuploaders_total": 1944
+    },
+    {
+        "number": "FRA_week_10",
+        "btiha_size": 22,
+        "udownloaders_total": 14856,
+        "uuploaders_total": 886
+    },
+    {
+        "number": "HKG_week_10",
+        "btiha_size": 21,
+        "udownloaders_total": 3229,
+        "uuploaders_total": 258
+    },
+    {
+        "number": "JPN_week_10",
+        "btiha_size": 22,
+        "udownloaders_total": 21214,
+        "uuploaders_total": 421
+    },
+    {
+        "number": "KOR_week_10",
+        "btiha_size": 21,
+        "udownloaders_total": 13430,
+        "uuploaders_total": 175
+    },
+    {
+        "number": "MEX_week_10",
+        "btiha_size": 21,
+        "udownloaders_total": 3084,
+        "uuploaders_total": 596
+    },
+    {
+        "number": "NLD_week_10",
+        "btiha_size": 22,
+        "udownloaders_total": 15118,
+        "uuploaders_total": 2763
+    },
+    {
+        "number": "RUS_week_10",
+        "btiha_size": 21,
+        "udownloaders_total": 21501,
+        "uuploaders_total": 243
+    },
+    {
+        "number": "SWE_week_10",
+        "btiha_size": 22,
+        "udownloaders_total": 6974,
+        "uuploaders_total": 896
+    },
+    {
+        "number": "TUR_week_10",
+        "btiha_size": 20,
+        "udownloaders_total": 2163,
+        "uuploaders_total": 257
+    },
+    {
+        "number": "UKR_week_10",
+        "btiha_size": 21,
+        "udownloaders_total": 2519,
+        "uuploaders_total": 81
+    },
+    {
+        "number": "USA_week_10",
+        "btiha_size": 22,
+        "udownloaders_total": 199752,
+        "uuploaders_total": 13770
+    }
+]
+    ]
+}
