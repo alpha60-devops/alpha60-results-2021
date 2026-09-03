@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt9359796",
+    "imdb_id": "tt9359796",
+    "revision": "576c2b15dd1e39c011f3278699f852aced240cd0",
+    "wikidata_id": "Q104848864",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Blade_Runner:_Black_Lotus"
+  },
+  "coverage_sha256": "aef297ba0470763c6a4ea31ecaf361e970cca050df6563b6a9990c1d146c7d13",
+  "generated_at": "2026-09-03T17:59:50.128485+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2021-archives/blade-runner-black-lotus-101.cache/cache.20220122.tar.xz",
+      "sha256": "3aa83a8754a1126f47b16256fbde67214ddb002b5de8035aed6230c8a22cf83d",
+      "size": 204473188
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-coverage-evidence/blade-runner-black-lotus-101.md",
+      "sha256": "69277702ccb8907251b77341c04d77283223e97072014b59bed7598e2deadf67",
+      "size": 564
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-cache-stream-receipts/blade-runner-black-lotus-101.json",
+      "sha256": "640f65008ff17c50df60b1d159ae53685c4b4119e29bcd2e8339eb03c75645f9",
+      "size": 2485
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-product-receipts/blade-runner-black-lotus-101.json",
+      "sha256": "078c88c8e0933ec8555e698a5b89bf4a37d6fbacd4a4628c92281f6382fe2759",
+      "size": 380
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-control/worker-map.json",
+      "sha256": "7579d04c5dcdc59b240a95af1b60b0ea4d32d602a822e3a67b7b6f311e3066b9",
+      "size": 91326
+    }
+  },
+  "media_object": "blade-runner-black-lotus-101",
+  "published_files": {
+    "data/csv/bytes/blade-runner-black-lotus-101-cumulative-detail.2021-btiha-itemized-by-bytes.csv": "3ca89cb624d6add99d0f0244025cb3aad09d5f8489c07aeb9dbd6bd60ff6476a",
+    "docs/itemized/blade-runner-black-lotus-101-sample-cache-audit.md": "9123c55552a339df670d8cf4c8aea2ec8c7cd76dfcfaa6e1849da08b020a7a9d",
+    "docs/itemized/figures/blade-runner-black-lotus-101-carto-4k.webp": "973be4dfb8c8d43307561851a90da3d89c628b607ca28736db054321536ce442",
+    "docs/itemized/figures/blade-runner-black-lotus-101-carto.png": "4c8accc5e17d046ccae9085e976d32240681e94864afe68dffa37079e32d60b7",
+    "docs/itemized/figures/blade-runner-black-lotus-101-cumulative-detail-btiha-itemized-by-bytes.svg": "30c4ac6814b04a0d8009d1b07df8ae38267af29bd180db872c99150e45d6c957",
+    "docs/itemized/figures/blade-runner-black-lotus-101-data-ge-1080p-4k.webp": "7dfdf4c503cc171ffdd662b76f3b977bb8c871a25a281f69da59f2dc69cb006c",
+    "docs/itemized/figures/blade-runner-black-lotus-101-data-ge-1080p.webp": "f67478987d54c14e5202f2a4d18e9e840528c4b34c6a4190db733da57d50105d",
+    "docs/itemized/figures/blade-runner-black-lotus-101-data-lt-1080p-4k.webp": "76b1cecb9d90a4507da1bef6a70a661e15ce3683075d407b24f9601583ce8e3b",
+    "docs/itemized/figures/blade-runner-black-lotus-101-data-lt-1080p.webp": "fe8186de3a4b5253d252453120d3e48413bcb63ae71ed4743fc6a2b9e846e040",
+    "docs/itemized/figures/blade-runner-black-lotus-101-downloads-by-day-day.svg": "605c7766bfe41a43c371d4d5e30362923b8630a6b6aaf4cf295c66ecff8e4683",
+    "docs/itemized/figures/blade-runner-black-lotus-101-downloads-by-week-blade-runner-black-lotus-101-week.svg": "8d2be7b5e9b56c5f858954e27fdea0d2d4b439ca48fed8ac786d8b22d51de2ce",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "84873e743da03017b556934ba0f591c7ba6b051e",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/blade-runner-black-lotus-101/tmp/blade-runner-black-lotus-101-cumulative-btiha.geojson",
+        "sha256": "4ecbcfa9c12c474bbde4d27b8aaad5b6e70651da1f10cbe135b34b3c313f5478",
+        "size": 22354271
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/blade-runner-black-lotus-101/tmp/blade-runner-black-lotus-101-cumulative-btiha-media-objects.json",
+        "sha256": "ec201f500c899feeea0fe3d216a1d1109863a223b8532439ad28ce6c2323c4b6",
+        "size": 154742
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "blade-runner-black-lotus-101",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          39.0,
+          38.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Ashburn",
+          "Moscow",
+          "London",
+          "Seoul",
+          "New York City",
+          "Saint Petersburg",
+          "Amsterdam",
+          "Toronto",
+          "Los Angeles",
+          "Lelystad"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          36.0,
+          30.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Ashburn",
+          "Moscow",
+          "London",
+          "Shanghai",
+          "Seoul",
+          "Saint Petersburg",
+          "Amsterdam",
+          "New York City",
+          "Madrid",
+          "Shenzhen"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 24,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 34,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 6,
+        "x_tick_marks": 6,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 10,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "84873e743da03017b556934ba0f591c7ba6b051e",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "903f8276e5f31a4387bb88a459e5012c544222f6",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "576c2b15dd1e39c011f3278699f852aced240cd0"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2021"
+}
