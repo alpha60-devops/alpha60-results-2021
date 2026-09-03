@@ -1,0 +1,4054 @@
+{
+    "collection_name": "Kung Fu 2021",
+    "collection_id": "113",
+    "collection_key": "kung-fu-113",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "collection_btiha_duplicates": [
+        {
+            "duplicate_id": 0,
+            "duplicate_btih": "984ba12d1ec41e9edfb07def5be7c8cc59824a86",
+            "duplicate_0_0": "Kung-Fu-S01E13-480p-x264-ZMNT[ettv]",
+            "duplicate_0_1": "Kung.Fu.S01E13.480p.x264-ZMNT[ettv]"
+        },
+        {
+            "duplicate_id": 1,
+            "duplicate_btih": "6c823cf68c7c5306e2d4e8378a58027d219113fb",
+            "duplicate_1_0": "Kung-Fu-S01E13-720p-x265-ZMNT[ettv]",
+            "duplicate_1_1": "Kung.Fu.S01E13.720p.x265-ZMNT[ettv]"
+        },
+        {
+            "duplicate_id": 2,
+            "duplicate_btih": "213407382853dff10adad6f320b8fecd4012b269",
+            "duplicate_2_0": "Kung.Fu.2021.S01.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]",
+            "duplicate_2_1": "Kung.Fu.2021.S01.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]"
+        },
+        {
+            "duplicate_id": 3,
+            "duplicate_btih": "d21f2ace48c58e3acebcc0ba2f9b25a145b3d5b6",
+            "duplicate_3_0": "Kung.Fu.2021.S01E13.1080p.WEB.H264-PLZPROPER[rarbg]",
+            "duplicate_3_1": "Kung.Fu.2021.S01E13.1080p.WEB.H264-PLZPROPER[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 4,
+            "duplicate_btih": "b8ae875426c4d302aa303878ee944480e1dc860d",
+            "duplicate_4_0": "Kung.Fu.2021.S01E13.720p.WEB.H264-PLZPROPER[rarbg]",
+            "duplicate_4_1": "Kung.Fu.2021.S01E13.720p.WEB.H264-PLZPROPER[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 5,
+            "duplicate_btih": "d6d2adf0c2e152a3aae735f60cb6d9b6a3512ba6",
+            "duplicate_5_0": "Kung.Fu.2021.S01E13.Transformation.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]",
+            "duplicate_5_1": "Kung.Fu.2021.S01E13.Transformation.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 6,
+            "duplicate_btih": "0813cc49e0fee4e37eb3234eeef394ec91379f83",
+            "duplicate_6_0": "Kung.Fu.2021.S01E13.Transformation.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]",
+            "duplicate_6_1": "Kung.Fu.2021.S01E13.Transformation.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 7,
+            "duplicate_btih": "8273728a1bdf8d672082c20e552079d0de2f6b3a",
+            "duplicate_7_0": "Kung.Fu.S01E13.WEBRip.x264-ION10-[rarbg.to]",
+            "duplicate_7_1": "Kung.Fu.S01E13.WEBRip.x264-ION10"
+        },
+        {
+            "duplicate_id": 8,
+            "duplicate_btih": "dde246ce10b7ceca69fe59c344bf0847d449263e",
+            "duplicate_8_0": "[rutor.is]Kung.Fu.2021.S01.1080p.Kerob",
+            "duplicate_8_1": "Kung.Fu.2021.S01.1080p.Kerob"
+        },
+        {
+            "duplicate_id": 9,
+            "duplicate_btih": "e4a29993a3a7fbc5445337eba97ea55a147669bc",
+            "duplicate_9_0": "[rutor.is]Kung.Fu.2021.S01.400p.Kerob",
+            "duplicate_9_1": "Kung.Fu.2021.S01.400p.Kerob"
+        },
+        {
+            "duplicate_id": 10,
+            "duplicate_btih": "53f1cd80119cc81b3eab3c9b9f17b42e40aab810",
+            "duplicate_10_0": "[rutor.is]Kung.Fu.2021.S01.720p.Kerob",
+            "duplicate_10_1": "Kung.Fu.2021.S01.720p.Kerob"
+        },
+        {
+            "duplicate_id": 11,
+            "duplicate_btih": "42f118474e9b0b47a2379ba8b37832dcc47e289a",
+            "duplicate_11_0": "[rutor.is]Kung_Fu._Season_01._By_Wild_Cat",
+            "duplicate_11_1": "Kung Fu. Season 01. By Wild Cat",
+            "duplicate_11_2": "Kung-Fu-Season-01-By-Wild-Cat"
+        }
+    ],
+    "collection_btiha_metadata": [
+        {
+            "id": 1,
+            "name": "[ OxTorrent.pe ] Kung.Fu.2021.S01E13.VOSTFR.WEB.h264-EXTREME.mkv",
+            "size_total": 0.428507231,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.428507231,
+                    "path": "[ OxTorrent.pe ] Kung.Fu.2021.S01E13.VOSTFR.WEB.h264-EXTREME.mkv"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "[HR] Kung Fu S01 (2021) [PV 1080p HEVC E-OPUS 5.1]~HR-DR",
+            "size_total": 7.325678643,
+            "files_total": 27,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 8.34e-7,
+                    "path": "[HR] Kung Fu S01 (2021) [PV 1080p HEVC E-OPUS 5.1]~HR-DR/[HR] Kung Fu S01E01 [PV 1080p HEVC E-OPUS 5.1]~HR-DR/[Hakata Ramen] Kung Fu S01E01 Pilot [Prime Video 1080p x265 E-OPUS 5.1].ske"
+                },
+                {
+                    "number": 2,
+                    "size": 0.708068865,
+                    "path": "[HR] Kung Fu S01 (2021) [PV 1080p HEVC E-OPUS 5.1]~HR-DR/[HR] Kung Fu S01E01 [PV 1080p HEVC E-OPUS 5.1]~HR-DR/[HR] Kung Fu S01E01 [BDE1D407].mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 7.03e-7,
+                    "path": "[HR] Kung Fu S01 (2021) [PV 1080p HEVC E-OPUS 5.1]~HR-DR/[HR] Kung Fu S01E02 [PV 1080p HEVC E-OPUS 5.1]~HR-DR/[Hakata Ramen] Kung Fu S01E02 Silence [Prime Video 1080p x265 E-OPUS 5.1].ske"
+                },
+                {
+                    "number": 4,
+                    "size": 0.671465102,
+                    "path": "[HR] Kung Fu S01 (2021) [PV 1080p HEVC E-OPUS 5.1]~HR-DR/[HR] Kung Fu S01E02 [PV 1080p HEVC E-OPUS 5.1]~HR-DR/[HR] Kung Fu S01E02 [4F850AFA].mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 9.61e-7,
+                    "path": "[HR] Kung Fu S01 (2021) [PV 1080p HEVC E-OPUS 5.1]~HR-DR/[HR] Kung Fu S01E03 [PV 1080p HEVC E-OPUS 5.1]~HR-DR/[Hakata Ramen] Kung Fu S01E03 Patience [Prime Video 1080p x265 E-OPUS 5.1].ske"
+                },
+                {
+                    "number": 6,
+                    "size": 0.607035225,
+                    "path": "[HR] Kung Fu S01 (2021) [PV 1080p HEVC E-OPUS 5.1]~HR-DR/[HR] Kung Fu S01E03 [PV 1080p HEVC E-OPUS 5.1]~HR-DR/[HR] Kung Fu S01E03 [2C342A9D].mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 8.11e-7,
+                    "path": "[HR] Kung Fu S01 (2021) [PV 1080p HEVC E-OPUS 5.1]~HR-DR/[HR] Kung Fu S01E04 [PV 1080p HEVC E-OPUS 5.1]~HR-DR/[Hakata Ramen] Kung Fu S01E04 Hand [Prime Video 1080p x265 E-OPUS 5.1].ske"
+                },
+                {
+                    "number": 8,
+                    "size": 0.520046135,
+                    "path": "[HR] Kung Fu S01 (2021) [PV 1080p HEVC E-OPUS 5.1]~HR-DR/[HR] Kung Fu S01E04 [PV 1080p HEVC E-OPUS 5.1]~HR-DR/[HR] Kung Fu S01E04 [384DBFD4].mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 8.15e-7,
+                    "path": "[HR] Kung Fu S01 (2021) [PV 1080p HEVC E-OPUS 5.1]~HR-DR/[HR] Kung Fu S01E05 [PV 1080p HEVC E-OPUS 5.1]~HR-DR/[Hakata Ramen] Kung Fu S01E05 Sanctuary [Prime Video 1080p x265 E-OPUS 5.1].ske"
+                },
+                {
+                    "number": 10,
+                    "size": 0.536465435,
+                    "path": "[HR] Kung Fu S01 (2021) [PV 1080p HEVC E-OPUS 5.1]~HR-DR/[HR] Kung Fu S01E05 [PV 1080p HEVC E-OPUS 5.1]~HR-DR/[HR] Kung Fu S01E05 [1A99F716].mkv"
+                },
+                {
+                    "number": 11,
+                    "size": 7.75e-7,
+                    "path": "[HR] Kung Fu S01 (2021) [PV 1080p HEVC E-OPUS 5.1]~HR-DR/[HR] Kung Fu S01E06 [PV 1080p HEVC E-OPUS 5.1]~HR-DR/[Hakata Ramen] Kung Fu S01E06 Rage [Prime Video 1080p x265 E-OPUS 5.1].ske"
+                },
+                {
+                    "number": 12,
+                    "size": 0.510810259,
+                    "path": "[HR] Kung Fu S01 (2021) [PV 1080p HEVC E-OPUS 5.1]~HR-DR/[HR] Kung Fu S01E06 [PV 1080p HEVC E-OPUS 5.1]~HR-DR/[HR] Kung Fu S01E06 [52235C04].mkv"
+                },
+                {
+                    "number": 13,
+                    "size": 7.95e-7,
+                    "path": "[HR] Kung Fu S01 (2021) [PV 1080p HEVC E-OPUS 5.1]~HR-DR/[HR] Kung Fu S01E07 [PV 1080p HEVC E-OPUS 5.1]~HR-DR/[Hakata Ramen] Kung Fu S01E07 Guidance [Prime Video 1080p x265 E-OPUS 5.1].ske"
+                },
+                {
+                    "number": 14,
+                    "size": 0.408259819,
+                    "path": "[HR] Kung Fu S01 (2021) [PV 1080p HEVC E-OPUS 5.1]~HR-DR/[HR] Kung Fu S01E07 [PV 1080p HEVC E-OPUS 5.1]~HR-DR/[HR] Kung Fu S01E07 [5E336341].mkv"
+                },
+                {
+                    "number": 15,
+                    "size": 7.14e-7,
+                    "path": "[HR] Kung Fu S01 (2021) [PV 1080p HEVC E-OPUS 5.1]~HR-DR/[HR] Kung Fu S01E08 [PV 1080p HEVC E-OPUS 5.1]~HR-DR/[Hakata Ramen] Kung Fu S01E08 Destiny [Prime Video 1080p x265 E-OPUS 5.1].ske"
+                },
+                {
+                    "number": 16,
+                    "size": 0.557987533,
+                    "path": "[HR] Kung Fu S01 (2021) [PV 1080p HEVC E-OPUS 5.1]~HR-DR/[HR] Kung Fu S01E08 [PV 1080p HEVC E-OPUS 5.1]~HR-DR/[HR] Kung Fu S01E08 [312EFD6C].mkv"
+                },
+                {
+                    "number": 17,
+                    "size": 8.03e-7,
+                    "path": "[HR] Kung Fu S01 (2021) [PV 1080p HEVC E-OPUS 5.1]~HR-DR/[HR] Kung Fu S01E09 [PV 1080p HEVC E-OPUS 5.1]~HR-DR/[Hakata Ramen] Kung Fu S01E09 Destiny [Prime Video 1080p x265 E-OPUS 5.1].ske"
+                },
+                {
+                    "number": 18,
+                    "size": 0.572876119,
+                    "path": "[HR] Kung Fu S01 (2021) [PV 1080p HEVC E-OPUS 5.1]~HR-DR/[HR] Kung Fu S01E09 [PV 1080p HEVC E-OPUS 5.1]~HR-DR/[HR] Kung Fu S01E09 [6E98247F].mkv"
+                },
+                {
+                    "number": 19,
+                    "size": 7.79e-7,
+                    "path": "[HR] Kung Fu S01 (2021) [PV 1080p HEVC E-OPUS 5.1]~HR-DR/[HR] Kung Fu S01E10 [PV 1080p HEVC E-OPUS 5.1]~HR-DR/[Hakata Ramen] Kung Fu S01E10 Choice [Prime Video 1080p x265 E-OPUS 5.1].ske"
+                },
+                {
+                    "number": 20,
+                    "size": 0.455010031,
+                    "path": "[HR] Kung Fu S01 (2021) [PV 1080p HEVC E-OPUS 5.1]~HR-DR/[HR] Kung Fu S01E10 [PV 1080p HEVC E-OPUS 5.1]~HR-DR/[HR] Kung Fu S01E10 [6BF0F440].mkv"
+                },
+                {
+                    "number": 21,
+                    "size": 7.98e-7,
+                    "path": "[HR] Kung Fu S01 (2021) [PV 1080p HEVC E-OPUS 5.1]~HR-DR/[HR] Kung Fu S01E11 [PV 1080p HEVC E-OPUS 5.1]~HR-DR/[Hakata Ramen] Kung Fu S01E11 Attachment [Prime Video 1080p x265 E-OPUS 5.1].ske"
+                },
+                {
+                    "number": 22,
+                    "size": 0.563906741,
+                    "path": "[HR] Kung Fu S01 (2021) [PV 1080p HEVC E-OPUS 5.1]~HR-DR/[HR] Kung Fu S01E11 [PV 1080p HEVC E-OPUS 5.1]~HR-DR/[HR] Kung Fu S01E11 [584783DB].mkv"
+                },
+                {
+                    "number": 23,
+                    "size": 7.63e-7,
+                    "path": "[HR] Kung Fu S01 (2021) [PV 1080p HEVC E-OPUS 5.1]~HR-DR/[HR] Kung Fu S01E12 [PV 1080p HEVC E-OPUS 5.1]~HR-DR/[Hakata Ramen] Kung Fu S01E12 Sacrifice [Prime Video 1080p x265 E-OPUS 5.1].ske"
+                },
+                {
+                    "number": 24,
+                    "size": 0.5334535,
+                    "path": "[HR] Kung Fu S01 (2021) [PV 1080p HEVC E-OPUS 5.1]~HR-DR/[HR] Kung Fu S01E12 [PV 1080p HEVC E-OPUS 5.1]~HR-DR/[HR] Kung Fu S01E12 [FF426CA4].mkv"
+                },
+                {
+                    "number": 25,
+                    "size": 7.37e-7,
+                    "path": "[HR] Kung Fu S01 (2021) [PV 1080p HEVC E-OPUS 5.1]~HR-DR/[HR] Kung Fu S01E13 [PV 1080p HEVC E-OPUS 5.1]~HR-DR/[Hakata Ramen] Kung Fu S01E13 Transformation [Prime Video 1080p x265 E-OPUS 5.1].ske"
+                },
+                {
+                    "number": 26,
+                    "size": 0.680280826,
+                    "path": "[HR] Kung Fu S01 (2021) [PV 1080p HEVC E-OPUS 5.1]~HR-DR/[HR] Kung Fu S01E13 [PV 1080p HEVC E-OPUS 5.1]~HR-DR/[HR] Kung Fu S01E13 [6A8975D1].mkv"
+                },
+                {
+                    "number": 27,
+                    "size": 0.000002765,
+                    "path": "[HR] Kung Fu S01 (2021) [PV 1080p HEVC E-OPUS 5.1]~HR-DR/[Hakata Ramen] Kung Fu {Season 1} (2021) [PV 1080p x265 E-OPUS 5.1].ske"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "[rutor.is]Kung.Fu.2021.S01.1080p.Kerob",
+            "size_total": 29.200664204,
+            "files_total": 13,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.261628787,
+                    "path": "Kung.Fu.2021.S01.1080p.Kerob/Kung.Fu.2021.S01E01.1080p.Kerob.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 2.26203786,
+                    "path": "Kung.Fu.2021.S01.1080p.Kerob/Kung.Fu.2021.S01E02.1080p.Kerob.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 2.260264735,
+                    "path": "Kung.Fu.2021.S01.1080p.Kerob/Kung.Fu.2021.S01E03.1080p.Kerob.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 2.260543937,
+                    "path": "Kung.Fu.2021.S01.1080p.Kerob/Kung.Fu.2021.S01E04.1080p.Kerob.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 2.254622932,
+                    "path": "Kung.Fu.2021.S01.1080p.Kerob/Kung.Fu.2021.S01E05.1080p.Kerob.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 2.207893248,
+                    "path": "Kung.Fu.2021.S01.1080p.Kerob/Kung.Fu.2021.S01E06.1080p.Kerob.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 2.229062726,
+                    "path": "Kung.Fu.2021.S01.1080p.Kerob/Kung.Fu.2021.S01E07.1080p.Kerob.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 2.253814758,
+                    "path": "Kung.Fu.2021.S01.1080p.Kerob/Kung.Fu.2021.S01E08.1080p.Kerob.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 2.189454755,
+                    "path": "Kung.Fu.2021.S01.1080p.Kerob/Kung.Fu.2021.S01E09.1080p.Kerob.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 2.254160702,
+                    "path": "Kung.Fu.2021.S01.1080p.Kerob/Kung.Fu.2021.S01E10.1080p.Kerob.mkv"
+                },
+                {
+                    "number": 11,
+                    "size": 2.251159205,
+                    "path": "Kung.Fu.2021.S01.1080p.Kerob/Kung.Fu.2021.S01E11.1080p.Kerob.mkv"
+                },
+                {
+                    "number": 12,
+                    "size": 2.258355599,
+                    "path": "Kung.Fu.2021.S01.1080p.Kerob/Kung.Fu.2021.S01E12.1080p.Kerob.mkv"
+                },
+                {
+                    "number": 13,
+                    "size": 2.25766496,
+                    "path": "Kung.Fu.2021.S01.1080p.Kerob/Kung.Fu.2021.S01E13.1080p.Kerob.mkv"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "[rutor.is]Kung.Fu.2021.S01.400p.Kerob",
+            "size_total": 6.167388678,
+            "files_total": 13,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.533180924,
+                    "path": "Kung.Fu.2021.S01.400p.Kerob/Kung.Fu.2021.S01E01.400p.Kerob.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.50755286,
+                    "path": "Kung.Fu.2021.S01.400p.Kerob/Kung.Fu.2021.S01E02.400p.Kerob.avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.526179944,
+                    "path": "Kung.Fu.2021.S01.400p.Kerob/Kung.Fu.2021.S01E03.400p.Kerob.avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.419228596,
+                    "path": "Kung.Fu.2021.S01.400p.Kerob/Kung.Fu.2021.S01E04.400p.Kerob.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.489443096,
+                    "path": "Kung.Fu.2021.S01.400p.Kerob/Kung.Fu.2021.S01E05.400p.Kerob.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.460460802,
+                    "path": "Kung.Fu.2021.S01.400p.Kerob/Kung.Fu.2021.S01E06.400p.Kerob.avi"
+                },
+                {
+                    "number": 7,
+                    "size": 0.290199554,
+                    "path": "Kung.Fu.2021.S01.400p.Kerob/Kung.Fu.2021.S01E07.400p.Kerob.avi"
+                },
+                {
+                    "number": 8,
+                    "size": 0.46962855,
+                    "path": "Kung.Fu.2021.S01.400p.Kerob/Kung.Fu.2021.S01E08.400p.Kerob.avi"
+                },
+                {
+                    "number": 9,
+                    "size": 0.500918512,
+                    "path": "Kung.Fu.2021.S01.400p.Kerob/Kung.Fu.2021.S01E09.400p.Kerob.avi"
+                },
+                {
+                    "number": 10,
+                    "size": 0.420546898,
+                    "path": "Kung.Fu.2021.S01.400p.Kerob/Kung.Fu.2021.S01E10.400p.Kerob.avi"
+                },
+                {
+                    "number": 11,
+                    "size": 0.508543252,
+                    "path": "Kung.Fu.2021.S01.400p.Kerob/Kung.Fu.2021.S01E11.400p.Kerob.avi"
+                },
+                {
+                    "number": 12,
+                    "size": 0.466189004,
+                    "path": "Kung.Fu.2021.S01.400p.Kerob/Kung.Fu.2021.S01E12.400p.Kerob.avi"
+                },
+                {
+                    "number": 13,
+                    "size": 0.575316686,
+                    "path": "Kung.Fu.2021.S01.400p.Kerob/Kung.Fu.2021.S01E13.400p.Kerob.avi"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "[rutor.is]Kung.Fu.2021.S01.720p.Kerob",
+            "size_total": 17.776381576,
+            "files_total": 13,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.356805499,
+                    "path": "Kung.Fu.2021.S01.720p.Kerob/Kung.Fu.2021.S01E01.720p.Kerob.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 1.486285399,
+                    "path": "Kung.Fu.2021.S01.720p.Kerob/Kung.Fu.2021.S01E02.720p.Kerob.mp4"
+                },
+                {
+                    "number": 3,
+                    "size": 1.485162751,
+                    "path": "Kung.Fu.2021.S01.720p.Kerob/Kung.Fu.2021.S01E03.720p.Kerob.mp4"
+                },
+                {
+                    "number": 4,
+                    "size": 1.356112871,
+                    "path": "Kung.Fu.2021.S01.720p.Kerob/Kung.Fu.2021.S01E04.720p.Kerob.mp4"
+                },
+                {
+                    "number": 5,
+                    "size": 1.352575145,
+                    "path": "Kung.Fu.2021.S01.720p.Kerob/Kung.Fu.2021.S01E05.720p.Kerob.mp4"
+                },
+                {
+                    "number": 6,
+                    "size": 1.32456125,
+                    "path": "Kung.Fu.2021.S01.720p.Kerob/Kung.Fu.2021.S01E06.720p.Kerob.mp4"
+                },
+                {
+                    "number": 7,
+                    "size": 1.337268681,
+                    "path": "Kung.Fu.2021.S01.720p.Kerob/Kung.Fu.2021.S01E07.720p.Kerob.mp4"
+                },
+                {
+                    "number": 8,
+                    "size": 1.352122488,
+                    "path": "Kung.Fu.2021.S01.720p.Kerob/Kung.Fu.2021.S01E08.720p.Kerob.mp4"
+                },
+                {
+                    "number": 9,
+                    "size": 1.313499,
+                    "path": "Kung.Fu.2021.S01.720p.Kerob/Kung.Fu.2021.S01E09.720p.Kerob.mp4"
+                },
+                {
+                    "number": 10,
+                    "size": 1.352303425,
+                    "path": "Kung.Fu.2021.S01.720p.Kerob/Kung.Fu.2021.S01E10.720p.Kerob.mp4"
+                },
+                {
+                    "number": 11,
+                    "size": 1.350467645,
+                    "path": "Kung.Fu.2021.S01.720p.Kerob/Kung.Fu.2021.S01E11.720p.Kerob.mp4"
+                },
+                {
+                    "number": 12,
+                    "size": 1.354799005,
+                    "path": "Kung.Fu.2021.S01.720p.Kerob/Kung.Fu.2021.S01E12.720p.Kerob.mp4"
+                },
+                {
+                    "number": 13,
+                    "size": 1.354418417,
+                    "path": "Kung.Fu.2021.S01.720p.Kerob/Kung.Fu.2021.S01E13.720p.Kerob.mp4"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "[rutor.is]Kung_Fu._Season_01._By_Wild_Cat",
+            "size_total": 16.002736787,
+            "files_total": 13,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.312276073,
+                    "path": "Kung Fu. Season 01. By Wild Cat/Kung Fu. Season 01. Episode 03. By Wild_Cat.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.278532418,
+                    "path": "Kung Fu. Season 01. By Wild Cat/Kung Fu. Season 01. Episode 02. By Wild_Cat.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.3073871990000001,
+                    "path": "Kung Fu. Season 01. By Wild Cat/Kung Fu. Season 01. Episode 01. By Wild_Cat.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.205814587,
+                    "path": "Kung Fu. Season 01. By Wild Cat/Kung Fu. Season 01. Episode 04. By Wild_Cat.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 1.209715369,
+                    "path": "Kung Fu. Season 01. By Wild Cat/Kung Fu. Season 01. Episode 05. By Wild_Cat.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 1.211352025,
+                    "path": "Kung Fu. Season 01. By Wild Cat/Kung Fu. Season 01. Episode 06. By Wild_Cat.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 1.120842425,
+                    "path": "Kung Fu. Season 01. By Wild Cat/Kung Fu. Season 01. Episode 07. By Wild_Cat.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 1.247295104,
+                    "path": "Kung Fu. Season 01. By Wild Cat/Kung Fu. Season 01. Episode 08. By Wild_Cat.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 1.197493936,
+                    "path": "Kung Fu. Season 01. By Wild Cat/Kung Fu. Season 01. Episode 09. By Wild_Cat.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 1.155178419,
+                    "path": "Kung Fu. Season 01. By Wild Cat/Kung Fu. Season 01. Episode 10. By Wild_Cat.mkv"
+                },
+                {
+                    "number": 11,
+                    "size": 1.245720981,
+                    "path": "Kung Fu. Season 01. By Wild Cat/Kung Fu. Season 01. Episode 11. By Wild_Cat.mkv"
+                },
+                {
+                    "number": 12,
+                    "size": 1.200043205,
+                    "path": "Kung Fu. Season 01. By Wild Cat/Kung Fu. Season 01. Episode 12. By Wild_Cat.mkv"
+                },
+                {
+                    "number": 13,
+                    "size": 1.311085046,
+                    "path": "Kung Fu. Season 01. By Wild Cat/Kung Fu. Season 01. Episode 13. By Wild_Cat.mkv"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Kung Fu (2021) - Temporada 1 [HDTV 720p][Cap.113][AC3 5.1 Castellano][www.PCTmix.com]",
+            "size_total": 1.693757115,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.11e-7,
+                    "path": "Kung Fu (2021) - Temporada 1 [HDTV 720p][Cap.113][AC3 5.1 Castellano][www.PCTmix.com]/PCTFENIX COM.url"
+                },
+                {
+                    "number": 2,
+                    "size": 1.14e-7,
+                    "path": "Kung Fu (2021) - Temporada 1 [HDTV 720p][Cap.113][AC3 5.1 Castellano][www.PCTmix.com]/MAXITORRENT COM.url"
+                },
+                {
+                    "number": 3,
+                    "size": 1.14e-7,
+                    "path": "Kung Fu (2021) - Temporada 1 [HDTV 720p][Cap.113][AC3 5.1 Castellano][www.PCTmix.com]/PCTNOTICIAS TELEGRAM.url"
+                },
+                {
+                    "number": 4,
+                    "size": 1.22e-7,
+                    "path": "Kung Fu (2021) - Temporada 1 [HDTV 720p][Cap.113][AC3 5.1 Castellano][www.PCTmix.com]/PCTMIX1 COM.url"
+                },
+                {
+                    "number": 5,
+                    "size": 1.23e-7,
+                    "path": "Kung Fu (2021) - Temporada 1 [HDTV 720p][Cap.113][AC3 5.1 Castellano][www.PCTmix.com]/PCTRELOAD1 COM.url"
+                },
+                {
+                    "number": 6,
+                    "size": 1.693756531,
+                    "path": "Kung Fu (2021) - Temporada 1 [HDTV 720p][Cap.113][AC3 5.1 Castellano][www.PCTmix.com]/Kung Fu (2021) - Temporada 1 [HDTV 720p][Cap.113][AC3 5.1 Castellano][www.PCTmix.com].mkv"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Kung Fu (2021) - Temporada 1 [HDTV][Cap.113][Castellano][www.PCTmix.com]",
+            "size_total": 0.5013205,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.11e-7,
+                    "path": "Kung Fu (2021) - Temporada 1 [HDTV][Cap.113][Castellano][www.PCTmix.com]/PCTFENIX COM.url"
+                },
+                {
+                    "number": 2,
+                    "size": 1.14e-7,
+                    "path": "Kung Fu (2021) - Temporada 1 [HDTV][Cap.113][Castellano][www.PCTmix.com]/MAXITORRENT COM.url"
+                },
+                {
+                    "number": 3,
+                    "size": 1.14e-7,
+                    "path": "Kung Fu (2021) - Temporada 1 [HDTV][Cap.113][Castellano][www.PCTmix.com]/PCTNOTICIAS TELEGRAM.url"
+                },
+                {
+                    "number": 4,
+                    "size": 1.22e-7,
+                    "path": "Kung Fu (2021) - Temporada 1 [HDTV][Cap.113][Castellano][www.PCTmix.com]/PCTMIX1 COM.url"
+                },
+                {
+                    "number": 5,
+                    "size": 1.23e-7,
+                    "path": "Kung Fu (2021) - Temporada 1 [HDTV][Cap.113][Castellano][www.PCTmix.com]/PCTRELOAD1 COM.url"
+                },
+                {
+                    "number": 6,
+                    "size": 0.501319916,
+                    "path": "Kung Fu (2021) - Temporada 1 [HDTV][Cap.113][Castellano][www.PCTmix.com]/Kung Fu (2021) - Temporada 1 [HDTV][Cap.113][Castellano][www.PCTmix.com].avi"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Kung Fu 1X13 HDTV XviD Castellano www.torrent.nom.es",
+            "size_total": 0.501320832,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.09e-7,
+                    "path": "Kung Fu 1X13 HDTV XviD Castellano www.torrent.nom.es/Canal de Noticias@yadixv.URL"
+                },
+                {
+                    "number": 2,
+                    "size": 2.17e-7,
+                    "path": "Kung Fu 1X13 HDTV XviD Castellano www.torrent.nom.es/Descargar Torrent Gratis.URL"
+                },
+                {
+                    "number": 3,
+                    "size": 2.7e-7,
+                    "path": "Kung Fu 1X13 HDTV XviD Castellano www.torrent.nom.es/Descargar YaDixV Torrent - Portal De Torrents Gratuitos.URL"
+                },
+                {
+                    "number": 4,
+                    "size": 0.501319916,
+                    "path": "Kung Fu 1X13 HDTV XviD Castellano www.torrent.nom.es/Kung Fu 1X13 HDTV XviD Castellano www.torrent.nom.es.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 2.2e-7,
+                    "path": "Kung Fu 1X13 HDTV XviD Castellano www.torrent.nom.es/YaDixv Facebook.URL"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Kung Fu. Season 01. By Wild Cat",
+            "size_total": 16.002736787,
+            "files_total": 13,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.312276073,
+                    "path": "Kung Fu. Season 01. By Wild Cat/Kung Fu. Season 01. Episode 03. By Wild_Cat.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.278532418,
+                    "path": "Kung Fu. Season 01. By Wild Cat/Kung Fu. Season 01. Episode 02. By Wild_Cat.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.3073871990000001,
+                    "path": "Kung Fu. Season 01. By Wild Cat/Kung Fu. Season 01. Episode 01. By Wild_Cat.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.205814587,
+                    "path": "Kung Fu. Season 01. By Wild Cat/Kung Fu. Season 01. Episode 04. By Wild_Cat.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 1.209715369,
+                    "path": "Kung Fu. Season 01. By Wild Cat/Kung Fu. Season 01. Episode 05. By Wild_Cat.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 1.211352025,
+                    "path": "Kung Fu. Season 01. By Wild Cat/Kung Fu. Season 01. Episode 06. By Wild_Cat.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 1.120842425,
+                    "path": "Kung Fu. Season 01. By Wild Cat/Kung Fu. Season 01. Episode 07. By Wild_Cat.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 1.247295104,
+                    "path": "Kung Fu. Season 01. By Wild Cat/Kung Fu. Season 01. Episode 08. By Wild_Cat.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 1.197493936,
+                    "path": "Kung Fu. Season 01. By Wild Cat/Kung Fu. Season 01. Episode 09. By Wild_Cat.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 1.155178419,
+                    "path": "Kung Fu. Season 01. By Wild Cat/Kung Fu. Season 01. Episode 10. By Wild_Cat.mkv"
+                },
+                {
+                    "number": 11,
+                    "size": 1.245720981,
+                    "path": "Kung Fu. Season 01. By Wild Cat/Kung Fu. Season 01. Episode 11. By Wild_Cat.mkv"
+                },
+                {
+                    "number": 12,
+                    "size": 1.200043205,
+                    "path": "Kung Fu. Season 01. By Wild Cat/Kung Fu. Season 01. Episode 12. By Wild_Cat.mkv"
+                },
+                {
+                    "number": 13,
+                    "size": 1.311085046,
+                    "path": "Kung Fu. Season 01. By Wild Cat/Kung Fu. Season 01. Episode 13. By Wild_Cat.mkv"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Kung-Fu-S01E13-480p-x264-ZMNT[ettv]",
+            "size_total": 0.21680741,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.1e-8,
+                    "path": "Kung.Fu.S01E13.480p.x264-ZMNT[ettv]/Download more at www.ettvcentral.com .txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001201,
+                    "path": "Kung.Fu.S01E13.480p.x264-ZMNT[ettv]/Kung.Fu.S01E13.480p.x264-ZMNT.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.215137353,
+                    "path": "Kung.Fu.S01E13.480p.x264-ZMNT[ettv]/Kung.Fu.S01E13.480p.x264-ZMNT[ettv].mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000469643,
+                    "path": "Kung.Fu.S01E13.480p.x264-ZMNT[ettv]/Screens/Kung.Fu.S01E13.480p.x264-ZMNT.Screen0000.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000343572,
+                    "path": "Kung.Fu.S01E13.480p.x264-ZMNT[ettv]/Screens/Kung.Fu.S01E13.480p.x264-ZMNT.Screen0001.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000514406,
+                    "path": "Kung.Fu.S01E13.480p.x264-ZMNT[ettv]/Screens/Kung.Fu.S01E13.480p.x264-ZMNT.Screen0002.png"
+                },
+                {
+                    "number": 7,
+                    "size": 0.000341194,
+                    "path": "Kung.Fu.S01E13.480p.x264-ZMNT[ettv]/Screens/Kung.Fu.S01E13.480p.x264-ZMNT.Screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Kung-Fu-S01E13-720p-x265-ZMNT[ettv]",
+            "size_total": 0.344491681,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.1e-8,
+                    "path": "Kung.Fu.S01E13.720p.x265-ZMNT[ettv]/Download more at www.ettvcentral.com .txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001256,
+                    "path": "Kung.Fu.S01E13.720p.x265-ZMNT[ettv]/Kung.Fu.S01E13.720p.x265-ZMNT.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.341355746,
+                    "path": "Kung.Fu.S01E13.720p.x265-ZMNT[ettv]/Kung.Fu.S01E13.720p.x265-ZMNT[ettv].mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000898023,
+                    "path": "Kung.Fu.S01E13.720p.x265-ZMNT[ettv]/Screens/Kung.Fu.S01E13.720p.x265-ZMNT.Screen0000.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000610705,
+                    "path": "Kung.Fu.S01E13.720p.x265-ZMNT[ettv]/Screens/Kung.Fu.S01E13.720p.x265-ZMNT.Screen0001.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000948069,
+                    "path": "Kung.Fu.S01E13.720p.x265-ZMNT[ettv]/Screens/Kung.Fu.S01E13.720p.x265-ZMNT.Screen0002.png"
+                },
+                {
+                    "number": 7,
+                    "size": 0.000677841,
+                    "path": "Kung.Fu.S01E13.720p.x265-ZMNT[ettv]/Screens/Kung.Fu.S01E13.720p.x265-ZMNT.Screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Kung-Fu-Season-01-By-Wild-Cat",
+            "size_total": 16.002736787,
+            "files_total": 13,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.312276073,
+                    "path": "Kung Fu. Season 01. By Wild Cat/Kung Fu. Season 01. Episode 03. By Wild_Cat.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.278532418,
+                    "path": "Kung Fu. Season 01. By Wild Cat/Kung Fu. Season 01. Episode 02. By Wild_Cat.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.3073871990000001,
+                    "path": "Kung Fu. Season 01. By Wild Cat/Kung Fu. Season 01. Episode 01. By Wild_Cat.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.205814587,
+                    "path": "Kung Fu. Season 01. By Wild Cat/Kung Fu. Season 01. Episode 04. By Wild_Cat.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 1.209715369,
+                    "path": "Kung Fu. Season 01. By Wild Cat/Kung Fu. Season 01. Episode 05. By Wild_Cat.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 1.211352025,
+                    "path": "Kung Fu. Season 01. By Wild Cat/Kung Fu. Season 01. Episode 06. By Wild_Cat.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 1.120842425,
+                    "path": "Kung Fu. Season 01. By Wild Cat/Kung Fu. Season 01. Episode 07. By Wild_Cat.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 1.247295104,
+                    "path": "Kung Fu. Season 01. By Wild Cat/Kung Fu. Season 01. Episode 08. By Wild_Cat.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 1.197493936,
+                    "path": "Kung Fu. Season 01. By Wild Cat/Kung Fu. Season 01. Episode 09. By Wild_Cat.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 1.155178419,
+                    "path": "Kung Fu. Season 01. By Wild Cat/Kung Fu. Season 01. Episode 10. By Wild_Cat.mkv"
+                },
+                {
+                    "number": 11,
+                    "size": 1.245720981,
+                    "path": "Kung Fu. Season 01. By Wild Cat/Kung Fu. Season 01. Episode 11. By Wild_Cat.mkv"
+                },
+                {
+                    "number": 12,
+                    "size": 1.200043205,
+                    "path": "Kung Fu. Season 01. By Wild Cat/Kung Fu. Season 01. Episode 12. By Wild_Cat.mkv"
+                },
+                {
+                    "number": 13,
+                    "size": 1.311085046,
+                    "path": "Kung Fu. Season 01. By Wild Cat/Kung Fu. Season 01. Episode 13. By Wild_Cat.mkv"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Kung.Fu.(Season 01).TVShows",
+            "size_total": 6.841549596,
+            "files_total": 13,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.5747712,
+                    "path": "Kung.Fu.(Season 01).TVShows/01.  Kung Fu .2021. WEBDLRip.TVShows.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.573372416,
+                    "path": "Kung.Fu.(Season 01).TVShows/02.  Kung Fu .2021. WEBDLRip.TVShows.avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.607316808,
+                    "path": "Kung.Fu.(Season 01).TVShows/03.  Kung Fu .2021. WEBDLRip.TVShows.avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.488310364,
+                    "path": "Kung.Fu.(Season 01).TVShows/04.  Kung Fu .2021. WEBDLRip.TVShows.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.531337092,
+                    "path": "Kung.Fu.(Season 01).TVShows/05.  Kung Fu .2021. WEBDLRip.TVShows.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.528640336,
+                    "path": "Kung.Fu.(Season 01).TVShows/06.  Kung Fu .2021. WEBDLRip.TVShows.avi"
+                },
+                {
+                    "number": 7,
+                    "size": 0.468273346,
+                    "path": "Kung.Fu.(Season 01).TVShows/07.  Kung Fu .2021. WEBDLRip.TVShows.avi"
+                },
+                {
+                    "number": 8,
+                    "size": 0.53918587,
+                    "path": "Kung.Fu.(Season 01).TVShows/08.  Kung Fu .2021. WEBDLRip.TVShows.avi"
+                },
+                {
+                    "number": 9,
+                    "size": 0.531861484,
+                    "path": "Kung.Fu.(Season 01).TVShows/09.  Kung Fu .2021. WEBDLRip.TVShows.avi"
+                },
+                {
+                    "number": 10,
+                    "size": 0.490773128,
+                    "path": "Kung.Fu.(Season 01).TVShows/10.  Kung Fu .2021. WEBDLRip.TVShows.avi"
+                },
+                {
+                    "number": 11,
+                    "size": 0.49197108,
+                    "path": "Kung.Fu.(Season 01).TVShows/11.  Kung Fu .2021. WEBDLRip.TVShows.avi"
+                },
+                {
+                    "number": 12,
+                    "size": 0.460018184,
+                    "path": "Kung.Fu.(Season 01).TVShows/12.  Kung Fu .2021. WEBDLRip.TVShows.avi"
+                },
+                {
+                    "number": 13,
+                    "size": 0.555718288,
+                    "path": "Kung.Fu.(Season 01).TVShows/13.  Kung Fu .2021. WEBDLRip.TVShows.avi"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Kung.Fu.2021.S01.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]",
+            "size_total": 36.143714807,
+            "files_total": 14,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.931108719,
+                    "path": "Kung.Fu.2021.S01.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/Kung.Fu.2021.S01E01.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3.000734476,
+                    "path": "Kung.Fu.2021.S01.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/Kung.Fu.2021.S01E02.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 2.92891155,
+                    "path": "Kung.Fu.2021.S01.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/Kung.Fu.2021.S01E03.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 2.97011672,
+                    "path": "Kung.Fu.2021.S01.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/Kung.Fu.2021.S01E04.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 2.834231814,
+                    "path": "Kung.Fu.2021.S01.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/Kung.Fu.2021.S01E05.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 2.759252324,
+                    "path": "Kung.Fu.2021.S01.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/Kung.Fu.2021.S01E06.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 2.549623829,
+                    "path": "Kung.Fu.2021.S01.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/Kung.Fu.2021.S01E07.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 2.85415394,
+                    "path": "Kung.Fu.2021.S01.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/Kung.Fu.2021.S01E08.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 2.498753527,
+                    "path": "Kung.Fu.2021.S01.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/Kung.Fu.2021.S01E09.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 2.743711723,
+                    "path": "Kung.Fu.2021.S01.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/Kung.Fu.2021.S01E10.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 11,
+                    "size": 2.6683408,
+                    "path": "Kung.Fu.2021.S01.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/Kung.Fu.2021.S01E11.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 12,
+                    "size": 2.684130885,
+                    "path": "Kung.Fu.2021.S01.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/Kung.Fu.2021.S01E12.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 13,
+                    "size": 2.720644469,
+                    "path": "Kung.Fu.2021.S01.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/Kung.Fu.2021.S01E13.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 14,
+                    "size": 3.1e-8,
+                    "path": "Kung.Fu.2021.S01.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/RARBG.txt"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Kung.Fu.2021.S01.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]",
+            "size_total": 36.143714807,
+            "files_total": 14,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.931108719,
+                    "path": "Kung.Fu.2021.S01.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/Kung.Fu.2021.S01E01.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3.000734476,
+                    "path": "Kung.Fu.2021.S01.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/Kung.Fu.2021.S01E02.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 2.92891155,
+                    "path": "Kung.Fu.2021.S01.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/Kung.Fu.2021.S01E03.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 2.97011672,
+                    "path": "Kung.Fu.2021.S01.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/Kung.Fu.2021.S01E04.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 2.834231814,
+                    "path": "Kung.Fu.2021.S01.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/Kung.Fu.2021.S01E05.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 2.759252324,
+                    "path": "Kung.Fu.2021.S01.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/Kung.Fu.2021.S01E06.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 2.549623829,
+                    "path": "Kung.Fu.2021.S01.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/Kung.Fu.2021.S01E07.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 2.85415394,
+                    "path": "Kung.Fu.2021.S01.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/Kung.Fu.2021.S01E08.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 2.498753527,
+                    "path": "Kung.Fu.2021.S01.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/Kung.Fu.2021.S01E09.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 2.743711723,
+                    "path": "Kung.Fu.2021.S01.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/Kung.Fu.2021.S01E10.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 11,
+                    "size": 2.6683408,
+                    "path": "Kung.Fu.2021.S01.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/Kung.Fu.2021.S01E11.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 12,
+                    "size": 2.684130885,
+                    "path": "Kung.Fu.2021.S01.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/Kung.Fu.2021.S01E12.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 13,
+                    "size": 2.720644469,
+                    "path": "Kung.Fu.2021.S01.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/Kung.Fu.2021.S01E13.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 14,
+                    "size": 3.1e-8,
+                    "path": "Kung.Fu.2021.S01.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/RARBG.txt"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Kung.Fu.2021.S01.1080p.Kerob",
+            "size_total": 29.200664204,
+            "files_total": 13,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.261628787,
+                    "path": "Kung.Fu.2021.S01.1080p.Kerob/Kung.Fu.2021.S01E01.1080p.Kerob.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 2.26203786,
+                    "path": "Kung.Fu.2021.S01.1080p.Kerob/Kung.Fu.2021.S01E02.1080p.Kerob.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 2.260264735,
+                    "path": "Kung.Fu.2021.S01.1080p.Kerob/Kung.Fu.2021.S01E03.1080p.Kerob.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 2.260543937,
+                    "path": "Kung.Fu.2021.S01.1080p.Kerob/Kung.Fu.2021.S01E04.1080p.Kerob.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 2.254622932,
+                    "path": "Kung.Fu.2021.S01.1080p.Kerob/Kung.Fu.2021.S01E05.1080p.Kerob.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 2.207893248,
+                    "path": "Kung.Fu.2021.S01.1080p.Kerob/Kung.Fu.2021.S01E06.1080p.Kerob.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 2.229062726,
+                    "path": "Kung.Fu.2021.S01.1080p.Kerob/Kung.Fu.2021.S01E07.1080p.Kerob.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 2.253814758,
+                    "path": "Kung.Fu.2021.S01.1080p.Kerob/Kung.Fu.2021.S01E08.1080p.Kerob.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 2.189454755,
+                    "path": "Kung.Fu.2021.S01.1080p.Kerob/Kung.Fu.2021.S01E09.1080p.Kerob.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 2.254160702,
+                    "path": "Kung.Fu.2021.S01.1080p.Kerob/Kung.Fu.2021.S01E10.1080p.Kerob.mkv"
+                },
+                {
+                    "number": 11,
+                    "size": 2.251159205,
+                    "path": "Kung.Fu.2021.S01.1080p.Kerob/Kung.Fu.2021.S01E11.1080p.Kerob.mkv"
+                },
+                {
+                    "number": 12,
+                    "size": 2.258355599,
+                    "path": "Kung.Fu.2021.S01.1080p.Kerob/Kung.Fu.2021.S01E12.1080p.Kerob.mkv"
+                },
+                {
+                    "number": 13,
+                    "size": 2.25766496,
+                    "path": "Kung.Fu.2021.S01.1080p.Kerob/Kung.Fu.2021.S01E13.1080p.Kerob.mkv"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Kung.Fu.2021.S01.400p.Kerob",
+            "size_total": 6.167388678,
+            "files_total": 13,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.533180924,
+                    "path": "Kung.Fu.2021.S01.400p.Kerob/Kung.Fu.2021.S01E01.400p.Kerob.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.50755286,
+                    "path": "Kung.Fu.2021.S01.400p.Kerob/Kung.Fu.2021.S01E02.400p.Kerob.avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.526179944,
+                    "path": "Kung.Fu.2021.S01.400p.Kerob/Kung.Fu.2021.S01E03.400p.Kerob.avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.419228596,
+                    "path": "Kung.Fu.2021.S01.400p.Kerob/Kung.Fu.2021.S01E04.400p.Kerob.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.489443096,
+                    "path": "Kung.Fu.2021.S01.400p.Kerob/Kung.Fu.2021.S01E05.400p.Kerob.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.460460802,
+                    "path": "Kung.Fu.2021.S01.400p.Kerob/Kung.Fu.2021.S01E06.400p.Kerob.avi"
+                },
+                {
+                    "number": 7,
+                    "size": 0.290199554,
+                    "path": "Kung.Fu.2021.S01.400p.Kerob/Kung.Fu.2021.S01E07.400p.Kerob.avi"
+                },
+                {
+                    "number": 8,
+                    "size": 0.46962855,
+                    "path": "Kung.Fu.2021.S01.400p.Kerob/Kung.Fu.2021.S01E08.400p.Kerob.avi"
+                },
+                {
+                    "number": 9,
+                    "size": 0.500918512,
+                    "path": "Kung.Fu.2021.S01.400p.Kerob/Kung.Fu.2021.S01E09.400p.Kerob.avi"
+                },
+                {
+                    "number": 10,
+                    "size": 0.420546898,
+                    "path": "Kung.Fu.2021.S01.400p.Kerob/Kung.Fu.2021.S01E10.400p.Kerob.avi"
+                },
+                {
+                    "number": 11,
+                    "size": 0.508543252,
+                    "path": "Kung.Fu.2021.S01.400p.Kerob/Kung.Fu.2021.S01E11.400p.Kerob.avi"
+                },
+                {
+                    "number": 12,
+                    "size": 0.466189004,
+                    "path": "Kung.Fu.2021.S01.400p.Kerob/Kung.Fu.2021.S01E12.400p.Kerob.avi"
+                },
+                {
+                    "number": 13,
+                    "size": 0.575316686,
+                    "path": "Kung.Fu.2021.S01.400p.Kerob/Kung.Fu.2021.S01E13.400p.Kerob.avi"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "Kung.Fu.2021.S01.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]",
+            "size_total": 16.608402089,
+            "files_total": 14,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.384741722,
+                    "path": "Kung.Fu.2021.S01.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/Kung.Fu.2021.S01E01.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.372974073,
+                    "path": "Kung.Fu.2021.S01.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/Kung.Fu.2021.S01E02.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.390474666,
+                    "path": "Kung.Fu.2021.S01.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/Kung.Fu.2021.S01E03.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.284478445,
+                    "path": "Kung.Fu.2021.S01.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/Kung.Fu.2021.S01E04.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 1.263634131,
+                    "path": "Kung.Fu.2021.S01.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/Kung.Fu.2021.S01E05.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 1.242491294,
+                    "path": "Kung.Fu.2021.S01.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/Kung.Fu.2021.S01E06.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 1.127387104,
+                    "path": "Kung.Fu.2021.S01.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/Kung.Fu.2021.S01E07.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 1.32076551,
+                    "path": "Kung.Fu.2021.S01.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/Kung.Fu.2021.S01E08.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 1.20801995,
+                    "path": "Kung.Fu.2021.S01.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/Kung.Fu.2021.S01E09.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 1.169519093,
+                    "path": "Kung.Fu.2021.S01.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/Kung.Fu.2021.S01E10.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 11,
+                    "size": 1.278649671,
+                    "path": "Kung.Fu.2021.S01.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/Kung.Fu.2021.S01E11.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 12,
+                    "size": 1.229977419,
+                    "path": "Kung.Fu.2021.S01.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/Kung.Fu.2021.S01E12.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 13,
+                    "size": 1.33528898,
+                    "path": "Kung.Fu.2021.S01.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/Kung.Fu.2021.S01E13.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 14,
+                    "size": 3.1e-8,
+                    "path": "Kung.Fu.2021.S01.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/RARBG.txt"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "Kung.Fu.2021.S01.720p.Kerob",
+            "size_total": 17.776381576,
+            "files_total": 13,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.356805499,
+                    "path": "Kung.Fu.2021.S01.720p.Kerob/Kung.Fu.2021.S01E01.720p.Kerob.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 1.486285399,
+                    "path": "Kung.Fu.2021.S01.720p.Kerob/Kung.Fu.2021.S01E02.720p.Kerob.mp4"
+                },
+                {
+                    "number": 3,
+                    "size": 1.485162751,
+                    "path": "Kung.Fu.2021.S01.720p.Kerob/Kung.Fu.2021.S01E03.720p.Kerob.mp4"
+                },
+                {
+                    "number": 4,
+                    "size": 1.356112871,
+                    "path": "Kung.Fu.2021.S01.720p.Kerob/Kung.Fu.2021.S01E04.720p.Kerob.mp4"
+                },
+                {
+                    "number": 5,
+                    "size": 1.352575145,
+                    "path": "Kung.Fu.2021.S01.720p.Kerob/Kung.Fu.2021.S01E05.720p.Kerob.mp4"
+                },
+                {
+                    "number": 6,
+                    "size": 1.32456125,
+                    "path": "Kung.Fu.2021.S01.720p.Kerob/Kung.Fu.2021.S01E06.720p.Kerob.mp4"
+                },
+                {
+                    "number": 7,
+                    "size": 1.337268681,
+                    "path": "Kung.Fu.2021.S01.720p.Kerob/Kung.Fu.2021.S01E07.720p.Kerob.mp4"
+                },
+                {
+                    "number": 8,
+                    "size": 1.352122488,
+                    "path": "Kung.Fu.2021.S01.720p.Kerob/Kung.Fu.2021.S01E08.720p.Kerob.mp4"
+                },
+                {
+                    "number": 9,
+                    "size": 1.313499,
+                    "path": "Kung.Fu.2021.S01.720p.Kerob/Kung.Fu.2021.S01E09.720p.Kerob.mp4"
+                },
+                {
+                    "number": 10,
+                    "size": 1.352303425,
+                    "path": "Kung.Fu.2021.S01.720p.Kerob/Kung.Fu.2021.S01E10.720p.Kerob.mp4"
+                },
+                {
+                    "number": 11,
+                    "size": 1.350467645,
+                    "path": "Kung.Fu.2021.S01.720p.Kerob/Kung.Fu.2021.S01E11.720p.Kerob.mp4"
+                },
+                {
+                    "number": 12,
+                    "size": 1.354799005,
+                    "path": "Kung.Fu.2021.S01.720p.Kerob/Kung.Fu.2021.S01E12.720p.Kerob.mp4"
+                },
+                {
+                    "number": 13,
+                    "size": 1.354418417,
+                    "path": "Kung.Fu.2021.S01.720p.Kerob/Kung.Fu.2021.S01E13.720p.Kerob.mp4"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "name": "Kung.Fu.2021.S01.COMPLETE.720p.AMZN.WEBRip.x264-GalaxyTV[TGx]",
+            "size_total": 3.488725381,
+            "files_total": 14,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.291730296,
+                    "path": "Kung.Fu.2021.S01.COMPLETE.720p.AMZN.WEBRip.x264-GalaxyTV[TGx]/Kung.Fu.2021.S01E01.720p.AMZN.WEBRip.x264-GalaxyTV.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.272542967,
+                    "path": "Kung.Fu.2021.S01.COMPLETE.720p.AMZN.WEBRip.x264-GalaxyTV[TGx]/Kung.Fu.2021.S01E02.720p.AMZN.WEBRip.x264-GalaxyTV.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.312147541,
+                    "path": "Kung.Fu.2021.S01.COMPLETE.720p.AMZN.WEBRip.x264-GalaxyTV[TGx]/Kung.Fu.2021.S01E03.720p.AMZN.WEBRip.x264-GalaxyTV.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 0.237240875,
+                    "path": "Kung.Fu.2021.S01.COMPLETE.720p.AMZN.WEBRip.x264-GalaxyTV[TGx]/Kung.Fu.2021.S01E04.720p.AMZN.WEBRip.x264-GalaxyTV.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.259659647,
+                    "path": "Kung.Fu.2021.S01.COMPLETE.720p.AMZN.WEBRip.x264-GalaxyTV[TGx]/Kung.Fu.2021.S01E05.720p.AMZN.WEBRip.x264-GalaxyTV.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.268047667,
+                    "path": "Kung.Fu.2021.S01.COMPLETE.720p.AMZN.WEBRip.x264-GalaxyTV[TGx]/Kung.Fu.2021.S01E06.720p.AMZN.WEBRip.x264-GalaxyTV.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 0.226765116,
+                    "path": "Kung.Fu.2021.S01.COMPLETE.720p.AMZN.WEBRip.x264-GalaxyTV[TGx]/Kung.Fu.2021.S01E07.720p.AMZN.WEBRip.x264-GalaxyTV.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 0.263343231,
+                    "path": "Kung.Fu.2021.S01.COMPLETE.720p.AMZN.WEBRip.x264-GalaxyTV[TGx]/Kung.Fu.2021.S01E08.720p.AMZN.WEBRip.x264-GalaxyTV.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 0.271515354,
+                    "path": "Kung.Fu.2021.S01.COMPLETE.720p.AMZN.WEBRip.x264-GalaxyTV[TGx]/Kung.Fu.2021.S01E09.720p.AMZN.WEBRip.x264-GalaxyTV.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 0.235530396,
+                    "path": "Kung.Fu.2021.S01.COMPLETE.720p.AMZN.WEBRip.x264-GalaxyTV[TGx]/Kung.Fu.2021.S01E10.720p.AMZN.WEBRip.x264-GalaxyTV.mkv"
+                },
+                {
+                    "number": 11,
+                    "size": 0.289129245,
+                    "path": "Kung.Fu.2021.S01.COMPLETE.720p.AMZN.WEBRip.x264-GalaxyTV[TGx]/Kung.Fu.2021.S01E11.720p.AMZN.WEBRip.x264-GalaxyTV.mkv"
+                },
+                {
+                    "number": 12,
+                    "size": 0.248992498,
+                    "path": "Kung.Fu.2021.S01.COMPLETE.720p.AMZN.WEBRip.x264-GalaxyTV[TGx]/Kung.Fu.2021.S01E12.720p.AMZN.WEBRip.x264-GalaxyTV.mkv"
+                },
+                {
+                    "number": 13,
+                    "size": 0.31207983,
+                    "path": "Kung.Fu.2021.S01.COMPLETE.720p.AMZN.WEBRip.x264-GalaxyTV[TGx]/Kung.Fu.2021.S01E13.720p.AMZN.WEBRip.x264-GalaxyTV.mkv"
+                },
+                {
+                    "number": 14,
+                    "size": 7.18e-7,
+                    "path": "Kung.Fu.2021.S01.COMPLETE.720p.AMZN.WEBRip.x264-GalaxyTV[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "name": "Kung.Fu.2021.S01.COMPLETE.WEBRip.x264-ION10",
+            "size_total": 5.561705592,
+            "files_total": 34,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.431456293,
+                    "path": "Kung.Fu.2021.S01.COMPLETE.WEBRip.x264-ION10/Kung.Fu.S01E01.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 0.430041396,
+                    "path": "Kung.Fu.2021.S01.COMPLETE.WEBRip.x264-ION10/Kung.Fu.S01E02.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 3,
+                    "size": 0.428793918,
+                    "path": "Kung.Fu.2021.S01.COMPLETE.WEBRip.x264-ION10/Kung.Fu.S01E03.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 4,
+                    "size": 0.429876948,
+                    "path": "Kung.Fu.2021.S01.COMPLETE.WEBRip.x264-ION10/Kung.Fu.S01E04.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 5,
+                    "size": 0.429295058,
+                    "path": "Kung.Fu.2021.S01.COMPLETE.WEBRip.x264-ION10/Kung.Fu.S01E05.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 6,
+                    "size": 0.421572714,
+                    "path": "Kung.Fu.2021.S01.COMPLETE.WEBRip.x264-ION10/Kung.Fu.S01E06.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 7,
+                    "size": 0.424563261,
+                    "path": "Kung.Fu.2021.S01.COMPLETE.WEBRip.x264-ION10/Kung.Fu.S01E07.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 8,
+                    "size": 0.428586281,
+                    "path": "Kung.Fu.2021.S01.COMPLETE.WEBRip.x264-ION10/Kung.Fu.S01E08.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 9,
+                    "size": 0.416975226,
+                    "path": "Kung.Fu.2021.S01.COMPLETE.WEBRip.x264-ION10/Kung.Fu.S01E09.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 10,
+                    "size": 0.429276694,
+                    "path": "Kung.Fu.2021.S01.COMPLETE.WEBRip.x264-ION10/Kung.Fu.S01E10.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 11,
+                    "size": 0.426686914,
+                    "path": "Kung.Fu.2021.S01.COMPLETE.WEBRip.x264-ION10/Kung.Fu.S01E11.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 12,
+                    "size": 0.43401365,
+                    "path": "Kung.Fu.2021.S01.COMPLETE.WEBRip.x264-ION10/Kung.Fu.S01E12.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 13,
+                    "size": 0.429483708,
+                    "path": "Kung.Fu.2021.S01.COMPLETE.WEBRip.x264-ION10/Kung.Fu.S01E13.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 14,
+                    "size": 0.000049028,
+                    "path": "Kung.Fu.2021.S01.COMPLETE.WEBRip.x264-ION10/Subs/Kung.Fu.2021.S01E01.WEBRip.x264-ION10/2_English.srt"
+                },
+                {
+                    "number": 15,
+                    "size": 0.000052166,
+                    "path": "Kung.Fu.2021.S01.COMPLETE.WEBRip.x264-ION10/Subs/Kung.Fu.2021.S01E01.WEBRip.x264-ION10/3_English.srt"
+                },
+                {
+                    "number": 16,
+                    "size": 0.000047725,
+                    "path": "Kung.Fu.2021.S01.COMPLETE.WEBRip.x264-ION10/Subs/Kung.Fu.2021.S01E02.WEBRip.x264-ION10/2_English.srt"
+                },
+                {
+                    "number": 17,
+                    "size": 0.000051706,
+                    "path": "Kung.Fu.2021.S01.COMPLETE.WEBRip.x264-ION10/Subs/Kung.Fu.2021.S01E02.WEBRip.x264-ION10/3_English.srt"
+                },
+                {
+                    "number": 18,
+                    "size": 0.000050284,
+                    "path": "Kung.Fu.2021.S01.COMPLETE.WEBRip.x264-ION10/Subs/Kung.Fu.2021.S01E03.WEBRip.x264-ION10/2_English.srt"
+                },
+                {
+                    "number": 19,
+                    "size": 0.000053212,
+                    "path": "Kung.Fu.2021.S01.COMPLETE.WEBRip.x264-ION10/Subs/Kung.Fu.2021.S01E03.WEBRip.x264-ION10/3_English.srt"
+                },
+                {
+                    "number": 20,
+                    "size": 0.000046623,
+                    "path": "Kung.Fu.2021.S01.COMPLETE.WEBRip.x264-ION10/Subs/Kung.Fu.2021.S01E04.WEBRip.x264-ION10/2_English.srt"
+                },
+                {
+                    "number": 21,
+                    "size": 0.000049386,
+                    "path": "Kung.Fu.2021.S01.COMPLETE.WEBRip.x264-ION10/Subs/Kung.Fu.2021.S01E04.WEBRip.x264-ION10/3_English.srt"
+                },
+                {
+                    "number": 22,
+                    "size": 0.00005444,
+                    "path": "Kung.Fu.2021.S01.COMPLETE.WEBRip.x264-ION10/Subs/Kung.Fu.2021.S01E05.WEBRip.x264-ION10/2_English.srt"
+                },
+                {
+                    "number": 23,
+                    "size": 0.000057618,
+                    "path": "Kung.Fu.2021.S01.COMPLETE.WEBRip.x264-ION10/Subs/Kung.Fu.2021.S01E05.WEBRip.x264-ION10/3_English.srt"
+                },
+                {
+                    "number": 24,
+                    "size": 0.00005061,
+                    "path": "Kung.Fu.2021.S01.COMPLETE.WEBRip.x264-ION10/Subs/Kung.Fu.2021.S01E06.WEBRip.x264-ION10/2_English.srt"
+                },
+                {
+                    "number": 25,
+                    "size": 0.000053029,
+                    "path": "Kung.Fu.2021.S01.COMPLETE.WEBRip.x264-ION10/Subs/Kung.Fu.2021.S01E06.WEBRip.x264-ION10/3_English.srt"
+                },
+                {
+                    "number": 26,
+                    "size": 0.00004738,
+                    "path": "Kung.Fu.2021.S01.COMPLETE.WEBRip.x264-ION10/Subs/Kung.Fu.2021.S01E07.WEBRip.x264-ION10/2_English.srt"
+                },
+                {
+                    "number": 27,
+                    "size": 0.000055196,
+                    "path": "Kung.Fu.2021.S01.COMPLETE.WEBRip.x264-ION10/Subs/Kung.Fu.2021.S01E08.WEBRip.x264-ION10/2_English.srt"
+                },
+                {
+                    "number": 28,
+                    "size": 0.000048276,
+                    "path": "Kung.Fu.2021.S01.COMPLETE.WEBRip.x264-ION10/Subs/Kung.Fu.2021.S01E09.WEBRip.x264-ION10/2_English.srt"
+                },
+                {
+                    "number": 29,
+                    "size": 0.000055535,
+                    "path": "Kung.Fu.2021.S01.COMPLETE.WEBRip.x264-ION10/Subs/Kung.Fu.2021.S01E10.WEBRip.x264-ION10/2_English.srt"
+                },
+                {
+                    "number": 30,
+                    "size": 0.000054678,
+                    "path": "Kung.Fu.2021.S01.COMPLETE.WEBRip.x264-ION10/Subs/Kung.Fu.2021.S01E11.WEBRip.x264-ION10/2_English.srt"
+                },
+                {
+                    "number": 31,
+                    "size": 0.000058149,
+                    "path": "Kung.Fu.2021.S01.COMPLETE.WEBRip.x264-ION10/Subs/Kung.Fu.2021.S01E11.WEBRip.x264-ION10/3_English.srt"
+                },
+                {
+                    "number": 32,
+                    "size": 0.000052104,
+                    "path": "Kung.Fu.2021.S01.COMPLETE.WEBRip.x264-ION10/Subs/Kung.Fu.2021.S01E12.WEBRip.x264-ION10/2_English.srt"
+                },
+                {
+                    "number": 33,
+                    "size": 0.00004667,
+                    "path": "Kung.Fu.2021.S01.COMPLETE.WEBRip.x264-ION10/Subs/Kung.Fu.2021.S01E13.WEBRip.x264-ION10/2_English.srt"
+                },
+                {
+                    "number": 34,
+                    "size": 0.000049716,
+                    "path": "Kung.Fu.2021.S01.COMPLETE.WEBRip.x264-ION10/Subs/Kung.Fu.2021.S01E13.WEBRip.x264-ION10/3_English.srt"
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "name": "Kung.Fu.2021.S01.WEBRip.x264-ION10-[rarbg.to]",
+            "size_total": 5.561705623,
+            "files_total": 35,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.431456293,
+                    "path": "Kung.Fu.2021.S01.WEBRip.x264-ION10/Kung.Fu.S01E01.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 0.430041396,
+                    "path": "Kung.Fu.2021.S01.WEBRip.x264-ION10/Kung.Fu.S01E02.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 3,
+                    "size": 0.428793918,
+                    "path": "Kung.Fu.2021.S01.WEBRip.x264-ION10/Kung.Fu.S01E03.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 4,
+                    "size": 0.429876948,
+                    "path": "Kung.Fu.2021.S01.WEBRip.x264-ION10/Kung.Fu.S01E04.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 5,
+                    "size": 0.429295058,
+                    "path": "Kung.Fu.2021.S01.WEBRip.x264-ION10/Kung.Fu.S01E05.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 6,
+                    "size": 0.421572714,
+                    "path": "Kung.Fu.2021.S01.WEBRip.x264-ION10/Kung.Fu.S01E06.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 7,
+                    "size": 0.424563261,
+                    "path": "Kung.Fu.2021.S01.WEBRip.x264-ION10/Kung.Fu.S01E07.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 8,
+                    "size": 0.428586281,
+                    "path": "Kung.Fu.2021.S01.WEBRip.x264-ION10/Kung.Fu.S01E08.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 9,
+                    "size": 0.416975226,
+                    "path": "Kung.Fu.2021.S01.WEBRip.x264-ION10/Kung.Fu.S01E09.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 10,
+                    "size": 0.429276694,
+                    "path": "Kung.Fu.2021.S01.WEBRip.x264-ION10/Kung.Fu.S01E10.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 11,
+                    "size": 0.426686914,
+                    "path": "Kung.Fu.2021.S01.WEBRip.x264-ION10/Kung.Fu.S01E11.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 12,
+                    "size": 0.43401365,
+                    "path": "Kung.Fu.2021.S01.WEBRip.x264-ION10/Kung.Fu.S01E12.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 13,
+                    "size": 0.429483708,
+                    "path": "Kung.Fu.2021.S01.WEBRip.x264-ION10/Kung.Fu.S01E13.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 14,
+                    "size": 3.1e-8,
+                    "path": "Kung.Fu.2021.S01.WEBRip.x264-ION10/RARBG.txt"
+                },
+                {
+                    "number": 15,
+                    "size": 0.000049028,
+                    "path": "Kung.Fu.2021.S01.WEBRip.x264-ION10/Subs/Kung.Fu.2021.S01E01.WEBRip.x264-ION10/2_English.srt"
+                },
+                {
+                    "number": 16,
+                    "size": 0.000052166,
+                    "path": "Kung.Fu.2021.S01.WEBRip.x264-ION10/Subs/Kung.Fu.2021.S01E01.WEBRip.x264-ION10/3_English.srt"
+                },
+                {
+                    "number": 17,
+                    "size": 0.000047725,
+                    "path": "Kung.Fu.2021.S01.WEBRip.x264-ION10/Subs/Kung.Fu.2021.S01E02.WEBRip.x264-ION10/2_English.srt"
+                },
+                {
+                    "number": 18,
+                    "size": 0.000051706,
+                    "path": "Kung.Fu.2021.S01.WEBRip.x264-ION10/Subs/Kung.Fu.2021.S01E02.WEBRip.x264-ION10/3_English.srt"
+                },
+                {
+                    "number": 19,
+                    "size": 0.000050284,
+                    "path": "Kung.Fu.2021.S01.WEBRip.x264-ION10/Subs/Kung.Fu.2021.S01E03.WEBRip.x264-ION10/2_English.srt"
+                },
+                {
+                    "number": 20,
+                    "size": 0.000053212,
+                    "path": "Kung.Fu.2021.S01.WEBRip.x264-ION10/Subs/Kung.Fu.2021.S01E03.WEBRip.x264-ION10/3_English.srt"
+                },
+                {
+                    "number": 21,
+                    "size": 0.000046623,
+                    "path": "Kung.Fu.2021.S01.WEBRip.x264-ION10/Subs/Kung.Fu.2021.S01E04.WEBRip.x264-ION10/2_English.srt"
+                },
+                {
+                    "number": 22,
+                    "size": 0.000049386,
+                    "path": "Kung.Fu.2021.S01.WEBRip.x264-ION10/Subs/Kung.Fu.2021.S01E04.WEBRip.x264-ION10/3_English.srt"
+                },
+                {
+                    "number": 23,
+                    "size": 0.00005444,
+                    "path": "Kung.Fu.2021.S01.WEBRip.x264-ION10/Subs/Kung.Fu.2021.S01E05.WEBRip.x264-ION10/2_English.srt"
+                },
+                {
+                    "number": 24,
+                    "size": 0.000057618,
+                    "path": "Kung.Fu.2021.S01.WEBRip.x264-ION10/Subs/Kung.Fu.2021.S01E05.WEBRip.x264-ION10/3_English.srt"
+                },
+                {
+                    "number": 25,
+                    "size": 0.00005061,
+                    "path": "Kung.Fu.2021.S01.WEBRip.x264-ION10/Subs/Kung.Fu.2021.S01E06.WEBRip.x264-ION10/2_English.srt"
+                },
+                {
+                    "number": 26,
+                    "size": 0.000053029,
+                    "path": "Kung.Fu.2021.S01.WEBRip.x264-ION10/Subs/Kung.Fu.2021.S01E06.WEBRip.x264-ION10/3_English.srt"
+                },
+                {
+                    "number": 27,
+                    "size": 0.00004738,
+                    "path": "Kung.Fu.2021.S01.WEBRip.x264-ION10/Subs/Kung.Fu.2021.S01E07.WEBRip.x264-ION10/2_English.srt"
+                },
+                {
+                    "number": 28,
+                    "size": 0.000055196,
+                    "path": "Kung.Fu.2021.S01.WEBRip.x264-ION10/Subs/Kung.Fu.2021.S01E08.WEBRip.x264-ION10/2_English.srt"
+                },
+                {
+                    "number": 29,
+                    "size": 0.000048276,
+                    "path": "Kung.Fu.2021.S01.WEBRip.x264-ION10/Subs/Kung.Fu.2021.S01E09.WEBRip.x264-ION10/2_English.srt"
+                },
+                {
+                    "number": 30,
+                    "size": 0.000055535,
+                    "path": "Kung.Fu.2021.S01.WEBRip.x264-ION10/Subs/Kung.Fu.2021.S01E10.WEBRip.x264-ION10/2_English.srt"
+                },
+                {
+                    "number": 31,
+                    "size": 0.000054678,
+                    "path": "Kung.Fu.2021.S01.WEBRip.x264-ION10/Subs/Kung.Fu.2021.S01E11.WEBRip.x264-ION10/2_English.srt"
+                },
+                {
+                    "number": 32,
+                    "size": 0.000058149,
+                    "path": "Kung.Fu.2021.S01.WEBRip.x264-ION10/Subs/Kung.Fu.2021.S01E11.WEBRip.x264-ION10/3_English.srt"
+                },
+                {
+                    "number": 33,
+                    "size": 0.000052104,
+                    "path": "Kung.Fu.2021.S01.WEBRip.x264-ION10/Subs/Kung.Fu.2021.S01E12.WEBRip.x264-ION10/2_English.srt"
+                },
+                {
+                    "number": 34,
+                    "size": 0.00004667,
+                    "path": "Kung.Fu.2021.S01.WEBRip.x264-ION10/Subs/Kung.Fu.2021.S01E13.WEBRip.x264-ION10/2_English.srt"
+                },
+                {
+                    "number": 35,
+                    "size": 0.000049716,
+                    "path": "Kung.Fu.2021.S01.WEBRip.x264-ION10/Subs/Kung.Fu.2021.S01E13.WEBRip.x264-ION10/3_English.srt"
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "name": "Kung.Fu.2021.S01E12.WEB.x264-PHOENiX",
+            "size_total": 0.263149276,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.261844495,
+                    "path": "Kung.Fu.2021.S01E12.WEB.x264-PHOENiX/Kung.Fu.2021.S01E12.WEB.x264-PHOENiX.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001324,
+                    "path": "Kung.Fu.2021.S01E12.WEB.x264-PHOENiX/Kung.Fu.2021.S01E12.WEB.x264-PHOENiX.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000283653,
+                    "path": "Kung.Fu.2021.S01E12.WEB.x264-PHOENiX/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000285469,
+                    "path": "Kung.Fu.2021.S01E12.WEB.x264-PHOENiX/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000365795,
+                    "path": "Kung.Fu.2021.S01E12.WEB.x264-PHOENiX/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.00036854,
+                    "path": "Kung.Fu.2021.S01E12.WEB.x264-PHOENiX/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "name": "Kung.Fu.2021.S01E13.1080p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.345839593,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.331313452,
+                    "path": "Kung.Fu.2021.S01E13.1080p.HEVC.x265-MeGusta/Kung.Fu.2021.S01E13.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001135,
+                    "path": "Kung.Fu.2021.S01E13.1080p.HEVC.x265-MeGusta/Kung.Fu.2021.S01E13.1080p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.002448638,
+                    "path": "Kung.Fu.2021.S01E13.1080p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.008872242,
+                    "path": "Kung.Fu.2021.S01E13.1080p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.003204126,
+                    "path": "Kung.Fu.2021.S01E13.1080p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "name": "Kung.Fu.2021.S01E13.1080p.HEVC.x265-MeGusta[eztv.re].mkv",
+            "size_total": 0.331313452,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.331313452,
+                    "path": "Kung.Fu.2021.S01E13.1080p.HEVC.x265-MeGusta[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "name": "Kung.Fu.2021.S01E13.1080p.WEB.H264-PLZPROPER [IPT]",
+            "size_total": 2.549035239,
+            "files_total": 13,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.22e-7,
+                    "path": "Kung.Fu.2021.S01E13.1080p.WEB.H264-PLZPROPER/kung.fu.2021.s01e13.1080p.web.h264-plzproper.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.25,
+                    "path": "Kung.Fu.2021.S01E13.1080p.WEB.H264-PLZPROPER/kung.fu.2021.s01e13.1080p.web.h264-plzproper.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.25,
+                    "path": "Kung.Fu.2021.S01E13.1080p.WEB.H264-PLZPROPER/kung.fu.2021.s01e13.1080p.web.h264-plzproper.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.25,
+                    "path": "Kung.Fu.2021.S01E13.1080p.WEB.H264-PLZPROPER/kung.fu.2021.s01e13.1080p.web.h264-plzproper.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.25,
+                    "path": "Kung.Fu.2021.S01E13.1080p.WEB.H264-PLZPROPER/kung.fu.2021.s01e13.1080p.web.h264-plzproper.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.25,
+                    "path": "Kung.Fu.2021.S01E13.1080p.WEB.H264-PLZPROPER/kung.fu.2021.s01e13.1080p.web.h264-plzproper.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.25,
+                    "path": "Kung.Fu.2021.S01E13.1080p.WEB.H264-PLZPROPER/kung.fu.2021.s01e13.1080p.web.h264-plzproper.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.25,
+                    "path": "Kung.Fu.2021.S01E13.1080p.WEB.H264-PLZPROPER/kung.fu.2021.s01e13.1080p.web.h264-plzproper.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.25,
+                    "path": "Kung.Fu.2021.S01E13.1080p.WEB.H264-PLZPROPER/kung.fu.2021.s01e13.1080p.web.h264-plzproper.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.25,
+                    "path": "Kung.Fu.2021.S01E13.1080p.WEB.H264-PLZPROPER/kung.fu.2021.s01e13.1080p.web.h264-plzproper.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.049034479,
+                    "path": "Kung.Fu.2021.S01E13.1080p.WEB.H264-PLZPROPER/kung.fu.2021.s01e13.1080p.web.h264-plzproper.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.25,
+                    "path": "Kung.Fu.2021.S01E13.1080p.WEB.H264-PLZPROPER/kung.fu.2021.s01e13.1080p.web.h264-plzproper.rar"
+                },
+                {
+                    "number": 13,
+                    "size": 6.38e-7,
+                    "path": "Kung.Fu.2021.S01E13.1080p.WEB.H264-PLZPROPER/kung.fu.2021.s01e13.1080p.web.h264-plzproper.sfv"
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "name": "kung.fu.2021.s01e13.1080p.web.h264-plzproper[eztv.re].mkv",
+            "size_total": 2.549033016,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.549033016,
+                    "path": "kung.fu.2021.s01e13.1080p.web.h264-plzproper[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "name": "Kung.Fu.2021.S01E13.1080p.WEB.H264-PLZPROPER[rarbg]",
+            "size_total": 2.549033267,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Kung.Fu.2021.S01E13.1080p.WEB.H264-PLZPROPER[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Kung.Fu.2021.S01E13.1080p.WEB.H264-PLZPROPER[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 2.549033016,
+                    "path": "Kung.Fu.2021.S01E13.1080p.WEB.H264-PLZPROPER[rarbg]/kung.fu.2021.s01e13.1080p.web.h264-plzproper.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.22e-7,
+                    "path": "Kung.Fu.2021.S01E13.1080p.WEB.H264-PLZPROPER[rarbg]/kung.fu.2021.s01e13.1080p.web.h264-plzproper.nfo"
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "name": "Kung.Fu.2021.S01E13.1080p.WEB.H264-PLZPROPER[rartv]-[rarbg.to]",
+            "size_total": 2.549033267,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Kung.Fu.2021.S01E13.1080p.WEB.H264-PLZPROPER[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Kung.Fu.2021.S01E13.1080p.WEB.H264-PLZPROPER[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 2.549033016,
+                    "path": "Kung.Fu.2021.S01E13.1080p.WEB.H264-PLZPROPER[rarbg]/kung.fu.2021.s01e13.1080p.web.h264-plzproper.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.22e-7,
+                    "path": "Kung.Fu.2021.S01E13.1080p.WEB.H264-PLZPROPER[rarbg]/kung.fu.2021.s01e13.1080p.web.h264-plzproper.nfo"
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "name": "Kung.Fu.2021.S01E13.1080p.WEB.H264-PLZPROPER[TGx]",
+            "size_total": 2.549033856,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 7.18e-7,
+                    "path": "Kung.Fu.2021.S01E13.1080p.WEB.H264-PLZPROPER[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 2,
+                    "size": 2.549033016,
+                    "path": "Kung.Fu.2021.S01E13.1080p.WEB.H264-PLZPROPER[TGx]/kung.fu.2021.s01e13.1080p.web.h264-plzproper.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.22e-7,
+                    "path": "Kung.Fu.2021.S01E13.1080p.WEB.H264-PLZPROPER[TGx]/kung.fu.2021.s01e13.1080p.web.h264-plzproper.nfo"
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "name": "Kung.Fu.2021.S01E13.720p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.230707496,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.223552111,
+                    "path": "Kung.Fu.2021.S01E13.720p.HEVC.x265-MeGusta/Kung.Fu.2021.S01E13.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001131,
+                    "path": "Kung.Fu.2021.S01E13.720p.HEVC.x265-MeGusta/Kung.Fu.2021.S01E13.720p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001320651,
+                    "path": "Kung.Fu.2021.S01E13.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.00423164,
+                    "path": "Kung.Fu.2021.S01E13.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.001601963,
+                    "path": "Kung.Fu.2021.S01E13.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "name": "Kung.Fu.2021.S01E13.720p.HEVC.x265-MeGusta.mkv",
+            "size_total": 0.223552111,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.223552111,
+                    "path": "Kung.Fu.2021.S01E13.720p.HEVC.x265-MeGusta.mkv"
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "name": "Kung.Fu.2021.S01E13.720p.HEVC.x265-MeGusta[eztv.re].mkv",
+            "size_total": 0.223552111,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.223552111,
+                    "path": "Kung.Fu.2021.S01E13.720p.HEVC.x265-MeGusta[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "name": "Kung.Fu.2021.S01E13.720p.WEB.H264-PLZPROPER [IPT]",
+            "size_total": 0.812189037,
+            "files_total": 12,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.21e-7,
+                    "path": "Kung.Fu.2021.S01E13.720p.WEB.H264-PLZPROPER/kung.fu.2021.s01e13.720p.web.h264-plzproper.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.1,
+                    "path": "Kung.Fu.2021.S01E13.720p.WEB.H264-PLZPROPER/kung.fu.2021.s01e13.720p.web.h264-plzproper.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.1,
+                    "path": "Kung.Fu.2021.S01E13.720p.WEB.H264-PLZPROPER/kung.fu.2021.s01e13.720p.web.h264-plzproper.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.1,
+                    "path": "Kung.Fu.2021.S01E13.720p.WEB.H264-PLZPROPER/kung.fu.2021.s01e13.720p.web.h264-plzproper.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.1,
+                    "path": "Kung.Fu.2021.S01E13.720p.WEB.H264-PLZPROPER/kung.fu.2021.s01e13.720p.web.h264-plzproper.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.1,
+                    "path": "Kung.Fu.2021.S01E13.720p.WEB.H264-PLZPROPER/kung.fu.2021.s01e13.720p.web.h264-plzproper.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.1,
+                    "path": "Kung.Fu.2021.S01E13.720p.WEB.H264-PLZPROPER/kung.fu.2021.s01e13.720p.web.h264-plzproper.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.092565353,
+                    "path": "Kung.Fu.2021.S01E13.720p.WEB.H264-PLZPROPER/kung.fu.2021.s01e13.720p.web.h264-plzproper.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.1,
+                    "path": "Kung.Fu.2021.S01E13.720p.WEB.H264-PLZPROPER/kung.fu.2021.s01e13.720p.web.h264-plzproper.rar"
+                },
+                {
+                    "number": 10,
+                    "size": 4.64e-7,
+                    "path": "Kung.Fu.2021.S01E13.720p.WEB.H264-PLZPROPER/kung.fu.2021.s01e13.720p.web.h264-plzproper.sfv"
+                },
+                {
+                    "number": 11,
+                    "size": 0.019621437,
+                    "path": "Kung.Fu.2021.S01E13.720p.WEB.H264-PLZPROPER/Sample/kung.fu.2021.s01e13.720p.web.h264-plzproper-sample.mkv"
+                },
+                {
+                    "number": 12,
+                    "size": 0.000001662,
+                    "path": "Kung.Fu.2021.S01E13.720p.WEB.H264-PLZPROPER/tvmaze.nfo"
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "name": "Kung.Fu.2021.S01E13.720p.WEB.H264-PLZPROPER[ettv]",
+            "size_total": 0.812188205,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.1e-8,
+                    "path": "Kung.Fu.2021.S01E13.720p.WEB.H264-PLZPROPER[ettv]/Download more at www.ettvcentral.com .txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.019621437,
+                    "path": "Kung.Fu.2021.S01E13.720p.WEB.H264-PLZPROPER[ettv]/Sample/kung.fu.2021.s01e13.720p.web.h264-plzproper-sample.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.24e-7,
+                    "path": "Kung.Fu.2021.S01E13.720p.WEB.H264-PLZPROPER[ettv]/kung.fu.2021.s01e13.720p.web.h264-plzproper.nfo"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000002242,
+                    "path": "Kung.Fu.2021.S01E13.720p.WEB.H264-PLZPROPER[ettv]/kung.fu.2021.s01e13.720p.web.h264-plzproper.srr"
+                },
+                {
+                    "number": 5,
+                    "size": 0.792564361,
+                    "path": "Kung.Fu.2021.S01E13.720p.WEB.H264-PLZPROPER[ettv]/kung.fu.2021.s01e13.720p.web.h264-plzproper[ettv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "name": "kung.fu.2021.s01e13.720p.web.h264-plzproper[eztv.re].mkv",
+            "size_total": 0.792564361,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.792564361,
+                    "path": "kung.fu.2021.s01e13.720p.web.h264-plzproper[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "name": "Kung.Fu.2021.S01E13.720p.WEB.H264-PLZPROPER[rarbg]",
+            "size_total": 0.792564611,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Kung.Fu.2021.S01E13.720p.WEB.H264-PLZPROPER[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Kung.Fu.2021.S01E13.720p.WEB.H264-PLZPROPER[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 0.792564361,
+                    "path": "Kung.Fu.2021.S01E13.720p.WEB.H264-PLZPROPER[rarbg]/kung.fu.2021.s01e13.720p.web.h264-plzproper.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.21e-7,
+                    "path": "Kung.Fu.2021.S01E13.720p.WEB.H264-PLZPROPER[rarbg]/kung.fu.2021.s01e13.720p.web.h264-plzproper.nfo"
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "name": "Kung.Fu.2021.S01E13.720p.WEB.H264-PLZPROPER[rartv]-[rarbg.to]",
+            "size_total": 0.792564611,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Kung.Fu.2021.S01E13.720p.WEB.H264-PLZPROPER[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Kung.Fu.2021.S01E13.720p.WEB.H264-PLZPROPER[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 0.792564361,
+                    "path": "Kung.Fu.2021.S01E13.720p.WEB.H264-PLZPROPER[rarbg]/kung.fu.2021.s01e13.720p.web.h264-plzproper.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.21e-7,
+                    "path": "Kung.Fu.2021.S01E13.720p.WEB.H264-PLZPROPER[rarbg]/kung.fu.2021.s01e13.720p.web.h264-plzproper.nfo"
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "name": "Kung.Fu.2021.S01E13.720p.WEB.H264-PLZPROPER[TGx]",
+            "size_total": 0.792565079,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 7.18e-7,
+                    "path": "Kung.Fu.2021.S01E13.720p.WEB.H264-PLZPROPER[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.792564361,
+                    "path": "Kung.Fu.2021.S01E13.720p.WEB.H264-PLZPROPER[TGx]/kung.fu.2021.s01e13.720p.web.h264-plzproper.mkv"
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "name": "Kung.Fu.2021.S01E13.720p.WEB.x265-MiNX[TGx]",
+            "size_total": 0.231575299,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.231574537,
+                    "path": "Kung.Fu.2021.S01E13.720p.WEB.x265-MiNX[TGx]/Kung.Fu.2021.S01E13.720p.WEB.x265-MiNX.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 7.18e-7,
+                    "path": "Kung.Fu.2021.S01E13.720p.WEB.x265-MiNX[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 3,
+                    "size": 4.4e-8,
+                    "path": "Kung.Fu.2021.S01E13.720p.WEB.x265-MiNX[TGx]/source.txt"
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "name": "Kung.Fu.2021.S01E13.AAC.MP4-Mobile [IPT]",
+            "size_total": 0.182375367,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.181858743,
+                    "path": "Kung.Fu.2021.S01E13.AAC.MP4-Mobile/Kung.Fu.2021.S01E13.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001226,
+                    "path": "Kung.Fu.2021.S01E13.AAC.MP4-Mobile/Kung.Fu.2021.S01E13.AAC.MP4-Mobile.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000084952,
+                    "path": "Kung.Fu.2021.S01E13.AAC.MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.00034157,
+                    "path": "Kung.Fu.2021.S01E13.AAC.MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000088876,
+                    "path": "Kung.Fu.2021.S01E13.AAC.MP4-Mobile/Screens/screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 43,
+            "name": "Kung.Fu.2021.S01E13.HDTV.Subtitulado.Esp.SC.mp4",
+            "size_total": 0.462214551,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.462214551,
+                    "path": "Kung.Fu.2021.S01E13.HDTV.Subtitulado.Esp.SC.mp4"
+                }
+            ]
+        },
+        {
+            "id": 44,
+            "name": "Kung.Fu.2021.S01E13.Transformation.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[eztv.re].mkv",
+            "size_total": 2.720644469,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.720644469,
+                    "path": "Kung.Fu.2021.S01E13.Transformation.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 45,
+            "name": "Kung.Fu.2021.S01E13.Transformation.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]",
+            "size_total": 2.720644598,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.720644469,
+                    "path": "Kung.Fu.2021.S01E13.Transformation.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/Kung.Fu.2021.S01E13.Transformation.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Kung.Fu.2021.S01E13.Transformation.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 9.9e-8,
+                    "path": "Kung.Fu.2021.S01E13.Transformation.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                }
+            ]
+        },
+        {
+            "id": 46,
+            "name": "Kung.Fu.2021.S01E13.Transformation.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]",
+            "size_total": 2.720644598,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.720644469,
+                    "path": "Kung.Fu.2021.S01E13.Transformation.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/Kung.Fu.2021.S01E13.Transformation.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Kung.Fu.2021.S01E13.Transformation.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 9.9e-8,
+                    "path": "Kung.Fu.2021.S01E13.Transformation.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                }
+            ]
+        },
+        {
+            "id": 47,
+            "name": "Kung.Fu.2021.S01E13.Transformation.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[TGx]",
+            "size_total": 2.720645187,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.720644469,
+                    "path": "Kung.Fu.2021.S01E13.Transformation.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[TGx]/Kung.Fu.2021.S01E13.Transformation.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 7.18e-7,
+                    "path": "Kung.Fu.2021.S01E13.Transformation.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 48,
+            "name": "Kung.Fu.2021.S01E13.Transformation.720p.AMZN.WEBRip.DDP5.1.x264-NTb[eztv.re].mkv",
+            "size_total": 1.33528898,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.33528898,
+                    "path": "Kung.Fu.2021.S01E13.Transformation.720p.AMZN.WEBRip.DDP5.1.x264-NTb[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 49,
+            "name": "Kung.Fu.2021.S01E13.Transformation.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]",
+            "size_total": 1.335289109,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.33528898,
+                    "path": "Kung.Fu.2021.S01E13.Transformation.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/Kung.Fu.2021.S01E13.Transformation.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Kung.Fu.2021.S01E13.Transformation.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 9.9e-8,
+                    "path": "Kung.Fu.2021.S01E13.Transformation.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                }
+            ]
+        },
+        {
+            "id": 50,
+            "name": "Kung.Fu.2021.S01E13.Transformation.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]",
+            "size_total": 1.335289109,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.33528898,
+                    "path": "Kung.Fu.2021.S01E13.Transformation.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/Kung.Fu.2021.S01E13.Transformation.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Kung.Fu.2021.S01E13.Transformation.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 9.9e-8,
+                    "path": "Kung.Fu.2021.S01E13.Transformation.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                }
+            ]
+        },
+        {
+            "id": 51,
+            "name": "Kung.Fu.2021.S01E13.Transformation.720p.AMZN.WEBRip.DDP5.1.x264-NTb[TGx]",
+            "size_total": 1.335289698,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.33528898,
+                    "path": "Kung.Fu.2021.S01E13.Transformation.720p.AMZN.WEBRip.DDP5.1.x264-NTb[TGx]/Kung.Fu.2021.S01E13.Transformation.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 7.18e-7,
+                    "path": "Kung.Fu.2021.S01E13.Transformation.720p.AMZN.WEBRip.DDP5.1.x264-NTb[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 52,
+            "name": "Kung.Fu.2021.S01E13.Transformation.720p.WEBRip.2CH.x265.HEVC-PSA.mkv",
+            "size_total": 0.222856115,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.222856115,
+                    "path": "Kung.Fu.2021.S01E13.Transformation.720p.WEBRip.2CH.x265.HEVC-PSA.mkv"
+                }
+            ]
+        },
+        {
+            "id": 53,
+            "name": "Kung.Fu.2021.S01E13.Transformation.AMZN.WEB-DL.H264-NTb[eztv.re].mkv",
+            "size_total": 0.451859612,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.451859612,
+                    "path": "Kung.Fu.2021.S01E13.Transformation.AMZN.WEB-DL.H264-NTb[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 54,
+            "name": "Kung.Fu.2021.S01E13.WEB.x264-PHOENiX [IPT]",
+            "size_total": 0.301536275,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.300149307,
+                    "path": "Kung.Fu.2021.S01E13.WEB.x264-PHOENiX/Kung.Fu.2021.S01E13.WEB.x264-PHOENiX.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001323,
+                    "path": "Kung.Fu.2021.S01E13.WEB.x264-PHOENiX/Kung.Fu.2021.S01E13.WEB.x264-PHOENiX.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000314087,
+                    "path": "Kung.Fu.2021.S01E13.WEB.x264-PHOENiX/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000525923,
+                    "path": "Kung.Fu.2021.S01E13.WEB.x264-PHOENiX/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000373942,
+                    "path": "Kung.Fu.2021.S01E13.WEB.x264-PHOENiX/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000171693,
+                    "path": "Kung.Fu.2021.S01E13.WEB.x264-PHOENiX/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 55,
+            "name": "Kung.Fu.2021.S01E13.WEB.x264-PHOENiX[TGx]",
+            "size_total": 0.300150069,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.300149307,
+                    "path": "Kung.Fu.2021.S01E13.WEB.x264-PHOENiX[TGx]/Kung.Fu.2021.S01E13.WEB.x264-PHOENiX.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 7.18e-7,
+                    "path": "Kung.Fu.2021.S01E13.WEB.x264-PHOENiX[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 3,
+                    "size": 4.4e-8,
+                    "path": "Kung.Fu.2021.S01E13.WEB.x264-PHOENiX[TGx]/source.txt"
+                }
+            ]
+        },
+        {
+            "id": 56,
+            "name": "Kung.Fu.2021.S01E13.XviD-AFG [IPT]",
+            "size_total": 0.418288239,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.417735464,
+                    "path": "Kung.Fu.2021.S01E13.XviD-AFG/Kung.Fu.2021.S01E13.XviD-AFG.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001105,
+                    "path": "Kung.Fu.2021.S01E13.XviD-AFG/Kung.Fu.2021.S01E13.XviD-AFG.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000097056,
+                    "path": "Kung.Fu.2021.S01E13.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000364056,
+                    "path": "Kung.Fu.2021.S01E13.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000090558,
+                    "path": "Kung.Fu.2021.S01E13.XviD-AFG/Screens/screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 57,
+            "name": "Kung.Fu.2021.S01E13.XviD-AFG.avi",
+            "size_total": 0.417735464,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.417735464,
+                    "path": "Kung.Fu.2021.S01E13.XviD-AFG.avi"
+                }
+            ]
+        },
+        {
+            "id": 58,
+            "name": "Kung.Fu.2021.S01E13.XviD-AFG[ettv]",
+            "size_total": 0.41773661,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.1e-8,
+                    "path": "Kung.Fu.2021.S01E13.XviD-AFG[ettv]/Download more at www.ettvcentral.com .txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001105,
+                    "path": "Kung.Fu.2021.S01E13.XviD-AFG[ettv]/Kung.Fu.2021.S01E13.XviD-AFG.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.417735464,
+                    "path": "Kung.Fu.2021.S01E13.XviD-AFG[ettv]/Kung.Fu.2021.S01E13.XviD-AFG[ettv].avi"
+                }
+            ]
+        },
+        {
+            "id": 59,
+            "name": "Kung.Fu.2021.S01E13.XviD-AFG[eztv.re].avi",
+            "size_total": 0.417735464,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.417735464,
+                    "path": "Kung.Fu.2021.S01E13.XviD-AFG[eztv.re].avi"
+                }
+            ]
+        },
+        {
+            "id": 60,
+            "name": "Kung.Fu.S01.1080p.x265-ZMNT",
+            "size_total": 8.554819789,
+            "files_total": 14,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000014902,
+                    "path": "Kung.Fu.S01.1080p.x265-ZMNT/Kung.Fu.S01.1080p.x265-ZMNT.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.653197242,
+                    "path": "Kung.Fu.S01.1080p.x265-ZMNT/Kung.Fu.S01E01.1080p.x265-ZMNT.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.627432401,
+                    "path": "Kung.Fu.S01.1080p.x265-ZMNT/Kung.Fu.S01E02.1080p.x265-ZMNT.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 0.614794399,
+                    "path": "Kung.Fu.S01.1080p.x265-ZMNT/Kung.Fu.S01E03.1080p.x265-ZMNT.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.712914854,
+                    "path": "Kung.Fu.S01.1080p.x265-ZMNT/Kung.Fu.S01E04.iNTERNAL.1080p.x265-ZMNT.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.726394726,
+                    "path": "Kung.Fu.S01.1080p.x265-ZMNT/Kung.Fu.S01E05.iNTERNAL.1080p.x265-ZMNT.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 0.702590892,
+                    "path": "Kung.Fu.S01.1080p.x265-ZMNT/Kung.Fu.S01E06.iNTERNAL.1080p.x265-ZMNT.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 0.632675765,
+                    "path": "Kung.Fu.S01.1080p.x265-ZMNT/Kung.Fu.S01E07.iNTERNAL.1080p.x265-ZMNT.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 0.64565564,
+                    "path": "Kung.Fu.S01.1080p.x265-ZMNT/Kung.Fu.S01E08.1080p.x265-ZMNT.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 0.656983798,
+                    "path": "Kung.Fu.S01.1080p.x265-ZMNT/Kung.Fu.S01E09.1080p.x265-ZMNT.mkv"
+                },
+                {
+                    "number": 11,
+                    "size": 0.552772579,
+                    "path": "Kung.Fu.S01.1080p.x265-ZMNT/Kung.Fu.S01E10.1080p.x265-ZMNT.mkv"
+                },
+                {
+                    "number": 12,
+                    "size": 0.755595607,
+                    "path": "Kung.Fu.S01.1080p.x265-ZMNT/Kung.Fu.S01E11.iNTERNAL.1080p.x265-ZMNT.mkv"
+                },
+                {
+                    "number": 13,
+                    "size": 0.618538306,
+                    "path": "Kung.Fu.S01.1080p.x265-ZMNT/Kung.Fu.S01E12.1080p.x265-ZMNT.mkv"
+                },
+                {
+                    "number": 14,
+                    "size": 0.655258678,
+                    "path": "Kung.Fu.S01.1080p.x265-ZMNT/Kung.Fu.S01E13.1080p.x265-ZMNT.mkv"
+                }
+            ]
+        },
+        {
+            "id": 61,
+            "name": "Kung.Fu.s01.WEBRip.XviD.Rus.BaibaKo.tv",
+            "size_total": 7.107914554,
+            "files_total": 13,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.551144442,
+                    "path": "Kung.Fu.s01.WEBRip.XviD.Rus.BaibaKo.tv/Kung.Fu.s01e01.PROPER.WEBRip.XviD.Rus.BaibaKo.tv.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.550246922,
+                    "path": "Kung.Fu.s01.WEBRip.XviD.Rus.BaibaKo.tv/Kung.Fu.s01e02.WEBRip.XviD.Rus.BaibaKo.tv.avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.549824578,
+                    "path": "Kung.Fu.s01.WEBRip.XviD.Rus.BaibaKo.tv/Kung.Fu.s01e03.WEBRip.XviD.Rus.BaibaKo.tv.avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.54871046,
+                    "path": "Kung.Fu.s01.WEBRip.XviD.Rus.BaibaKo.tv/Kung.Fu.s01e04.WEBRip.XviD.Rus.BaibaKo.tv.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.548708452,
+                    "path": "Kung.Fu.s01.WEBRip.XviD.Rus.BaibaKo.tv/Kung.Fu.s01e05.WEBRip.XviD.Rus.BaibaKo.tv.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.537391668,
+                    "path": "Kung.Fu.s01.WEBRip.XviD.Rus.BaibaKo.tv/Kung.Fu.s01e06.WEBRip.XviD.Rus.BaibaKo.tv.avi"
+                },
+                {
+                    "number": 7,
+                    "size": 0.54268959,
+                    "path": "Kung.Fu.s01.WEBRip.XviD.Rus.BaibaKo.tv/Kung.Fu.s01e07.WEBRip.XviD.Rus.BaibaKo.tv.avi"
+                },
+                {
+                    "number": 8,
+                    "size": 0.54891909,
+                    "path": "Kung.Fu.s01.WEBRip.XviD.Rus.BaibaKo.tv/Kung.Fu.s01e08.WEBRip.XviD.Rus.BaibaKo.tv.avi"
+                },
+                {
+                    "number": 9,
+                    "size": 0.533466308,
+                    "path": "Kung.Fu.s01.WEBRip.XviD.Rus.BaibaKo.tv/Kung.Fu.s01e09.WEBRip.XviD.Rus.BaibaKo.tv.avi"
+                },
+                {
+                    "number": 10,
+                    "size": 0.54877259,
+                    "path": "Kung.Fu.s01.WEBRip.XviD.Rus.BaibaKo.tv/Kung.Fu.s01e10.WEBRip.XviD.Rus.BaibaKo.tv.avi"
+                },
+                {
+                    "number": 11,
+                    "size": 0.54830942,
+                    "path": "Kung.Fu.s01.WEBRip.XviD.Rus.BaibaKo.tv/Kung.Fu.s01e11.PROPER.WEBRip.XviD.Rus.BaibaKo.tv.avi"
+                },
+                {
+                    "number": 12,
+                    "size": 0.5498448,
+                    "path": "Kung.Fu.s01.WEBRip.XviD.Rus.BaibaKo.tv/Kung.Fu.s01e12.WEBRip.XviD.Rus.BaibaKo.tv.avi"
+                },
+                {
+                    "number": 13,
+                    "size": 0.549886234,
+                    "path": "Kung.Fu.s01.WEBRip.XviD.Rus.BaibaKo.tv/Kung.Fu.s01e13.WEBRip.XviD.Rus.BaibaKo.tv.avi"
+                }
+            ]
+        },
+        {
+            "id": 62,
+            "name": "Kung.Fu.S01E13.1080p.ColdFilm.mkv",
+            "size_total": 1.688980219,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.688980219,
+                    "path": "Kung.Fu.S01E13.1080p.ColdFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 63,
+            "name": "Kung.Fu.S01E13.400p.ColdFilm.avi",
+            "size_total": 0.529883814,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.529883814,
+                    "path": "Kung.Fu.S01E13.400p.ColdFilm.avi"
+                }
+            ]
+        },
+        {
+            "id": 64,
+            "name": "Kung.Fu.S01E13.480p.x264-ZMNT[ettv]",
+            "size_total": 0.21680741,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.1e-8,
+                    "path": "Kung.Fu.S01E13.480p.x264-ZMNT[ettv]/Download more at www.ettvcentral.com .txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001201,
+                    "path": "Kung.Fu.S01E13.480p.x264-ZMNT[ettv]/Kung.Fu.S01E13.480p.x264-ZMNT.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.215137353,
+                    "path": "Kung.Fu.S01E13.480p.x264-ZMNT[ettv]/Kung.Fu.S01E13.480p.x264-ZMNT[ettv].mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000469643,
+                    "path": "Kung.Fu.S01E13.480p.x264-ZMNT[ettv]/Screens/Kung.Fu.S01E13.480p.x264-ZMNT.Screen0000.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000343572,
+                    "path": "Kung.Fu.S01E13.480p.x264-ZMNT[ettv]/Screens/Kung.Fu.S01E13.480p.x264-ZMNT.Screen0001.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000514406,
+                    "path": "Kung.Fu.S01E13.480p.x264-ZMNT[ettv]/Screens/Kung.Fu.S01E13.480p.x264-ZMNT.Screen0002.png"
+                },
+                {
+                    "number": 7,
+                    "size": 0.000341194,
+                    "path": "Kung.Fu.S01E13.480p.x264-ZMNT[ettv]/Screens/Kung.Fu.S01E13.480p.x264-ZMNT.Screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 65,
+            "name": "Kung.Fu.S01E13.480p.x264-ZMNT[eztv.re].mkv",
+            "size_total": 0.215137353,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.215137353,
+                    "path": "Kung.Fu.S01E13.480p.x264-ZMNT[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 66,
+            "name": "Kung.Fu.S01E13.720p.ColdFilm.mkv",
+            "size_total": 1.364371524,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.364371524,
+                    "path": "Kung.Fu.S01E13.720p.ColdFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 67,
+            "name": "Kung.Fu.S01E13.720p.x265-ZMNT",
+            "size_total": 0.34449164,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.341355746,
+                    "path": "Kung.Fu.S01E13.720p.x265-ZMNT/Kung.Fu.S01E13.720p.x265-ZMNT.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001256,
+                    "path": "Kung.Fu.S01E13.720p.x265-ZMNT/Kung.Fu.S01E13.720p.x265-ZMNT.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000898023,
+                    "path": "Kung.Fu.S01E13.720p.x265-ZMNT/Screens/Kung.Fu.S01E13.720p.x265-ZMNT.Screen0000.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000610705,
+                    "path": "Kung.Fu.S01E13.720p.x265-ZMNT/Screens/Kung.Fu.S01E13.720p.x265-ZMNT.Screen0001.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000948069,
+                    "path": "Kung.Fu.S01E13.720p.x265-ZMNT/Screens/Kung.Fu.S01E13.720p.x265-ZMNT.Screen0002.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000677841,
+                    "path": "Kung.Fu.S01E13.720p.x265-ZMNT/Screens/Kung.Fu.S01E13.720p.x265-ZMNT.Screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 68,
+            "name": "Kung.Fu.S01E13.720p.x265-ZMNT[ettv]",
+            "size_total": 0.344491681,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.1e-8,
+                    "path": "Kung.Fu.S01E13.720p.x265-ZMNT[ettv]/Download more at www.ettvcentral.com .txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001256,
+                    "path": "Kung.Fu.S01E13.720p.x265-ZMNT[ettv]/Kung.Fu.S01E13.720p.x265-ZMNT.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.341355746,
+                    "path": "Kung.Fu.S01E13.720p.x265-ZMNT[ettv]/Kung.Fu.S01E13.720p.x265-ZMNT[ettv].mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000898023,
+                    "path": "Kung.Fu.S01E13.720p.x265-ZMNT[ettv]/Screens/Kung.Fu.S01E13.720p.x265-ZMNT.Screen0000.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000610705,
+                    "path": "Kung.Fu.S01E13.720p.x265-ZMNT[ettv]/Screens/Kung.Fu.S01E13.720p.x265-ZMNT.Screen0001.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000948069,
+                    "path": "Kung.Fu.S01E13.720p.x265-ZMNT[ettv]/Screens/Kung.Fu.S01E13.720p.x265-ZMNT.Screen0002.png"
+                },
+                {
+                    "number": 7,
+                    "size": 0.000677841,
+                    "path": "Kung.Fu.S01E13.720p.x265-ZMNT[ettv]/Screens/Kung.Fu.S01E13.720p.x265-ZMNT.Screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 69,
+            "name": "Kung.Fu.S01E13.720p.x265-ZMNT[eztv.re].mkv",
+            "size_total": 0.341355746,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.341355746,
+                    "path": "Kung.Fu.S01E13.720p.x265-ZMNT[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 70,
+            "name": "Kung.Fu.S01E13.WEBRip.1080p.rus.5.1.HDREZKA.STUDIO.mkv",
+            "size_total": 2.682356331,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.682356331,
+                    "path": "Kung.Fu.S01E13.WEBRip.1080p.rus.5.1.HDREZKA.STUDIO.mkv"
+                }
+            ]
+        },
+        {
+            "id": 71,
+            "name": "Kung.Fu.S01E13.WEBRip.x264-ION10-[rarbg.to]",
+            "size_total": 0.429580223,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.429483708,
+                    "path": "Kung.Fu.S01E13.WEBRip.x264-ION10/Kung.Fu.S01E13.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Kung.Fu.S01E13.WEBRip.x264-ION10/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 9.9e-8,
+                    "path": "Kung.Fu.S01E13.WEBRip.x264-ION10/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 4,
+                    "size": 0.00004667,
+                    "path": "Kung.Fu.S01E13.WEBRip.x264-ION10/Subs/2_English.srt"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000049716,
+                    "path": "Kung.Fu.S01E13.WEBRip.x264-ION10/Subs/3_English.srt"
+                }
+            ]
+        },
+        {
+            "id": 72,
+            "name": "Kung.Fu.S01E13.WEBRip.x264-ION10",
+            "size_total": 0.429580223,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.429483708,
+                    "path": "Kung.Fu.S01E13.WEBRip.x264-ION10/Kung.Fu.S01E13.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Kung.Fu.S01E13.WEBRip.x264-ION10/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 9.9e-8,
+                    "path": "Kung.Fu.S01E13.WEBRip.x264-ION10/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 4,
+                    "size": 0.00004667,
+                    "path": "Kung.Fu.S01E13.WEBRip.x264-ION10/Subs/2_English.srt"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000049716,
+                    "path": "Kung.Fu.S01E13.WEBRip.x264-ION10/Subs/3_English.srt"
+                }
+            ]
+        },
+        {
+            "id": 73,
+            "name": "Kung.Fu.S01E13.WEBRip.x264-ION10[eztv.re].mp4",
+            "size_total": 0.429483708,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.429483708,
+                    "path": "Kung.Fu.S01E13.WEBRip.x264-ION10[eztv.re].mp4"
+                }
+            ]
+        },
+        {
+            "id": 74,
+            "name": "www.SceneTime.com   -    Kung Fu 2021 S01E13 XviD-AFG",
+            "size_total": 0.418288324,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.417735464,
+                    "path": "www.SceneTime.com   -    Kung Fu 2021 S01E13 XviD-AFG/Kung.Fu.2021.S01E13.XviD-AFG.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001105,
+                    "path": "www.SceneTime.com   -    Kung Fu 2021 S01E13 XviD-AFG/Kung.Fu.2021.S01E13.XviD-AFG.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000097056,
+                    "path": "www.SceneTime.com   -    Kung Fu 2021 S01E13 XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000364056,
+                    "path": "www.SceneTime.com   -    Kung Fu 2021 S01E13 XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000090558,
+                    "path": "www.SceneTime.com   -    Kung Fu 2021 S01E13 XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 8.5e-8,
+                    "path": "www.SceneTime.com   -    Kung Fu 2021 S01E13 XviD-AFG/Torrent Downloaded From www.SceneTime.com.txt"
+                }
+            ]
+        }
+    ],
+    "collection_cumulative_by_btiha": [
+        {
+            "id": 86,
+            "name": "multi-btih-11-3-x-[rutor.is]Kung_Fu._Season_01._By_Wild_Cat",
+            "btih": "42f118474e9b0b47a2379ba8b37832dcc47e289a",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 16.002736787,
+            "creation": "2021-07-25T07:14:17.000000000Z,qBittorrent v4.3.6,http://rutor.is/torrent/826699",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 98960,
+            "uuploaders": 4888
+        },
+        {
+            "id": 85,
+            "name": "multi-btih-10-2-x-[rutor.is]Kung.Fu.2021.S01.720p.Kerob",
+            "btih": "53f1cd80119cc81b3eab3c9b9f17b42e40aab810",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 17.776381576,
+            "creation": "2021-07-22T09:03:34.000000000Z,Tixati v2.84,http://rutor.is/torrent/809696",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 98637,
+            "uuploaders": 2314
+        },
+        {
+            "id": 75,
+            "name": "multi-btih-0-2-x-Kung-Fu-S01E13-480p-x264-ZMNT[ettv]",
+            "btih": "984ba12d1ec41e9edfb07def5be7c8cc59824a86",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.21680741,
+            "creation": "2021-07-22T18:15:02.000000000Z,EtHD,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 93608,
+            "uuploaders": 2426
+        },
+        {
+            "id": 79,
+            "name": "multi-btih-4-2-x-Kung.Fu.2021.S01E13.720p.WEB.H264-PLZPROPER[rarbg]",
+            "btih": "b8ae875426c4d302aa303878ee944480e1dc860d",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.792564611,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 82717,
+            "uuploaders": 5661
+        },
+        {
+            "id": 76,
+            "name": "multi-btih-1-2-x-Kung-Fu-S01E13-720p-x265-ZMNT[ettv]",
+            "btih": "6c823cf68c7c5306e2d4e8378a58027d219113fb",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.344491681,
+            "creation": "2021-07-22T18:15:06.000000000Z,EtHD,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 79450,
+            "uuploaders": 2636
+        },
+        {
+            "id": 58,
+            "name": "Kung.Fu.2021.S01E13.XviD-AFG[ettv]",
+            "btih": "a9d237634c5b94c1700c07f374e7a1984bc7e63c",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.41773661,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 77040,
+            "uuploaders": 196
+        },
+        {
+            "id": 77,
+            "name": "multi-btih-2-2-x-Kung.Fu.2021.S01.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]",
+            "btih": "213407382853dff10adad6f320b8fecd4012b269",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 36.143714807,
+            "creation": "2021-07-22T08:38:11.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 72000,
+            "uuploaders": 9330
+        },
+        {
+            "id": 32,
+            "name": "Kung.Fu.2021.S01E13.720p.HEVC.x265-MeGusta [IPT]",
+            "btih": "df0c557b91ea93f14bee6cd97169708f1774df86",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.230707496,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 71614,
+            "uuploaders": 1847
+        },
+        {
+            "id": 59,
+            "name": "Kung.Fu.2021.S01E13.XviD-AFG[eztv.re].avi",
+            "btih": "a38c78f0d1e78fe80e3daae004fd78fdd92fbee9",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.417735464,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 70804,
+            "uuploaders": 1356
+        },
+        {
+            "id": 80,
+            "name": "multi-btih-5-2-x-Kung.Fu.2021.S01E13.Transformation.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]",
+            "btih": "d6d2adf0c2e152a3aae735f60cb6d9b6a3512ba6",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.720644598,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 69464,
+            "uuploaders": 504
+        },
+        {
+            "id": 56,
+            "name": "Kung.Fu.2021.S01E13.XviD-AFG [IPT]",
+            "btih": "9ed4ca96bec3038be8675c20b1fcf8e8bc7c64b9",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.418288239,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 68662,
+            "uuploaders": 1765
+        },
+        {
+            "id": 31,
+            "name": "Kung.Fu.2021.S01E13.1080p.WEB.H264-PLZPROPER[TGx]",
+            "btih": "51a88f7874bb45a5ce5bc5cd11b8aa0832c2f06c",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.549033856,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 67881,
+            "uuploaders": 785
+        },
+        {
+            "id": 83,
+            "name": "multi-btih-8-2-x-[rutor.is]Kung.Fu.2021.S01.1080p.Kerob",
+            "btih": "dde246ce10b7ceca69fe59c344bf0847d449263e",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 29.200664204,
+            "creation": "2021-07-22T09:01:06.000000000Z,Tixati v2.84,http://rutor.is/torrent/809695",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 63393,
+            "uuploaders": 3936
+        },
+        {
+            "id": 60,
+            "name": "Kung.Fu.S01.1080p.x265-ZMNT",
+            "btih": "830701486e37e49eb1bf47c53790e5345349f154",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 8.554819789,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 59822,
+            "uuploaders": 1680
+        },
+        {
+            "id": 22,
+            "name": "Kung.Fu.2021.S01.COMPLETE.WEBRip.x264-ION10",
+            "btih": "2b45eeb884becebaf81eed391521bdfb2c18611d",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 5.561705592,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 59106,
+            "uuploaders": 169
+        },
+        {
+            "id": 24,
+            "name": "Kung.Fu.2021.S01E12.WEB.x264-PHOENiX",
+            "btih": "cd34ee21a01023bf236bc821bb24a1dcf023f479",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.263149276,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 57930,
+            "uuploaders": 1227
+        },
+        {
+            "id": 81,
+            "name": "multi-btih-6-2-x-Kung.Fu.2021.S01E13.Transformation.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]",
+            "btih": "0813cc49e0fee4e37eb3234eeef394ec91379f83",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.335289109,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 57624,
+            "uuploaders": 432
+        },
+        {
+            "id": 62,
+            "name": "Kung.Fu.S01E13.1080p.ColdFilm.mkv",
+            "btih": "98349ce70cdcfa2358fe836f8b640cf69067e96a",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 1.688980219,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 57385,
+            "uuploaders": 7152
+        },
+        {
+            "id": 54,
+            "name": "Kung.Fu.2021.S01E13.WEB.x264-PHOENiX [IPT]",
+            "btih": "0eb370cbcc9064bc92dc72490e2ea9e48f06e3d3",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.301536275,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 56332,
+            "uuploaders": 170
+        },
+        {
+            "id": 23,
+            "name": "Kung.Fu.2021.S01.WEBRip.x264-ION10-[rarbg.to]",
+            "btih": "c0a47337b45eaf0f175604e91aaeae98cfa12460",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 5.561705623,
+            "creation": "2021-07-22T08:44:38.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 55631,
+            "uuploaders": 533
+        },
+        {
+            "id": 73,
+            "name": "Kung.Fu.S01E13.WEBRip.x264-ION10[eztv.re].mp4",
+            "btih": "6e0ba5c866c610d683f764acee1fb495b4c072b1",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.429483708,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 55537,
+            "uuploaders": 2123
+        },
+        {
+            "id": 82,
+            "name": "multi-btih-7-2-x-Kung.Fu.S01E13.WEBRip.x264-ION10-[rarbg.to]",
+            "btih": "8273728a1bdf8d672082c20e552079d0de2f6b3a",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.429580223,
+            "creation": "2021-07-22T05:15:53.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 52921,
+            "uuploaders": 3264
+        },
+        {
+            "id": 27,
+            "name": "Kung.Fu.2021.S01E13.1080p.WEB.H264-PLZPROPER [IPT]",
+            "btih": "fc01cae48a25a8f135cae3cce9573a583414d1df",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.549035239,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 51041,
+            "uuploaders": 3988
+        },
+        {
+            "id": 36,
+            "name": "Kung.Fu.2021.S01E13.720p.WEB.H264-PLZPROPER[ettv]",
+            "btih": "a7f2afe27c773e0544ab255835349086aeae47e5",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.812188205,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 49328,
+            "uuploaders": 357
+        },
+        {
+            "id": 43,
+            "name": "Kung.Fu.2021.S01E13.HDTV.Subtitulado.Esp.SC.mp4",
+            "btih": "fc26874579aee7ae96658245e92f9487bc47a0c3",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.462214551,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 49320,
+            "uuploaders": 3356
+        },
+        {
+            "id": 63,
+            "name": "Kung.Fu.S01E13.400p.ColdFilm.avi",
+            "btih": "b22b9cc27437f972e4d42201fb3ffeefef93bcd8",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.529883814,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 48572,
+            "uuploaders": 3165
+        },
+        {
+            "id": 26,
+            "name": "Kung.Fu.2021.S01E13.1080p.HEVC.x265-MeGusta[eztv.re].mkv",
+            "btih": "a9e72cf55382205243f55807085ad09a5d9adbc9",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.331313452,
+            "creation": "2021-07-22T06:25:01.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 48547,
+            "uuploaders": 225
+        },
+        {
+            "id": 53,
+            "name": "Kung.Fu.2021.S01E13.Transformation.AMZN.WEB-DL.H264-NTb[eztv.re].mkv",
+            "btih": "8261e5188761f7a0daf9375292cdfdfa2edb24c7",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.451859612,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 45645,
+            "uuploaders": 133
+        },
+        {
+            "id": 57,
+            "name": "Kung.Fu.2021.S01E13.XviD-AFG.avi",
+            "btih": "47b860ce31b8a93c77939aa5912ff3ef1b2dc501",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.417735464,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 45460,
+            "uuploaders": 184
+        },
+        {
+            "id": 41,
+            "name": "Kung.Fu.2021.S01E13.720p.WEB.x265-MiNX[TGx]",
+            "btih": "39f404ac15912a7fa6cac2ccb78c4c73b310a806",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.231575299,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 44758,
+            "uuploaders": 1491
+        },
+        {
+            "id": 42,
+            "name": "Kung.Fu.2021.S01E13.AAC.MP4-Mobile [IPT]",
+            "btih": "6c8dc6e1dc9ec0b17ace44ab36c340665d69b266",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.182375367,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 41296,
+            "uuploaders": 1463
+        },
+        {
+            "id": 78,
+            "name": "multi-btih-3-2-x-Kung.Fu.2021.S01E13.1080p.WEB.H264-PLZPROPER[rarbg]",
+            "btih": "d21f2ace48c58e3acebcc0ba2f9b25a145b3d5b6",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.549033267,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 41175,
+            "uuploaders": 224
+        },
+        {
+            "id": 47,
+            "name": "Kung.Fu.2021.S01E13.Transformation.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[TGx]",
+            "btih": "554463c3493c80f6182bf5ba5be72533c2d1d3cb",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.720645187,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 40732,
+            "uuploaders": 8517
+        },
+        {
+            "id": 61,
+            "name": "Kung.Fu.s01.WEBRip.XviD.Rus.BaibaKo.tv",
+            "btih": "6b19f5f14f6f921bbf31e8f9cf849f63c7105d5f",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 7.107914554,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 40204,
+            "uuploaders": 115
+        },
+        {
+            "id": 14,
+            "name": "Kung.Fu.(Season 01).TVShows",
+            "btih": "32549efa075b3b7058a3510263ee3620143415fe",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 6.841549596,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 38906,
+            "uuploaders": 405
+        },
+        {
+            "id": 51,
+            "name": "Kung.Fu.2021.S01E13.Transformation.720p.AMZN.WEBRip.DDP5.1.x264-NTb[TGx]",
+            "btih": "f22cf9fdf55d285616d486fb3a393b40706fd505",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.335289698,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 38424,
+            "uuploaders": 2204
+        },
+        {
+            "id": 8,
+            "name": "Kung Fu (2021) - Temporada 1 [HDTV][Cap.113][Castellano][www.PCTmix.com]",
+            "btih": "7cef24149a50f82815603d984abf78f96ddf64a6",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.5013205,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 38158,
+            "uuploaders": 168
+        },
+        {
+            "id": 66,
+            "name": "Kung.Fu.S01E13.720p.ColdFilm.mkv",
+            "btih": "68871fb688ffd1dcc2ce16ea30760b07b3281a4d",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 1.364371524,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 37490,
+            "uuploaders": 2497
+        },
+        {
+            "id": 9,
+            "name": "Kung Fu 1X13 HDTV XviD Castellano www.torrent.nom.es",
+            "btih": "4d6e0f42d808cf498a9ec4cc2a700c8fc98274ef",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.501320832,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 36269,
+            "uuploaders": 2329
+        },
+        {
+            "id": 67,
+            "name": "Kung.Fu.S01E13.720p.x265-ZMNT",
+            "btih": "d568b2f9a6311ab319c426ea6a79a3dc72d4578a",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.34449164,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 36173,
+            "uuploaders": 311
+        },
+        {
+            "id": 33,
+            "name": "Kung.Fu.2021.S01E13.720p.HEVC.x265-MeGusta.mkv",
+            "btih": "dafe15f18ef7856050280dbba1cf4be07b810d1b",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.223552111,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 34230,
+            "uuploaders": 2199
+        },
+        {
+            "id": 40,
+            "name": "Kung.Fu.2021.S01E13.720p.WEB.H264-PLZPROPER[TGx]",
+            "btih": "f664b34a08d546081c4fc17c00ba24077fcfad7d",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.792565079,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 33030,
+            "uuploaders": 100
+        },
+        {
+            "id": 55,
+            "name": "Kung.Fu.2021.S01E13.WEB.x264-PHOENiX[TGx]",
+            "btih": "5a451219ce58b08247ea2b94a8b2349f682f25f4",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.300150069,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 29468,
+            "uuploaders": 189
+        },
+        {
+            "id": 35,
+            "name": "Kung.Fu.2021.S01E13.720p.WEB.H264-PLZPROPER [IPT]",
+            "btih": "2321b29db398bfaf8b1ded2c167ceed586e22f41",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.812189037,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 27651,
+            "uuploaders": 361
+        },
+        {
+            "id": 7,
+            "name": "Kung Fu (2021) - Temporada 1 [HDTV 720p][Cap.113][AC3 5.1 Castellano][www.PCTmix.com]",
+            "btih": "6d08c15bd40c6226093a29183b3b81fd19aab7d8",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 1.693757115,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 27148,
+            "uuploaders": 2267
+        },
+        {
+            "id": 84,
+            "name": "multi-btih-9-2-x-[rutor.is]Kung.Fu.2021.S01.400p.Kerob",
+            "btih": "e4a29993a3a7fbc5445337eba97ea55a147669bc",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 6.167388678,
+            "creation": "2021-07-22T09:04:21.000000000Z,Tixati v2.84,http://rutor.is/torrent/809698",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 25263,
+            "uuploaders": 1704
+        },
+        {
+            "id": 1,
+            "name": "[ OxTorrent.pe ] Kung.Fu.2021.S01E13.VOSTFR.WEB.h264-EXTREME.mkv",
+            "btih": "b6bf6230b3e83ac1b3b6dcd5d7dcb881af3c23db",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.428507231,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 24188,
+            "uuploaders": 850
+        },
+        {
+            "id": 70,
+            "name": "Kung.Fu.S01E13.WEBRip.1080p.rus.5.1.HDREZKA.STUDIO.mkv",
+            "btih": "05a29c254310ffa31b3d41b645969c06b4885ee5",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 2.682356331,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 23854,
+            "uuploaders": 345
+        },
+        {
+            "id": 37,
+            "name": "kung.fu.2021.s01e13.720p.web.h264-plzproper[eztv.re].mkv",
+            "btih": "d7f6fb3773bf28095d0f61b9b8704c0eda598c3f",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.792564361,
+            "creation": "2021-07-22T04:59:03.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 22133,
+            "uuploaders": 1165
+        },
+        {
+            "id": 69,
+            "name": "Kung.Fu.S01E13.720p.x265-ZMNT[eztv.re].mkv",
+            "btih": "e6d1bc08fc85a44b42566a25dedbbde5b150380b",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.341355746,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 22012,
+            "uuploaders": 2108
+        },
+        {
+            "id": 52,
+            "name": "Kung.Fu.2021.S01E13.Transformation.720p.WEBRip.2CH.x265.HEVC-PSA.mkv",
+            "btih": "3deaa6c23ffd3433359f3b621ed1dc6a07ff935a",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.222856115,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 20787,
+            "uuploaders": 382
+        },
+        {
+            "id": 2,
+            "name": "[HR] Kung Fu S01 (2021) [PV 1080p HEVC E-OPUS 5.1]~HR-DR",
+            "btih": "0bb594224ce866c2cdc2b8031f7ad5a38236383f",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 7.325678643,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 17493,
+            "uuploaders": 2308
+        },
+        {
+            "id": 74,
+            "name": "www.SceneTime.com   -    Kung Fu 2021 S01E13 XviD-AFG",
+            "btih": "c8244b11fde1b18273a59a194b168dbe77430436",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.418288324,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 16904,
+            "uuploaders": 75
+        },
+        {
+            "id": 65,
+            "name": "Kung.Fu.S01E13.480p.x264-ZMNT[eztv.re].mkv",
+            "btih": "ca72a9f257d7ce48976d1e8d4bca4727c0e4ab84",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.215137353,
+            "creation": "2021-07-22T16:21:51.000000000Z,Torrent RW PHP Class - http://github.com/adriengibrat/torrent-rw,Visit us: https://eztv.re/ - Bitcoin: 1EZTVtpeNttqdDayh3D98nfQYybeZhu5YV",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 16552,
+            "uuploaders": 1906
+        },
+        {
+            "id": 44,
+            "name": "Kung.Fu.2021.S01E13.Transformation.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[eztv.re].mkv",
+            "btih": "00650a22414b41bb1a4d7e9983bfbc967ae09382",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.720644469,
+            "creation": "2021-07-22T05:31:18.000000000Z,Torrent RW PHP Class - http://github.com/adriengibrat/torrent-rw,Visit us: https://eztv.re/ - Bitcoin: 1EZTVtpeNttqdDayh3D98nfQYybeZhu5YV",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 13074,
+            "uuploaders": 145
+        },
+        {
+            "id": 48,
+            "name": "Kung.Fu.2021.S01E13.Transformation.720p.AMZN.WEBRip.DDP5.1.x264-NTb[eztv.re].mkv",
+            "btih": "e795aef2311e61f44273e67ea7fce2345ac16ff0",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.33528898,
+            "creation": "2021-07-22T05:32:20.000000000Z,Torrent RW PHP Class - http://github.com/adriengibrat/torrent-rw,Visit us: https://eztv.re/ - Bitcoin: 1EZTVtpeNttqdDayh3D98nfQYybeZhu5YV",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1046,
+            "uuploaders": 273
+        },
+        {
+            "id": 25,
+            "name": "Kung.Fu.2021.S01E13.1080p.HEVC.x265-MeGusta [IPT]",
+            "btih": "a6f62adbbd7753f0f0e1060d57c9fcbc066184c4",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.345839593,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 773,
+            "uuploaders": 388
+        },
+        {
+            "id": 19,
+            "name": "Kung.Fu.2021.S01.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]",
+            "btih": "565845ff7c88b8fac0b86b5ad8715433c0d6c92b",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 16.608402089,
+            "creation": "2021-07-22T08:37:50.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 537,
+            "uuploaders": 266
+        },
+        {
+            "id": 21,
+            "name": "Kung.Fu.2021.S01.COMPLETE.720p.AMZN.WEBRip.x264-GalaxyTV[TGx]",
+            "btih": "fe6785d4bdb0339d71e15211c78bf54743854118",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 3.488725381,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 482,
+            "uuploaders": 270
+        },
+        {
+            "id": 28,
+            "name": "kung.fu.2021.s01e13.1080p.web.h264-plzproper[eztv.re].mkv",
+            "btih": "917c3de9b5544d3607e865041f0b408dd0412b56",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.549033016,
+            "creation": "2021-07-22T05:08:10.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 231,
+            "uuploaders": 137
+        },
+        {
+            "id": 34,
+            "name": "Kung.Fu.2021.S01E13.720p.HEVC.x265-MeGusta[eztv.re].mkv",
+            "btih": "c08f3c19910ea0dc1c06841e064980d53e099080",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.223552111,
+            "creation": "2021-07-22T05:13:24.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 147,
+            "uuploaders": 103
+        }
+    ]
+}

@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt7475590",
+    "imdb_id": "tt7475590",
+    "revision": "576c2b15dd1e39c011f3278699f852aced240cd0",
+    "wikidata_id": "Q94622906",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kung_Fu_(2021_TV_series)"
+  },
+  "coverage_sha256": "7a9c7e37940831b30935ad6d32cdc35c6057d7c3b47afe8de0c1cd5b95e6a060",
+  "generated_at": "2026-09-03T18:28:44.269608+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2021-archives/kung-fu-113.cache/cache.20210929.tar.xz",
+      "sha256": "dede4e06a3ab23f9405300d862661c6299593b05de1fd3dd321b8eddcba08bd9",
+      "size": 232484492
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-coverage-evidence/kung-fu-113.md",
+      "sha256": "d245ee34afa19136b1b897fcda648ac6d4ea312a50f7171ab822aba380ce4b21",
+      "size": 547
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-cache-stream-receipts/kung-fu-113.json",
+      "sha256": "6386b106aa25d166f4686d89a192c567f9b1050ab58b9ed175443dbf2f2f2e65",
+      "size": 2432
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-product-receipts/kung-fu-113.json",
+      "sha256": "0e4e53c4b005e0136eca045992c9d8c839e8f9cee2c4be645e9f7f6583b505ad",
+      "size": 363
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-control/worker-map.json",
+      "sha256": "8007c46b300872bb9f00ced6cb29d0e2aa49e73a513f4c30d0e8765a7e08ef2c",
+      "size": 89669
+    }
+  },
+  "media_object": "kung-fu-113",
+  "published_files": {
+    "data/csv/bytes/kung-fu-113-cumulative-detail.2021-btiha-itemized-by-bytes.csv": "25b8f50bafc069cca54e40e511d33db4f2ed2dd0e9ecfbf56b2418687824b46e",
+    "docs/itemized/figures/kung-fu-113-carto-4k.webp": "6d7ea8cb7fef25ca15072bbc4eed718a6aeabe50c0dac6e34a558a79a7ae2ac3",
+    "docs/itemized/figures/kung-fu-113-carto.png": "9259bd7df496116def2d6b3a51808fbbc013a0132ccd45a5df0542615f5a93a1",
+    "docs/itemized/figures/kung-fu-113-cumulative-detail-btiha-itemized-by-bytes.svg": "433608f7d7e4a9e90db49314cf5d1f2427734ff091af138a3e4699db9329345a",
+    "docs/itemized/figures/kung-fu-113-data-ge-1080p-4k.webp": "44792882520c4c1b3f2d0b66677ce7517eb085f7f9cca8c9bec91c5bd6803dfd",
+    "docs/itemized/figures/kung-fu-113-data-ge-1080p.webp": "9ed026752a01cd654898549cc6f2465a261e8c436923767c0b55474f615fcb6f",
+    "docs/itemized/figures/kung-fu-113-data-lt-1080p-4k.webp": "7c0f1d9000a4be61f2986f54aab3d727dda8f7d132483a6abe9a8ca3de8759e8",
+    "docs/itemized/figures/kung-fu-113-data-lt-1080p.webp": "f24a4d78331b8570c14b9f48974f737dc5b6d70cfae7c74895d77cf14f08c331",
+    "docs/itemized/figures/kung-fu-113-downloads-by-day-day.svg": "95dad1274af6d277bc3f9ee4693d6465666e1b0929adcb41c99ef192dc9e7fa5",
+    "docs/itemized/figures/kung-fu-113-downloads-by-week-kung-fu-113-week.svg": "17218f2f74b95db9661fe8091c635fea1f76e90bfef8b260ce1e6b042f48bac4",
+    "docs/itemized/kung-fu-113-sample-cache-audit.md": "2f1f63d4dcb40a1820d2c849811594ff4d9770788ebbe977bd3c37cbf4584d91",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "84873e743da03017b556934ba0f591c7ba6b051e",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/kung-fu-113/tmp/kung-fu-113-cumulative-btiha.geojson",
+        "sha256": "a47d1e6866d703b19940715479ee5e30fdcce7177ef6467094f1ccf79b7d8011",
+        "size": 44870672
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/kung-fu-113/tmp/kung-fu-113-cumulative-btiha-media-objects.json",
+        "sha256": "8d3da304cb84a396a85abe3367661096150825fb8503b326516d98d1ad1149c7",
+        "size": 165895
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "kung-fu-113",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          68.0,
+          68.0,
+          65.0,
+          55.0,
+          54.0,
+          48.0,
+          41.0,
+          41.0,
+          36.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Columbus",
+          "Ashburn",
+          "London",
+          "New York City",
+          "Seattle",
+          "Tokyo",
+          "Seoul",
+          "Leipzig",
+          "Independence",
+          "Shanghai"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          69.0,
+          58.0,
+          58.0,
+          54.0,
+          46.0,
+          45.0,
+          40.0,
+          36.0,
+          34.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Columbus",
+          "Ashburn",
+          "London",
+          "New York City",
+          "Seattle",
+          "Seoul",
+          "Tokyo",
+          "Independence",
+          "Shanghai",
+          "Leipzig"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 24,
+        "y_tick_labels": 20
+      },
+      "histogram": {
+        "bars": 17,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 10,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "84873e743da03017b556934ba0f591c7ba6b051e",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "903f8276e5f31a4387bb88a459e5012c544222f6",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "576c2b15dd1e39c011f3278699f852aced240cd0"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2021"
+}
