@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt6704972",
+    "imdb_id": "tt6704972",
+    "revision": "576c2b15dd1e39c011f3278699f852aced240cd0",
+    "wikidata_id": "Q55635599",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Underground_Railroad_(miniseries)"
+  },
+  "coverage_sha256": "05362f58e7f6eacc668635d3bacfe4ca16da770a061611b62b55625746ced6ec",
+  "generated_at": "2026-09-03T22:01:47.440962+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2021-archives/underground-railroad-01.cache/cache.20210722.tar.xz",
+      "sha256": "9e8a55576cb6b9b5679588aec53c46cd55ca77af8a78005c29aea003b7cb4aa6",
+      "size": 498017356
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-coverage-evidence/underground-railroad-01.md",
+      "sha256": "6e7a4033ad079a6d11ea10a2a7bc778b6ebe8363986687ee43dc60a6841d1b3e",
+      "size": 840
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-cache-stream-receipts/underground-railroad-01.json",
+      "sha256": "0068be4a6cc71fe170c1f8e837b81328441891395ed6e0e780cf99f5f82e9cf7",
+      "size": 2474
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-product-receipts/underground-railroad-01.json",
+      "sha256": "29678b24d6defaa7a1f9c82e9e4abdf464a8bf9629e9294bfe487a350757e0ef",
+      "size": 374
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-control/worker-map.json",
+      "sha256": "8007c46b300872bb9f00ced6cb29d0e2aa49e73a513f4c30d0e8765a7e08ef2c",
+      "size": 89669
+    }
+  },
+  "media_object": "underground-railroad-01",
+  "published_files": {
+    "data/csv/bytes/underground-railroad-01-cumulative-detail.2021-btiha-itemized-by-bytes.csv": "37f7560b6c82d42bcf196d432e47f2264305ca2e2c0d5a86a3041d7177069639",
+    "docs/itemized/figures/underground-railroad-01-carto-4k.webp": "d77d2afc8d74ecd405fcdc74531df04971bca434920daea387ce310f94c5f2cb",
+    "docs/itemized/figures/underground-railroad-01-carto.png": "abd7536555505f6775dc08ab2cbe9c833df169471eecf99a3e2a287696320632",
+    "docs/itemized/figures/underground-railroad-01-cumulative-detail-btiha-itemized-by-bytes.svg": "3f5b348326c6cdceaa4b07821ab196ad9e8237c6d7a1bf82948b434b5cc172f0",
+    "docs/itemized/figures/underground-railroad-01-data-ge-1080p-4k.webp": "d5451aadd9c362c97856d591f2fa572988f9d047db246ad232873ab36667aa68",
+    "docs/itemized/figures/underground-railroad-01-data-ge-1080p.webp": "3b9b7ee819416a51ded8b79623af19367e908bd819521eb8f31dba07c96ba0cd",
+    "docs/itemized/figures/underground-railroad-01-data-lt-1080p-4k.webp": "004fe9e76da61def593624dcaf58f3725148c907be82e1141118ca00b2395693",
+    "docs/itemized/figures/underground-railroad-01-data-lt-1080p.webp": "b925b9ce0b08c281c3eb352b2b6f9f8a23324928bdc9b5899ef7129d176faaa1",
+    "docs/itemized/figures/underground-railroad-01-downloads-by-day-day.svg": "d4e4981f04c2574cfcd0a55800f79da0f44de9c37c31efa07934caf8708cf89f",
+    "docs/itemized/figures/underground-railroad-01-downloads-by-week-underground-railroad-01-week.svg": "fc714de72cd05abc7beb324b24ace8e9cab9ce440b32df1e10aba48b37ae929b",
+    "docs/itemized/underground-railroad-01-sample-cache-audit.md": "b45574b4d36f8c1c33a8665d2e15a8a0ac8ac679556e8298b1ee49f18c1fb331",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "84873e743da03017b556934ba0f591c7ba6b051e",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/underground-railroad-01/tmp/underground-railroad-01-cumulative-btiha.geojson",
+        "sha256": "09f073fe8e5d77f9603f8cbfe9b9b3c43f62e4456331e05fb649071a88e12a8b",
+        "size": 103199485
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/underground-railroad-01/tmp/underground-railroad-01-cumulative-btiha-media-objects.json",
+        "sha256": "5cbb828d88a1d32e8884f715b921cde57352c103f89c40b58354a87bcb37a5cf",
+        "size": 679592
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "underground-railroad-01",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          79.0,
+          64.0,
+          62.0,
+          57.0,
+          53.0,
+          47.0,
+          41.0,
+          37.0,
+          29.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Columbus",
+          "Ashburn",
+          "London",
+          "New York City",
+          "Tokyo",
+          "Seattle",
+          "Seoul",
+          "Independence",
+          "Shanghai",
+          "Beijing"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          74.0,
+          60.0,
+          60.0,
+          52.0,
+          50.0,
+          44.0,
+          41.0,
+          36.0,
+          28.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Columbus",
+          "Ashburn",
+          "London",
+          "New York City",
+          "Seattle",
+          "Tokyo",
+          "Seoul",
+          "Independence",
+          "Shanghai",
+          "Beijing"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 20
+      },
+      "histogram": {
+        "bars": 20,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 9,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "84873e743da03017b556934ba0f591c7ba6b051e",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "903f8276e5f31a4387bb88a459e5012c544222f6",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "576c2b15dd1e39c011f3278699f852aced240cd0"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2021"
+}
