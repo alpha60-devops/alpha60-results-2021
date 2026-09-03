@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt13623580",
+    "imdb_id": "tt13623580",
+    "revision": "576c2b15dd1e39c011f3278699f852aced240cd0",
+    "wikidata_id": "Q104902493",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Reservation_Dogs"
+  },
+  "coverage_sha256": "901fb5d6cc307c8c98b0d10bee2794f14fb8ada9e652b630fe4fd6a4a7e8758f",
+  "generated_at": "2026-09-03T22:32:47.844553+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2021-archives/reservation-dogs-101.cache/cache.20211017.tar.xz",
+      "sha256": "72d8dcddff7e164e25c943ff70fcb930e4290d21c1ea22942477e04359d81bc2",
+      "size": 325504044
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-coverage-evidence/reservation-dogs-101.md",
+      "sha256": "176a23fa476ac62ed2972b0e8b535adfd1e5a6ebdf4d1ccbb4b51b7f2e3fd701",
+      "size": 556
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-cache-stream-receipts/reservation-dogs-101.json",
+      "sha256": "b5c94cf97b9c05bfd8fd49d7bc999d679eaaebca9655d999d22f750c0e221f69",
+      "size": 2459
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-product-receipts/reservation-dogs-101.json",
+      "sha256": "4221e05f1fb94b40399ef6c30119d4c82a3153519aa47a52543afef0178968b9",
+      "size": 372
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-control/worker-map.json",
+      "sha256": "7579d04c5dcdc59b240a95af1b60b0ea4d32d602a822e3a67b7b6f311e3066b9",
+      "size": 91326
+    }
+  },
+  "media_object": "reservation-dogs-101",
+  "published_files": {
+    "data/csv/bytes/reservation-dogs-101-cumulative-detail.2021-btiha-itemized-by-bytes.csv": "e7a79cc2d410475ba5d9ac9442bbf9c31bf2569fc3cf58905aa23c71f911b5f7",
+    "docs/itemized/figures/reservation-dogs-101-carto-4k.webp": "f18fec6e07dc400b8e85813cbdb8477c1bd187a1274c64f49cf21ace5c807fe6",
+    "docs/itemized/figures/reservation-dogs-101-carto.png": "3a9b276b3a694cff40668c0e12ff8985c777fda579142845d7f8e56af6f9724b",
+    "docs/itemized/figures/reservation-dogs-101-cumulative-detail-btiha-itemized-by-bytes.svg": "2cbd04aa92f5060653dbc036157ba4f7194b40283c211db6234abb8440b3916e",
+    "docs/itemized/figures/reservation-dogs-101-data-ge-1080p-4k.webp": "1d79606e33cdeb532a8d28c0da4c92148d89b7c7bf5d24e538774019d3005c03",
+    "docs/itemized/figures/reservation-dogs-101-data-ge-1080p.webp": "e0c5594ed5469dbc801870dc62a0fd3940015b73c940f7bdc1d8477cc859aeb5",
+    "docs/itemized/figures/reservation-dogs-101-data-lt-1080p-4k.webp": "8c193d7152323610df1ca7fe8a2f27a321f25c8b572e285913e73baf69c93a12",
+    "docs/itemized/figures/reservation-dogs-101-data-lt-1080p.webp": "fb313aadc5de19664a1155cc393e67426bfb77e0412f7d5e21c68899f5ba8d70",
+    "docs/itemized/figures/reservation-dogs-101-downloads-by-day-day.svg": "990f42f8dde53e5412d5239a90c335b0df2fb4778067e18b9ffb6b28e1a787ee",
+    "docs/itemized/figures/reservation-dogs-101-downloads-by-week-reservation-dogs-101-week.svg": "836f5c01d5861e48a989ddb439a2a51eece2aee44ffa319215966a806e1d0175",
+    "docs/itemized/reservation-dogs-101-sample-cache-audit.md": "e84338194f5895d02c3165ca6cf9ea9100c8a3ba045adf80c052a23f8e2f9382",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "84873e743da03017b556934ba0f591c7ba6b051e",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/reservation-dogs-101/tmp/reservation-dogs-101-cumulative-btiha.geojson",
+        "sha256": "f46fba5c58f16ba7cab1cdb497027a8f269d127ab15ddc9856b5c09d1164f16d",
+        "size": 47418510
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/reservation-dogs-101/tmp/reservation-dogs-101-cumulative-btiha-media-objects.json",
+        "sha256": "4dadf25d9598dc6340c6880831b43741051c4c41d13f0ebf07d55ff109f3c625",
+        "size": 123568
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "reservation-dogs-101",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          55.0,
+          52.0,
+          43.0,
+          42.0,
+          39.0,
+          36.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Ashburn",
+          "Columbus",
+          "London",
+          "Moscow",
+          "New York City",
+          "Seoul",
+          "Seattle",
+          "Independence",
+          "Shanghai",
+          "Sydney"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          75.0,
+          74.0,
+          62.0,
+          50.0,
+          45.0,
+          38.0,
+          34.0,
+          33.0,
+          33.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Ashburn",
+          "Columbus",
+          "London",
+          "New York City",
+          "Seattle",
+          "Seoul",
+          "Tokyo",
+          "Independence",
+          "Moscow",
+          "Shanghai"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 24,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 27,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 4,
+        "x_tick_marks": 4,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 10,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "84873e743da03017b556934ba0f591c7ba6b051e",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "903f8276e5f31a4387bb88a459e5012c544222f6",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "576c2b15dd1e39c011f3278699f852aced240cd0"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2021"
+}
