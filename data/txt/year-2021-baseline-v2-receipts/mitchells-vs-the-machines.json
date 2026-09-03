@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt7979580",
+    "imdb_id": "tt7979580",
+    "revision": "576c2b15dd1e39c011f3278699f852aced240cd0",
+    "wikidata_id": "Q54021143",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Mitchells_vs._the_Machines"
+  },
+  "coverage_sha256": "5de3f1fb09259b50eb750b95e873efa6b7b0c079ee7206dc2d6dcbab8b8c2bc4",
+  "generated_at": "2026-09-03T21:12:57.303080+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2021-archives/mitchells-vs-the-machines.cache/cache.20210709.tar.xz",
+      "sha256": "316a2def400fa0e594f5a7957abf1904dbbfd1dfd73358ef46a698bea3add46e",
+      "size": 1882121760
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-coverage-evidence/mitchells-vs-the-machines.md",
+      "sha256": "0f3af2778aef35fdec419aeb9b1880930fcff2cf8813f6a40e9066e0dcd03faa",
+      "size": 561
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-cache-stream-receipts/mitchells-vs-the-machines.json",
+      "sha256": "a0059dc1ea5344fc3372f3be9b1cdc2d1d33b22709143f4b937a7b0832a765e2",
+      "size": 2476
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-product-receipts/mitchells-vs-the-machines.json",
+      "sha256": "02534d334d4fdf2336b8fd79f11e9951524e37bdc0d061e40fb0539500d2a61b",
+      "size": 377
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-control/worker-map.json",
+      "sha256": "7579d04c5dcdc59b240a95af1b60b0ea4d32d602a822e3a67b7b6f311e3066b9",
+      "size": 91326
+    }
+  },
+  "media_object": "mitchells-vs-the-machines",
+  "published_files": {
+    "data/csv/bytes/mitchells-vs-the-machines-cumulative-detail.2021-btiha-itemized-by-bytes.csv": "760ac2cda78e82fe0cda7ba9d2cd995ae16bfff0e7c8e9fc7bd2cf20cd0448c1",
+    "docs/itemized/figures/mitchells-vs-the-machines-carto-4k.webp": "b6f3af518629a29e87190f5509d5ac98b6c6d774fcd1007f163a6a7ffb8968b4",
+    "docs/itemized/figures/mitchells-vs-the-machines-carto.png": "502a15ccaf8ade0aed479f9a4196f75984d18978ff0a2059e9b959423f3d04dc",
+    "docs/itemized/figures/mitchells-vs-the-machines-cumulative-detail-btiha-itemized-by-bytes.svg": "528c247dc69395ce9031aecbd92cf38d0e3025849a6c943f0901c484834b3ebf",
+    "docs/itemized/figures/mitchells-vs-the-machines-data-ge-1080p-4k.webp": "897dcb7c89c66fb99826b6623f80c48ee1621ac42ff8ae45d8765e5de116ff52",
+    "docs/itemized/figures/mitchells-vs-the-machines-data-ge-1080p.webp": "ac8c6dea8c354a8eb2ebcafac08c2b123aab506cc4720bebe70992d8546ef0ec",
+    "docs/itemized/figures/mitchells-vs-the-machines-data-lt-1080p-4k.webp": "67f19ca0602b7ff25448f5a89652ea3afd726fe5fb2c927a4de73394e46a1a24",
+    "docs/itemized/figures/mitchells-vs-the-machines-data-lt-1080p.webp": "ca24f9e65560dc2db640bfa9aebd7554d3dc3e26f4309a21457c0a17d70fdadc",
+    "docs/itemized/figures/mitchells-vs-the-machines-downloads-by-day-day.svg": "c372e8489f74421ec4197119c1d2fb6bca09b1c6ae791d5d218a5bd7accb0e44",
+    "docs/itemized/figures/mitchells-vs-the-machines-downloads-by-week-mitchells-vs-the-machines-week.svg": "51095eeef582038aa6431d68880c98055d62e7b8ebb6aad729473497479d8a60",
+    "docs/itemized/mitchells-vs-the-machines-sample-cache-audit.md": "d184d0241567da436d8e5c3315044d66fe3ef7a10fa6d86128935857ae78bf0b",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "84873e743da03017b556934ba0f591c7ba6b051e",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/mitchells-vs-the-machines/tmp/mitchells-vs-the-machines-cumulative-btiha.geojson",
+        "sha256": "bf9d9f7560b6def9698cf1aff1fa125e309bf774bd8188fcaa64ac54ebfca335",
+        "size": 100772260
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/mitchells-vs-the-machines/tmp/mitchells-vs-the-machines-cumulative-btiha-media-objects.json",
+        "sha256": "a0c093f3cba2506dab09478d47399f199fe56dde4cb9017fb980a8b31fa92d6c",
+        "size": 284148
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "mitchells-vs-the-machines",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          89.0,
+          83.0,
+          77.0,
+          69.0,
+          65.0,
+          62.0,
+          55.0,
+          46.0,
+          42.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Quezon City",
+          "London",
+          "Columbus",
+          "Moscow",
+          "New York City",
+          "Ashburn",
+          "Mumbai",
+          "Seattle",
+          "Seoul",
+          "Nairobi"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          51.0,
+          43.0,
+          38.0,
+          38.0,
+          37.0,
+          31.0,
+          27.0,
+          27.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Columbus",
+          "London",
+          "Ashburn",
+          "New York City",
+          "Saint Petersburg",
+          "Seattle",
+          "Krasnodar",
+          "Quezon City",
+          "Seoul"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 24,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 38,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 10,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "84873e743da03017b556934ba0f591c7ba6b051e",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "903f8276e5f31a4387bb88a459e5012c544222f6",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "576c2b15dd1e39c011f3278699f852aced240cd0"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2021"
+}
