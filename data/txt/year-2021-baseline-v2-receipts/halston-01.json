@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt9569546",
+    "imdb_id": "tt9569546",
+    "revision": "576c2b15dd1e39c011f3278699f852aced240cd0",
+    "wikidata_id": "Q106602590",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Halston_(miniseries)"
+  },
+  "coverage_sha256": "f0ef87c46c7cc94d357de6a52bf9663a409bf81c41bbab7200be672728b01fa9",
+  "generated_at": "2026-09-03T19:42:36.417130+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2021-archives/halston-01.cache/cache.20210722.tar.xz",
+      "sha256": "36de026ef8f899ce1ef2c1f7e6bb80f48f1e266d6b7db454258587e0ca9ad759",
+      "size": 363018428
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-coverage-evidence/halston-01.md",
+      "sha256": "129ef7bfbfde2b1659cbd48c3d3b063459ab8805972e2778a3b13fb05d25b293",
+      "size": 546
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-cache-stream-receipts/halston-01.json",
+      "sha256": "8b11c8bf0a68cef1aae7a50dd987ec88f8d282a8a2347ae61afa52ef2def951d",
+      "size": 2431
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-product-receipts/halston-01.json",
+      "sha256": "1551e1ce5f114ccdd7eafea8494db262e18d3dc36838dcdb8c78349af6e73652",
+      "size": 362
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-control/worker-map.json",
+      "sha256": "7579d04c5dcdc59b240a95af1b60b0ea4d32d602a822e3a67b7b6f311e3066b9",
+      "size": 91326
+    }
+  },
+  "media_object": "halston-01",
+  "published_files": {
+    "data/csv/bytes/halston-01-cumulative-detail.2021-btiha-itemized-by-bytes.csv": "afe30103849d3b91079d6c6164bbde412cca49d2ebe1e65a91b187580ff99099",
+    "docs/itemized/figures/halston-01-carto-4k.webp": "ce97bb23415de92ab30c0cdabc46a56352f7af9cc725d6c76a948937fbb31ea6",
+    "docs/itemized/figures/halston-01-carto.png": "fd0c094c5f09b6f59a3ef3d280a68a74f59dd6ea1714fd6173f56c38a178fc78",
+    "docs/itemized/figures/halston-01-cumulative-detail-btiha-itemized-by-bytes.svg": "f2d85e7c5e22066f15adafd2f64d2137198c306a83deb69af05685d5e2e3fa40",
+    "docs/itemized/figures/halston-01-data-ge-1080p-4k.webp": "d1cacf6b98b1e4376cb556e5dad4faec9cfe1939bbbbdf038f347ec25c08bb68",
+    "docs/itemized/figures/halston-01-data-ge-1080p.webp": "4419f475318f192fb130d97f74c13cf974d4cf9dfed3f1da32dbf22252acccd5",
+    "docs/itemized/figures/halston-01-data-lt-1080p-4k.webp": "a245508af4d037745903b264d59529d9355f4f86af0e7b02cf48b1b5126918d5",
+    "docs/itemized/figures/halston-01-data-lt-1080p.webp": "2575c61d3d23d3c10da6998c2d03828b4608e8f749732aabd080fc8cdd4b186c",
+    "docs/itemized/figures/halston-01-downloads-by-day-day.svg": "3dac908b60de98ce38121cbe448c3c7ae8bc91a2c896f58c32c8934d21639831",
+    "docs/itemized/figures/halston-01-downloads-by-week-halston-01-week.svg": "64f9f344405f4c3b6962769d647808322bd0d115aeefb332726ca6de8463a54d",
+    "docs/itemized/halston-01-sample-cache-audit.md": "f027f360fe7fc26e32db3e59123c86af6ff854717fffa4c370229a24ac47fb2a",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "84873e743da03017b556934ba0f591c7ba6b051e",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/halston-01/tmp/halston-01-cumulative-btiha.geojson",
+        "sha256": "5ff95316efdd6d3c0fab400b4fba3e16665bcba2a4684ea32c24131a4bd0ae13",
+        "size": 69797126
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/halston-01/tmp/halston-01-cumulative-btiha-media-objects.json",
+        "sha256": "418dc6493e787534b73ca899052882b763dfeb6b14345b5c75b69950997df5f8",
+        "size": 310041
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "halston-01",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          86.0,
+          60.0,
+          56.0,
+          51.0,
+          48.0,
+          44.0,
+          39.0,
+          37.0,
+          34.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Ashburn",
+          "Columbus",
+          "London",
+          "New York City",
+          "Seattle",
+          "Tokyo",
+          "Seoul",
+          "Independence",
+          "Shanghai",
+          "Moscow"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          85.0,
+          56.0,
+          55.0,
+          49.0,
+          45.0,
+          43.0,
+          38.0,
+          34.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Ashburn",
+          "Columbus",
+          "New York City",
+          "London",
+          "Seattle",
+          "Tokyo",
+          "Seoul",
+          "Independence",
+          "Shanghai",
+          "Beijing"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 24,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 33,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 4,
+        "x_tick_marks": 4,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 10,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "84873e743da03017b556934ba0f591c7ba6b051e",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "903f8276e5f31a4387bb88a459e5012c544222f6",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "576c2b15dd1e39c011f3278699f852aced240cd0"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2021"
+}
