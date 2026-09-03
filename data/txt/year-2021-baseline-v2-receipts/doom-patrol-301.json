@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt8416494",
+    "imdb_id": "tt8416494",
+    "revision": "576c2b15dd1e39c011f3278699f852aced240cd0",
+    "wikidata_id": "Q55952118",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Doom_Patrol_(TV_series)"
+  },
+  "coverage_sha256": "b661988c2430e53fe3f5932a0b1b1cc737e7aa6b4c29f17e2c38bb906bb78fb1",
+  "generated_at": "2026-09-03T18:06:53.222290+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2021-archives/doom-patrol-301.cache/cache.20211209.tar.xz",
+      "sha256": "6c4997ca9e9ae257386fafc948b370ac8d96d711544b90076afa9ca27083a07f",
+      "size": 360137696
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-coverage-evidence/doom-patrol-301.md",
+      "sha256": "40cdae3746a6ac9c0b1c22e7073f6b1f6006e0fa1c0c4b8e63ea1904c81a673e",
+      "size": 647
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-cache-stream-receipts/doom-patrol-301.json",
+      "sha256": "c53f770c24a6bd2bc3cc90ab7c335006b53a001effc9d49ae53a6b3e22a06238",
+      "size": 2514
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-product-receipts/doom-patrol-301.json",
+      "sha256": "6570ba0850673cc9809d0f9715d464252898d0070c3d22f8d575644ac7b2df68",
+      "size": 366
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-control/worker-map.json",
+      "sha256": "8007c46b300872bb9f00ced6cb29d0e2aa49e73a513f4c30d0e8765a7e08ef2c",
+      "size": 89669
+    }
+  },
+  "media_object": "doom-patrol-301",
+  "published_files": {
+    "data/csv/bytes/doom-patrol-301-cumulative-detail.2021-btiha-itemized-by-bytes.csv": "a729c567c0c5265682e51b657a703c21425e53248d3d82c1c0e2a7c651600496",
+    "docs/itemized/doom-patrol-301-sample-cache-audit.md": "f21259679fb33a7a93f3a33bb13be2f3ffdfe054a004caa5b7d962cd6bdbf605",
+    "docs/itemized/figures/doom-patrol-301-carto-4k.webp": "aa0a2bc1164e309ada3c658e587bf8d5d1b2ce3dce6386fa3b14fc3c0bb4d91f",
+    "docs/itemized/figures/doom-patrol-301-carto.png": "f0a41691003b2a9c524e149efae2460eef69792441e34791e190286150487a8d",
+    "docs/itemized/figures/doom-patrol-301-cumulative-detail-btiha-itemized-by-bytes.svg": "750864ef32f684f5e83f6c827a89a8951a1271b6ecd02c38ffdd1e41baa4d0f9",
+    "docs/itemized/figures/doom-patrol-301-data-ge-1080p-4k.webp": "87de76af9cc0746c658366474ac062d876c40b8953de96021b0c513b2c1f5d88",
+    "docs/itemized/figures/doom-patrol-301-data-ge-1080p.webp": "ae82486f54b3942094a63a4bc8836c681fa4aba331f6772d63e113a8ac94a27c",
+    "docs/itemized/figures/doom-patrol-301-data-lt-1080p-4k.webp": "0b9c191e6de36c7b0f291ffacdacf19c742aadad5ccba4402f8ea92e07321d3e",
+    "docs/itemized/figures/doom-patrol-301-data-lt-1080p.webp": "4ffcdfa8e45b9c9731730ebf333cb47a5037ff118ddc2bc6cc7f03e889eff59e",
+    "docs/itemized/figures/doom-patrol-301-downloads-by-day-day.svg": "f5c4a8669046ac901a47caba3b502fa1da7e282412a20b265b46604ac2bbf7c4",
+    "docs/itemized/figures/doom-patrol-301-downloads-by-week-doom-patrol-301-week.svg": "e09f36626608778a4076e72789e552b5b36c243bbc313426cc14afd76d7f53ad",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "84873e743da03017b556934ba0f591c7ba6b051e",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/doom-patrol-301/tmp/doom-patrol-301-cumulative-btiha.geojson",
+        "sha256": "0986674a523965493731bd087c5bea8bf8558771ff2962813d5763dd3d342c6e",
+        "size": 37612184
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/doom-patrol-301/tmp/doom-patrol-301-cumulative-btiha-media-objects.json",
+        "sha256": "f34d14480446c2e0240a3bf9b96da0130323141cf2814470c7856e841acfaea2",
+        "size": 218089
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "doom-patrol-301",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          73.0,
+          71.0,
+          65.0,
+          30.0,
+          27.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Leipzig",
+          "London",
+          "Ashburn",
+          "Moscow",
+          "Seoul",
+          "Amsterdam",
+          "Toronto",
+          "Saint Petersburg",
+          "New York City",
+          "Lelystad"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          89.0,
+          81.0,
+          75.0,
+          34.0,
+          32.0,
+          29.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Ashburn",
+          "Leipzig",
+          "London",
+          "Moscow",
+          "New York City",
+          "Seoul",
+          "Amsterdam",
+          "Saint Petersburg",
+          "Paris",
+          "Toronto"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 25,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 19,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 12,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "84873e743da03017b556934ba0f591c7ba6b051e",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "903f8276e5f31a4387bb88a459e5012c544222f6",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "576c2b15dd1e39c011f3278699f852aced240cd0"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2021"
+}
