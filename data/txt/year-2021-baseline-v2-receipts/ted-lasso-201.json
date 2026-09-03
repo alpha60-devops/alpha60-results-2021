@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt10986410",
+    "imdb_id": "tt10986410",
+    "revision": "576c2b15dd1e39c011f3278699f852aced240cd0",
+    "wikidata_id": "Q96407897",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ted_Lasso"
+  },
+  "coverage_sha256": "716dd66aae54f707b4108a4d46c621fc0a6c663f354fa93ce4d4665c92de3740",
+  "generated_at": "2026-09-03T21:20:35.880790+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2021-archives/ted-lasso-201.cache/cache.20210930.tar.xz",
+      "sha256": "a48a709f1b35029c083446c447e0bf1b908b074e9d8bb5ee02d3726f227efac9",
+      "size": 569078044
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-coverage-evidence/ted-lasso-201.md",
+      "sha256": "31592885313bd10b813b2348bf86afd651021351b9e966ea5ecc8167e4858a9c",
+      "size": 549
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-cache-stream-receipts/ted-lasso-201.json",
+      "sha256": "8c9778c98142e09bdf2c3c8d369bbabb9474b88cfc9b0dea737c50c9727cd014",
+      "size": 2438
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-product-receipts/ted-lasso-201.json",
+      "sha256": "1cce775e9841e0ccef3e9d21b264b0f8d3fc4a6cb6164b757cf24217220f173e",
+      "size": 365
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-control/worker-map.json",
+      "sha256": "8007c46b300872bb9f00ced6cb29d0e2aa49e73a513f4c30d0e8765a7e08ef2c",
+      "size": 89669
+    }
+  },
+  "media_object": "ted-lasso-201",
+  "published_files": {
+    "data/csv/bytes/ted-lasso-201-cumulative-detail.2021-btiha-itemized-by-bytes.csv": "6b945abc343f2d97fab300c2bb3befa7853474d545cd4d7355bf4243a945189f",
+    "docs/itemized/figures/ted-lasso-201-carto-4k.webp": "a2daca134e263f4ea687c59f13c1cee9f5c2b2cb34ec1de7bae2af7189da2750",
+    "docs/itemized/figures/ted-lasso-201-carto.png": "6d3e3986c6508fd3858b614028a6f7c53a78cc368be17f5b8fe064cbfbd5e6ee",
+    "docs/itemized/figures/ted-lasso-201-cumulative-detail-btiha-itemized-by-bytes.svg": "23d715c896dad5f953ff773f4d8e269e516f9ae9405688ea0841e4c92af89935",
+    "docs/itemized/figures/ted-lasso-201-data-ge-1080p-4k.webp": "fd55c5d52dc089fd84bf64d30d27a41fd874769641ac446dbb81cad97ac6024f",
+    "docs/itemized/figures/ted-lasso-201-data-ge-1080p.webp": "dede525f02f6101c3c65ab67e39913366f736bdacedbd1cc5481612cd48a9268",
+    "docs/itemized/figures/ted-lasso-201-data-lt-1080p-4k.webp": "f07854a6e931f94a49d4a00f0e50a7bf57e479cf1a7851e06910632a6c8c1063",
+    "docs/itemized/figures/ted-lasso-201-data-lt-1080p.webp": "28d1e074fca70a8e48a4f068a6c49a7ca7997d71edea5b67c411723340ccf4ed",
+    "docs/itemized/figures/ted-lasso-201-downloads-by-day-day.svg": "e07b7419cc595fe0a2471240d34b666ca8dbfe05b6dd18359019acfc36aec048",
+    "docs/itemized/figures/ted-lasso-201-downloads-by-week-ted-lasso-201-week.svg": "2f9b1ad9a3fe59be10e172cb1547abaf7f3be6324a72c19cc3e6b2cb43baca62",
+    "docs/itemized/ted-lasso-201-sample-cache-audit.md": "0410c1255f7cc56b0e602dd6d2fee0526681a7513884489ee6043e32379cf95a",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "84873e743da03017b556934ba0f591c7ba6b051e",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/ted-lasso-201/tmp/ted-lasso-201-cumulative-btiha.geojson",
+        "sha256": "89cd3c94a5e67f1c11d465dbd7b993bf0cfc152ebc29c063749a321e2b475b52",
+        "size": 56119547
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/ted-lasso-201/tmp/ted-lasso-201-cumulative-btiha-media-objects.json",
+        "sha256": "6147bdb3714d12ebb5cf78a0b77dbdd6673e24f57595f34840f9310c62e750cc",
+        "size": 176727
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "ted-lasso-201",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          78.0,
+          75.0,
+          70.0,
+          58.0,
+          53.0,
+          46.0,
+          45.0,
+          40.0,
+          40.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Columbus",
+          "London",
+          "Ashburn",
+          "New York City",
+          "Tokyo",
+          "Seattle",
+          "Moscow",
+          "Seoul",
+          "Independence",
+          "Shanghai"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          89.0,
+          73.0,
+          71.0,
+          56.0,
+          46.0,
+          43.0,
+          42.0,
+          40.0,
+          37.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "London",
+          "Columbus",
+          "New York City",
+          "Ashburn",
+          "Seattle",
+          "Tokyo",
+          "Seoul",
+          "Moscow",
+          "Independence",
+          "Shanghai"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 24,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 10,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 4,
+        "x_tick_marks": 4,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 10,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "84873e743da03017b556934ba0f591c7ba6b051e",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "903f8276e5f31a4387bb88a459e5012c544222f6",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "576c2b15dd1e39c011f3278699f852aced240cd0"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2021"
+}

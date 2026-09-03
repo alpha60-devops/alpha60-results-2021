@@ -1,0 +1,4326 @@
+{
+    "collection_name": "Ted Lasso",
+    "collection_id": "201",
+    "collection_key": "ted-lasso-201",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "collection_btiha_duplicates": [
+        {
+            "duplicate_id": 0,
+            "duplicate_btih": "63c2488d8865a68d24b824fabc3abd3b2f0574b3",
+            "duplicate_0_0": "Ted.Lasso.S02E01.1080p.WEB.H264-GLHF [IPT]",
+            "duplicate_0_1": "Ted.Lasso.S02E01.1080p.WEB.H264-GLHF"
+        },
+        {
+            "duplicate_id": 1,
+            "duplicate_btih": "3f63a40a8b5bc66254ffa1d3b7d0d8fd5b35babe",
+            "duplicate_1_0": "Ted.Lasso.S02E01.1080p.WEB.H264-GLHF[rarbg]",
+            "duplicate_1_1": "Ted.Lasso.S02E01.1080p.WEB.H264-GLHF[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 2,
+            "duplicate_btih": "5049e6e42837f78de114ff70819aff97037934e9",
+            "duplicate_2_0": "Ted.Lasso.S02E01.2160p.WEB.H265-EXPLOIT[rartv]-[rarbg.to]",
+            "duplicate_2_1": "Ted.Lasso.S02E01.2160p.WEB.H265-EXPLOIT[rartv]"
+        },
+        {
+            "duplicate_id": 3,
+            "duplicate_btih": "5831a5236aea2d2cf07074b37cd8a6fdf82f7132",
+            "duplicate_3_0": "Ted.Lasso.S02E01.720p.WEB.H264-GLHF[rarbg]",
+            "duplicate_3_1": "Ted.Lasso.S02E01.720p.WEB.H264-GLHF[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 4,
+            "duplicate_btih": "4a4a6f8a3a44b3f4479c7135ad006850427a4e16",
+            "duplicate_4_0": "Ted.Lasso.S02E01.Goodbye.Earl.2160p.ATVP.WEB-DL.DDP5.1.Atmos.DV.MP4.x265-FLUX[rartv]-[rarbg.to]",
+            "duplicate_4_1": "Ted.Lasso.S02E01.Goodbye.Earl.2160p.ATVP.WEB-DL.DDP5.1.Atmos.DV.MP4.x265-FLUX[rartv]"
+        },
+        {
+            "duplicate_id": 5,
+            "duplicate_btih": "994071d534610a4319bd0632c1826073b48cf2a7",
+            "duplicate_5_0": "Ted.Lasso.S02E01.HDR.2160p.WEB.H265-EXPLOIT[rartv]-[rarbg.to]",
+            "duplicate_5_1": "Ted.Lasso.S02E01.HDR.2160p.WEB.H265-EXPLOIT[rartv]"
+        },
+        {
+            "duplicate_id": 6,
+            "duplicate_btih": "8636ff6d15e10e6ce1c0849a8d9ebf6b94abc8b5",
+            "duplicate_6_0": "Ted.Lasso.S02E01.REPACK.WEB.x264-PHOENiX [IPT](1)",
+            "duplicate_6_1": "Ted.Lasso.S02E01.REPACK.WEB.x264-PHOENiX [IPT]"
+        },
+        {
+            "duplicate_id": 7,
+            "duplicate_btih": "613c6d0b4a2e9194a9baabe34df70e67d2f5d2e9",
+            "duplicate_7_0": "[rutor.is]Ted Lasso(1)",
+            "duplicate_7_1": "[rutor.is]Ted Lasso",
+            "duplicate_7_2": "Ted Lasso Dub",
+            "duplicate_7_3": "Тед Лассо Ted Lasso Сезон 1-2 Серии 1-11 из 22 (Деклан Лауни, Том Маршалл, Эллиот Хегарти) [2020-2021, США, Великобритания [rutracker-6084914]"
+        },
+        {
+            "duplicate_id": 8,
+            "duplicate_btih": "3f6c9b2db00ebb5dda8f6e76fded4e477fc4ba32",
+            "duplicate_8_0": "[rutor.is]Ted Lasso_(s02)_1080p(1)",
+            "duplicate_8_1": "[rutor.is]Ted Lasso_(s02)_1080p",
+            "duplicate_8_2": "Ted.Lasso.S02.1080p.ATVP.WEB-DL.DDP5.1.H.264-EniaHD",
+            "duplicate_8_3": "Тед Лассо Ted Lasso Сезон 2 Серии 1 из 12 (Том Маршалл) [2021, США, Великобритания, комедия, спорт, WEB-DL 1080p] Dub (Пиф [rutracker-6084697]"
+        },
+        {
+            "duplicate_id": 9,
+            "duplicate_btih": "bbd1acb8068926e45411c5d8d7b309f37767baa4",
+            "duplicate_9_0": "[rutor.is]Ted.Lasso.S02.Dub",
+            "duplicate_9_1": "Ted Lasso (Season 2) HDR WEB-DL 2160p",
+            "duplicate_9_2": "Тед Лассо Ted Lasso Сезон 2 Серии 1 из 12 (Деклан Лауни, Том Маршалл, Эллиот Хегарти, М.Дж. Делани, Зак Брафф) [2021, США, [rutracker-6085068]"
+        }
+    ],
+    "collection_btiha_metadata": [
+        {
+            "id": 1,
+            "name": "[ OxTorrent.pe ] Ted.Lasso.S02E01.FRENCH.WEB.XviD-EXTREME.avi",
+            "size_total": 0.30949194,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.30949194,
+                    "path": "[ OxTorrent.pe ] Ted.Lasso.S02E01.FRENCH.WEB.XviD-EXTREME.avi"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "[rutor.is]Kung.Fu.2021.S01.400p.Kerob",
+            "size_total": 6.167388678,
+            "files_total": 13,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.533180924,
+                    "path": "Kung.Fu.2021.S01.400p.Kerob/Kung.Fu.2021.S01E01.400p.Kerob.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.50755286,
+                    "path": "Kung.Fu.2021.S01.400p.Kerob/Kung.Fu.2021.S01E02.400p.Kerob.avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.526179944,
+                    "path": "Kung.Fu.2021.S01.400p.Kerob/Kung.Fu.2021.S01E03.400p.Kerob.avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.419228596,
+                    "path": "Kung.Fu.2021.S01.400p.Kerob/Kung.Fu.2021.S01E04.400p.Kerob.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.489443096,
+                    "path": "Kung.Fu.2021.S01.400p.Kerob/Kung.Fu.2021.S01E05.400p.Kerob.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.460460802,
+                    "path": "Kung.Fu.2021.S01.400p.Kerob/Kung.Fu.2021.S01E06.400p.Kerob.avi"
+                },
+                {
+                    "number": 7,
+                    "size": 0.290199554,
+                    "path": "Kung.Fu.2021.S01.400p.Kerob/Kung.Fu.2021.S01E07.400p.Kerob.avi"
+                },
+                {
+                    "number": 8,
+                    "size": 0.46962855,
+                    "path": "Kung.Fu.2021.S01.400p.Kerob/Kung.Fu.2021.S01E08.400p.Kerob.avi"
+                },
+                {
+                    "number": 9,
+                    "size": 0.500918512,
+                    "path": "Kung.Fu.2021.S01.400p.Kerob/Kung.Fu.2021.S01E09.400p.Kerob.avi"
+                },
+                {
+                    "number": 10,
+                    "size": 0.420546898,
+                    "path": "Kung.Fu.2021.S01.400p.Kerob/Kung.Fu.2021.S01E10.400p.Kerob.avi"
+                },
+                {
+                    "number": 11,
+                    "size": 0.508543252,
+                    "path": "Kung.Fu.2021.S01.400p.Kerob/Kung.Fu.2021.S01E11.400p.Kerob.avi"
+                },
+                {
+                    "number": 12,
+                    "size": 0.466189004,
+                    "path": "Kung.Fu.2021.S01.400p.Kerob/Kung.Fu.2021.S01E12.400p.Kerob.avi"
+                },
+                {
+                    "number": 13,
+                    "size": 0.575316686,
+                    "path": "Kung.Fu.2021.S01.400p.Kerob/Kung.Fu.2021.S01E13.400p.Kerob.avi"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "[rutor.is]Kung.Fu.2021.S01.720p.Kerob",
+            "size_total": 17.776381576,
+            "files_total": 13,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.356805499,
+                    "path": "Kung.Fu.2021.S01.720p.Kerob/Kung.Fu.2021.S01E01.720p.Kerob.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 1.486285399,
+                    "path": "Kung.Fu.2021.S01.720p.Kerob/Kung.Fu.2021.S01E02.720p.Kerob.mp4"
+                },
+                {
+                    "number": 3,
+                    "size": 1.485162751,
+                    "path": "Kung.Fu.2021.S01.720p.Kerob/Kung.Fu.2021.S01E03.720p.Kerob.mp4"
+                },
+                {
+                    "number": 4,
+                    "size": 1.356112871,
+                    "path": "Kung.Fu.2021.S01.720p.Kerob/Kung.Fu.2021.S01E04.720p.Kerob.mp4"
+                },
+                {
+                    "number": 5,
+                    "size": 1.352575145,
+                    "path": "Kung.Fu.2021.S01.720p.Kerob/Kung.Fu.2021.S01E05.720p.Kerob.mp4"
+                },
+                {
+                    "number": 6,
+                    "size": 1.32456125,
+                    "path": "Kung.Fu.2021.S01.720p.Kerob/Kung.Fu.2021.S01E06.720p.Kerob.mp4"
+                },
+                {
+                    "number": 7,
+                    "size": 1.337268681,
+                    "path": "Kung.Fu.2021.S01.720p.Kerob/Kung.Fu.2021.S01E07.720p.Kerob.mp4"
+                },
+                {
+                    "number": 8,
+                    "size": 1.352122488,
+                    "path": "Kung.Fu.2021.S01.720p.Kerob/Kung.Fu.2021.S01E08.720p.Kerob.mp4"
+                },
+                {
+                    "number": 9,
+                    "size": 1.313499,
+                    "path": "Kung.Fu.2021.S01.720p.Kerob/Kung.Fu.2021.S01E09.720p.Kerob.mp4"
+                },
+                {
+                    "number": 10,
+                    "size": 1.352303425,
+                    "path": "Kung.Fu.2021.S01.720p.Kerob/Kung.Fu.2021.S01E10.720p.Kerob.mp4"
+                },
+                {
+                    "number": 11,
+                    "size": 1.350467645,
+                    "path": "Kung.Fu.2021.S01.720p.Kerob/Kung.Fu.2021.S01E11.720p.Kerob.mp4"
+                },
+                {
+                    "number": 12,
+                    "size": 1.354799005,
+                    "path": "Kung.Fu.2021.S01.720p.Kerob/Kung.Fu.2021.S01E12.720p.Kerob.mp4"
+                },
+                {
+                    "number": 13,
+                    "size": 1.354418417,
+                    "path": "Kung.Fu.2021.S01.720p.Kerob/Kung.Fu.2021.S01E13.720p.Kerob.mp4"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "[rutor.is]Ted Lasso(1)",
+            "size_total": 5.749297486,
+            "files_total": 44,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000047669,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Eng/Ted.Lasso.S01E01.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00004801,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Eng/Ted.Lasso.S01E02.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000051369,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Eng/Ted.Lasso.S01E03.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000049531,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Eng/Ted.Lasso.S01E04.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000047187,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Eng/Ted.Lasso.S01E05.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000043842,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Eng/Ted.Lasso.S01E06.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 7,
+                    "size": 0.000041773,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Eng/Ted.Lasso.S01E07.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 8,
+                    "size": 0.000047224,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Eng/Ted.Lasso.S01E08.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 9,
+                    "size": 0.000045988,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Eng/Ted.Lasso.S01E09.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 10,
+                    "size": 0.0000521,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Eng/Ted.Lasso.S01E10.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 11,
+                    "size": 0.000052068,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Rus/Ted.Lasso.S01E01.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 12,
+                    "size": 0.000053103,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Rus/Ted.Lasso.S01E02.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 13,
+                    "size": 0.000059423,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Rus/Ted.Lasso.S01E03.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 14,
+                    "size": 0.000055865,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Rus/Ted.Lasso.S01E04.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 15,
+                    "size": 0.000054053,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Rus/Ted.Lasso.S01E05.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 16,
+                    "size": 0.000054355,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Rus/Ted.Lasso.S01E06.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 17,
+                    "size": 0.000051059,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Rus/Ted.Lasso.S01E07.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 18,
+                    "size": 0.000053477,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Rus/Ted.Lasso.S01E08.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 19,
+                    "size": 0.000050895,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Rus/Ted.Lasso.S01E09.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 20,
+                    "size": 0.000060219,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Rus/Ted.Lasso.S01E10.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 21,
+                    "size": 0.509964288,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Ted.Lasso.S01E01.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 22,
+                    "size": 9.39e-7,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Ted.Lasso.S01E01.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].Forced.srt"
+                },
+                {
+                    "number": 23,
+                    "size": 0.483856384,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Ted.Lasso.S01E02.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 24,
+                    "size": 0.000001114,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Ted.Lasso.S01E02.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].Forced.srt"
+                },
+                {
+                    "number": 25,
+                    "size": 0.501190656,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Ted.Lasso.S01E03.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 26,
+                    "size": 6.07e-7,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Ted.Lasso.S01E03.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].Forced.srt"
+                },
+                {
+                    "number": 27,
+                    "size": 0.554549248,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Ted.Lasso.S01E04.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 28,
+                    "size": 6.96e-7,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Ted.Lasso.S01E04.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].Forced.srt"
+                },
+                {
+                    "number": 29,
+                    "size": 0.512612352,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Ted.Lasso.S01E05.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 30,
+                    "size": 4.28e-7,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Ted.Lasso.S01E05.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].Forced.srt"
+                },
+                {
+                    "number": 31,
+                    "size": 0.522891264,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Ted.Lasso.S01E06.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 32,
+                    "size": 3.4e-7,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Ted.Lasso.S01E06.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].Forced.srt"
+                },
+                {
+                    "number": 33,
+                    "size": 0.529805312,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Ted.Lasso.S01E07.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 34,
+                    "size": 0.000003469,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Ted.Lasso.S01E07.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].Forced.srt"
+                },
+                {
+                    "number": 35,
+                    "size": 0.490061824,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Ted.Lasso.S01E08.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 36,
+                    "size": 5.55e-7,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Ted.Lasso.S01E08.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].Forced.srt"
+                },
+                {
+                    "number": 37,
+                    "size": 0.51606528,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Ted.Lasso.S01E09.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 38,
+                    "size": 3.85e-7,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Ted.Lasso.S01E09.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].Forced.srt"
+                },
+                {
+                    "number": 39,
+                    "size": 0.555077632,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Ted.Lasso.S01E10.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 40,
+                    "size": 7.8e-7,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Ted.Lasso.S01E10.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].Forced.srt"
+                },
+                {
+                    "number": 41,
+                    "size": 0.000051224,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 2) WEB-DLRip/Eng/Ted.Lasso.S02E01.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 42,
+                    "size": 0.000062549,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 2) WEB-DLRip/Rus/Ted.Lasso.S02E01.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 43,
+                    "size": 0.572080128,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 2) WEB-DLRip/Ted.Lasso.S02E01.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 44,
+                    "size": 8.22e-7,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 2) WEB-DLRip/Ted.Lasso.S02E01.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].Forced.srt"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "[rutor.is]Ted Lasso",
+            "size_total": 5.749297486,
+            "files_total": 44,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000047669,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Eng/Ted.Lasso.S01E01.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00004801,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Eng/Ted.Lasso.S01E02.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000051369,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Eng/Ted.Lasso.S01E03.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000049531,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Eng/Ted.Lasso.S01E04.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000047187,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Eng/Ted.Lasso.S01E05.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000043842,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Eng/Ted.Lasso.S01E06.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 7,
+                    "size": 0.000041773,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Eng/Ted.Lasso.S01E07.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 8,
+                    "size": 0.000047224,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Eng/Ted.Lasso.S01E08.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 9,
+                    "size": 0.000045988,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Eng/Ted.Lasso.S01E09.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 10,
+                    "size": 0.0000521,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Eng/Ted.Lasso.S01E10.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 11,
+                    "size": 0.000052068,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Rus/Ted.Lasso.S01E01.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 12,
+                    "size": 0.000053103,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Rus/Ted.Lasso.S01E02.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 13,
+                    "size": 0.000059423,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Rus/Ted.Lasso.S01E03.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 14,
+                    "size": 0.000055865,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Rus/Ted.Lasso.S01E04.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 15,
+                    "size": 0.000054053,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Rus/Ted.Lasso.S01E05.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 16,
+                    "size": 0.000054355,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Rus/Ted.Lasso.S01E06.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 17,
+                    "size": 0.000051059,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Rus/Ted.Lasso.S01E07.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 18,
+                    "size": 0.000053477,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Rus/Ted.Lasso.S01E08.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 19,
+                    "size": 0.000050895,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Rus/Ted.Lasso.S01E09.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 20,
+                    "size": 0.000060219,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Rus/Ted.Lasso.S01E10.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 21,
+                    "size": 0.509964288,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Ted.Lasso.S01E01.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 22,
+                    "size": 9.39e-7,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Ted.Lasso.S01E01.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].Forced.srt"
+                },
+                {
+                    "number": 23,
+                    "size": 0.483856384,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Ted.Lasso.S01E02.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 24,
+                    "size": 0.000001114,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Ted.Lasso.S01E02.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].Forced.srt"
+                },
+                {
+                    "number": 25,
+                    "size": 0.501190656,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Ted.Lasso.S01E03.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 26,
+                    "size": 6.07e-7,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Ted.Lasso.S01E03.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].Forced.srt"
+                },
+                {
+                    "number": 27,
+                    "size": 0.554549248,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Ted.Lasso.S01E04.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 28,
+                    "size": 6.96e-7,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Ted.Lasso.S01E04.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].Forced.srt"
+                },
+                {
+                    "number": 29,
+                    "size": 0.512612352,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Ted.Lasso.S01E05.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 30,
+                    "size": 4.28e-7,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Ted.Lasso.S01E05.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].Forced.srt"
+                },
+                {
+                    "number": 31,
+                    "size": 0.522891264,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Ted.Lasso.S01E06.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 32,
+                    "size": 3.4e-7,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Ted.Lasso.S01E06.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].Forced.srt"
+                },
+                {
+                    "number": 33,
+                    "size": 0.529805312,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Ted.Lasso.S01E07.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 34,
+                    "size": 0.000003469,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Ted.Lasso.S01E07.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].Forced.srt"
+                },
+                {
+                    "number": 35,
+                    "size": 0.490061824,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Ted.Lasso.S01E08.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 36,
+                    "size": 5.55e-7,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Ted.Lasso.S01E08.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].Forced.srt"
+                },
+                {
+                    "number": 37,
+                    "size": 0.51606528,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Ted.Lasso.S01E09.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 38,
+                    "size": 3.85e-7,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Ted.Lasso.S01E09.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].Forced.srt"
+                },
+                {
+                    "number": 39,
+                    "size": 0.555077632,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Ted.Lasso.S01E10.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 40,
+                    "size": 7.8e-7,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Ted.Lasso.S01E10.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].Forced.srt"
+                },
+                {
+                    "number": 41,
+                    "size": 0.000051224,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 2) WEB-DLRip/Eng/Ted.Lasso.S02E01.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 42,
+                    "size": 0.000062549,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 2) WEB-DLRip/Rus/Ted.Lasso.S02E01.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 43,
+                    "size": 0.572080128,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 2) WEB-DLRip/Ted.Lasso.S02E01.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 44,
+                    "size": 8.22e-7,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 2) WEB-DLRip/Ted.Lasso.S02E01.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].Forced.srt"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "[rutor.is]Ted Lasso_(s02)_1080p(1)",
+            "size_total": 2.975459104,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.975459104,
+                    "path": "Ted.Lasso.S02.1080p.ATVP.WEB-DL.DDP5.1.H.264-EniaHD/Ted.Lasso.S02E01.Goodbye.Earl.1080p.ATVP.WEB-DL.DDP5.1.H.264-EniaHD.mkv"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "[rutor.is]Ted Lasso_(s02)_1080p",
+            "size_total": 2.975459104,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.975459104,
+                    "path": "Ted.Lasso.S02.1080p.ATVP.WEB-DL.DDP5.1.H.264-EniaHD/Ted.Lasso.S02E01.Goodbye.Earl.1080p.ATVP.WEB-DL.DDP5.1.H.264-EniaHD.mkv"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "[rutor.is]Ted.Lasso.S02.Dub",
+            "size_total": 6.623249321,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 6.623249321,
+                    "path": "Ted Lasso (Season 2) HDR WEB-DL 2160p/Ted.Lasso.S02E01.HDR.2160p.WEB.H265.RGzsRutracker.Wentworth_Miller.mkv"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "[rutor.is]Ted.Lasso.S02.RG.Paravozik",
+            "size_total": 0.840082194,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.840082194,
+                    "path": "Ted.Lasso.S02.RG.Paravozik/Ted.Lasso.S02E01.WEBDLRip.720p.RG.Paravozik.mkv"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Ted Lasso (Proper) - Temporada 2 [HDTV 720p][Cap.201][AC3 5.1 Castellano][www.PCTmix1.com]",
+            "size_total": 1.321323731,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.14e-7,
+                    "path": "Ted Lasso (Proper) - Temporada 2 [HDTV 720p][Cap.201][AC3 5.1 Castellano][www.PCTmix1.com]/MAXITORRENT COM.url"
+                },
+                {
+                    "number": 2,
+                    "size": 1.11e-7,
+                    "path": "Ted Lasso (Proper) - Temporada 2 [HDTV 720p][Cap.201][AC3 5.1 Castellano][www.PCTmix1.com]/PCTFENIX COM.url"
+                },
+                {
+                    "number": 3,
+                    "size": 1.22e-7,
+                    "path": "Ted Lasso (Proper) - Temporada 2 [HDTV 720p][Cap.201][AC3 5.1 Castellano][www.PCTmix1.com]/PCTMIX1 COM.url"
+                },
+                {
+                    "number": 4,
+                    "size": 1.14e-7,
+                    "path": "Ted Lasso (Proper) - Temporada 2 [HDTV 720p][Cap.201][AC3 5.1 Castellano][www.PCTmix1.com]/PCTNOTICIAS TELEGRAM.url"
+                },
+                {
+                    "number": 5,
+                    "size": 1.23e-7,
+                    "path": "Ted Lasso (Proper) - Temporada 2 [HDTV 720p][Cap.201][AC3 5.1 Castellano][www.PCTmix1.com]/PCTRELOAD1 COM.url"
+                },
+                {
+                    "number": 6,
+                    "size": 1.321323147,
+                    "path": "Ted Lasso (Proper) - Temporada 2 [HDTV 720p][Cap.201][AC3 5.1 Castellano][www.PCTmix1.com]/Ted Lasso (Proper) - Temporada 2 [HDTV 720p][Cap.201][AC3 5.1 Castellano][www.PCTmix1.com].mkv"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Ted Lasso (Proper) - Temporada 2 [HDTV][Cap.201][Castellano][www.PCTmix1.com]",
+            "size_total": 0.426593832,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.14e-7,
+                    "path": "Ted Lasso (Proper) - Temporada 2 [HDTV][Cap.201][Castellano][www.PCTmix1.com]/MAXITORRENT COM.url"
+                },
+                {
+                    "number": 2,
+                    "size": 1.11e-7,
+                    "path": "Ted Lasso (Proper) - Temporada 2 [HDTV][Cap.201][Castellano][www.PCTmix1.com]/PCTFENIX COM.url"
+                },
+                {
+                    "number": 3,
+                    "size": 1.22e-7,
+                    "path": "Ted Lasso (Proper) - Temporada 2 [HDTV][Cap.201][Castellano][www.PCTmix1.com]/PCTMIX1 COM.url"
+                },
+                {
+                    "number": 4,
+                    "size": 1.14e-7,
+                    "path": "Ted Lasso (Proper) - Temporada 2 [HDTV][Cap.201][Castellano][www.PCTmix1.com]/PCTNOTICIAS TELEGRAM.url"
+                },
+                {
+                    "number": 5,
+                    "size": 1.23e-7,
+                    "path": "Ted Lasso (Proper) - Temporada 2 [HDTV][Cap.201][Castellano][www.PCTmix1.com]/PCTRELOAD1 COM.url"
+                },
+                {
+                    "number": 6,
+                    "size": 0.426593248,
+                    "path": "Ted Lasso (Proper) - Temporada 2 [HDTV][Cap.201][Castellano][www.PCTmix1.com]/Ted Lasso (Proper) - Temporada 2 [HDTV][Cap.201][Castellano][www.PCTmix1.com].avi"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Ted Lasso (Season 2) HDR WEB-DL 2160p",
+            "size_total": 6.623249321,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 6.623249321,
+                    "path": "Ted Lasso (Season 2) HDR WEB-DL 2160p/Ted.Lasso.S02E01.HDR.2160p.WEB.H265.RGzsRutracker.Wentworth_Miller.mkv"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Ted Lasso - Temporada 2 [HDTV 720p][Cap.201][AC3 5.1 Castellano][www.PCTmix1.com]",
+            "size_total": 1.512334954,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.14e-7,
+                    "path": "Ted Lasso - Temporada 2 [HDTV 720p][Cap.201][AC3 5.1 Castellano][www.PCTmix1.com]/MAXITORRENT COM.url"
+                },
+                {
+                    "number": 2,
+                    "size": 1.11e-7,
+                    "path": "Ted Lasso - Temporada 2 [HDTV 720p][Cap.201][AC3 5.1 Castellano][www.PCTmix1.com]/PCTFENIX COM.url"
+                },
+                {
+                    "number": 3,
+                    "size": 1.22e-7,
+                    "path": "Ted Lasso - Temporada 2 [HDTV 720p][Cap.201][AC3 5.1 Castellano][www.PCTmix1.com]/PCTMIX1 COM.url"
+                },
+                {
+                    "number": 4,
+                    "size": 1.14e-7,
+                    "path": "Ted Lasso - Temporada 2 [HDTV 720p][Cap.201][AC3 5.1 Castellano][www.PCTmix1.com]/PCTNOTICIAS TELEGRAM.url"
+                },
+                {
+                    "number": 5,
+                    "size": 1.23e-7,
+                    "path": "Ted Lasso - Temporada 2 [HDTV 720p][Cap.201][AC3 5.1 Castellano][www.PCTmix1.com]/PCTRELOAD1 COM.url"
+                },
+                {
+                    "number": 6,
+                    "size": 1.51233437,
+                    "path": "Ted Lasso - Temporada 2 [HDTV 720p][Cap.201][AC3 5.1 Castellano][www.PCTmix1.com]/Ted Lasso - Temporada 2 [HDTV 720p][Cap.201][AC3 5.1 Castellano][www.PCTmix1.com].mkv"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Ted Lasso - Temporada 2 [HDTV][Cap.201][Castellano][www.PCTmix1.com]",
+            "size_total": 0.451701852,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.14e-7,
+                    "path": "Ted Lasso - Temporada 2 [HDTV][Cap.201][Castellano][www.PCTmix1.com]/MAXITORRENT COM.url"
+                },
+                {
+                    "number": 2,
+                    "size": 1.11e-7,
+                    "path": "Ted Lasso - Temporada 2 [HDTV][Cap.201][Castellano][www.PCTmix1.com]/PCTFENIX COM.url"
+                },
+                {
+                    "number": 3,
+                    "size": 1.22e-7,
+                    "path": "Ted Lasso - Temporada 2 [HDTV][Cap.201][Castellano][www.PCTmix1.com]/PCTMIX1 COM.url"
+                },
+                {
+                    "number": 4,
+                    "size": 1.14e-7,
+                    "path": "Ted Lasso - Temporada 2 [HDTV][Cap.201][Castellano][www.PCTmix1.com]/PCTNOTICIAS TELEGRAM.url"
+                },
+                {
+                    "number": 5,
+                    "size": 1.23e-7,
+                    "path": "Ted Lasso - Temporada 2 [HDTV][Cap.201][Castellano][www.PCTmix1.com]/PCTRELOAD1 COM.url"
+                },
+                {
+                    "number": 6,
+                    "size": 0.451701268,
+                    "path": "Ted Lasso - Temporada 2 [HDTV][Cap.201][Castellano][www.PCTmix1.com]/Ted Lasso - Temporada 2 [HDTV][Cap.201][Castellano][www.PCTmix1.com].avi"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Ted Lasso 2X1 HDTV XviD www.torrent.nom.es",
+            "size_total": 0.426594164,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.426593248,
+                    "path": "Ted Lasso 2X1 HDTV XviD www.torrent.nom.es/.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 2.09e-7,
+                    "path": "Ted Lasso 2X1 HDTV XviD www.torrent.nom.es/Canal de Noticias@yadixv.URL"
+                },
+                {
+                    "number": 3,
+                    "size": 2.17e-7,
+                    "path": "Ted Lasso 2X1 HDTV XviD www.torrent.nom.es/Descargar Torrent Gratis.URL"
+                },
+                {
+                    "number": 4,
+                    "size": 2.7e-7,
+                    "path": "Ted Lasso 2X1 HDTV XviD www.torrent.nom.es/Descargar YaDixV Torrent - Portal De Torrents Gratuitos.URL"
+                },
+                {
+                    "number": 5,
+                    "size": 2.2e-7,
+                    "path": "Ted Lasso 2X1 HDTV XviD www.torrent.nom.es/YaDixv Facebook.URL"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Ted Lasso Dub",
+            "size_total": 5.749297486,
+            "files_total": 44,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000047669,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Eng/Ted.Lasso.S01E01.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00004801,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Eng/Ted.Lasso.S01E02.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000051369,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Eng/Ted.Lasso.S01E03.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000049531,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Eng/Ted.Lasso.S01E04.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000047187,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Eng/Ted.Lasso.S01E05.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000043842,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Eng/Ted.Lasso.S01E06.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 7,
+                    "size": 0.000041773,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Eng/Ted.Lasso.S01E07.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 8,
+                    "size": 0.000047224,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Eng/Ted.Lasso.S01E08.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 9,
+                    "size": 0.000045988,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Eng/Ted.Lasso.S01E09.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 10,
+                    "size": 0.0000521,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Eng/Ted.Lasso.S01E10.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 11,
+                    "size": 0.000052068,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Rus/Ted.Lasso.S01E01.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 12,
+                    "size": 0.000053103,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Rus/Ted.Lasso.S01E02.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 13,
+                    "size": 0.000059423,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Rus/Ted.Lasso.S01E03.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 14,
+                    "size": 0.000055865,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Rus/Ted.Lasso.S01E04.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 15,
+                    "size": 0.000054053,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Rus/Ted.Lasso.S01E05.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 16,
+                    "size": 0.000054355,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Rus/Ted.Lasso.S01E06.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 17,
+                    "size": 0.000051059,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Rus/Ted.Lasso.S01E07.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 18,
+                    "size": 0.000053477,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Rus/Ted.Lasso.S01E08.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 19,
+                    "size": 0.000050895,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Rus/Ted.Lasso.S01E09.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 20,
+                    "size": 0.000060219,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Rus/Ted.Lasso.S01E10.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 21,
+                    "size": 0.509964288,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Ted.Lasso.S01E01.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 22,
+                    "size": 9.39e-7,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Ted.Lasso.S01E01.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].Forced.srt"
+                },
+                {
+                    "number": 23,
+                    "size": 0.483856384,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Ted.Lasso.S01E02.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 24,
+                    "size": 0.000001114,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Ted.Lasso.S01E02.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].Forced.srt"
+                },
+                {
+                    "number": 25,
+                    "size": 0.501190656,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Ted.Lasso.S01E03.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 26,
+                    "size": 6.07e-7,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Ted.Lasso.S01E03.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].Forced.srt"
+                },
+                {
+                    "number": 27,
+                    "size": 0.554549248,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Ted.Lasso.S01E04.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 28,
+                    "size": 6.96e-7,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Ted.Lasso.S01E04.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].Forced.srt"
+                },
+                {
+                    "number": 29,
+                    "size": 0.512612352,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Ted.Lasso.S01E05.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 30,
+                    "size": 4.28e-7,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Ted.Lasso.S01E05.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].Forced.srt"
+                },
+                {
+                    "number": 31,
+                    "size": 0.522891264,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Ted.Lasso.S01E06.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 32,
+                    "size": 3.4e-7,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Ted.Lasso.S01E06.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].Forced.srt"
+                },
+                {
+                    "number": 33,
+                    "size": 0.529805312,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Ted.Lasso.S01E07.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 34,
+                    "size": 0.000003469,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Ted.Lasso.S01E07.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].Forced.srt"
+                },
+                {
+                    "number": 35,
+                    "size": 0.490061824,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Ted.Lasso.S01E08.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 36,
+                    "size": 5.55e-7,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Ted.Lasso.S01E08.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].Forced.srt"
+                },
+                {
+                    "number": 37,
+                    "size": 0.51606528,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Ted.Lasso.S01E09.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 38,
+                    "size": 3.85e-7,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Ted.Lasso.S01E09.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].Forced.srt"
+                },
+                {
+                    "number": 39,
+                    "size": 0.555077632,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Ted.Lasso.S01E10.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 40,
+                    "size": 7.8e-7,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Ted.Lasso.S01E10.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].Forced.srt"
+                },
+                {
+                    "number": 41,
+                    "size": 0.000051224,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 2) WEB-DLRip/Eng/Ted.Lasso.S02E01.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 42,
+                    "size": 0.000062549,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 2) WEB-DLRip/Rus/Ted.Lasso.S02E01.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 43,
+                    "size": 0.572080128,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 2) WEB-DLRip/Ted.Lasso.S02E01.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 44,
+                    "size": 8.22e-7,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 2) WEB-DLRip/Ted.Lasso.S02E01.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].Forced.srt"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Ted.Lasso.2x01.Addio.Earl.ITA-ENG.1080p.WEB.DDP5.1.H264-NovaRip.mkv",
+            "size_total": 2.975276542,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.975276542,
+                    "path": "Ted.Lasso.2x01.Addio.Earl.ITA-ENG.1080p.WEB.DDP5.1.H264-NovaRip.mkv"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Ted.Lasso.S01.2160p.ATVP.WEB-DL.DDP5.1.Atmos.DV.MP4.x265-INSIGNE[rartv]-[rarbg.to]",
+            "size_total": 59.565047009,
+            "files_total": 11,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.1e-8,
+                    "path": "Ted.Lasso.S01.2160p.ATVP.WEB-DL.DD5.1.Atmos.DoVi.HEVC-INSIGNE[rartv]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 5.844527628,
+                    "path": "Ted.Lasso.S01.2160p.ATVP.WEB-DL.DD5.1.Atmos.DoVi.HEVC-INSIGNE[rartv]/Ted.Lasso.S01E01.Pilot.2160p.ATVP.WEB-DL.DD+5.1.Atmos.DoVi.HEVC-INSIGNE.mp4"
+                },
+                {
+                    "number": 3,
+                    "size": 5.56208324,
+                    "path": "Ted.Lasso.S01.2160p.ATVP.WEB-DL.DD5.1.Atmos.DoVi.HEVC-INSIGNE[rartv]/Ted.Lasso.S01E02.Biscuits.2160p.ATVP.WEB-DL.DD+5.1.Atmos.DoVi.HEVC-INSIGNE.mp4"
+                },
+                {
+                    "number": 4,
+                    "size": 5.722436733,
+                    "path": "Ted.Lasso.S01.2160p.ATVP.WEB-DL.DD5.1.Atmos.DoVi.HEVC-INSIGNE[rartv]/Ted.Lasso.S01E03.Trent.Crimm.The.Independent.2160p.ATVP.WEB-DL.DD+5.1.Atmos.DoVi.HEVC-INSIGNE.mp4"
+                },
+                {
+                    "number": 5,
+                    "size": 6.453959938,
+                    "path": "Ted.Lasso.S01.2160p.ATVP.WEB-DL.DD5.1.Atmos.DoVi.HEVC-INSIGNE[rartv]/Ted.Lasso.S01E04.For.the.Children.2160p.ATVP.WEB-DL.DD+5.1.Atmos.DoVi.HEVC-INSIGNE.mp4"
+                },
+                {
+                    "number": 6,
+                    "size": 5.874459645,
+                    "path": "Ted.Lasso.S01.2160p.ATVP.WEB-DL.DD5.1.Atmos.DoVi.HEVC-INSIGNE[rartv]/Ted.Lasso.S01E05.Tan.Lines.2160p.ATVP.WEB-DL.DD+5.1.Atmos.DoVi.HEVC-INSIGNE.mp4"
+                },
+                {
+                    "number": 7,
+                    "size": 5.999463418,
+                    "path": "Ted.Lasso.S01.2160p.ATVP.WEB-DL.DD5.1.Atmos.DoVi.HEVC-INSIGNE[rartv]/Ted.Lasso.S01E06.Two.Aces.2160p.ATVP.WEB-DL.DD+5.1.Atmos.DoVi.HEVC-INSIGNE.mp4"
+                },
+                {
+                    "number": 8,
+                    "size": 6.107716355,
+                    "path": "Ted.Lasso.S01.2160p.ATVP.WEB-DL.DD5.1.Atmos.DoVi.HEVC-INSIGNE[rartv]/Ted.Lasso.S01E07.Make.Rebecca.Great.Again.2160p.ATVP.WEB-DL.DD+5.1.Atmos.DoVi.HEVC-INSIGNE.mp4"
+                },
+                {
+                    "number": 9,
+                    "size": 5.698612724,
+                    "path": "Ted.Lasso.S01.2160p.ATVP.WEB-DL.DD5.1.Atmos.DoVi.HEVC-INSIGNE[rartv]/Ted.Lasso.S01E08.The.Diamond.Dogs.2160p.ATVP.WEB-DL.DD+5.1.Atmos.DoVi.HEVC-INSIGNE.mp4"
+                },
+                {
+                    "number": 10,
+                    "size": 5.924460828,
+                    "path": "Ted.Lasso.S01.2160p.ATVP.WEB-DL.DD5.1.Atmos.DoVi.HEVC-INSIGNE[rartv]/Ted.Lasso.S01E09.All.Apologies.2160p.ATVP.WEB-DL.DD+5.1.Atmos.DoVi.HEVC-INSIGNE.mp4"
+                },
+                {
+                    "number": 11,
+                    "size": 6.377326469,
+                    "path": "Ted.Lasso.S01.2160p.ATVP.WEB-DL.DD5.1.Atmos.DoVi.HEVC-INSIGNE[rartv]/Ted.Lasso.S01E10.The.Hope.That.Kills.You.2160p.ATVP.WEB-DL.DD+5.1.Atmos.DoVi.HEVC-INSIGNE.mp4"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "Ted.Lasso.S02.1080p.ATVP.WEB-DL.DDP5.1.H.264-EniaHD",
+            "size_total": 2.975459104,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.975459104,
+                    "path": "Ted.Lasso.S02.1080p.ATVP.WEB-DL.DDP5.1.H.264-EniaHD/Ted.Lasso.S02E01.Goodbye.Earl.1080p.ATVP.WEB-DL.DDP5.1.H.264-EniaHD.mkv"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "Ted.Lasso.S02.2160p.WEB-DL.DDP5.1.Atmos.DoVi.HEVC.by.DVT",
+            "size_total": 6.761626884,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 6.761626884,
+                    "path": "Ted.Lasso.S02.2160p.WEB-DL.DDP5.1.Atmos.DoVi.HEVC.by.DVT/Ted.Lasso.S02E01.Goodbye.Earl.2160p.WEB-DL.DDP5.1.Atmos.DoVi.HEVC.by.DVT.mp4"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "name": "Ted.Lasso.S02.400p.Ultradox",
+            "size_total": 0.502632448,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.502632448,
+                    "path": "Ted.Lasso.S02.400p.Ultradox/Ted.Lasso.S02E01.400p.Ultradox.avi"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "name": "Ted.Lasso.S02E01.1080p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.474198247,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.006079187,
+                    "path": "Ted.Lasso.S02E01.1080p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.009085383,
+                    "path": "Ted.Lasso.S02E01.1080p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.006513447,
+                    "path": "Ted.Lasso.S02E01.1080p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.452519096,
+                    "path": "Ted.Lasso.S02E01.1080p.HEVC.x265-MeGusta/Ted.Lasso.S02E01.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000001134,
+                    "path": "Ted.Lasso.S02E01.1080p.HEVC.x265-MeGusta/Ted.Lasso.S02E01.1080p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "name": "Ted.Lasso.S02E01.1080p.HEVC.x265-MeGusta.mkv",
+            "size_total": 0.452519096,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.452519096,
+                    "path": "Ted.Lasso.S02E01.1080p.HEVC.x265-MeGusta.mkv"
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "name": "Ted.Lasso.S02E01.1080p.HEVC.x265-MeGusta[eztv.re].mkv",
+            "size_total": 0.452519096,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.452519096,
+                    "path": "Ted.Lasso.S02E01.1080p.HEVC.x265-MeGusta[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "name": "Ted.Lasso.S02E01.1080p.WEB-DL.DUAL",
+            "size_total": 0.796815587,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.773832437,
+                    "path": "Ted.Lasso.S02E01.1080p.WEB-DL.DUAL/Ted.Lasso.S02E01.1080p.WEB-DL.DUAL.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 4.5e-8,
+                    "path": "Ted.Lasso.S02E01.1080p.WEB-DL.DUAL/Comando.TO.url"
+                },
+                {
+                    "number": 3,
+                    "size": 0.022983105,
+                    "path": "Ted.Lasso.S02E01.1080p.WEB-DL.DUAL/1XBET.COM_promo_SHREK_dinheiro_livre.mp4"
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "name": "Ted.Lasso.S02E01.1080p.WEB.H264-GLHF [IPT]",
+            "size_total": 2.777224422,
+            "files_total": 12,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.7e-8,
+                    "path": "Ted.Lasso.S02E01.1080p.WEB.H264-GLHF/ted.lasso.s02e01.1080p.web.h264-glhf.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.3,
+                    "path": "Ted.Lasso.S02E01.1080p.WEB.H264-GLHF/ted.lasso.s02e01.1080p.web.h264-glhf.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.3,
+                    "path": "Ted.Lasso.S02E01.1080p.WEB.H264-GLHF/ted.lasso.s02e01.1080p.web.h264-glhf.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.3,
+                    "path": "Ted.Lasso.S02E01.1080p.WEB.H264-GLHF/ted.lasso.s02e01.1080p.web.h264-glhf.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.3,
+                    "path": "Ted.Lasso.S02E01.1080p.WEB.H264-GLHF/ted.lasso.s02e01.1080p.web.h264-glhf.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.3,
+                    "path": "Ted.Lasso.S02E01.1080p.WEB.H264-GLHF/ted.lasso.s02e01.1080p.web.h264-glhf.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.3,
+                    "path": "Ted.Lasso.S02E01.1080p.WEB.H264-GLHF/ted.lasso.s02e01.1080p.web.h264-glhf.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.3,
+                    "path": "Ted.Lasso.S02E01.1080p.WEB.H264-GLHF/ted.lasso.s02e01.1080p.web.h264-glhf.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.3,
+                    "path": "Ted.Lasso.S02E01.1080p.WEB.H264-GLHF/ted.lasso.s02e01.1080p.web.h264-glhf.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.077223875,
+                    "path": "Ted.Lasso.S02E01.1080p.WEB.H264-GLHF/ted.lasso.s02e01.1080p.web.h264-glhf.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.3,
+                    "path": "Ted.Lasso.S02E01.1080p.WEB.H264-GLHF/ted.lasso.s02e01.1080p.web.h264-glhf.rar"
+                },
+                {
+                    "number": 12,
+                    "size": 5.1e-7,
+                    "path": "Ted.Lasso.S02E01.1080p.WEB.H264-GLHF/ted.lasso.s02e01.1080p.web.h264-glhf.sfv"
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "name": "Ted.Lasso.S02E01.1080p.WEB.H264-GLHF",
+            "size_total": 2.777224422,
+            "files_total": 12,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.7e-8,
+                    "path": "Ted.Lasso.S02E01.1080p.WEB.H264-GLHF/ted.lasso.s02e01.1080p.web.h264-glhf.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.3,
+                    "path": "Ted.Lasso.S02E01.1080p.WEB.H264-GLHF/ted.lasso.s02e01.1080p.web.h264-glhf.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.3,
+                    "path": "Ted.Lasso.S02E01.1080p.WEB.H264-GLHF/ted.lasso.s02e01.1080p.web.h264-glhf.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.3,
+                    "path": "Ted.Lasso.S02E01.1080p.WEB.H264-GLHF/ted.lasso.s02e01.1080p.web.h264-glhf.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.3,
+                    "path": "Ted.Lasso.S02E01.1080p.WEB.H264-GLHF/ted.lasso.s02e01.1080p.web.h264-glhf.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.3,
+                    "path": "Ted.Lasso.S02E01.1080p.WEB.H264-GLHF/ted.lasso.s02e01.1080p.web.h264-glhf.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.3,
+                    "path": "Ted.Lasso.S02E01.1080p.WEB.H264-GLHF/ted.lasso.s02e01.1080p.web.h264-glhf.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.3,
+                    "path": "Ted.Lasso.S02E01.1080p.WEB.H264-GLHF/ted.lasso.s02e01.1080p.web.h264-glhf.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.3,
+                    "path": "Ted.Lasso.S02E01.1080p.WEB.H264-GLHF/ted.lasso.s02e01.1080p.web.h264-glhf.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.077223875,
+                    "path": "Ted.Lasso.S02E01.1080p.WEB.H264-GLHF/ted.lasso.s02e01.1080p.web.h264-glhf.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.3,
+                    "path": "Ted.Lasso.S02E01.1080p.WEB.H264-GLHF/ted.lasso.s02e01.1080p.web.h264-glhf.rar"
+                },
+                {
+                    "number": 12,
+                    "size": 5.1e-7,
+                    "path": "Ted.Lasso.S02E01.1080p.WEB.H264-GLHF/ted.lasso.s02e01.1080p.web.h264-glhf.sfv"
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "name": "Ted.Lasso.S02E01.1080p.WEB.H264-GLHF[ettv]",
+            "size_total": 2.864525825,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.1e-8,
+                    "path": "Ted.Lasso.S02E01.1080p.WEB.H264-GLHF[ettv]/Download more at www.ettvcentral.com .txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.087300642,
+                    "path": "Ted.Lasso.S02E01.1080p.WEB.H264-GLHF[ettv]/Sample/ted.lasso.s02e01.1080p.web.h264-glhf-sample.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 3.7e-8,
+                    "path": "Ted.Lasso.S02E01.1080p.WEB.H264-GLHF[ettv]/ted.lasso.s02e01.1080p.web.h264-glhf.nfo"
+                },
+                {
+                    "number": 4,
+                    "size": 0.00000248,
+                    "path": "Ted.Lasso.S02E01.1080p.WEB.H264-GLHF[ettv]/ted.lasso.s02e01.1080p.web.h264-glhf.srr"
+                },
+                {
+                    "number": 5,
+                    "size": 2.777222625,
+                    "path": "Ted.Lasso.S02E01.1080p.WEB.H264-GLHF[ettv]/ted.lasso.s02e01.1080p.web.h264-glhf[ettv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "name": "ted.lasso.s02e01.1080p.web.h264-glhf[eztv.re].mkv",
+            "size_total": 2.777222625,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.777222625,
+                    "path": "ted.lasso.s02e01.1080p.web.h264-glhf[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "name": "Ted.Lasso.S02E01.1080p.WEB.H264-GLHF[rarbg]",
+            "size_total": 2.777222791,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Ted.Lasso.S02E01.1080p.WEB.H264-GLHF[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Ted.Lasso.S02E01.1080p.WEB.H264-GLHF[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 2.777222625,
+                    "path": "Ted.Lasso.S02E01.1080p.WEB.H264-GLHF[rarbg]/ted.lasso.s02e01.1080p.web.h264-glhf.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 3.7e-8,
+                    "path": "Ted.Lasso.S02E01.1080p.WEB.H264-GLHF[rarbg]/ted.lasso.s02e01.1080p.web.h264-glhf.nfo"
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "name": "Ted.Lasso.S02E01.1080p.WEB.H264-GLHF[rartv]-[rarbg.to]",
+            "size_total": 2.777222791,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Ted.Lasso.S02E01.1080p.WEB.H264-GLHF[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Ted.Lasso.S02E01.1080p.WEB.H264-GLHF[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 2.777222625,
+                    "path": "Ted.Lasso.S02E01.1080p.WEB.H264-GLHF[rarbg]/ted.lasso.s02e01.1080p.web.h264-glhf.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 3.7e-8,
+                    "path": "Ted.Lasso.S02E01.1080p.WEB.H264-GLHF[rarbg]/ted.lasso.s02e01.1080p.web.h264-glhf.nfo"
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "name": "Ted.Lasso.S02E01.1080p.WEB.H264-GLHF[TGx]",
+            "size_total": 2.77722338,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 7.18e-7,
+                    "path": "Ted.Lasso.S02E01.1080p.WEB.H264-GLHF[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 2,
+                    "size": 2.777222625,
+                    "path": "Ted.Lasso.S02E01.1080p.WEB.H264-GLHF[TGx]/ted.lasso.s02e01.1080p.web.h264-glhf.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 3.7e-8,
+                    "path": "Ted.Lasso.S02E01.1080p.WEB.H264-GLHF[TGx]/ted.lasso.s02e01.1080p.web.h264-glhf.nfo"
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "name": "Ted.Lasso.S02E01.1080p.WEB.x264",
+            "size_total": 2.777222625,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.777222625,
+                    "path": "Ted.Lasso.S02E01.1080p.WEB.x264/ted.lasso.s02e01.1080p.web.h264.mkv"
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "name": "Ted.Lasso.S02E01.2160p.WEB.H265-EXPLOIT[rartv]-[rarbg.to]",
+            "size_total": 5.638447779,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.1e-8,
+                    "path": "Ted.Lasso.S02E01.2160p.WEB.H265-EXPLOIT[rartv]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 5.638447748,
+                    "path": "Ted.Lasso.S02E01.2160p.WEB.H265-EXPLOIT[rartv]/Ted.Lasso.S02E01.2160p.WEB.H265-EXPLOIT.mkv"
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "name": "Ted.Lasso.S02E01.2160p.WEB.H265-EXPLOIT[rartv]",
+            "size_total": 5.638447779,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.1e-8,
+                    "path": "Ted.Lasso.S02E01.2160p.WEB.H265-EXPLOIT[rartv]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 5.638447748,
+                    "path": "Ted.Lasso.S02E01.2160p.WEB.H265-EXPLOIT[rartv]/Ted.Lasso.S02E01.2160p.WEB.H265-EXPLOIT.mkv"
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "name": "Ted.Lasso.S02E01.400p.ColdFilm.avi",
+            "size_total": 0.435446394,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.435446394,
+                    "path": "Ted.Lasso.S02E01.400p.ColdFilm.avi"
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "name": "Ted.Lasso.S02E01.480p.x264-mSD [IPT]",
+            "size_total": 0.302284275,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000181383,
+                    "path": "Ted.Lasso.S02E01.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.0003751,
+                    "path": "Ted.Lasso.S02E01.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000202746,
+                    "path": "Ted.Lasso.S02E01.480p.x264-mSD/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.301524085,
+                    "path": "Ted.Lasso.S02E01.480p.x264-mSD/Ted.Lasso.S02E01.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 9.61e-7,
+                    "path": "Ted.Lasso.S02E01.480p.x264-mSD/Ted.Lasso.S02E01.480p.x264-mSD.nfo"
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "name": "Ted.Lasso.S02E01.480p.x264-mSD[eztv.re].mkv",
+            "size_total": 0.301524085,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.301524085,
+                    "path": "Ted.Lasso.S02E01.480p.x264-mSD[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "name": "Ted.Lasso.S02E01.720p.HDTV.Subtitulado.Esp.SC.mp4",
+            "size_total": 0.711739843,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.711739843,
+                    "path": "Ted.Lasso.S02E01.720p.HDTV.Subtitulado.Esp.SC.mp4"
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "name": "Ted.Lasso.S02E01.720p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.40510355,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.003445341,
+                    "path": "Ted.Lasso.S02E01.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.004680357,
+                    "path": "Ted.Lasso.S02E01.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.003423133,
+                    "path": "Ted.Lasso.S02E01.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.393553597,
+                    "path": "Ted.Lasso.S02E01.720p.HEVC.x265-MeGusta/Ted.Lasso.S02E01.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000001122,
+                    "path": "Ted.Lasso.S02E01.720p.HEVC.x265-MeGusta/Ted.Lasso.S02E01.720p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "name": "Ted.Lasso.S02E01.720p.HEVC.x265-MeGusta[eztv.re].mkv",
+            "size_total": 0.393553597,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.393553597,
+                    "path": "Ted.Lasso.S02E01.720p.HEVC.x265-MeGusta[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "name": "Ted.Lasso.S02E01.720p.WEB.H264-GLHF [IPT]",
+            "size_total": 0.932568724,
+            "files_total": 12,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.6e-8,
+                    "path": "Ted.Lasso.S02E01.720p.WEB.H264-GLHF/ted.lasso.s02e01.720p.web.h264-glhf.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.1,
+                    "path": "Ted.Lasso.S02E01.720p.WEB.H264-GLHF/ted.lasso.s02e01.720p.web.h264-glhf.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.1,
+                    "path": "Ted.Lasso.S02E01.720p.WEB.H264-GLHF/ted.lasso.s02e01.720p.web.h264-glhf.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.1,
+                    "path": "Ted.Lasso.S02E01.720p.WEB.H264-GLHF/ted.lasso.s02e01.720p.web.h264-glhf.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.1,
+                    "path": "Ted.Lasso.S02E01.720p.WEB.H264-GLHF/ted.lasso.s02e01.720p.web.h264-glhf.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.1,
+                    "path": "Ted.Lasso.S02E01.720p.WEB.H264-GLHF/ted.lasso.s02e01.720p.web.h264-glhf.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.1,
+                    "path": "Ted.Lasso.S02E01.720p.WEB.H264-GLHF/ted.lasso.s02e01.720p.web.h264-glhf.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.1,
+                    "path": "Ted.Lasso.S02E01.720p.WEB.H264-GLHF/ted.lasso.s02e01.720p.web.h264-glhf.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.1,
+                    "path": "Ted.Lasso.S02E01.720p.WEB.H264-GLHF/ted.lasso.s02e01.720p.web.h264-glhf.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.032568198,
+                    "path": "Ted.Lasso.S02E01.720p.WEB.H264-GLHF/ted.lasso.s02e01.720p.web.h264-glhf.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.1,
+                    "path": "Ted.Lasso.S02E01.720p.WEB.H264-GLHF/ted.lasso.s02e01.720p.web.h264-glhf.rar"
+                },
+                {
+                    "number": 12,
+                    "size": 4.9e-7,
+                    "path": "Ted.Lasso.S02E01.720p.WEB.H264-GLHF/ted.lasso.s02e01.720p.web.h264-glhf.sfv"
+                }
+            ]
+        },
+        {
+            "id": 43,
+            "name": "Ted.Lasso.S02E01.720p.WEB.H264-GLHF[ettv]",
+            "size_total": 0.944640579,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.1e-8,
+                    "path": "Ted.Lasso.S02E01.720p.WEB.H264-GLHF[ettv]/Download more at www.ettvcentral.com .txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.012071096,
+                    "path": "Ted.Lasso.S02E01.720p.WEB.H264-GLHF[ettv]/Sample/ted.lasso.s02e01.720p.web.h264-glhf-sample.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 3.7e-8,
+                    "path": "Ted.Lasso.S02E01.720p.WEB.H264-GLHF[ettv]/ted.lasso.s02e01.720p.web.h264-glhf.nfo"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000002367,
+                    "path": "Ted.Lasso.S02E01.720p.WEB.H264-GLHF[ettv]/ted.lasso.s02e01.720p.web.h264-glhf.srr"
+                },
+                {
+                    "number": 5,
+                    "size": 0.932567038,
+                    "path": "Ted.Lasso.S02E01.720p.WEB.H264-GLHF[ettv]/ted.lasso.s02e01.720p.web.h264-glhf[ettv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 44,
+            "name": "ted.lasso.s02e01.720p.web.h264-glhf[eztv.re].mkv",
+            "size_total": 0.932567038,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.932567038,
+                    "path": "ted.lasso.s02e01.720p.web.h264-glhf[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 45,
+            "name": "Ted.Lasso.S02E01.720p.WEB.H264-GLHF[rarbg].srt",
+            "size_total": 0.000048506,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000048506,
+                    "path": "Ted.Lasso.S02E01.720p.WEB.H264-GLHF[rarbg].srt"
+                }
+            ]
+        },
+        {
+            "id": 46,
+            "name": "Ted.Lasso.S02E01.720p.WEB.H264-GLHF[rarbg]",
+            "size_total": 0.932567203,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Ted.Lasso.S02E01.720p.WEB.H264-GLHF[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Ted.Lasso.S02E01.720p.WEB.H264-GLHF[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 0.932567038,
+                    "path": "Ted.Lasso.S02E01.720p.WEB.H264-GLHF[rarbg]/ted.lasso.s02e01.720p.web.h264-glhf.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 3.6e-8,
+                    "path": "Ted.Lasso.S02E01.720p.WEB.H264-GLHF[rarbg]/ted.lasso.s02e01.720p.web.h264-glhf.nfo"
+                }
+            ]
+        },
+        {
+            "id": 47,
+            "name": "Ted.Lasso.S02E01.720p.WEB.H264-GLHF[rartv]-[rarbg.to]",
+            "size_total": 0.932567203,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Ted.Lasso.S02E01.720p.WEB.H264-GLHF[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Ted.Lasso.S02E01.720p.WEB.H264-GLHF[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 0.932567038,
+                    "path": "Ted.Lasso.S02E01.720p.WEB.H264-GLHF[rarbg]/ted.lasso.s02e01.720p.web.h264-glhf.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 3.6e-8,
+                    "path": "Ted.Lasso.S02E01.720p.WEB.H264-GLHF[rarbg]/ted.lasso.s02e01.720p.web.h264-glhf.nfo"
+                }
+            ]
+        },
+        {
+            "id": 48,
+            "name": "Ted.Lasso.S02E01.720p.WEB.H264-GLHF[TGx]",
+            "size_total": 0.932567792,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 7.18e-7,
+                    "path": "Ted.Lasso.S02E01.720p.WEB.H264-GLHF[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.932567038,
+                    "path": "Ted.Lasso.S02E01.720p.WEB.H264-GLHF[TGx]/ted.lasso.s02e01.720p.web.h264-glhf.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 3.6e-8,
+                    "path": "Ted.Lasso.S02E01.720p.WEB.H264-GLHF[TGx]/ted.lasso.s02e01.720p.web.h264-glhf.nfo"
+                }
+            ]
+        },
+        {
+            "id": 49,
+            "name": "Ted.Lasso.S02E01.720p.WEB.x264",
+            "size_total": 0.932567038,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.932567038,
+                    "path": "Ted.Lasso.S02E01.720p.WEB.x264/ted.lasso.s02e01.720p.web.h264.mkv"
+                }
+            ]
+        },
+        {
+            "id": 50,
+            "name": "Ted.Lasso.S02E01.720p.WEB.x265-MiNX[TGx]",
+            "size_total": 0.219344004,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.21934325,
+                    "path": "Ted.Lasso.S02E01.720p.WEB.x265-MiNX[TGx]/Ted.Lasso.S02E01.720p.WEB.x265-MiNX.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 7.18e-7,
+                    "path": "Ted.Lasso.S02E01.720p.WEB.x265-MiNX[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 3,
+                    "size": 3.6e-8,
+                    "path": "Ted.Lasso.S02E01.720p.WEB.x265-MiNX[TGx]/source.txt"
+                }
+            ]
+        },
+        {
+            "id": 51,
+            "name": "Ted.Lasso.S02E01.AAC.MP4-Mobile [IPT]",
+            "size_total": 0.134283614,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000189016,
+                    "path": "Ted.Lasso.S02E01.AAC.MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000386341,
+                    "path": "Ted.Lasso.S02E01.AAC.MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000208181,
+                    "path": "Ted.Lasso.S02E01.AAC.MP4-Mobile/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.133498856,
+                    "path": "Ted.Lasso.S02E01.AAC.MP4-Mobile/Ted.Lasso.S02E01.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 5,
+                    "size": 0.00000122,
+                    "path": "Ted.Lasso.S02E01.AAC.MP4-Mobile/Ted.Lasso.S02E01.AAC.MP4-Mobile.nfo"
+                }
+            ]
+        },
+        {
+            "id": 52,
+            "name": "Ted.Lasso.S02E01.Addio.Earl.iTALIAN.MULTI.1080p.WEB.x264-MeM.mkv",
+            "size_total": 2.825349635,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.825349635,
+                    "path": "Ted.Lasso.S02E01.Addio.Earl.iTALIAN.MULTI.1080p.WEB.x264-MeM.mkv"
+                }
+            ]
+        },
+        {
+            "id": 53,
+            "name": "Ted.Lasso.S02E01.Goodbye.Earl.1080p.ATVP.WEB-DL.DDP5.1.H264-NTb[rartv]-[rarbg.to]",
+            "size_total": 2.776082231,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Ted.Lasso.S02E01.Goodbye.Earl.1080p.ATVP.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Ted.Lasso.S02E01.Goodbye.Earl.1080p.ATVP.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 2.776082102,
+                    "path": "Ted.Lasso.S02E01.Goodbye.Earl.1080p.ATVP.WEBRip.DDP5.1.x264-NTb[rarbg]/Ted.Lasso.S02E01.Goodbye.Earl.1080p.ATVP.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                }
+            ]
+        },
+        {
+            "id": 54,
+            "name": "Ted.Lasso.S02E01.Goodbye.Earl.1080p.ATVP.WEBRip.DDP5.1.x264-NTb[TGx]",
+            "size_total": 2.77608282,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.776082102,
+                    "path": "Ted.Lasso.S02E01.Goodbye.Earl.1080p.ATVP.WEBRip.DDP5.1.x264-NTb[TGx]/Ted.Lasso.S02E01.Goodbye.Earl.1080p.ATVP.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 7.18e-7,
+                    "path": "Ted.Lasso.S02E01.Goodbye.Earl.1080p.ATVP.WEBRip.DDP5.1.x264-NTb[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 55,
+            "name": "Ted.Lasso.S02E01.Goodbye.Earl.1080p.ATVP.WEBRip.x265",
+            "size_total": 1.2285936,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.2285936,
+                    "path": "Ted.Lasso.S02E01.Goodbye.Earl.1080p.ATVP.WEBRip.x265/Ted.Lasso.S02E01.Goodbye.Earl.1080p.ATVP.WEB-DL.H.265.mkv"
+                }
+            ]
+        },
+        {
+            "id": 56,
+            "name": "Ted.Lasso.S02E01.Goodbye.Earl.1080p.WEBRip.6CH.x265.HEVC-PSA.mkv",
+            "size_total": 0.44077559,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.44077559,
+                    "path": "Ted.Lasso.S02E01.Goodbye.Earl.1080p.WEBRip.6CH.x265.HEVC-PSA.mkv"
+                }
+            ]
+        },
+        {
+            "id": 57,
+            "name": "Ted.Lasso.S02E01.Goodbye.Earl.2160p.ATVP.WEB-DL.DDP5.1.Atmos.DV.MP4.x265-FLUX[rartv]-[rarbg.to]",
+            "size_total": 6.563832005,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.1e-8,
+                    "path": "Ted.Lasso.S02E01.Goodbye.Earl.2160p.ATVP.WEB-DL.DDP5.1.Atmos.DV.MP4.x265-FLUX[rartv]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 6.563831974,
+                    "path": "Ted.Lasso.S02E01.Goodbye.Earl.2160p.ATVP.WEB-DL.DDP5.1.Atmos.DV.MP4.x265-FLUX[rartv]/Ted.Lasso.S02E01.Goodbye.Earl.2160p.WEB-DL.DDP.5.1.Atmos.DV.H.265-FLUX.mp4"
+                }
+            ]
+        },
+        {
+            "id": 58,
+            "name": "Ted.Lasso.S02E01.Goodbye.Earl.2160p.ATVP.WEB-DL.DDP5.1.Atmos.DV.MP4.x265-FLUX[rartv]",
+            "size_total": 6.563832005,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.1e-8,
+                    "path": "Ted.Lasso.S02E01.Goodbye.Earl.2160p.ATVP.WEB-DL.DDP5.1.Atmos.DV.MP4.x265-FLUX[rartv]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 6.563831974,
+                    "path": "Ted.Lasso.S02E01.Goodbye.Earl.2160p.ATVP.WEB-DL.DDP5.1.Atmos.DV.MP4.x265-FLUX[rartv]/Ted.Lasso.S02E01.Goodbye.Earl.2160p.WEB-DL.DDP.5.1.Atmos.DV.H.265-FLUX.mp4"
+                }
+            ]
+        },
+        {
+            "id": 59,
+            "name": "Ted.Lasso.S02E01.Goodbye.Earl.720p.ATVP.WEB-DL.DDP5.1.H264-NTb[rartv]-[rarbg.to]",
+            "size_total": 0.931426349,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Ted.Lasso.S02E01.Goodbye.Earl.720p.ATVP.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Ted.Lasso.S02E01.Goodbye.Earl.720p.ATVP.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 0.93142622,
+                    "path": "Ted.Lasso.S02E01.Goodbye.Earl.720p.ATVP.WEBRip.DDP5.1.x264-NTb[rarbg]/Ted.Lasso.S02E01.Goodbye.Earl.720p.ATVP.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                }
+            ]
+        },
+        {
+            "id": 60,
+            "name": "Ted.Lasso.S02E01.Goodbye.Earl.720p.ATVP.WEBRip.DDP5.1.x264-NTb[TGx]",
+            "size_total": 0.931426938,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.93142622,
+                    "path": "Ted.Lasso.S02E01.Goodbye.Earl.720p.ATVP.WEBRip.DDP5.1.x264-NTb[TGx]/Ted.Lasso.S02E01.Goodbye.Earl.720p.ATVP.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 7.18e-7,
+                    "path": "Ted.Lasso.S02E01.Goodbye.Earl.720p.ATVP.WEBRip.DDP5.1.x264-NTb[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 61,
+            "name": "Ted.Lasso.S02E01.Goodbye.Earl.720p.WEBRip.2CH.x265.HEVC-PSA.mkv",
+            "size_total": 0.198177204,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.198177204,
+                    "path": "Ted.Lasso.S02E01.Goodbye.Earl.720p.WEBRip.2CH.x265.HEVC-PSA.mkv"
+                }
+            ]
+        },
+        {
+            "id": 62,
+            "name": "Ted.Lasso.S02E01.HDR.2160p.WEB.H265-EXPLOIT[rartv]-[rarbg.to]",
+            "size_total": 6.425293358,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.1e-8,
+                    "path": "Ted.Lasso.S02E01.HDR.2160p.WEB.H265-EXPLOIT[rartv]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 6.425293327,
+                    "path": "Ted.Lasso.S02E01.HDR.2160p.WEB.H265-EXPLOIT[rartv]/Ted.Lasso.S02E01.HDR.2160p.WEB.H265-EXPLOIT.mkv"
+                }
+            ]
+        },
+        {
+            "id": 63,
+            "name": "Ted.Lasso.S02E01.HDR.2160p.WEB.H265-EXPLOIT[rartv]",
+            "size_total": 6.425293358,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.1e-8,
+                    "path": "Ted.Lasso.S02E01.HDR.2160p.WEB.H265-EXPLOIT[rartv]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 6.425293327,
+                    "path": "Ted.Lasso.S02E01.HDR.2160p.WEB.H265-EXPLOIT[rartv]/Ted.Lasso.S02E01.HDR.2160p.WEB.H265-EXPLOIT.mkv"
+                }
+            ]
+        },
+        {
+            "id": 64,
+            "name": "Ted.Lasso.S02E01.PROPER.ATVP.WEBRip.x264-PHOENiX[TGx]",
+            "size_total": 0.239866561,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.239865755,
+                    "path": "Ted.Lasso.S02E01.PROPER.ATVP.WEBRip.x264-PHOENiX[TGx]/Ted.Lasso.S02E01.PROPER.ATVP.WEBRip.x264-PHOENiX.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 7.18e-7,
+                    "path": "Ted.Lasso.S02E01.PROPER.ATVP.WEBRip.x264-PHOENiX[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 3,
+                    "size": 2.5e-8,
+                    "path": "Ted.Lasso.S02E01.PROPER.ATVP.WEBRip.x264-PHOENiX[TGx]/proper.txt"
+                },
+                {
+                    "number": 4,
+                    "size": 6.3e-8,
+                    "path": "Ted.Lasso.S02E01.PROPER.ATVP.WEBRip.x264-PHOENiX[TGx]/source.txt"
+                }
+            ]
+        },
+        {
+            "id": 65,
+            "name": "Ted.Lasso.S02E01.REPACK.WEB.x264-PHOENiX [IPT](1)",
+            "size_total": 0.214035798,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000463187,
+                    "path": "Ted.Lasso.S02E01.REPACK.WEB.x264-PHOENiX/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000550229,
+                    "path": "Ted.Lasso.S02E01.REPACK.WEB.x264-PHOENiX/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000550229,
+                    "path": "Ted.Lasso.S02E01.REPACK.WEB.x264-PHOENiX/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000358232,
+                    "path": "Ted.Lasso.S02E01.REPACK.WEB.x264-PHOENiX/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.212112602,
+                    "path": "Ted.Lasso.S02E01.REPACK.WEB.x264-PHOENiX/Ted.Lasso.S02E01.WEB.x264-PHOENiX.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001319,
+                    "path": "Ted.Lasso.S02E01.REPACK.WEB.x264-PHOENiX/Ted.Lasso.S02E01.WEB.x264-PHOENiX.nfo"
+                }
+            ]
+        },
+        {
+            "id": 66,
+            "name": "Ted.Lasso.S02E01.REPACK.WEB.x264-PHOENiX [IPT]",
+            "size_total": 0.214035798,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000463187,
+                    "path": "Ted.Lasso.S02E01.REPACK.WEB.x264-PHOENiX/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000550229,
+                    "path": "Ted.Lasso.S02E01.REPACK.WEB.x264-PHOENiX/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000550229,
+                    "path": "Ted.Lasso.S02E01.REPACK.WEB.x264-PHOENiX/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000358232,
+                    "path": "Ted.Lasso.S02E01.REPACK.WEB.x264-PHOENiX/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.212112602,
+                    "path": "Ted.Lasso.S02E01.REPACK.WEB.x264-PHOENiX/Ted.Lasso.S02E01.WEB.x264-PHOENiX.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001319,
+                    "path": "Ted.Lasso.S02E01.REPACK.WEB.x264-PHOENiX/Ted.Lasso.S02E01.WEB.x264-PHOENiX.nfo"
+                }
+            ]
+        },
+        {
+            "id": 67,
+            "name": "Ted.Lasso.S02E01.REPACK.WEB.x264-PHOENiX[TGx]",
+            "size_total": 0.212113381,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.212112602,
+                    "path": "Ted.Lasso.S02E01.REPACK.WEB.x264-PHOENiX[TGx]/Ted.Lasso.S02E01.WEB.x264-PHOENiX.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 7.18e-7,
+                    "path": "Ted.Lasso.S02E01.REPACK.WEB.x264-PHOENiX[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 3,
+                    "size": 2.5e-8,
+                    "path": "Ted.Lasso.S02E01.REPACK.WEB.x264-PHOENiX[TGx]/repack.txt"
+                },
+                {
+                    "number": 4,
+                    "size": 3.6e-8,
+                    "path": "Ted.Lasso.S02E01.REPACK.WEB.x264-PHOENiX[TGx]/source.txt"
+                }
+            ]
+        },
+        {
+            "id": 68,
+            "name": "Ted.Lasso.S02E01.WEB.x264-PHOENiX[TGx]",
+            "size_total": 0.212113357,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.212112602,
+                    "path": "Ted.Lasso.S02E01.WEB.x264-PHOENiX[TGx]/Ted.Lasso.S02E01.WEB.x264-PHOENiX.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 7.18e-7,
+                    "path": "Ted.Lasso.S02E01.WEB.x264-PHOENiX[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 3,
+                    "size": 3.7e-8,
+                    "path": "Ted.Lasso.S02E01.WEB.x264-PHOENiX[TGx]/source.txt"
+                }
+            ]
+        },
+        {
+            "id": 69,
+            "name": "Ted.Lasso.S02E01.WEBRip.1080p.rus.5.1.HDREZKA.STUDIO.mkv",
+            "size_total": 2.244198945,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.244198945,
+                    "path": "Ted.Lasso.S02E01.WEBRip.1080p.rus.5.1.HDREZKA.STUDIO.mkv"
+                }
+            ]
+        },
+        {
+            "id": 70,
+            "name": "Ted.Lasso.S02E01.WEBRip.x264-ION10-[rarbg.to]",
+            "size_total": 0.353826825,
+            "files_total": 44,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000034294,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Subs/10_Dutch.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000041196,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Subs/11_Estonian.srt"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000044721,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Subs/12_Spanish.srt"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000042609,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Subs/13_Finnish.srt"
+                },
+                {
+                    "number": 7,
+                    "size": 0.000043757,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Subs/14_French.srt"
+                },
+                {
+                    "number": 8,
+                    "size": 0.000043757,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Subs/15_French.srt"
+                },
+                {
+                    "number": 9,
+                    "size": 0.000045347,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Subs/16_German.srt"
+                },
+                {
+                    "number": 10,
+                    "size": 0.000058498,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Subs/17_Greek.srt"
+                },
+                {
+                    "number": 11,
+                    "size": 0.000056393,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Subs/18_Hebrew.srt"
+                },
+                {
+                    "number": 12,
+                    "size": 0.000080629,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Subs/19_hin.srt"
+                },
+                {
+                    "number": 13,
+                    "size": 0.000046262,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Subs/20_Hungarian.srt"
+                },
+                {
+                    "number": 14,
+                    "size": 0.000049058,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Subs/21_Indonesian.srt"
+                },
+                {
+                    "number": 15,
+                    "size": 0.000047968,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Subs/22_Italian.srt"
+                },
+                {
+                    "number": 16,
+                    "size": 0.000040277,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Subs/23_Japanese.srt"
+                },
+                {
+                    "number": 17,
+                    "size": 0.000047598,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Subs/24_Korean.srt"
+                },
+                {
+                    "number": 18,
+                    "size": 0.000046533,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Subs/25_Spanish.srt"
+                },
+                {
+                    "number": 19,
+                    "size": 0.000046856,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Subs/26_Latvian.srt"
+                },
+                {
+                    "number": 20,
+                    "size": 0.000047788,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Subs/27_Lithuanian.srt"
+                },
+                {
+                    "number": 21,
+                    "size": 0.000048272,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Subs/28_may.srt"
+                },
+                {
+                    "number": 22,
+                    "size": 0.000043078,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Subs/29_nor.srt"
+                },
+                {
+                    "number": 23,
+                    "size": 0.000048166,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Subs/2_English.srt"
+                },
+                {
+                    "number": 24,
+                    "size": 0.000041356,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Subs/30_Polish.srt"
+                },
+                {
+                    "number": 25,
+                    "size": 0.000045206,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Subs/31_Portuguese.srt"
+                },
+                {
+                    "number": 26,
+                    "size": 0.000042718,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Subs/32_Portuguese.srt"
+                },
+                {
+                    "number": 27,
+                    "size": 0.000059436,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Subs/33_Russian.srt"
+                },
+                {
+                    "number": 28,
+                    "size": 0.000043556,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Subs/34_slo.srt"
+                },
+                {
+                    "number": 29,
+                    "size": 0.000041946,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Subs/35_Slovenian.srt"
+                },
+                {
+                    "number": 30,
+                    "size": 0.000045545,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Subs/36_Swedish.srt"
+                },
+                {
+                    "number": 31,
+                    "size": 0.000098202,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Subs/37_tam.srt"
+                },
+                {
+                    "number": 32,
+                    "size": 0.00008866,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Subs/38_tel.srt"
+                },
+                {
+                    "number": 33,
+                    "size": 0.000072875,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Subs/39_Thai.srt"
+                },
+                {
+                    "number": 34,
+                    "size": 0.000057981,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Subs/3_Arabic.srt"
+                },
+                {
+                    "number": 35,
+                    "size": 0.000046888,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Subs/40_Turkish.srt"
+                },
+                {
+                    "number": 36,
+                    "size": 0.00005747,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Subs/41_ukr.srt"
+                },
+                {
+                    "number": 37,
+                    "size": 0.000053926,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Subs/42_Vietnamese.srt"
+                },
+                {
+                    "number": 38,
+                    "size": 0.0000545,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Subs/4_Bulgarian.srt"
+                },
+                {
+                    "number": 39,
+                    "size": 0.000044799,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Subs/5_Chinese.srt"
+                },
+                {
+                    "number": 40,
+                    "size": 0.0000457,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Subs/6_Chinese.srt"
+                },
+                {
+                    "number": 41,
+                    "size": 0.000045646,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Subs/7_Chinese.srt"
+                },
+                {
+                    "number": 42,
+                    "size": 0.000041645,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Subs/8_Czech.srt"
+                },
+                {
+                    "number": 43,
+                    "size": 0.000043116,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Subs/9_Danish.srt"
+                },
+                {
+                    "number": 44,
+                    "size": 0.351752468,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Ted.Lasso.S02E01.WEBRip.x264-ION10.mp4"
+                }
+            ]
+        },
+        {
+            "id": 71,
+            "name": "Ted.Lasso.S02E01.WEBRip.x264-ION10",
+            "size_total": 0.353772196,
+            "files_total": 41,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000098202,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Subs/37_tam.srt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00008866,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Subs/38_tel.srt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000080629,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Subs/19_hin.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000072875,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Subs/39_Thai.srt"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000059436,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Subs/33_Russian.srt"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000058498,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Subs/17_Greek.srt"
+                },
+                {
+                    "number": 7,
+                    "size": 0.000057981,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Subs/3_Arabic.srt"
+                },
+                {
+                    "number": 8,
+                    "size": 0.00005747,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Subs/41_ukr.srt"
+                },
+                {
+                    "number": 9,
+                    "size": 0.000056393,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Subs/18_Hebrew.srt"
+                },
+                {
+                    "number": 10,
+                    "size": 0.000053926,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Subs/42_Vietnamese.srt"
+                },
+                {
+                    "number": 11,
+                    "size": 0.000049058,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Subs/21_Indonesian.srt"
+                },
+                {
+                    "number": 12,
+                    "size": 0.000048272,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Subs/28_may.srt"
+                },
+                {
+                    "number": 13,
+                    "size": 0.000048166,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Subs/2_English.srt"
+                },
+                {
+                    "number": 14,
+                    "size": 0.000047968,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Subs/22_Italian.srt"
+                },
+                {
+                    "number": 15,
+                    "size": 0.000047788,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Subs/27_Lithuanian.srt"
+                },
+                {
+                    "number": 16,
+                    "size": 0.000047598,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Subs/24_Korean.srt"
+                },
+                {
+                    "number": 17,
+                    "size": 0.000046888,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Subs/40_Turkish.srt"
+                },
+                {
+                    "number": 18,
+                    "size": 0.000046856,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Subs/26_Latvian.srt"
+                },
+                {
+                    "number": 19,
+                    "size": 0.000046533,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Subs/25_Spanish.srt"
+                },
+                {
+                    "number": 20,
+                    "size": 0.000046262,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Subs/20_Hungarian.srt"
+                },
+                {
+                    "number": 21,
+                    "size": 0.0000457,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Subs/6_Chinese.srt"
+                },
+                {
+                    "number": 22,
+                    "size": 0.000045646,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Subs/7_Chinese.srt"
+                },
+                {
+                    "number": 23,
+                    "size": 0.000045545,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Subs/36_Swedish.srt"
+                },
+                {
+                    "number": 24,
+                    "size": 0.000045347,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Subs/16_German.srt"
+                },
+                {
+                    "number": 25,
+                    "size": 0.000045206,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Subs/31_Portuguese.srt"
+                },
+                {
+                    "number": 26,
+                    "size": 0.000044799,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Subs/5_Chinese.srt"
+                },
+                {
+                    "number": 27,
+                    "size": 0.000044721,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Subs/12_Spanish.srt"
+                },
+                {
+                    "number": 28,
+                    "size": 0.000043757,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Subs/15_French.srt"
+                },
+                {
+                    "number": 29,
+                    "size": 0.000043757,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Subs/14_French.srt"
+                },
+                {
+                    "number": 30,
+                    "size": 0.000043556,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Subs/34_slo.srt"
+                },
+                {
+                    "number": 31,
+                    "size": 0.000043116,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Subs/9_Danish.srt"
+                },
+                {
+                    "number": 32,
+                    "size": 0.000043078,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Subs/29_nor.srt"
+                },
+                {
+                    "number": 33,
+                    "size": 0.000042718,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Subs/32_Portuguese.srt"
+                },
+                {
+                    "number": 34,
+                    "size": 0.000042609,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Subs/13_Finnish.srt"
+                },
+                {
+                    "number": 35,
+                    "size": 0.000041946,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Subs/35_Slovenian.srt"
+                },
+                {
+                    "number": 36,
+                    "size": 0.000041645,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Subs/8_Czech.srt"
+                },
+                {
+                    "number": 37,
+                    "size": 0.000041356,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Subs/30_Polish.srt"
+                },
+                {
+                    "number": 38,
+                    "size": 0.000041196,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Subs/11_Estonian.srt"
+                },
+                {
+                    "number": 39,
+                    "size": 0.000040277,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Subs/23_Japanese.srt"
+                },
+                {
+                    "number": 40,
+                    "size": 0.000034294,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Subs/10_Dutch.srt"
+                },
+                {
+                    "number": 41,
+                    "size": 0.351752468,
+                    "path": "Ted.Lasso.S02E01.WEBRip.x264-ION10/Ted.Lasso.S02E01.WEBRip.x264-ION10.mp4"
+                }
+            ]
+        },
+        {
+            "id": 72,
+            "name": "Ted.Lasso.S02E01.XviD-AFG [IPT]",
+            "size_total": 0.389394393,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000213126,
+                    "path": "Ted.Lasso.S02E01.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000448881,
+                    "path": "Ted.Lasso.S02E01.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000243419,
+                    "path": "Ted.Lasso.S02E01.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.38848787,
+                    "path": "Ted.Lasso.S02E01.XviD-AFG/Ted.Lasso.S02E01.XviD-AFG.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000001097,
+                    "path": "Ted.Lasso.S02E01.XviD-AFG/Ted.Lasso.S02E01.XviD-AFG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 73,
+            "name": "Ted.Lasso.S02E01.XviD-AFG.avi",
+            "size_total": 0.38848787,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.38848787,
+                    "path": "Ted.Lasso.S02E01.XviD-AFG.avi"
+                }
+            ]
+        },
+        {
+            "id": 74,
+            "name": "Ted.Lasso.S02E01.XviD-AFG[ettv]",
+            "size_total": 0.388489008,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.1e-8,
+                    "path": "Ted.Lasso.S02E01.XviD-AFG[ettv]/Download more at www.ettvcentral.com .txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001097,
+                    "path": "Ted.Lasso.S02E01.XviD-AFG[ettv]/Ted.Lasso.S02E01.XviD-AFG.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.38848787,
+                    "path": "Ted.Lasso.S02E01.XviD-AFG[ettv]/Ted.Lasso.S02E01.XviD-AFG[ettv].avi"
+                }
+            ]
+        },
+        {
+            "id": 75,
+            "name": "Ted.Lasso.S02E01.XviD-AFG[eztv.re].avi",
+            "size_total": 0.38848787,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.38848787,
+                    "path": "Ted.Lasso.S02E01.XviD-AFG[eztv.re].avi"
+                }
+            ]
+        },
+        {
+            "id": 76,
+            "name": "Ted.Lasso.S02E01.XviD-AFG[TGx]",
+            "size_total": 0.388489685,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.38848787,
+                    "path": "Ted.Lasso.S02E01.XviD-AFG[TGx]/Ted.Lasso.S02E01.XviD-AFG.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001097,
+                    "path": "Ted.Lasso.S02E01.XviD-AFG[TGx]/Ted.Lasso.S02E01.XviD-AFG.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 7.18e-7,
+                    "path": "Ted.Lasso.S02E01.XviD-AFG[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 77,
+            "name": "www.SceneTime.com   -    Ted Lasso S02E01 480p x264-mSD",
+            "size_total": 0.30228436,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000181383,
+                    "path": "www.SceneTime.com   -    Ted Lasso S02E01 480p x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.0003751,
+                    "path": "www.SceneTime.com   -    Ted Lasso S02E01 480p x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000202746,
+                    "path": "www.SceneTime.com   -    Ted Lasso S02E01 480p x264-mSD/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.301524085,
+                    "path": "www.SceneTime.com   -    Ted Lasso S02E01 480p x264-mSD/Ted.Lasso.S02E01.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 9.61e-7,
+                    "path": "www.SceneTime.com   -    Ted Lasso S02E01 480p x264-mSD/Ted.Lasso.S02E01.480p.x264-mSD.nfo"
+                },
+                {
+                    "number": 6,
+                    "size": 8.5e-8,
+                    "path": "www.SceneTime.com   -    Ted Lasso S02E01 480p x264-mSD/Torrent Downloaded From www.SceneTime.com.txt"
+                }
+            ]
+        },
+        {
+            "id": 78,
+            "name": "www.SceneTime.com   -    Ted Lasso S02E01 AAC MP4-Mobile",
+            "size_total": 0.134283699,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000189016,
+                    "path": "www.SceneTime.com   -    Ted Lasso S02E01 AAC MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000386341,
+                    "path": "www.SceneTime.com   -    Ted Lasso S02E01 AAC MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000208181,
+                    "path": "www.SceneTime.com   -    Ted Lasso S02E01 AAC MP4-Mobile/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.133498856,
+                    "path": "www.SceneTime.com   -    Ted Lasso S02E01 AAC MP4-Mobile/Ted.Lasso.S02E01.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 5,
+                    "size": 0.00000122,
+                    "path": "www.SceneTime.com   -    Ted Lasso S02E01 AAC MP4-Mobile/Ted.Lasso.S02E01.AAC.MP4-Mobile.nfo"
+                },
+                {
+                    "number": 6,
+                    "size": 8.5e-8,
+                    "path": "www.SceneTime.com   -    Ted Lasso S02E01 AAC MP4-Mobile/Torrent Downloaded From www.SceneTime.com.txt"
+                }
+            ]
+        },
+        {
+            "id": 79,
+            "name": "www.SceneTime.com   -    Ted Lasso S02E01 XviD-AFG",
+            "size_total": 0.389394478,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000213126,
+                    "path": "www.SceneTime.com   -    Ted Lasso S02E01 XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000448881,
+                    "path": "www.SceneTime.com   -    Ted Lasso S02E01 XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000243419,
+                    "path": "www.SceneTime.com   -    Ted Lasso S02E01 XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.38848787,
+                    "path": "www.SceneTime.com   -    Ted Lasso S02E01 XviD-AFG/Ted.Lasso.S02E01.XviD-AFG.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000001097,
+                    "path": "www.SceneTime.com   -    Ted Lasso S02E01 XviD-AFG/Ted.Lasso.S02E01.XviD-AFG.nfo"
+                },
+                {
+                    "number": 6,
+                    "size": 8.5e-8,
+                    "path": "www.SceneTime.com   -    Ted Lasso S02E01 XviD-AFG/Torrent Downloaded From www.SceneTime.com.txt"
+                }
+            ]
+        },
+        {
+            "id": 80,
+            "name": "Тед Лассо Ted Lasso Сезон 1-2 Серии 1-11 из 22 (Деклан Лауни, Том Маршалл, Эллиот Хегарти) [2020-2021, США, Великобритания [rutracker-6084914]",
+            "size_total": 5.749297486,
+            "files_total": 44,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000047669,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Eng/Ted.Lasso.S01E01.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00004801,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Eng/Ted.Lasso.S01E02.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000051369,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Eng/Ted.Lasso.S01E03.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000049531,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Eng/Ted.Lasso.S01E04.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000047187,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Eng/Ted.Lasso.S01E05.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000043842,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Eng/Ted.Lasso.S01E06.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 7,
+                    "size": 0.000041773,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Eng/Ted.Lasso.S01E07.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 8,
+                    "size": 0.000047224,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Eng/Ted.Lasso.S01E08.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 9,
+                    "size": 0.000045988,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Eng/Ted.Lasso.S01E09.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 10,
+                    "size": 0.0000521,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Eng/Ted.Lasso.S01E10.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 11,
+                    "size": 0.000052068,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Rus/Ted.Lasso.S01E01.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 12,
+                    "size": 0.000053103,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Rus/Ted.Lasso.S01E02.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 13,
+                    "size": 0.000059423,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Rus/Ted.Lasso.S01E03.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 14,
+                    "size": 0.000055865,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Rus/Ted.Lasso.S01E04.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 15,
+                    "size": 0.000054053,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Rus/Ted.Lasso.S01E05.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 16,
+                    "size": 0.000054355,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Rus/Ted.Lasso.S01E06.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 17,
+                    "size": 0.000051059,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Rus/Ted.Lasso.S01E07.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 18,
+                    "size": 0.000053477,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Rus/Ted.Lasso.S01E08.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 19,
+                    "size": 0.000050895,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Rus/Ted.Lasso.S01E09.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 20,
+                    "size": 0.000060219,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Rus/Ted.Lasso.S01E10.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 21,
+                    "size": 0.509964288,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Ted.Lasso.S01E01.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 22,
+                    "size": 9.39e-7,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Ted.Lasso.S01E01.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].Forced.srt"
+                },
+                {
+                    "number": 23,
+                    "size": 0.483856384,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Ted.Lasso.S01E02.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 24,
+                    "size": 0.000001114,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Ted.Lasso.S01E02.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].Forced.srt"
+                },
+                {
+                    "number": 25,
+                    "size": 0.501190656,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Ted.Lasso.S01E03.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 26,
+                    "size": 6.07e-7,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Ted.Lasso.S01E03.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].Forced.srt"
+                },
+                {
+                    "number": 27,
+                    "size": 0.554549248,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Ted.Lasso.S01E04.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 28,
+                    "size": 6.96e-7,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Ted.Lasso.S01E04.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].Forced.srt"
+                },
+                {
+                    "number": 29,
+                    "size": 0.512612352,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Ted.Lasso.S01E05.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 30,
+                    "size": 4.28e-7,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Ted.Lasso.S01E05.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].Forced.srt"
+                },
+                {
+                    "number": 31,
+                    "size": 0.522891264,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Ted.Lasso.S01E06.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 32,
+                    "size": 3.4e-7,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Ted.Lasso.S01E06.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].Forced.srt"
+                },
+                {
+                    "number": 33,
+                    "size": 0.529805312,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Ted.Lasso.S01E07.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 34,
+                    "size": 0.000003469,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Ted.Lasso.S01E07.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].Forced.srt"
+                },
+                {
+                    "number": 35,
+                    "size": 0.490061824,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Ted.Lasso.S01E08.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 36,
+                    "size": 5.55e-7,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Ted.Lasso.S01E08.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].Forced.srt"
+                },
+                {
+                    "number": 37,
+                    "size": 0.51606528,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Ted.Lasso.S01E09.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 38,
+                    "size": 3.85e-7,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Ted.Lasso.S01E09.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].Forced.srt"
+                },
+                {
+                    "number": 39,
+                    "size": 0.555077632,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Ted.Lasso.S01E10.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 40,
+                    "size": 7.8e-7,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 1) WEB-DLRip/Ted.Lasso.S01E10.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].Forced.srt"
+                },
+                {
+                    "number": 41,
+                    "size": 0.000051224,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 2) WEB-DLRip/Eng/Ted.Lasso.S02E01.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 42,
+                    "size": 0.000062549,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 2) WEB-DLRip/Rus/Ted.Lasso.S02E01.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 43,
+                    "size": 0.572080128,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 2) WEB-DLRip/Ted.Lasso.S02E01.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 44,
+                    "size": 8.22e-7,
+                    "path": "Ted Lasso Dub/Ted Lasso (Season 2) WEB-DLRip/Ted.Lasso.S02E01.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].Forced.srt"
+                }
+            ]
+        },
+        {
+            "id": 81,
+            "name": "Тед Лассо Ted Lasso Сезон 2 Серии 1 из 12 (Деклан Лауни, Том Маршалл, Эллиот Хегарти, М.Дж. Делани, Зак Брафф) [2021, США, [rutracker-6085068]",
+            "size_total": 6.623249321,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 6.623249321,
+                    "path": "Ted Lasso (Season 2) HDR WEB-DL 2160p/Ted.Lasso.S02E01.HDR.2160p.WEB.H265.RGzsRutracker.Wentworth_Miller.mkv"
+                }
+            ]
+        },
+        {
+            "id": 82,
+            "name": "Тед Лассо Ted Lasso Сезон 2 Серии 1 из 12 (Том Маршалл) [2021, США, Великобритания, комедия, спорт, WEB-DL 1080p] Dub (Пиф [rutracker-6084697]",
+            "size_total": 2.975459104,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.975459104,
+                    "path": "Ted.Lasso.S02.1080p.ATVP.WEB-DL.DDP5.1.H.264-EniaHD/Ted.Lasso.S02E01.Goodbye.Earl.1080p.ATVP.WEB-DL.DDP5.1.H.264-EniaHD.mkv"
+                }
+            ]
+        },
+        {
+            "id": 83,
+            "name": "足球教练.Ted.Lasso.S02E01.1080p.H265-官方中字.mp4",
+            "size_total": 0.396929553,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.396929553,
+                    "path": "足球教练.Ted.Lasso.S02E01.1080p.H265-官方中字.mp4"
+                }
+            ]
+        }
+    ],
+    "collection_cumulative_by_btiha": [
+        {
+            "id": 85,
+            "name": "multi-btih-1-2-x-Ted.Lasso.S02E01.1080p.WEB.H264-GLHF[rarbg]",
+            "btih": "3f63a40a8b5bc66254ffa1d3b7d0d8fd5b35babe",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.777222791,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 163491,
+            "uuploaders": 57243
+        },
+        {
+            "id": 75,
+            "name": "Ted.Lasso.S02E01.XviD-AFG[eztv.re].avi",
+            "btih": "84e308ccf1095db2a656843230c5984214c9be19",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.38848787,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 132725,
+            "uuploaders": 58328
+        },
+        {
+            "id": 91,
+            "name": "multi-btih-7-4-x-[rutor.is]Ted Lasso(1)",
+            "btih": "613c6d0b4a2e9194a9baabe34df70e67d2f5d2e9",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 5.749297486,
+            "creation": "2021-07-23T13:54:30.000000000Z,uTorrent/2040,http://rutor.is/torrent/826436",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 128833,
+            "uuploaders": 13177
+        },
+        {
+            "id": 37,
+            "name": "Ted.Lasso.S02E01.480p.x264-mSD [IPT]",
+            "btih": "419b94e458c4efd40b88e7e4feeffff76178cee6",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.302284275,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 109571,
+            "uuploaders": 31644
+        },
+        {
+            "id": 39,
+            "name": "Ted.Lasso.S02E01.720p.HDTV.Subtitulado.Esp.SC.mp4",
+            "btih": "e76e8b0540af422abdbb058ede57ed3ab0b21e9a",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.711739843,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 107867,
+            "uuploaders": 9045
+        },
+        {
+            "id": 93,
+            "name": "multi-btih-9-3-x-[rutor.is]Ted.Lasso.S02.Dub",
+            "btih": "bbd1acb8068926e45411c5d8d7b309f37767baa4",
+            "resolution": "2160",
+            "encoding": "none",
+            "gigabytes": 6.623249321,
+            "creation": "2021-07-23T21:14:11.000000000Z,uTorrent/2040,http://rutor.is/torrent/826670",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 103978,
+            "uuploaders": 2559
+        },
+        {
+            "id": 59,
+            "name": "Ted.Lasso.S02E01.Goodbye.Earl.720p.ATVP.WEB-DL.DDP5.1.H264-NTb[rartv]-[rarbg.to]",
+            "btih": "9a7284691439bf035da10d49c43936af13560c4c",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.931426349,
+            "creation": "2021-07-24T14:11:33.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 102950,
+            "uuploaders": 36018
+        },
+        {
+            "id": 36,
+            "name": "Ted.Lasso.S02E01.400p.ColdFilm.avi",
+            "btih": "eb48c3faf6a62b1cf4cfc5796a3de4636a99dc9e",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.435446394,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 102122,
+            "uuploaders": 15454
+        },
+        {
+            "id": 92,
+            "name": "multi-btih-8-4-x-[rutor.is]Ted Lasso_(s02)_1080p(1)",
+            "btih": "3f6c9b2db00ebb5dda8f6e76fded4e477fc4ba32",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 2.975459104,
+            "creation": "2021-07-23T04:11:34.000000000Z,qBittorrent v4.3.6,http://rutor.is/torrent/826399",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 100811,
+            "uuploaders": 8830
+        },
+        {
+            "id": 22,
+            "name": "Ted.Lasso.S02E01.1080p.HEVC.x265-MeGusta [IPT]",
+            "btih": "df610f91163e05a451db988553f98f2fd8145c3a",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.474198247,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 100016,
+            "uuploaders": 36674
+        },
+        {
+            "id": 21,
+            "name": "Ted.Lasso.S02.400p.Ultradox",
+            "btih": "f5e0ec130e6854d32a31019d1ecb70c6b0910e99",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.502632448,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 90808,
+            "uuploaders": 30475
+        },
+        {
+            "id": 90,
+            "name": "multi-btih-6-2-x-Ted.Lasso.S02E01.REPACK.WEB.x264-PHOENiX [IPT](1)",
+            "btih": "8636ff6d15e10e6ce1c0849a8d9ebf6b94abc8b5",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.214035798,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 89384,
+            "uuploaders": 10796
+        },
+        {
+            "id": 73,
+            "name": "Ted.Lasso.S02E01.XviD-AFG.avi",
+            "btih": "b2bed668f1c184ff780a5a0f587dc1a9341598eb",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.38848787,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 89255,
+            "uuploaders": 1777
+        },
+        {
+            "id": 89,
+            "name": "multi-btih-5-2-x-Ted.Lasso.S02E01.HDR.2160p.WEB.H265-EXPLOIT[rartv]-[rarbg.to]",
+            "btih": "994071d534610a4319bd0632c1826073b48cf2a7",
+            "resolution": "2160",
+            "encoding": "265",
+            "gigabytes": 6.425293358,
+            "creation": "2021-07-23T04:18:21.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 88704,
+            "uuploaders": 2991
+        },
+        {
+            "id": 3,
+            "name": "[rutor.is]Kung.Fu.2021.S01.720p.Kerob",
+            "btih": "53f1cd80119cc81b3eab3c9b9f17b42e40aab810",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 17.776381576,
+            "creation": "2021-07-22T09:03:34.000000000Z,Tixati v2.84,http://rutor.is/torrent/809696",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 88373,
+            "uuploaders": 1965
+        },
+        {
+            "id": 78,
+            "name": "www.SceneTime.com   -    Ted Lasso S02E01 AAC MP4-Mobile",
+            "btih": "27a97c87d0d1b1fa958e29a3b2107b020c997a4f",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.134283699,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 86037,
+            "uuploaders": 451
+        },
+        {
+            "id": 56,
+            "name": "Ted.Lasso.S02E01.Goodbye.Earl.1080p.WEBRip.6CH.x265.HEVC-PSA.mkv",
+            "btih": "dc8aefcefeba453a48faef8e0c15ab7c4f5f8654",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.44077559,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 84525,
+            "uuploaders": 4250
+        },
+        {
+            "id": 43,
+            "name": "Ted.Lasso.S02E01.720p.WEB.H264-GLHF[ettv]",
+            "btih": "9025155b335c5833f1954c4e265dc3fdb6575794",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.944640579,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 77731,
+            "uuploaders": 2346
+        },
+        {
+            "id": 28,
+            "name": "Ted.Lasso.S02E01.1080p.WEB.H264-GLHF[ettv]",
+            "btih": "87b4129f716881cb445369c752c077e895891754",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.864525825,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 76541,
+            "uuploaders": 5051
+        },
+        {
+            "id": 44,
+            "name": "ted.lasso.s02e01.720p.web.h264-glhf[eztv.re].mkv",
+            "btih": "4afa07e8b5c53fa8019f686c4c56255c89b9f6d1",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.932567038,
+            "creation": "2021-07-23T04:09:59.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 72095,
+            "uuploaders": 650
+        },
+        {
+            "id": 76,
+            "name": "Ted.Lasso.S02E01.XviD-AFG[TGx]",
+            "btih": "18def40f2ded1ed5efa541f83e14cdaf6c1e6a1c",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.388489685,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 71893,
+            "uuploaders": 14329
+        },
+        {
+            "id": 42,
+            "name": "Ted.Lasso.S02E01.720p.WEB.H264-GLHF [IPT]",
+            "btih": "b9d4192d1b54480eb4cebeed8020308b97903d43",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.932568724,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 70109,
+            "uuploaders": 12557
+        },
+        {
+            "id": 41,
+            "name": "Ted.Lasso.S02E01.720p.HEVC.x265-MeGusta[eztv.re].mkv",
+            "btih": "f8c11b97854f0207044893b8cb01fc24c9b964d6",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.393553597,
+            "creation": "2021-07-23T04:24:23.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 67373,
+            "uuploaders": 1756
+        },
+        {
+            "id": 53,
+            "name": "Ted.Lasso.S02E01.Goodbye.Earl.1080p.ATVP.WEB-DL.DDP5.1.H264-NTb[rartv]-[rarbg.to]",
+            "btih": "86094513e849399897ec2410ea445f151f0abd9d",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.776082231,
+            "creation": "2021-07-24T14:11:44.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 66433,
+            "uuploaders": 3591
+        },
+        {
+            "id": 15,
+            "name": "Ted Lasso 2X1 HDTV XviD www.torrent.nom.es",
+            "btih": "0fc3f5ae0f05a79fbbb584ec6069159423478ec8",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.426594164,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 63457,
+            "uuploaders": 17225
+        },
+        {
+            "id": 87,
+            "name": "multi-btih-3-2-x-Ted.Lasso.S02E01.720p.WEB.H264-GLHF[rarbg]",
+            "btih": "5831a5236aea2d2cf07074b37cd8a6fdf82f7132",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.932567203,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 62552,
+            "uuploaders": 4139
+        },
+        {
+            "id": 48,
+            "name": "Ted.Lasso.S02E01.720p.WEB.H264-GLHF[TGx]",
+            "btih": "8b5185e76c77dd58be170ff8273d5408f038628c",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.932567792,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 60441,
+            "uuploaders": 7340
+        },
+        {
+            "id": 51,
+            "name": "Ted.Lasso.S02E01.AAC.MP4-Mobile [IPT]",
+            "btih": "a8a94b7d2acf31faabde3d45504867479884b1e3",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.134283614,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 59236,
+            "uuploaders": 6294
+        },
+        {
+            "id": 83,
+            "name": "足球教练.Ted.Lasso.S02E01.1080p.H265-官方中字.mp4",
+            "btih": "8482e22f2e08f70b875369ad9b7ae0ae6e107b84",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.396929553,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 58403,
+            "uuploaders": 1749
+        },
+        {
+            "id": 29,
+            "name": "ted.lasso.s02e01.1080p.web.h264-glhf[eztv.re].mkv",
+            "btih": "c0b3b60bd4301a78e3800ead66a7bddd59a3739b",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.777222625,
+            "creation": "2021-07-23T04:11:26.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 58078,
+            "uuploaders": 981
+        },
+        {
+            "id": 52,
+            "name": "Ted.Lasso.S02E01.Addio.Earl.iTALIAN.MULTI.1080p.WEB.x264-MeM.mkv",
+            "btih": "146e989508b394c7013b6b2734ec90238e5a12a4",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.825349635,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 55878,
+            "uuploaders": 4133
+        },
+        {
+            "id": 69,
+            "name": "Ted.Lasso.S02E01.WEBRip.1080p.rus.5.1.HDREZKA.STUDIO.mkv",
+            "btih": "3314dbe7efaf640e14701b8d605cf3e987d8d502",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 2.244198945,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 55283,
+            "uuploaders": 3490
+        },
+        {
+            "id": 70,
+            "name": "Ted.Lasso.S02E01.WEBRip.x264-ION10-[rarbg.to]",
+            "btih": "573a41b111d69d721bba258ab575cf1c3f56b135",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.353826825,
+            "creation": "2021-07-23T04:26:12.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 54590,
+            "uuploaders": 3449
+        },
+        {
+            "id": 49,
+            "name": "Ted.Lasso.S02E01.720p.WEB.x264",
+            "btih": "33e19dde69b2a39c26184f5cc8d0c15ef9cfca1d",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.932567038,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 52456,
+            "uuploaders": 1863
+        },
+        {
+            "id": 67,
+            "name": "Ted.Lasso.S02E01.REPACK.WEB.x264-PHOENiX[TGx]",
+            "btih": "9f9279ca12c5f2e3d770918b5bb03cd8300460b0",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.212113381,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 51853,
+            "uuploaders": 2102
+        },
+        {
+            "id": 86,
+            "name": "multi-btih-2-2-x-Ted.Lasso.S02E01.2160p.WEB.H265-EXPLOIT[rartv]-[rarbg.to]",
+            "btih": "5049e6e42837f78de114ff70819aff97037934e9",
+            "resolution": "2160",
+            "encoding": "265",
+            "gigabytes": 5.638447779,
+            "creation": "2021-07-23T04:18:18.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 44232,
+            "uuploaders": 3165
+        },
+        {
+            "id": 14,
+            "name": "Ted Lasso - Temporada 2 [HDTV][Cap.201][Castellano][www.PCTmix1.com]",
+            "btih": "3d49805349d299ed957969769d7a13d50f9b910b",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.451701852,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 42575,
+            "uuploaders": 3710
+        },
+        {
+            "id": 50,
+            "name": "Ted.Lasso.S02E01.720p.WEB.x265-MiNX[TGx]",
+            "btih": "6c6646181805e899949930908676e7be8f0d759a",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.219344004,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 42474,
+            "uuploaders": 761
+        },
+        {
+            "id": 1,
+            "name": "[ OxTorrent.pe ] Ted.Lasso.S02E01.FRENCH.WEB.XviD-EXTREME.avi",
+            "btih": "30c7a67105e9e58d87d7d174d6ceebec775bc9b5",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.30949194,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 40649,
+            "uuploaders": 961
+        },
+        {
+            "id": 24,
+            "name": "Ted.Lasso.S02E01.1080p.HEVC.x265-MeGusta[eztv.re].mkv",
+            "btih": "a313f9aa374717a3a13a4f6a7f4cdc3d620c0f3c",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.452519096,
+            "creation": "2021-07-23T04:43:40.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 39513,
+            "uuploaders": 1759
+        },
+        {
+            "id": 88,
+            "name": "multi-btih-4-2-x-Ted.Lasso.S02E01.Goodbye.Earl.2160p.ATVP.WEB-DL.DDP5.1.Atmos.DV.MP4.x265-FLUX[rartv]-[rarbg.to]",
+            "btih": "4a4a6f8a3a44b3f4479c7135ad006850427a4e16",
+            "resolution": "2160",
+            "encoding": "265",
+            "gigabytes": 6.563832005,
+            "creation": "2021-07-23T22:15:07.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 38258,
+            "uuploaders": 1307
+        },
+        {
+            "id": 68,
+            "name": "Ted.Lasso.S02E01.WEB.x264-PHOENiX[TGx]",
+            "btih": "3934f5bb6b813e2e457a4ea58c5cba3f746f5e4d",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.212113357,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 36680,
+            "uuploaders": 321
+        },
+        {
+            "id": 60,
+            "name": "Ted.Lasso.S02E01.Goodbye.Earl.720p.ATVP.WEBRip.DDP5.1.x264-NTb[TGx]",
+            "btih": "e1f9224bd4fd1bb632826aa326877e6d44edbf2a",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.931426938,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 36021,
+            "uuploaders": 263
+        },
+        {
+            "id": 25,
+            "name": "Ted.Lasso.S02E01.1080p.WEB-DL.DUAL",
+            "btih": "67e4919423cf8a2180af493caf3620ac4a461686",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 0.796815587,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 36020,
+            "uuploaders": 1427
+        },
+        {
+            "id": 9,
+            "name": "[rutor.is]Ted.Lasso.S02.RG.Paravozik",
+            "btih": "0b07bac4d6dc8f051767814fdfbe37d4f868da8c",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.840082194,
+            "creation": "2021-07-24T12:57:21.000000000Z,Сидбоксы Megaseed.kz,http://rutor.is/torrent/826624",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 35605,
+            "uuploaders": 2261
+        },
+        {
+            "id": 74,
+            "name": "Ted.Lasso.S02E01.XviD-AFG[ettv]",
+            "btih": "0939d38b6ee8074edb63a84e675a4fc47129c18f",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.388489008,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 34878,
+            "uuploaders": 492
+        },
+        {
+            "id": 33,
+            "name": "Ted.Lasso.S02E01.1080p.WEB.x264",
+            "btih": "9a8ae760aba0b75e18081ee1c3806cc172a699fe",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.777222625,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 33531,
+            "uuploaders": 2637
+        },
+        {
+            "id": 23,
+            "name": "Ted.Lasso.S02E01.1080p.HEVC.x265-MeGusta.mkv",
+            "btih": "9d4d906c53ec257e2790ab98bbe08904f671830d",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.452519096,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 33071,
+            "uuploaders": 368
+        },
+        {
+            "id": 72,
+            "name": "Ted.Lasso.S02E01.XviD-AFG [IPT]",
+            "btih": "ef0e8a983981eabe313ceb282d693b0e3a4e3b0c",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.389394393,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 31451,
+            "uuploaders": 6025
+        },
+        {
+            "id": 45,
+            "name": "Ted.Lasso.S02E01.720p.WEB.H264-GLHF[rarbg].srt",
+            "btih": "c7092035b2a5089620b25e04059d462b09e0f4dd",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.000048506,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 30240,
+            "uuploaders": 999
+        },
+        {
+            "id": 71,
+            "name": "Ted.Lasso.S02E01.WEBRip.x264-ION10",
+            "btih": "7fa193c5c7cfe8335e17462f2107d78909d22768",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.353772196,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 28654,
+            "uuploaders": 5021
+        },
+        {
+            "id": 38,
+            "name": "Ted.Lasso.S02E01.480p.x264-mSD[eztv.re].mkv",
+            "btih": "8952168a05e32439799a4fcb20f7ca82ab84fe02",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.301524085,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 27862,
+            "uuploaders": 584
+        },
+        {
+            "id": 10,
+            "name": "Ted Lasso (Proper) - Temporada 2 [HDTV 720p][Cap.201][AC3 5.1 Castellano][www.PCTmix1.com]",
+            "btih": "0ad516f89227045225803b8668768f5f92b66806",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 1.321323731,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 27419,
+            "uuploaders": 5388
+        },
+        {
+            "id": 84,
+            "name": "multi-btih-0-2-x-Ted.Lasso.S02E01.1080p.WEB.H264-GLHF [IPT]",
+            "btih": "63c2488d8865a68d24b824fabc3abd3b2f0574b3",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.777224422,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 26695,
+            "uuploaders": 576
+        },
+        {
+            "id": 79,
+            "name": "www.SceneTime.com   -    Ted Lasso S02E01 XviD-AFG",
+            "btih": "ca1d44ac0849f76c5fde8f77686bd3662c24327d",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.389394478,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 26155,
+            "uuploaders": 398
+        },
+        {
+            "id": 2,
+            "name": "[rutor.is]Kung.Fu.2021.S01.400p.Kerob",
+            "btih": "e4a29993a3a7fbc5445337eba97ea55a147669bc",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 6.167388678,
+            "creation": "2021-07-22T09:04:21.000000000Z,Tixati v2.84,http://rutor.is/torrent/809698",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 22818,
+            "uuploaders": 1133
+        },
+        {
+            "id": 20,
+            "name": "Ted.Lasso.S02.2160p.WEB-DL.DDP5.1.Atmos.DoVi.HEVC.by.DVT",
+            "btih": "12257fbe62314243440c015c4264204d56d3b02f",
+            "resolution": "2160",
+            "encoding": "none",
+            "gigabytes": 6.761626884,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 22240,
+            "uuploaders": 3800
+        },
+        {
+            "id": 64,
+            "name": "Ted.Lasso.S02E01.PROPER.ATVP.WEBRip.x264-PHOENiX[TGx]",
+            "btih": "24e198474b2cd6bce5bdba0da267f9b649e973fa",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.239866561,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 20898,
+            "uuploaders": 2413
+        },
+        {
+            "id": 11,
+            "name": "Ted Lasso (Proper) - Temporada 2 [HDTV][Cap.201][Castellano][www.PCTmix1.com]",
+            "btih": "015a21277e985d6002c1619e6ef3faf15b9f2fd3",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.426593832,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 16681,
+            "uuploaders": 155
+        },
+        {
+            "id": 13,
+            "name": "Ted Lasso - Temporada 2 [HDTV 720p][Cap.201][AC3 5.1 Castellano][www.PCTmix1.com]",
+            "btih": "28310ae41617f29fae1469c1851a7b3b920acc7a",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 1.512334954,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 14590,
+            "uuploaders": 5997
+        },
+        {
+            "id": 77,
+            "name": "www.SceneTime.com   -    Ted Lasso S02E01 480p x264-mSD",
+            "btih": "50802e29693dd706c6b6ad94cd2618f0812c6c3e",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.30228436,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 13410,
+            "uuploaders": 239
+        },
+        {
+            "id": 17,
+            "name": "Ted.Lasso.2x01.Addio.Earl.ITA-ENG.1080p.WEB.DDP5.1.H264-NovaRip.mkv",
+            "btih": "e444413ceeb36c66995b7c715c4587108f614765",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.975276542,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 9313,
+            "uuploaders": 4007
+        },
+        {
+            "id": 61,
+            "name": "Ted.Lasso.S02E01.Goodbye.Earl.720p.WEBRip.2CH.x265.HEVC-PSA.mkv",
+            "btih": "6542b39482ef983b52fc479cf2d4a924c5679179",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.198177204,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3591,
+            "uuploaders": 1376
+        },
+        {
+            "id": 32,
+            "name": "Ted.Lasso.S02E01.1080p.WEB.H264-GLHF[TGx]",
+            "btih": "d535ca79fb1aed06bce04150f316ced6d29949a4",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.77722338,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2858,
+            "uuploaders": 1300
+        },
+        {
+            "id": 40,
+            "name": "Ted.Lasso.S02E01.720p.HEVC.x265-MeGusta [IPT]",
+            "btih": "a8d647288788f70af85cfd5b571a9151d743c2fe",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.40510355,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1150,
+            "uuploaders": 737
+        },
+        {
+            "id": 55,
+            "name": "Ted.Lasso.S02E01.Goodbye.Earl.1080p.ATVP.WEBRip.x265",
+            "btih": "dca78a95851841e5ce41175aa37f2b2a275b8391",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 1.2285936,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 555,
+            "uuploaders": 368
+        },
+        {
+            "id": 54,
+            "name": "Ted.Lasso.S02E01.Goodbye.Earl.1080p.ATVP.WEBRip.DDP5.1.x264-NTb[TGx]",
+            "btih": "ac77b09c71204536cc649910b2fb7e8deac933ef",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.77608282,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 526,
+            "uuploaders": 354
+        },
+        {
+            "id": 18,
+            "name": "Ted.Lasso.S01.2160p.ATVP.WEB-DL.DDP5.1.Atmos.DV.MP4.x265-INSIGNE[rartv]-[rarbg.to]",
+            "btih": "d1d8d0f86cdec9225de54dad2c570c40fb4422ad",
+            "resolution": "2160",
+            "encoding": "265",
+            "gigabytes": 59.565047009,
+            "creation": "2021-04-26T18:14:55.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 398,
+            "uuploaders": 242
+        }
+    ]
+}
