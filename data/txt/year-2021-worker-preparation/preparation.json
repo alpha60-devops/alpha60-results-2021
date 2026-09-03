@@ -1,0 +1,25 @@
+{
+  "owners": {
+    "eureka": {
+      "archive_bytes": 71932403712,
+      "records": 39,
+      "rsync_manifest": "eureka.rsync-files",
+      "worker_map": "eureka.worker-map.json",
+      "worker_map_sha256": "7579d04c5dcdc59b240a95af1b60b0ea4d32d602a822e3a67b7b6f311e3066b9"
+    },
+    "ord": {
+      "archive_bytes": 71921349620,
+      "records": 38,
+      "rsync_manifest": "ord.rsync-files",
+      "worker_map": "ord.worker-map.json",
+      "worker_map_sha256": "8007c46b300872bb9f00ced6cb29d0e2aa49e73a513f4c30d0e8765a7e08ef2c"
+    }
+  },
+  "schema": "alpha60-year-day-worker-preparation/1",
+  "source_map": {
+    "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-cache-archive-map.json",
+    "sha256": "3cdf41231d35aa49df1f65e9c9c89a75dbce212612d4d247ed3cce958f2fca76"
+  },
+  "status": "pass",
+  "year": "2021"
+}
