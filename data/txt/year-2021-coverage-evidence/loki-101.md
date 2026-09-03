@@ -1,0 +1,17 @@
+# Cache coverage report — loki-101
+
+- Generated: 2026-09-03T11:11:21Z
+- Evidence: read-only Day-member stream of the selected cache archive; no raw sample contents were opened
+- Required sample span: 2021-06-09 to 2021-08-17 (70 days)
+- Cache Day products: 68
+- Sparse Day indices: 2
+- Post-release Day products: 0
+
+## Sample archive discontinuities
+
+- missing Day index 52: `2021-07-30`
+- missing Day index 53: `2021-07-31`
+
+## Review
+
+Cache-derived day-level evidence from the read-only archive member stream. Confirm every missing Day index above before treating the aggregate outputs as complete.
