@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt6802400",
+    "imdb_id": "tt6802400",
+    "revision": "576c2b15dd1e39c011f3278699f852aced240cd0",
+    "wikidata_id": "Q64069446",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Coming_2_America"
+  },
+  "coverage_sha256": "a369efb2a8fb3ba554f29a8e7258a165ee11e49cb7bbe6a1387e3b7a7755400a",
+  "generated_at": "2026-09-03T18:11:53.774585+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2021-archives/coming-2-america.cache/cache.20210327.tar.xz",
+      "sha256": "33620dc82bfa628d3899cd5f2e1cdb44088350ad95743addf925f020c03ea4b0",
+      "size": 909067100
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-coverage-evidence/coming-2-america.md",
+      "sha256": "6c61930114b4d406ef0285fba7984c36dd45df2c3d4eb4b223aa9634cb3f0344",
+      "size": 552
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-cache-stream-receipts/coming-2-america.json",
+      "sha256": "3e2e9b275bb046bea7fd60e648c07555a78cf0d8987f6d4230b150cb7bbd1f02",
+      "size": 2072
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-product-receipts/coming-2-america.json",
+      "sha256": "f2218d4fddf41eb5186db6f3a8cc1030e144c3413139998c545737a595b5ed9a",
+      "size": 368
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-control/worker-map.json",
+      "sha256": "7579d04c5dcdc59b240a95af1b60b0ea4d32d602a822e3a67b7b6f311e3066b9",
+      "size": 91326
+    }
+  },
+  "media_object": "coming-2-america",
+  "published_files": {
+    "data/csv/bytes/coming-2-america-cumulative-detail.2021-btiha-itemized-by-bytes.csv": "584c9d375c21caed9bf9f82f4ba34ac4e3bac38d1400e974d2c2fd4c3cb752b4",
+    "docs/itemized/coming-2-america-sample-cache-audit.md": "639e8bf27efc8fe826610fd8b62dcf38810c9647e57db193abe95360bcde32db",
+    "docs/itemized/figures/coming-2-america-carto-4k.webp": "64eb1193e181490bfb8e6b7297eae8902cfe70a7f3782286bec2c41683d88026",
+    "docs/itemized/figures/coming-2-america-carto.png": "66059318dab2daeae0562b04c622e787d2e31b70ee64eaf29ce51f03816b387c",
+    "docs/itemized/figures/coming-2-america-cumulative-detail-btiha-itemized-by-bytes.svg": "b11fa0178e77f89f2c19fea2877a9b8c339eff09c3b45eed4218f4ea3228e9f3",
+    "docs/itemized/figures/coming-2-america-data-ge-1080p-4k.webp": "b24d91bc578efdec04f9e1fdc03dcd946e86e81c1c6c4a3cf0fa1ff48d2b0ba0",
+    "docs/itemized/figures/coming-2-america-data-ge-1080p.webp": "6d9b7a34b9c99cc5ff1a44ac9d5e3f0edf106ea2830387219de7efcca3ffe4a1",
+    "docs/itemized/figures/coming-2-america-data-lt-1080p-4k.webp": "17a9eecbb7c31744a48590bf0b5a6edb1f2b231e97befc044872bae91cf5b9e0",
+    "docs/itemized/figures/coming-2-america-data-lt-1080p.webp": "748c62e5dd13549fc748cab5ee360c938a5a1463f9cc6d3027b89043a5f77493",
+    "docs/itemized/figures/coming-2-america-downloads-by-day-day.svg": "eba155c5cbf32d8a434738ff9625fe158437ec3c72fa1e7e45f7b71a15a68c1e",
+    "docs/itemized/figures/coming-2-america-downloads-by-week-coming-2-america-week.svg": "61610fd7ef437e9bc92ee50e0bc3cbd52238399126479140d6b5bdd8cd837240",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "84873e743da03017b556934ba0f591c7ba6b051e",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/coming-2-america/tmp/coming-2-america-cumulative-btiha.geojson",
+        "sha256": "467500a7cf90e98e250f56f7a3f7dd55c9debf9f0627e52b8a15f35cc568bb54",
+        "size": 49615165
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/coming-2-america/tmp/coming-2-america-cumulative-btiha-media-objects.json",
+        "sha256": "d24c65ae68d01eddb1c3de6aed35b46206b7541fe44622b19e1a451c41159a32",
+        "size": 255639
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "coming-2-america",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          87.0,
+          67.0,
+          65.0,
+          61.0,
+          55.0,
+          48.0,
+          47.0,
+          45.0,
+          44.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "London",
+          "Johannesburg",
+          "Nairobi",
+          "Pretoria",
+          "Cape Town",
+          "Accra",
+          "Randburg",
+          "New York City",
+          "Sydney",
+          "Lagos"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          79.0,
+          74.0,
+          64.0,
+          57.0,
+          55.0,
+          53.0,
+          47.0,
+          46.0,
+          45.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "London",
+          "Johannesburg",
+          "Quezon City",
+          "Moscow",
+          "Nairobi",
+          "Pretoria",
+          "Cape Town",
+          "New York City",
+          "Accra",
+          "Randburg"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 23,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 39,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 4,
+        "x_tick_marks": 4,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 4,
+        "y_tick_labels": 20
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "84873e743da03017b556934ba0f591c7ba6b051e",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "903f8276e5f31a4387bb88a459e5012c544222f6",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "576c2b15dd1e39c011f3278699f852aced240cd0"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2021"
+}
