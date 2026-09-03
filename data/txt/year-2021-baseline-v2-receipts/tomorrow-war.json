@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt9777666",
+    "imdb_id": "tt9777666",
+    "revision": "576c2b15dd1e39c011f3278699f852aced240cd0",
+    "wikidata_id": "Q67171072",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Tomorrow_War"
+  },
+  "coverage_sha256": "263ccc1cdfd736040694ed9155a7d1724e8ec292188c42935dd421d862bf255e",
+  "generated_at": "2026-09-03T21:52:39.681740+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2021-archives/tomorrow-war.cache/cache.20211230.tar.xz",
+      "sha256": "ce061be62dbd9fbe1a603ea293a1ae6bbe1882ab701f993b573b133fa3619e81",
+      "size": 7281184084
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-coverage-evidence/tomorrow-war.md",
+      "sha256": "bdc709396460f03de5618248bf1ea054addf7e0dcb51cbad886b314f68662abb",
+      "size": 609
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-cache-stream-receipts/tomorrow-war.json",
+      "sha256": "082d707a707a05db5824d299014e1d67d9af046f208e33f831b2fae50b006f57",
+      "size": 3425
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-product-receipts/tomorrow-war.json",
+      "sha256": "61405853b4b9c219e47173fe14005eb7760c5ce31208d5bd226de2f890c6c28a",
+      "size": 365
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-control/worker-map.json",
+      "sha256": "8007c46b300872bb9f00ced6cb29d0e2aa49e73a513f4c30d0e8765a7e08ef2c",
+      "size": 89669
+    }
+  },
+  "media_object": "tomorrow-war",
+  "published_files": {
+    "data/csv/bytes/tomorrow-war-cumulative-detail.2021-btiha-itemized-by-bytes.csv": "d700851dfc2e63fa9ed18038365bc431c5b396c8da4e2fc5e4756b5f5619d60d",
+    "docs/itemized/figures/tomorrow-war-carto-4k.webp": "344fce76ffbeb3133f1ecf65090cbc7a71ae1fa2002da4727a105599c69e483a",
+    "docs/itemized/figures/tomorrow-war-carto.png": "f8d9f94597ed752a4abb632a2676e4d5c9fa34f53c9aef6154f2ed4b26a54a09",
+    "docs/itemized/figures/tomorrow-war-cumulative-detail-btiha-itemized-by-bytes.svg": "ca7b1efa4d6b2077b341463243a3a9230fb253febb1c6f71af6769ece3cb6c07",
+    "docs/itemized/figures/tomorrow-war-data-ge-1080p-4k.webp": "c464d6c6fecb78be834bbfe67e72fcbd4aa56c5537f81566bea211a0292aa95e",
+    "docs/itemized/figures/tomorrow-war-data-ge-1080p.webp": "f46c92f1f53364ccc1465c98233ac8e9e340e6ec3a657113bf12aa5f36409f3a",
+    "docs/itemized/figures/tomorrow-war-data-lt-1080p-4k.webp": "62c265878d276fdbd17089f7d3524b13d491e02956a4d80f4412dcd71934cc81",
+    "docs/itemized/figures/tomorrow-war-data-lt-1080p.webp": "976fc7b991289ff1fe67f328ecc22a6afd0584c6045ceea22e4998893ae4c4dd",
+    "docs/itemized/figures/tomorrow-war-downloads-by-day-day.svg": "0ae078e9fc85ea22ceea9f2f7d357cca66e3cad53fa1b557b956f484c25bdb88",
+    "docs/itemized/figures/tomorrow-war-downloads-by-week-tomorrow-war-week.svg": "6acbce8a9c0a40315c9387dd7e1d119267391746e5f345002d3c80f07f4914fa",
+    "docs/itemized/tomorrow-war-sample-cache-audit.md": "06aa3942a49c16faa70bcb0318ffee4fa16e99e149c132cdc314df9f569022de",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "84873e743da03017b556934ba0f591c7ba6b051e",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/tomorrow-war/tmp/tomorrow-war-cumulative-btiha.geojson",
+        "sha256": "57932b0c7db93684750f130a638af1ffc82fc8b38dc203adb028aea0c8e218ad",
+        "size": 310736930
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/tomorrow-war/tmp/tomorrow-war-cumulative-btiha-media-objects.json",
+        "sha256": "c74935bc3978384899895410feb6ac3ddac078e914e7d4764abf2c78a67b556e",
+        "size": 533134
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "tomorrow-war",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          44.0,
+          43.0,
+          35.0,
+          35.0,
+          34.0,
+          34.0,
+          32.0,
+          32.0,
+          30.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "London",
+          "Quezon City",
+          "Columbus",
+          "New York City",
+          "Ashburn",
+          "Saint Petersburg",
+          "Shanghai",
+          "Seoul",
+          "Mumbai"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          76.0,
+          62.0,
+          60.0,
+          58.0,
+          58.0,
+          54.0,
+          49.0,
+          48.0,
+          46.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Columbus",
+          "London",
+          "Seoul",
+          "New York City",
+          "Mumbai",
+          "Ashburn",
+          "Tokyo",
+          "Seattle",
+          "Shanghai"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 20,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 45,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 4,
+        "x_tick_marks": 4,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 26,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "84873e743da03017b556934ba0f591c7ba6b051e",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "903f8276e5f31a4387bb88a459e5012c544222f6",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "576c2b15dd1e39c011f3278699f852aced240cd0"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2021"
+}
