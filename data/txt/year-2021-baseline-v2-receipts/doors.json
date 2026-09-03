@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt12483708",
+    "imdb_id": "tt12483708",
+    "revision": "576c2b15dd1e39c011f3278699f852aced240cd0",
+    "wikidata_id": "Q106350657",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Doors_(film)"
+  },
+  "coverage_sha256": "e796bc53a84fbc81685003465a14856b2c02479839f8b3c3c858fae8e32e310d",
+  "generated_at": "2026-09-03T18:09:08.583572+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2021-archives/doors.cache/cache.20210531.tar.xz",
+      "sha256": "68ef96e64105caefc24f6dfe6806a3bd2bf240f3b3a1b0ee3c398ec1e23dee55",
+      "size": 291914804
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-coverage-evidence/doors.md",
+      "sha256": "c4337956a62f635f415ff6069752c3a2721bafd372d87097c0a0b01381aaa579",
+      "size": 541
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-cache-stream-receipts/doors.json",
+      "sha256": "1051852ed08a80433de904b7e9db833285c466c9ab84ca077dfa7069a8f8da90",
+      "size": 2414
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-product-receipts/doors.json",
+      "sha256": "f45d7ff0e82277041a7d8a1e8bec54b9a287052c37bc7ec81b6a21bd9b7792b8",
+      "size": 357
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-control/worker-map.json",
+      "sha256": "8007c46b300872bb9f00ced6cb29d0e2aa49e73a513f4c30d0e8765a7e08ef2c",
+      "size": 89669
+    }
+  },
+  "media_object": "doors",
+  "published_files": {
+    "data/csv/bytes/doors-cumulative-detail.2021-btiha-itemized-by-bytes.csv": "8d04bbb3d9f7a9d2bfc9eb9ce8562b08393280d810ace5d58ae9b0bbf3e101f5",
+    "docs/itemized/doors-sample-cache-audit.md": "8b04586e2e6a6cd21accfa1290260b8557d96cfb59bac85d074c0d753b12523b",
+    "docs/itemized/figures/doors-carto-4k.webp": "28ed19ada672046f69ecb8d0bce444f4cdfb822dc833cf95bc55cd3da26807f7",
+    "docs/itemized/figures/doors-carto.png": "8f08198f2dadac247cd7498c69c3ee7d145f4d4965db2cc27de5421e118c32c1",
+    "docs/itemized/figures/doors-cumulative-detail-btiha-itemized-by-bytes.svg": "9aaa83c96bca5ad67d1625c2869dc191bdd2c3a4e182ca377aa50e75d3333968",
+    "docs/itemized/figures/doors-data-ge-1080p-4k.webp": "4faff454bc47a5e4beb019c0f2f729e3d18731ef6ed90e473f1c87483e9c4dfb",
+    "docs/itemized/figures/doors-data-ge-1080p.webp": "ac4f6e309df32f7231aca9ad9ea5c5811bca83e7c5b2d556bb27ed80f656f508",
+    "docs/itemized/figures/doors-data-lt-1080p-4k.webp": "017a7bb7c5fff918325341c147211a450bd3ee79bcefb69d3d5c426030d91015",
+    "docs/itemized/figures/doors-data-lt-1080p.webp": "f01ca232a02dd7606ef7e6e885dfe9be721c1bf0a88c83f74163c882f0687013",
+    "docs/itemized/figures/doors-downloads-by-day-day.svg": "10b71af6c740388bdfffa5a8ed44e82da40ab70027336890c7d3486da0c26a52",
+    "docs/itemized/figures/doors-downloads-by-week-doors-week.svg": "ad355bcc62977ab29c6fc99403665023e226efec2e1da5542996b01fdfd276fc",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "84873e743da03017b556934ba0f591c7ba6b051e",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/doors/tmp/doors-cumulative-btiha.geojson",
+        "sha256": "5c3c2fefc265d4e476a19b65f6cd7b5c50e4c5aa7ce6d587b1c2b0781e75dacb",
+        "size": 26481874
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/doors/tmp/doors-cumulative-btiha-media-objects.json",
+        "sha256": "338a018d14b2ccd937076a5e0d90729d8947000e66852c2d8ed25b81cc356be4",
+        "size": 61085
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "doors",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          74.0,
+          72.0,
+          50.0,
+          45.0,
+          44.0,
+          37.0,
+          34.0,
+          33.0,
+          32.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "London",
+          "Columbus",
+          "New York City",
+          "Seattle",
+          "Seoul",
+          "Ashburn",
+          "Shanghai",
+          "Tokyo",
+          "Independence",
+          "Sydney"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          79.0,
+          67.0,
+          53.0,
+          49.0,
+          48.0,
+          45.0,
+          40.0,
+          38.0,
+          35.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Columbus",
+          "London",
+          "Seattle",
+          "New York City",
+          "Ashburn",
+          "Tokyo",
+          "Seoul",
+          "Independence",
+          "Saint Petersburg"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 24,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 27,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 6,
+        "x_tick_marks": 6,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 10,
+        "y_tick_labels": 20
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "84873e743da03017b556934ba0f591c7ba6b051e",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "903f8276e5f31a4387bb88a459e5012c544222f6",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "576c2b15dd1e39c011f3278699f852aced240cd0"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2021"
+}
