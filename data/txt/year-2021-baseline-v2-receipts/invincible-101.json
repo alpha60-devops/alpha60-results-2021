@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt6741278",
+    "imdb_id": "tt6741278",
+    "revision": "576c2b15dd1e39c011f3278699f852aced240cd0",
+    "wikidata_id": "Q55614601",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Invincible_(TV_series)"
+  },
+  "coverage_sha256": "be5879ac626ea5f0fab9ecfa9e3ac69b24d8879856dde9444a0066b7de9c1182",
+  "generated_at": "2026-09-03T19:58:23.560323+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2021-archives/invincible-101.cache/cache.20210603.tar.xz",
+      "sha256": "ba82326e3d122522e2a8c3f5e6b459a3cb40dae07d976b84e63595196a905dfb",
+      "size": 578544412
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-coverage-evidence/invincible-101.md",
+      "sha256": "198af3ee7335eb84832e65ad4df3e7b686152a93cafdc8452e2d437e42e1a39b",
+      "size": 550
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-cache-stream-receipts/invincible-101.json",
+      "sha256": "c7303d16ccf5e4a9b2b8804fe15e3114896780378af401db15db9d1facb161c6",
+      "size": 2442
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-product-receipts/invincible-101.json",
+      "sha256": "dc269be6c5f137993e457fd0a3eb307d376694e8c75ce9c5a2b89dafe9dc572e",
+      "size": 366
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-control/worker-map.json",
+      "sha256": "7579d04c5dcdc59b240a95af1b60b0ea4d32d602a822e3a67b7b6f311e3066b9",
+      "size": 91326
+    }
+  },
+  "media_object": "invincible-101",
+  "published_files": {
+    "data/csv/bytes/invincible-101-cumulative-detail.2021-btiha-itemized-by-bytes.csv": "ada3a09714e6e570b8bb945069ba412c3c0d633068603f891d41066fb2640b25",
+    "docs/itemized/figures/invincible-101-carto-4k.webp": "cfdbadf7db854425986ec050996bd96daebb75fdc444f7fe6698e4b29aea264c",
+    "docs/itemized/figures/invincible-101-carto.png": "5cc737b8e2190c8c8d53a73ab8d1c13ae139eda720982885cb7056d6deab393f",
+    "docs/itemized/figures/invincible-101-cumulative-detail-btiha-itemized-by-bytes.svg": "a43590462f3f63c4022fb0bb393c27de5a6f2145123a414a2467d098f6be2f19",
+    "docs/itemized/figures/invincible-101-data-ge-1080p-4k.webp": "106da64b302758f454b1ef1a53b47a65b0ddda7ac0393c48e493b2e6597d8c3f",
+    "docs/itemized/figures/invincible-101-data-ge-1080p.webp": "3e64ad806d57d5df408c6dda6571184653bab8846ca88d5808bc025cee3cda88",
+    "docs/itemized/figures/invincible-101-data-lt-1080p-4k.webp": "8008e197f4cc7878d265fb2c40918e506f20ce15aab7031643c49479f7eaac08",
+    "docs/itemized/figures/invincible-101-data-lt-1080p.webp": "c590e3934182a249b48fa0de783ac6e62bbba55fd5ad79a142a01025925de438",
+    "docs/itemized/figures/invincible-101-downloads-by-day-day.svg": "7e12d52eff427b77d4ddf56ea6c8f0ed3cf6b10aef03a492b8a33aab863c594e",
+    "docs/itemized/figures/invincible-101-downloads-by-week-invincible-101-week.svg": "e0d7a783b6e0e3aa4e2737f349f5d5577dbf51edd14e5f44c4d458b80ee95c29",
+    "docs/itemized/invincible-101-sample-cache-audit.md": "8b2e64fb4e443e4705e7cfade87b016139ead111bee207444420f26342232a0c",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "84873e743da03017b556934ba0f591c7ba6b051e",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/invincible-101/tmp/invincible-101-cumulative-btiha.geojson",
+        "sha256": "2acc120e688764904908893ae0389a2bef8aa09e7f493fc3195240e7d1cef0a0",
+        "size": 54740012
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/invincible-101/tmp/invincible-101-cumulative-btiha-media-objects.json",
+        "sha256": "a0f5a10cee2b855331d322aabf90fc2e39a810a7837b3bb9ef84fc60642cde57",
+        "size": 187231
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "invincible-101",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          75.0,
+          71.0,
+          67.0,
+          56.0,
+          52.0,
+          48.0,
+          40.0,
+          38.0,
+          37.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "London",
+          "Columbus",
+          "New York City",
+          "Ashburn",
+          "S\u00e3o Paulo",
+          "Seattle",
+          "Tokyo",
+          "Quezon City",
+          "Seoul",
+          "Sydney"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          86.0,
+          86.0,
+          77.0,
+          59.0,
+          57.0,
+          47.0,
+          44.0,
+          43.0,
+          43.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Columbus",
+          "Ashburn",
+          "London",
+          "New York City",
+          "Seattle",
+          "S\u00e3o Paulo",
+          "Tokyo",
+          "Seoul",
+          "Shanghai",
+          "Independence"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 24,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 27,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 4,
+        "x_tick_marks": 4,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 10,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "84873e743da03017b556934ba0f591c7ba6b051e",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "903f8276e5f31a4387bb88a459e5012c544222f6",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "576c2b15dd1e39c011f3278699f852aced240cd0"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2021"
+}
