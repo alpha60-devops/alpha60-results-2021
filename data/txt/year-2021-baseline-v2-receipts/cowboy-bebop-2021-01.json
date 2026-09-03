@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt1267295",
+    "imdb_id": "tt1267295",
+    "revision": "576c2b15dd1e39c011f3278699f852aced240cd0",
+    "wikidata_id": "Q101252448",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cowboy_Bebop_(2021_TV_series)"
+  },
+  "coverage_sha256": "710374b7934e0e2502b267f797ca22103cb13eeb86d1650877cf1c82705c2260",
+  "generated_at": "2026-09-03T17:57:58.149034+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2021-archives/cowboy-bebop-2021-01.cache/cache.20220127.tar.xz",
+      "sha256": "c671be38feed688d0115dcd4bbfd0ba3f2c79fd693e3ebc59a475400d3fb4835",
+      "size": 851440952
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-coverage-evidence/cowboy-bebop-2021-01.md",
+      "sha256": "ad4f9801afcffc21387fc5509416159347636dac187d74cd788320e388fcff63",
+      "size": 556
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-cache-stream-receipts/cowboy-bebop-2021-01.json",
+      "sha256": "915e1f40223f794d775429bf546bbd9c55ff474ec48b0ee1ba1ce52148968584",
+      "size": 2464
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-product-receipts/cowboy-bebop-2021-01.json",
+      "sha256": "49e03d2540a04f14813abf7411b784bd34ff381a72162fb5735e34a65e1901eb",
+      "size": 372
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-control/worker-map.json",
+      "sha256": "8007c46b300872bb9f00ced6cb29d0e2aa49e73a513f4c30d0e8765a7e08ef2c",
+      "size": 89669
+    }
+  },
+  "media_object": "cowboy-bebop-2021-01",
+  "published_files": {
+    "data/csv/bytes/cowboy-bebop-2021-01-cumulative-detail.2021-btiha-itemized-by-bytes.csv": "48eb96ceb4664d60856d7cc49254e7e823d3a200de2d00f0e7b222290c828949",
+    "docs/itemized/cowboy-bebop-2021-01-sample-cache-audit.md": "985f3fb89f9c88c516c15a08d0f7f54938c481570e599aa4cd089cd9625e6b1e",
+    "docs/itemized/figures/cowboy-bebop-2021-01-carto-4k.webp": "ecb2d22ac84007fd6d85ff6cd39b6ad37c91c25629d96bce8dc0b0bf3378a1dd",
+    "docs/itemized/figures/cowboy-bebop-2021-01-carto.png": "a94e51764d585edb493e4521b500ae3f028c2e437933b58e6f66034e5a0c0785",
+    "docs/itemized/figures/cowboy-bebop-2021-01-cumulative-detail-btiha-itemized-by-bytes.svg": "4b099628bf489c5be7b6f55fb2b037910807457912b103f64bb9f799316bd010",
+    "docs/itemized/figures/cowboy-bebop-2021-01-data-ge-1080p-4k.webp": "5f0bc2911b3855b1ed50f3adbe4410481f1ca57bda2927fa038364196c84fb1c",
+    "docs/itemized/figures/cowboy-bebop-2021-01-data-ge-1080p.webp": "3ea42c2b978e7f803c0a24b16cb200d7a8940511fc630359dce1f1565060fa85",
+    "docs/itemized/figures/cowboy-bebop-2021-01-data-lt-1080p-4k.webp": "cb8cb2e83aa36935e816b6519dea7302f2e2b5f4c6f16ddf0dcf7fcc3505daff",
+    "docs/itemized/figures/cowboy-bebop-2021-01-data-lt-1080p.webp": "b58cef9bd128f2960cdf218514514f23030d22e54f666c021f82067019b39458",
+    "docs/itemized/figures/cowboy-bebop-2021-01-downloads-by-day-day.svg": "1565ea36f6e22ef153610f1e83930317b4d9c64f0bb2460ce7156e426422e5fd",
+    "docs/itemized/figures/cowboy-bebop-2021-01-downloads-by-week-cowboy-bebop-2021-01-week.svg": "8bbeea653654e124f0c3b5777e55a985d4ba762061d36f91772dbd72048a5168",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "84873e743da03017b556934ba0f591c7ba6b051e",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/cowboy-bebop-2021-01/tmp/cowboy-bebop-2021-01-cumulative-btiha.geojson",
+        "sha256": "baf2d37499f470645c5426a5f99019131eb7d19953a12f0b4d93df2f40c3ae9f",
+        "size": 64955472
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/cowboy-bebop-2021-01/tmp/cowboy-bebop-2021-01-cumulative-btiha-media-objects.json",
+        "sha256": "fa13ef1efea4514657c653b916a444ffc999bd62f4d1bc67a075046b1cb7301b",
+        "size": 2277478
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "cowboy-bebop-2021-01",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          72.0,
+          36.0,
+          35.0,
+          31.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Ashburn",
+          "Saint Petersburg",
+          "Seoul",
+          "London",
+          "Amsterdam",
+          "Paris",
+          "Shanghai",
+          "Council Bluffs",
+          "Lelystad"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          79.0,
+          34.0,
+          31.0,
+          27.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Ashburn",
+          "Saint Petersburg",
+          "Seoul",
+          "London",
+          "Amsterdam",
+          "Council Bluffs",
+          "Lelystad",
+          "Paris",
+          "Novosibirsk"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 24,
+        "y_tick_labels": 20
+      },
+      "histogram": {
+        "bars": 28,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 10,
+        "y_tick_labels": 20
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "84873e743da03017b556934ba0f591c7ba6b051e",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "903f8276e5f31a4387bb88a459e5012c544222f6",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "576c2b15dd1e39c011f3278699f852aced240cd0"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2021"
+}
