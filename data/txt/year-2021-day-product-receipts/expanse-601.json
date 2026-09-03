@@ -1,0 +1,14 @@
+{
+  "collection_key": "expanse-601",
+  "day_products": 76,
+  "first_date": "2021-12-10",
+  "first_index": 1,
+  "geojson_data_version": "20260701",
+  "ip_geolocation_version": "6:1777968300",
+  "json_data_version": "2026-08-05",
+  "last_date": "2022-02-24",
+  "last_index": 77,
+  "schema": "alpha60-day-product-contract/1",
+  "sparse": true,
+  "status": "pass"
+}
