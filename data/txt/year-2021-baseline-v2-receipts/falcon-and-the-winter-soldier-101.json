@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt9208876",
+    "imdb_id": "tt9208876",
+    "revision": "576c2b15dd1e39c011f3278699f852aced240cd0",
+    "wikidata_id": "Q65979734",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Falcon_and_the_Winter_Soldier"
+  },
+  "coverage_sha256": "9c9ec491897a85d621bc6c5c3358ca3dc9cc097d919d48b43c1f7ac44c2e1e2b",
+  "generated_at": "2026-09-03T18:22:24.984021+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2021-archives/falcon-and-the-winter-soldier-101.cache/cache.20210527.tar.xz",
+      "sha256": "cc41390cf974d854b2f01ecd1bfe65e669b14944741fa28e1f14ba730b1ba892",
+      "size": 1942187588
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-coverage-evidence/falcon-and-the-winter-soldier-101.md",
+      "sha256": "bfc6898aba681a859136a9b9fd87ee0c329d8ee5494896222e48ab19f69f38c4",
+      "size": 569
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-cache-stream-receipts/falcon-and-the-winter-soldier-101.json",
+      "sha256": "fcfe40557ee1fe9cf789ef739268a72b3b97ec23220564b3c9eb4cd9f5c026f2",
+      "size": 2503
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-product-receipts/falcon-and-the-winter-soldier-101.json",
+      "sha256": "d0355d76090ef37d1a983b347ad7a37635022cb180ffab467ff7113b2e471c1a",
+      "size": 385
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-control/worker-map.json",
+      "sha256": "8007c46b300872bb9f00ced6cb29d0e2aa49e73a513f4c30d0e8765a7e08ef2c",
+      "size": 89669
+    }
+  },
+  "media_object": "falcon-and-the-winter-soldier-101",
+  "published_files": {
+    "data/csv/bytes/falcon-and-the-winter-soldier-101-cumulative-detail.2021-btiha-itemized-by-bytes.csv": "cb1c74f185e0865212a576e5dcbce836b3df81bb6e41f3f6ebfc0cd57c401b1a",
+    "docs/itemized/falcon-and-the-winter-soldier-101-sample-cache-audit.md": "a6d7a0f6ea66ffbc68b6b5ce99939ac963304653d77dbc8ac6e50433c2c3e14b",
+    "docs/itemized/figures/falcon-and-the-winter-soldier-101-carto-4k.webp": "83fa79a60459f2cb974ba83f881715e809dca259532ba2d6a27421f922fc6b8b",
+    "docs/itemized/figures/falcon-and-the-winter-soldier-101-carto.png": "2da1cb61be22542b229b8cd498ea9523f1188c567e7b72da132ccd585f517bca",
+    "docs/itemized/figures/falcon-and-the-winter-soldier-101-cumulative-detail-btiha-itemized-by-bytes.svg": "90cac0919b8471914e0af60614325beadcddb6fe10efefa20d41ac7e890878f7",
+    "docs/itemized/figures/falcon-and-the-winter-soldier-101-data-ge-1080p-4k.webp": "78cc3a8e9f45246a73770ac864ecb51725b5529f1a2d955d32eb9234c497ba71",
+    "docs/itemized/figures/falcon-and-the-winter-soldier-101-data-ge-1080p.webp": "707bbf5be993c2141a1b4febf2597a5cd56e3f1c362022fe6dfec245e42e848e",
+    "docs/itemized/figures/falcon-and-the-winter-soldier-101-data-lt-1080p-4k.webp": "7755676919cfd15049aafaceed93d5fd879192b8d77b3fb033392f90aece18a7",
+    "docs/itemized/figures/falcon-and-the-winter-soldier-101-data-lt-1080p.webp": "dcccc74c7ba80133fccbf75d1be5918e2e2cc0fd1f6b99acdb8bbdabb6deed6e",
+    "docs/itemized/figures/falcon-and-the-winter-soldier-101-downloads-by-day-day.svg": "5f8f25bc4323502c7565f802c08acec3d5f4adf15be7a05cd06350e55b94e046",
+    "docs/itemized/figures/falcon-and-the-winter-soldier-101-downloads-by-week-falcon-and-the-winter-soldier-101-week.svg": "73fd93311c4c535b82a441e68fda686ffd23537db0ede5aedf132f2b780822f7",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "84873e743da03017b556934ba0f591c7ba6b051e",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/falcon-and-the-winter-soldier-101/tmp/falcon-and-the-winter-soldier-101-cumulative-btiha.geojson",
+        "sha256": "7b6bc4b8809b2c184dfd0a19e44ba681aefbfb2f0d2123978e3c27659ac992f1",
+        "size": 164165796
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/falcon-and-the-winter-soldier-101/tmp/falcon-and-the-winter-soldier-101-cumulative-btiha-media-objects.json",
+        "sha256": "65e9f8c84b113768104ff73911536fa0321e431d66ab45544964c9d476b0f6d8",
+        "size": 241271
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "falcon-and-the-winter-soldier-101",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          81.0,
+          81.0,
+          70.0,
+          58.0,
+          56.0,
+          55.0,
+          51.0,
+          51.0,
+          44.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Columbus",
+          "Ashburn",
+          "London",
+          "New York City",
+          "Shanghai",
+          "Tokyo",
+          "Seattle",
+          "Seoul",
+          "Mumbai",
+          "Quezon City"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          82.0,
+          72.0,
+          65.0,
+          55.0,
+          47.0,
+          46.0,
+          42.0,
+          41.0,
+          33.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Columbus",
+          "Ashburn",
+          "London",
+          "New York City",
+          "Seattle",
+          "Seoul",
+          "Tokyo",
+          "Shanghai",
+          "Independence",
+          "S\u00e3o Paulo"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 24,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 40,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 10,
+        "y_tick_labels": 20
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "84873e743da03017b556934ba0f591c7ba6b051e",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "903f8276e5f31a4387bb88a459e5012c544222f6",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "576c2b15dd1e39c011f3278699f852aced240cd0"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2021"
+}
