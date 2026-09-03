@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt10696784",
+    "imdb_id": "tt10696784",
+    "revision": "576c2b15dd1e39c011f3278699f852aced240cd0",
+    "wikidata_id": "Q102509510",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Harder_They_Fall_(2021_film)"
+  },
+  "coverage_sha256": "14445b0f507d1e6e1cda428849832d997ae37645d69d6b1866c891a3aaecb333",
+  "generated_at": "2026-09-03T19:46:08.163121+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2021-archives/harder-they-fall.cache/cache.20220111.tar.xz",
+      "sha256": "4f7fde9ea0840a37ff873bf00a95fd84e7419317a7447fcda03f16c1aa0dc40b",
+      "size": 685730992
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-coverage-evidence/harder-they-fall.md",
+      "sha256": "875f4f0e748dbcc00257e964c7ba25a9d7c5c27dcc0b096f09ae5495191f7334",
+      "size": 552
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-cache-stream-receipts/harder-they-fall.json",
+      "sha256": "9eb180960998b211cf1afa61aaaa408ba5916402d53ee9b73b69d7b038f6da4e",
+      "size": 2449
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-product-receipts/harder-they-fall.json",
+      "sha256": "1f2a72f1d0cee9e0eb51bdef52b8de4e1153bb74db945b1c59c360b0550b07f6",
+      "size": 368
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-control/worker-map.json",
+      "sha256": "7579d04c5dcdc59b240a95af1b60b0ea4d32d602a822e3a67b7b6f311e3066b9",
+      "size": 91326
+    }
+  },
+  "media_object": "harder-they-fall",
+  "published_files": {
+    "data/csv/bytes/harder-they-fall-cumulative-detail.2021-btiha-itemized-by-bytes.csv": "1c3211f64544544e4448ebb8152c86f04ca9c269bb98bd153d8951406efaaebb",
+    "docs/itemized/figures/harder-they-fall-carto-4k.webp": "891fb77292a141750ffdf3e6375eab703efbae7f9682018cbae6143de6dd6307",
+    "docs/itemized/figures/harder-they-fall-carto.png": "b394b07a298c979587123297ecd0fd6168583a1d1ae1d4c467d856fe71dd35eb",
+    "docs/itemized/figures/harder-they-fall-cumulative-detail-btiha-itemized-by-bytes.svg": "2484fccbe5b6d2541d79abd019ff8952ba869555ddc5aa61f0dae0ce0164a1ad",
+    "docs/itemized/figures/harder-they-fall-data-ge-1080p-4k.webp": "c29a2d6b842d65ea042a5bfdd03c68f8999a5ee7a3338e774c469fad4c962d85",
+    "docs/itemized/figures/harder-they-fall-data-ge-1080p.webp": "0380160078f434cc180fbc1f0b11abda00c62c282ffe1be451458f2186d4f7c7",
+    "docs/itemized/figures/harder-they-fall-data-lt-1080p-4k.webp": "dbcb6491423325a858193c3beacae9b031def1025810a2afa3d7b14ef378f06a",
+    "docs/itemized/figures/harder-they-fall-data-lt-1080p.webp": "d2f21cd2fdad910608b8024ea7179aed7c2e01cd41c44399d0dac8344a2d1aa7",
+    "docs/itemized/figures/harder-they-fall-downloads-by-day-day.svg": "6748754760c36a0ec3a813213c19283b6d0955c3de6d43343e4a900f45aa2073",
+    "docs/itemized/figures/harder-they-fall-downloads-by-week-harder-they-fall-week.svg": "4da80f8a82be244737dfbe328ffa68fe34d49a833b8a608e11c1dda93f07b417",
+    "docs/itemized/harder-they-fall-sample-cache-audit.md": "8db72d1817f1c310221f2b642d5e046276abf224c58c34cf3fc4ef2d1aa384f7",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "84873e743da03017b556934ba0f591c7ba6b051e",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/harder-they-fall/tmp/harder-they-fall-cumulative-btiha.geojson",
+        "sha256": "747ed15f6e0ba921d0c8d0f8e9ea5ad6b734f15cf6291f884089de3a15da9361",
+        "size": 37998724
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/harder-they-fall/tmp/harder-they-fall-cumulative-btiha-media-objects.json",
+        "sha256": "708873994b1701c912e91c6e4a164f7002df0af9ec25b68d8cc6938b05e29246",
+        "size": 292736
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "harder-they-fall",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          63.0,
+          57.0,
+          37.0,
+          32.0,
+          29.0,
+          27.0,
+          27.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Ashburn",
+          "London",
+          "New York City",
+          "Saint Petersburg",
+          "Johannesburg",
+          "Seoul",
+          "Council Bluffs",
+          "Amsterdam",
+          "Nairobi"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          69.0,
+          59.0,
+          58.0,
+          55.0,
+          46.0,
+          45.0,
+          42.0,
+          37.0,
+          37.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Johannesburg",
+          "London",
+          "Nairobi",
+          "Moscow",
+          "Pretoria",
+          "Accra",
+          "Lagos",
+          "Cape Town",
+          "Quezon City",
+          "New York City"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 24,
+        "y_tick_labels": 20
+      },
+      "histogram": {
+        "bars": 32,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 6,
+        "x_tick_marks": 6,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 10,
+        "y_tick_labels": 20
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "84873e743da03017b556934ba0f591c7ba6b051e",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "903f8276e5f31a4387bb88a459e5012c544222f6",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "576c2b15dd1e39c011f3278699f852aced240cd0"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2021"
+}
