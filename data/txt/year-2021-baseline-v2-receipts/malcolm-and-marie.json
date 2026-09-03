@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt12676326",
+    "imdb_id": "tt12676326",
+    "revision": "576c2b15dd1e39c011f3278699f852aced240cd0",
+    "wikidata_id": "Q97275472",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Malcolm_%26_Marie"
+  },
+  "coverage_sha256": "7677c1ef5f601b62bb4831b09e62235a5e9349717f072416d8b042270af92f86",
+  "generated_at": "2026-09-03T19:01:38.223733+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2021-archives/malcolm-and-marie.cache/cache.20210415.tar.xz",
+      "sha256": "e401ee2c3e180bac0ad45eb8bb3e0818448c1530ce47b16404bf1ce6777175ed",
+      "size": 347433412
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-coverage-evidence/malcolm-and-marie.md",
+      "sha256": "13c74d65e3364da5a4d21c3eb686ccf73c2943e6042f5d580b2c2f95fa10e191",
+      "size": 553
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-cache-stream-receipts/malcolm-and-marie.json",
+      "sha256": "f3f3a7ebd7ff3b11f6df883ba56a65541f6998e451e40dcb310a59722b9a82aa",
+      "size": 2450
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-product-receipts/malcolm-and-marie.json",
+      "sha256": "4dc02393f64b29b0ae74a43bcbbe85b33bbbb0c3d641b789be5825d092924324",
+      "size": 369
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-control/worker-map.json",
+      "sha256": "8007c46b300872bb9f00ced6cb29d0e2aa49e73a513f4c30d0e8765a7e08ef2c",
+      "size": 89669
+    }
+  },
+  "media_object": "malcolm-and-marie",
+  "published_files": {
+    "data/csv/bytes/malcolm-and-marie-cumulative-detail.2021-btiha-itemized-by-bytes.csv": "3154187d912378498e4e254be6f778fc14f0c581f3f46b505b08750a615cf50f",
+    "docs/itemized/figures/malcolm-and-marie-carto-4k.webp": "81b3c318ef137004c1b86b02774c366608efc91c625d5e39f98cfe70fdd30b6e",
+    "docs/itemized/figures/malcolm-and-marie-carto.png": "6301fb54f922c950bb04e182199b7eac24ff1e33a0ce73261ecef52919a497fc",
+    "docs/itemized/figures/malcolm-and-marie-cumulative-detail-btiha-itemized-by-bytes.svg": "02f9b22d62a5a26e1f60413cfa4c391f6a413ac30a2ead81d513f7c1026d0465",
+    "docs/itemized/figures/malcolm-and-marie-data-ge-1080p-4k.webp": "1a68b134a7dd6a97204d178bd32b46e4611fc64b0ab16bccd34495eb751cfc16",
+    "docs/itemized/figures/malcolm-and-marie-data-ge-1080p.webp": "79b39fbf92dcb4ddbc9d24d599cf6a3f1a7e8094085bf0de9ffac60b553adc2c",
+    "docs/itemized/figures/malcolm-and-marie-data-lt-1080p-4k.webp": "41ddaa4b0bcaafb6f2632e24da1cf9d00088e3c9b9e79bd80e8974cb63450b9e",
+    "docs/itemized/figures/malcolm-and-marie-data-lt-1080p.webp": "62f266d0e3efddb4a2219bc02b921050565c22be6cdda0840bb4594495eecd67",
+    "docs/itemized/figures/malcolm-and-marie-downloads-by-day-day.svg": "dd8293361ca3c462b6b268ad014f9190a59d3e2b52e6339600e9af04a7767eec",
+    "docs/itemized/figures/malcolm-and-marie-downloads-by-week-malcolm-and-marie-week.svg": "6816b3dfa0b256f992f5ff48a0d1e5ac431e452c93e38562ae3986a332310a1f",
+    "docs/itemized/malcolm-and-marie-sample-cache-audit.md": "40e462332fdb943bfad6c33ba13cf019cc76362d34e9caba111dce4d9934466f",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "84873e743da03017b556934ba0f591c7ba6b051e",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/malcolm-and-marie/tmp/malcolm-and-marie-cumulative-btiha.geojson",
+        "sha256": "b245e6171f95649a65ab21326a685d3b98a3f19b89b0ddb59570448d0bc60f89",
+        "size": 37026533
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/malcolm-and-marie/tmp/malcolm-and-marie-cumulative-btiha-media-objects.json",
+        "sha256": "0c2160d900f80749c2440f3423c1ae032e271168d82bb0be6f36b2563eb4eb5f",
+        "size": 218996
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "malcolm-and-marie",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          60.0,
+          59.0,
+          53.0,
+          47.0,
+          45.0,
+          45.0,
+          44.0,
+          43.0,
+          42.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Columbus",
+          "New York City",
+          "London",
+          "Seattle",
+          "Seoul",
+          "Pretoria",
+          "Johannesburg",
+          "Ashburn",
+          "Shanghai",
+          "Tokyo"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          64.0,
+          62.0,
+          61.0,
+          58.0,
+          56.0,
+          49.0,
+          48.0,
+          47.0,
+          43.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Columbus",
+          "Pretoria",
+          "New York City",
+          "Johannesburg",
+          "London",
+          "Seattle",
+          "Nairobi",
+          "Ashburn",
+          "Randburg",
+          "Cape Town"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 24,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 25,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 6,
+        "x_tick_marks": 6,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 10,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "84873e743da03017b556934ba0f591c7ba6b051e",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "903f8276e5f31a4387bb88a459e5012c544222f6",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "576c2b15dd1e39c011f3278699f852aced240cd0"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2021"
+}
