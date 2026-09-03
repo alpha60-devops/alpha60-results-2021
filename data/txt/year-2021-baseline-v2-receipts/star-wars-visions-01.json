@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt13622982",
+    "imdb_id": "tt13622982",
+    "revision": "576c2b15dd1e39c011f3278699f852aced240cd0",
+    "wikidata_id": "Q104161600",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Star_Wars:_Visions"
+  },
+  "coverage_sha256": "0520aec49367f295c2d68e724de8a7c6b6898aa2c2769ba13a2e0afda98a9b6d",
+  "generated_at": "2026-09-03T22:40:55.757308+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2021-archives/star-wars-visions-01.cache/cache.20211208.tar.xz",
+      "sha256": "3d54f9b3cfab9bfa87b58f04c568382e36f9a75ddae61b720ffcb9ec137d5030",
+      "size": 475432080
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-coverage-evidence/star-wars-visions-01.md",
+      "sha256": "a1e847978b050bd1e5636bb9246fc911f125f196e8902e1e18c1414e97416345",
+      "size": 556
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-cache-stream-receipts/star-wars-visions-01.json",
+      "sha256": "bd5a4cc45c5cfb3f467c04a4429ec48334ffbc0da6bdfc1d66ff4719e9e170dc",
+      "size": 2528
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-product-receipts/star-wars-visions-01.json",
+      "sha256": "fbd51beca2230aec1a2601b1be3493d99d9cc4d6f017d2cee39aced4a7636c0e",
+      "size": 372
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-control/worker-map.json",
+      "sha256": "7579d04c5dcdc59b240a95af1b60b0ea4d32d602a822e3a67b7b6f311e3066b9",
+      "size": 91326
+    }
+  },
+  "media_object": "star-wars-visions-01",
+  "published_files": {
+    "data/csv/bytes/star-wars-visions-01-cumulative-detail.2021-btiha-itemized-by-bytes.csv": "da50ca17aa013092374e3f2aed8eb977f0052ed245f849bf43f68ac8925b8fc7",
+    "docs/itemized/figures/star-wars-visions-01-carto-4k.webp": "69ca439f23804948ee0171a73dad7544f29c456d08e6f2e68f78daa13219d6d7",
+    "docs/itemized/figures/star-wars-visions-01-carto.png": "c5c038a20aefb0f17c8b7dba871fe21c14b1c1d71694a9543bf3bb9118e95f3a",
+    "docs/itemized/figures/star-wars-visions-01-cumulative-detail-btiha-itemized-by-bytes.svg": "e4db3183abbba5fe7a3988fefa52fdd8ca54155dbf9c8fb299f57ac6ab60cece",
+    "docs/itemized/figures/star-wars-visions-01-data-ge-1080p-4k.webp": "44d1516cf84a824deabe8d4f6cd6d35d3e723b7b06d7d432d92f40a122e9fbe9",
+    "docs/itemized/figures/star-wars-visions-01-data-ge-1080p.webp": "6a711846b214bbeb793579a0f7492bf3574509374b430723374bc4592b8ddb9a",
+    "docs/itemized/figures/star-wars-visions-01-data-lt-1080p-4k.webp": "e1a96f8474de22726e6a64a837d06e61047438c99203ec9903740a799e3e64b9",
+    "docs/itemized/figures/star-wars-visions-01-data-lt-1080p.webp": "60447d214f5426ada1d9ea4eb6373aaaeb9a4abe998201e19af4f054396fabf6",
+    "docs/itemized/figures/star-wars-visions-01-downloads-by-day-day.svg": "d2d70da0684e2ca1205a8e1079e24e708f60206a4080afd099dfe3670910ff35",
+    "docs/itemized/figures/star-wars-visions-01-downloads-by-week-star-wars-visions-01-week.svg": "da60b0cf3c6d483b438d6b661f04b5d2d393935f8c5220ac9dea2c2182226edc",
+    "docs/itemized/star-wars-visions-01-sample-cache-audit.md": "d11d263dde0771a089b3a30f2590b415f49f2b1efc8caa80c68009c0d85478e2",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "84873e743da03017b556934ba0f591c7ba6b051e",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/star-wars-visions-01/tmp/star-wars-visions-01-cumulative-btiha.geojson",
+        "sha256": "f476b8c8326caa606834dbd200da9e472f69dbff4add9d619537bb9dc5c3b16c",
+        "size": 48467220
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/star-wars-visions-01/tmp/star-wars-visions-01-cumulative-btiha-media-objects.json",
+        "sha256": "eff8d2f1fc59e5a045654d37ea1af0a4dad34ea59d5798a1a9ee41d029b80d38",
+        "size": 805173
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "star-wars-visions-01",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          80.0,
+          40.0,
+          40.0,
+          39.0,
+          33.0,
+          32.0,
+          28.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Ashburn",
+          "Frankfurt am Main",
+          "Boardman",
+          "London",
+          "Seoul",
+          "Saint Petersburg",
+          "Shanghai",
+          "Paris",
+          "Hong Kong"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          74.0,
+          43.0,
+          40.0,
+          38.0,
+          35.0,
+          33.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Ashburn",
+          "Boardman",
+          "Seoul",
+          "Frankfurt am Main",
+          "London",
+          "Saint Petersburg",
+          "Hong Kong",
+          "Paris",
+          "Budapest"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 26,
+        "y_tick_labels": 20
+      },
+      "histogram": {
+        "bars": 32,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 12,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "84873e743da03017b556934ba0f591c7ba6b051e",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "903f8276e5f31a4387bb88a459e5012c544222f6",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "576c2b15dd1e39c011f3278699f852aced240cd0"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2021"
+}
