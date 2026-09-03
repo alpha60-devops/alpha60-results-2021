@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt9140554",
+    "imdb_id": "tt9140554",
+    "revision": "576c2b15dd1e39c011f3278699f852aced240cd0",
+    "wikidata_id": "Q64349029",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Loki_(TV_series)"
+  },
+  "coverage_sha256": "1ed34d94dbefbd17b55e6e1a7d35981504563107ade09b350d054a329b7a1f66",
+  "generated_at": "2026-09-03T18:47:59.121542+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2021-archives/loki-106.cache/cache.20211109.tar.xz",
+      "sha256": "1020386d0cbf7900f1529fc9410d1e6ba5da9f22625427a155bd0373f7b42f13",
+      "size": 3874830472
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-coverage-evidence/loki-106.md",
+      "sha256": "e27dbe9977c4e3112d8e37a532cfa09efb02250bd33aae7e922205702507febd",
+      "size": 546
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-cache-stream-receipts/loki-106.json",
+      "sha256": "fff777f4d4d3036eca93afeb26c8ac2b686678a2def312cc2ab5092cb0d509bc",
+      "size": 2845
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-product-receipts/loki-106.json",
+      "sha256": "cb99d2dce78b1a697fc10dce8d92d68dbb7bec610fc823dedbf3c8dfff941c6e",
+      "size": 362
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-control/worker-map.json",
+      "sha256": "8007c46b300872bb9f00ced6cb29d0e2aa49e73a513f4c30d0e8765a7e08ef2c",
+      "size": 89669
+    }
+  },
+  "media_object": "loki-106",
+  "published_files": {
+    "data/csv/bytes/loki-106-cumulative-detail.2021-btiha-itemized-by-bytes.csv": "8080d62174fd7f7cce8db103e591a671b94a3b1e23e8c1bb300b99ce0cb7b828",
+    "docs/itemized/figures/loki-106-carto-4k.webp": "29836a62f15cd69f7f718d1473c6f574cf3c6d4c1c65aad0d28d01d65869b894",
+    "docs/itemized/figures/loki-106-carto.png": "6a5cd25ff8ff1e37a23dd1aaa8663b698b280596cd9fedb86d3773f01b8150fe",
+    "docs/itemized/figures/loki-106-cumulative-detail-btiha-itemized-by-bytes.svg": "405440affe97753c9a964246aa97dbf7fa39892ceb3d9c77c4b496c52f87b25a",
+    "docs/itemized/figures/loki-106-data-ge-1080p-4k.webp": "94853bf54921ffb8ce6c80e4da1f77d2d2d6c71b721d42b7facb1bb0422a496b",
+    "docs/itemized/figures/loki-106-data-ge-1080p.webp": "59f8a792eb9accacf8722c4b0970c3ab5ac4dd54adcdef2ec166ee5e3d5e6891",
+    "docs/itemized/figures/loki-106-data-lt-1080p-4k.webp": "2a274a395ac5af229482637cb1c7dae00c32757d2aab63bf345391318cf7aa9f",
+    "docs/itemized/figures/loki-106-data-lt-1080p.webp": "3f8f5d2f47e8d5a389fdfa4a0a8c730b77848488f01fc4a3d911a0232bdd47cb",
+    "docs/itemized/figures/loki-106-downloads-by-day-day.svg": "090901507f4d9898bb908de8b8d94f3f5e45753ba33cbaa0d575cee37068838e",
+    "docs/itemized/figures/loki-106-downloads-by-week-loki-106-week.svg": "94e49de8f225f73eaad976f675672eb12c68d9ef26ce752a40f5ef1a2446ee06",
+    "docs/itemized/loki-106-sample-cache-audit.md": "34da7bdd80b2afbca05f98878cb120d92abbc9c71db7631a17f63a6a30940334",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "84873e743da03017b556934ba0f591c7ba6b051e",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/loki-106/tmp/loki-106-cumulative-btiha.geojson",
+        "sha256": "39c22f4674c0cd71f8e1d083d0ab30824d3e949bcc71b604a09ec5418b19cd62",
+        "size": 267343928
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/loki-106/tmp/loki-106-cumulative-btiha-media-objects.json",
+        "sha256": "d984f27813cecffc9ccc2f70e5a2e8cc4fb345ea5ad9cc2d9ccacd20ed31c071",
+        "size": 554021
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "loki-106",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          75.0,
+          69.0,
+          59.0,
+          56.0,
+          49.0,
+          47.0,
+          46.0,
+          43.0,
+          39.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "London",
+          "Columbus",
+          "New York City",
+          "Ashburn",
+          "Seoul",
+          "Seattle",
+          "Shanghai",
+          "Tokyo",
+          "Mumbai"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          78.0,
+          76.0,
+          67.0,
+          66.0,
+          65.0,
+          57.0,
+          56.0,
+          48.0,
+          41.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Columbus",
+          "Moscow",
+          "London",
+          "Seoul",
+          "Ashburn",
+          "New York City",
+          "Shanghai",
+          "Seattle",
+          "Tokyo",
+          "Independence"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 24,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 43,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 4,
+        "x_tick_marks": 4,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 17,
+        "y_tick_labels": 20
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "84873e743da03017b556934ba0f591c7ba6b051e",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "903f8276e5f31a4387bb88a459e5012c544222f6",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "576c2b15dd1e39c011f3278699f852aced240cd0"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2021"
+}
