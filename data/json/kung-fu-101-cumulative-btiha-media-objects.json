@@ -1,0 +1,2833 @@
+{
+    "collection_name": "Kung Fu 2021",
+    "collection_id": "101",
+    "collection_key": "kung-fu-101",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "collection_btiha_duplicates": [
+        {
+            "duplicate_id": 0,
+            "duplicate_btih": "dae743196ce0576ec4faaa1b20f28b10fc514ac5",
+            "duplicate_0_0": "Kung.Fu.2021.S01E01.1080p.HDTV.x264-YANKEES[rarbg]",
+            "duplicate_0_1": "Kung.Fu.2021.S01E01.1080p.HDTV.x264-YANKEES[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 1,
+            "duplicate_btih": "cbacaa814240089992e575ba1ae7732800eb17c3",
+            "duplicate_1_0": "Kung.Fu.2021.S01E01.1080p.WEB.H264-CAKES[rarbg]",
+            "duplicate_1_1": "Kung.Fu.2021.S01E01.1080p.WEB.H264-CAKES[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 2,
+            "duplicate_btih": "2f69e7ce3b01d83dd4fec0959c562a74128b6447",
+            "duplicate_2_0": "Kung.Fu.2021.S01E01.720p.WEB.H264-CAKES[rarbg]",
+            "duplicate_2_1": "Kung.Fu.2021.S01E01.720p.WEB.H264-CAKES[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 3,
+            "duplicate_btih": "741032a4c1308e7efeb6d1e384069fb12aaf8161",
+            "duplicate_3_0": "Kung.Fu.2021.S01E01.HDTV.x264-YANKEES[rarbg]",
+            "duplicate_3_1": "Kung.Fu.2021.S01E01.HDTV.x264-YANKEES[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 4,
+            "duplicate_btih": "50439e63bc67d8680dc38e94f17ba529381d4e63",
+            "duplicate_4_0": "Kung.Fu.2021.S01E01.Pilot.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]",
+            "duplicate_4_1": "Kung.Fu.2021.S01E01.Pilot.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 5,
+            "duplicate_btih": "795982b66d786985c70f877155035c9f67aed446",
+            "duplicate_5_0": "Kung.Fu.S01E01.WEBRip.x264-ION10-[rarbg.to]",
+            "duplicate_5_1": "Kung.Fu.S01E01.WEBRip.x264-ION10"
+        },
+        {
+            "duplicate_id": 6,
+            "duplicate_btih": "87b9a9ef34d56b0cae0634cc13a79fa05441b93d",
+            "duplicate_6_0": "[rutor.is]Kung.Fu.2021.S01.1080p.Kerob",
+            "duplicate_6_1": "Kung.Fu.2021.S01.1080p.Kerob"
+        },
+        {
+            "duplicate_id": 7,
+            "duplicate_btih": "6dfc36869d613602f8e0efc047a70e32f4faa25e",
+            "duplicate_7_0": "[rutor.is]Kung.Fu.2021.S01.720p.Kerob",
+            "duplicate_7_1": "Kung.Fu.2021.S01.720p.Kerob"
+        }
+    ],
+    "collection_btiha_metadata": [
+        {
+            "id": 1,
+            "name": " Kung Fu .2021. WEBDLRip.TVShows",
+            "size_total": 0.5747712,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.5747712,
+                    "path": " Kung Fu .2021. WEBDLRip.TVShows/01.  Kung Fu .2021. WEBDLRip.TVShows.avi"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "26a7-Kung.Fu.2021.S01E01.720p.WEB.H264-CAKES",
+            "size_total": 0.792706912,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.7e-8,
+                    "path": "Kung.Fu.2021.S01E01.720p.WEB.H264-CAKES/Torrent Downloaded From ProstyleX.org.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.792706624,
+                    "path": "Kung.Fu.2021.S01E01.720p.WEB.H264-CAKES/kung.fu.2021.s01e01.720p.web.h264-cakes.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 2.51e-7,
+                    "path": "Kung.Fu.2021.S01E01.720p.WEB.H264-CAKES/kung.fu.2021.s01e01.720p.web.h264-cakes.nfo"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "[HR] Kung Fu S01E01 [PV 1080p HEVC E-OPUS 5.1]~HR-DR",
+            "size_total": 0.708069699,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 8.34e-7,
+                    "path": "[HR] Kung Fu S01E01 [PV 1080p HEVC E-OPUS 5.1]~HR-DR/[Hakata Ramen] Kung Fu S01E01 Pilot [Prime Video 1080p x265 E-OPUS 5.1].ske"
+                },
+                {
+                    "number": 2,
+                    "size": 0.708068865,
+                    "path": "[HR] Kung Fu S01E01 [PV 1080p HEVC E-OPUS 5.1]~HR-DR/[HR] Kung Fu S01E01 [BDE1D407].mkv"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "[rutor.is]Kung.Fu.2021.S01.1080p.Kerob",
+            "size_total": 2.261628787,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.261628787,
+                    "path": "Kung.Fu.2021.S01.1080p.Kerob/Kung.Fu.2021.S01E01.1080p.Kerob.mkv"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "[rutor.is]Kung.Fu.2021.S01.400p.Kerob",
+            "size_total": 0.533180924,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.533180924,
+                    "path": "Kung.Fu.2021.S01.400p.Kerob/Kung.Fu.2021.S01E01.400p.Kerob.avi"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "[rutor.is]Kung.Fu.2021.S01.720p.Kerob",
+            "size_total": 1.356805499,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.356805499,
+                    "path": "Kung.Fu.2021.S01.720p.Kerob/Kung.Fu.2021.S01E01.720p.Kerob.mp4"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "[rutor.is]Kung.Fu.S01.AMZN.WEBRip.720p.-ad3wal3",
+            "size_total": 29.496720586,
+            "files_total": 16,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.680504054,
+                    "path": "Kung.Fu.S01.AMZN.WEBRip.720p.-ad3wal3/Kung.Fu.S01E10.Alethea.AMZN.WEBRip.720p.-ad3wal3.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.720865529,
+                    "path": "Kung.Fu.S01.AMZN.WEBRip.720p.-ad3wal3/Kung.Fu.S01E01.King.of.the.Mountain.AMZN.WEBRip.720p.-ad3wal3.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.722218477,
+                    "path": "Kung.Fu.S01.AMZN.WEBRip.720p.-ad3wal3/Kung.Fu.S01E12.Superstition.AMZN.WEBRip.720p.-ad3wal3.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.753507493,
+                    "path": "Kung.Fu.S01.AMZN.WEBRip.720p.-ad3wal3/Kung.Fu.S01E05.The.Tide.AMZN.WEBRip.720p.-ad3wal3.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 1.762128075,
+                    "path": "Kung.Fu.S01.AMZN.WEBRip.720p.-ad3wal3/Kung.Fu.S01E09.Chains.AMZN.WEBRip.720p.-ad3wal3.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 1.769864631,
+                    "path": "Kung.Fu.S01.AMZN.WEBRip.720p.-ad3wal3/Kung.Fu.S01E11.The.Praying.Mantis.Kills.AMZN.WEBRip.720p.-ad3wal3.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 1.798456905,
+                    "path": "Kung.Fu.S01.AMZN.WEBRip.720p.-ad3wal3/Kung.Fu.S01E15.The.Ancient.Warrior.AMZN.WEBRip.720p.-ad3wal3.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 1.80226924,
+                    "path": "Kung.Fu.S01.AMZN.WEBRip.720p.-ad3wal3/Kung.Fu.S01E02.Dark.Angel.AMZN.WEBRip.720p.-ad3wal3.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 1.803508648,
+                    "path": "Kung.Fu.S01.AMZN.WEBRip.720p.-ad3wal3/Kung.Fu.S01E06.The.Soul.Is.the.Warrior.AMZN.WEBRip.720p.-ad3wal3.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 1.813385728,
+                    "path": "Kung.Fu.S01.AMZN.WEBRip.720p.-ad3wal3/Kung.Fu.S01E13.The.Stone.AMZN.WEBRip.720p.-ad3wal3.mkv"
+                },
+                {
+                    "number": 11,
+                    "size": 1.814210444,
+                    "path": "Kung.Fu.S01.AMZN.WEBRip.720p.-ad3wal3/Kung.Fu.S01E08.Sun.and.Cloud.Shadow.AMZN.WEBRip.720p.-ad3wal3.mkv"
+                },
+                {
+                    "number": 12,
+                    "size": 1.830776413,
+                    "path": "Kung.Fu.S01.AMZN.WEBRip.720p.-ad3wal3/Kung.Fu.S01E04.An.Eye.for.an.Eye.AMZN.WEBRip.720p.-ad3wal3.mkv"
+                },
+                {
+                    "number": 13,
+                    "size": 1.841632971,
+                    "path": "Kung.Fu.S01.AMZN.WEBRip.720p.-ad3wal3/Kung.Fu.S01E03.Blood.Brother.AMZN.WEBRip.720p.-ad3wal3.mkv"
+                },
+                {
+                    "number": 14,
+                    "size": 1.841826021,
+                    "path": "Kung.Fu.S01.AMZN.WEBRip.720p.-ad3wal3/Kung.Fu.S01E07.Nine.Lives.AMZN.WEBRip.720p.-ad3wal3.mkv"
+                },
+                {
+                    "number": 15,
+                    "size": 1.843504722,
+                    "path": "Kung.Fu.S01.AMZN.WEBRip.720p.-ad3wal3/Kung.Fu.S01E14.The.Third.Man.AMZN.WEBRip.720p.-ad3wal3.mkv"
+                },
+                {
+                    "number": 16,
+                    "size": 2.698061235,
+                    "path": "Kung.Fu.S01.AMZN.WEBRip.720p.-ad3wal3/Kung.Fu.S00E01.The.Way.of.the.Tiger.the.Sign.of.the.Dragon.Pilot.AMZN.WEBRip.720p.-ad3wal3.mkv"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Kung.Fu.2021.S01.1080p.Kerob",
+            "size_total": 2.261628787,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.261628787,
+                    "path": "Kung.Fu.2021.S01.1080p.Kerob/Kung.Fu.2021.S01E01.1080p.Kerob.mkv"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Kung.Fu.2021.S01.720p.Kerob",
+            "size_total": 1.356805499,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.356805499,
+                    "path": "Kung.Fu.2021.S01.720p.Kerob/Kung.Fu.2021.S01E01.720p.Kerob.mp4"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Kung.Fu.2021.S01E01.1080p.HDTV.x264-YANKEES [IPT]",
+            "size_total": 1.813735303,
+            "files_total": 39,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000009353,
+                    "path": "Kung.Fu.2021.S01E01.1080p.HDTV.x264-YANKEES/kung.fu.2021.s01e01.1080p.hdtv.x264-yankees.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.05,
+                    "path": "Kung.Fu.2021.S01E01.1080p.HDTV.x264-YANKEES/kung.fu.2021.s01e01.1080p.hdtv.x264-yankees.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "Kung.Fu.2021.S01E01.1080p.HDTV.x264-YANKEES/kung.fu.2021.s01e01.1080p.hdtv.x264-yankees.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "Kung.Fu.2021.S01E01.1080p.HDTV.x264-YANKEES/kung.fu.2021.s01e01.1080p.hdtv.x264-yankees.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "Kung.Fu.2021.S01E01.1080p.HDTV.x264-YANKEES/kung.fu.2021.s01e01.1080p.hdtv.x264-yankees.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "Kung.Fu.2021.S01E01.1080p.HDTV.x264-YANKEES/kung.fu.2021.s01e01.1080p.hdtv.x264-yankees.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "Kung.Fu.2021.S01E01.1080p.HDTV.x264-YANKEES/kung.fu.2021.s01e01.1080p.hdtv.x264-yankees.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "Kung.Fu.2021.S01E01.1080p.HDTV.x264-YANKEES/kung.fu.2021.s01e01.1080p.hdtv.x264-yankees.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "Kung.Fu.2021.S01E01.1080p.HDTV.x264-YANKEES/kung.fu.2021.s01e01.1080p.hdtv.x264-yankees.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "Kung.Fu.2021.S01E01.1080p.HDTV.x264-YANKEES/kung.fu.2021.s01e01.1080p.hdtv.x264-yankees.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "Kung.Fu.2021.S01E01.1080p.HDTV.x264-YANKEES/kung.fu.2021.s01e01.1080p.hdtv.x264-yankees.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "Kung.Fu.2021.S01E01.1080p.HDTV.x264-YANKEES/kung.fu.2021.s01e01.1080p.hdtv.x264-yankees.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.05,
+                    "path": "Kung.Fu.2021.S01E01.1080p.HDTV.x264-YANKEES/kung.fu.2021.s01e01.1080p.hdtv.x264-yankees.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.05,
+                    "path": "Kung.Fu.2021.S01E01.1080p.HDTV.x264-YANKEES/kung.fu.2021.s01e01.1080p.hdtv.x264-yankees.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05,
+                    "path": "Kung.Fu.2021.S01E01.1080p.HDTV.x264-YANKEES/kung.fu.2021.s01e01.1080p.hdtv.x264-yankees.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.05,
+                    "path": "Kung.Fu.2021.S01E01.1080p.HDTV.x264-YANKEES/kung.fu.2021.s01e01.1080p.hdtv.x264-yankees.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.05,
+                    "path": "Kung.Fu.2021.S01E01.1080p.HDTV.x264-YANKEES/kung.fu.2021.s01e01.1080p.hdtv.x264-yankees.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.05,
+                    "path": "Kung.Fu.2021.S01E01.1080p.HDTV.x264-YANKEES/kung.fu.2021.s01e01.1080p.hdtv.x264-yankees.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.05,
+                    "path": "Kung.Fu.2021.S01E01.1080p.HDTV.x264-YANKEES/kung.fu.2021.s01e01.1080p.hdtv.x264-yankees.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.05,
+                    "path": "Kung.Fu.2021.S01E01.1080p.HDTV.x264-YANKEES/kung.fu.2021.s01e01.1080p.hdtv.x264-yankees.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.05,
+                    "path": "Kung.Fu.2021.S01E01.1080p.HDTV.x264-YANKEES/kung.fu.2021.s01e01.1080p.hdtv.x264-yankees.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.05,
+                    "path": "Kung.Fu.2021.S01E01.1080p.HDTV.x264-YANKEES/kung.fu.2021.s01e01.1080p.hdtv.x264-yankees.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.05,
+                    "path": "Kung.Fu.2021.S01E01.1080p.HDTV.x264-YANKEES/kung.fu.2021.s01e01.1080p.hdtv.x264-yankees.r21"
+                },
+                {
+                    "number": 24,
+                    "size": 0.05,
+                    "path": "Kung.Fu.2021.S01E01.1080p.HDTV.x264-YANKEES/kung.fu.2021.s01e01.1080p.hdtv.x264-yankees.r22"
+                },
+                {
+                    "number": 25,
+                    "size": 0.05,
+                    "path": "Kung.Fu.2021.S01E01.1080p.HDTV.x264-YANKEES/kung.fu.2021.s01e01.1080p.hdtv.x264-yankees.r23"
+                },
+                {
+                    "number": 26,
+                    "size": 0.05,
+                    "path": "Kung.Fu.2021.S01E01.1080p.HDTV.x264-YANKEES/kung.fu.2021.s01e01.1080p.hdtv.x264-yankees.r24"
+                },
+                {
+                    "number": 27,
+                    "size": 0.05,
+                    "path": "Kung.Fu.2021.S01E01.1080p.HDTV.x264-YANKEES/kung.fu.2021.s01e01.1080p.hdtv.x264-yankees.r25"
+                },
+                {
+                    "number": 28,
+                    "size": 0.05,
+                    "path": "Kung.Fu.2021.S01E01.1080p.HDTV.x264-YANKEES/kung.fu.2021.s01e01.1080p.hdtv.x264-yankees.r26"
+                },
+                {
+                    "number": 29,
+                    "size": 0.05,
+                    "path": "Kung.Fu.2021.S01E01.1080p.HDTV.x264-YANKEES/kung.fu.2021.s01e01.1080p.hdtv.x264-yankees.r27"
+                },
+                {
+                    "number": 30,
+                    "size": 0.05,
+                    "path": "Kung.Fu.2021.S01E01.1080p.HDTV.x264-YANKEES/kung.fu.2021.s01e01.1080p.hdtv.x264-yankees.r28"
+                },
+                {
+                    "number": 31,
+                    "size": 0.05,
+                    "path": "Kung.Fu.2021.S01E01.1080p.HDTV.x264-YANKEES/kung.fu.2021.s01e01.1080p.hdtv.x264-yankees.r29"
+                },
+                {
+                    "number": 32,
+                    "size": 0.05,
+                    "path": "Kung.Fu.2021.S01E01.1080p.HDTV.x264-YANKEES/kung.fu.2021.s01e01.1080p.hdtv.x264-yankees.r30"
+                },
+                {
+                    "number": 33,
+                    "size": 0.05,
+                    "path": "Kung.Fu.2021.S01E01.1080p.HDTV.x264-YANKEES/kung.fu.2021.s01e01.1080p.hdtv.x264-yankees.r31"
+                },
+                {
+                    "number": 34,
+                    "size": 0.05,
+                    "path": "Kung.Fu.2021.S01E01.1080p.HDTV.x264-YANKEES/kung.fu.2021.s01e01.1080p.hdtv.x264-yankees.r32"
+                },
+                {
+                    "number": 35,
+                    "size": 0.05,
+                    "path": "Kung.Fu.2021.S01E01.1080p.HDTV.x264-YANKEES/kung.fu.2021.s01e01.1080p.hdtv.x264-yankees.r33"
+                },
+                {
+                    "number": 36,
+                    "size": 0.05,
+                    "path": "Kung.Fu.2021.S01E01.1080p.HDTV.x264-YANKEES/kung.fu.2021.s01e01.1080p.hdtv.x264-yankees.r34"
+                },
+                {
+                    "number": 37,
+                    "size": 0.013723804,
+                    "path": "Kung.Fu.2021.S01E01.1080p.HDTV.x264-YANKEES/kung.fu.2021.s01e01.1080p.hdtv.x264-yankees.r35"
+                },
+                {
+                    "number": 38,
+                    "size": 0.05,
+                    "path": "Kung.Fu.2021.S01E01.1080p.HDTV.x264-YANKEES/kung.fu.2021.s01e01.1080p.hdtv.x264-yankees.rar"
+                },
+                {
+                    "number": 39,
+                    "size": 0.000002146,
+                    "path": "Kung.Fu.2021.S01E01.1080p.HDTV.x264-YANKEES/kung.fu.2021.s01e01.1080p.hdtv.x264-yankees.sfv"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Kung.Fu.2021.S01E01.1080p.HDTV.x264-YANKEES[eztv.re].mkv",
+            "size_total": 1.813719216,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.813719216,
+                    "path": "Kung.Fu.2021.S01E01.1080p.HDTV.x264-YANKEES[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Kung.Fu.2021.S01E01.1080p.HDTV.x264-YANKEES[rarbg]",
+            "size_total": 1.813728698,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.813719216,
+                    "path": "Kung.Fu.2021.S01E01.1080p.HDTV.x264-YANKEES[rarbg]/Kung.Fu.2021.S01E01.1080p.HDTV.x264-YANKEES.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Kung.Fu.2021.S01E01.1080p.HDTV.x264-YANKEES[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 9.9e-8,
+                    "path": "Kung.Fu.2021.S01E01.1080p.HDTV.x264-YANKEES[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000009353,
+                    "path": "Kung.Fu.2021.S01E01.1080p.HDTV.x264-YANKEES[rarbg]/kung.fu.2021.s01e01.1080p.hdtv.x264-yankees.nfo"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Kung.Fu.2021.S01E01.1080p.HDTV.x264-YANKEES[rartv]-[rarbg.to]",
+            "size_total": 1.813728698,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.813719216,
+                    "path": "Kung.Fu.2021.S01E01.1080p.HDTV.x264-YANKEES[rarbg]/Kung.Fu.2021.S01E01.1080p.HDTV.x264-YANKEES.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Kung.Fu.2021.S01E01.1080p.HDTV.x264-YANKEES[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 9.9e-8,
+                    "path": "Kung.Fu.2021.S01E01.1080p.HDTV.x264-YANKEES[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000009353,
+                    "path": "Kung.Fu.2021.S01E01.1080p.HDTV.x264-YANKEES[rarbg]/kung.fu.2021.s01e01.1080p.hdtv.x264-yankees.nfo"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Kung.Fu.2021.S01E01.1080p.HDTV.x264-YANKEES[TGx]",
+            "size_total": 1.813729247,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.813719216,
+                    "path": "Kung.Fu.2021.S01E01.1080p.HDTV.x264-YANKEES[TGx]/Kung.Fu.2021.S01E01.1080p.HDTV.x264-YANKEES.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 6.78e-7,
+                    "path": "Kung.Fu.2021.S01E01.1080p.HDTV.x264-YANKEES[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000009353,
+                    "path": "Kung.Fu.2021.S01E01.1080p.HDTV.x264-YANKEES[TGx]/kung.fu.2021.s01e01.1080p.hdtv.x264-yankees.nfo"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Kung.Fu.2021.S01E01.1080p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.329152389,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.312735181,
+                    "path": "Kung.Fu.2021.S01E01.1080p.HEVC.x265-MeGusta/Kung.Fu.2021.S01E01.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001133,
+                    "path": "Kung.Fu.2021.S01E01.1080p.HEVC.x265-MeGusta/Kung.Fu.2021.S01E01.1080p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00581298,
+                    "path": "Kung.Fu.2021.S01E01.1080p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.003182545,
+                    "path": "Kung.Fu.2021.S01E01.1080p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.00742055,
+                    "path": "Kung.Fu.2021.S01E01.1080p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Kung.Fu.2021.S01E01.1080p.WEB.H264-CAKES [IPT]",
+            "size_total": 2.54990974,
+            "files_total": 13,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.52e-7,
+                    "path": "Kung.Fu.2021.S01E01.1080p.WEB.H264-CAKES/kung.fu.2021.s01e01.1080p.web.h264-cakes.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.25,
+                    "path": "Kung.Fu.2021.S01E01.1080p.WEB.H264-CAKES/kung.fu.2021.s01e01.1080p.web.h264-cakes.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.25,
+                    "path": "Kung.Fu.2021.S01E01.1080p.WEB.H264-CAKES/kung.fu.2021.s01e01.1080p.web.h264-cakes.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.25,
+                    "path": "Kung.Fu.2021.S01E01.1080p.WEB.H264-CAKES/kung.fu.2021.s01e01.1080p.web.h264-cakes.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.25,
+                    "path": "Kung.Fu.2021.S01E01.1080p.WEB.H264-CAKES/kung.fu.2021.s01e01.1080p.web.h264-cakes.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.25,
+                    "path": "Kung.Fu.2021.S01E01.1080p.WEB.H264-CAKES/kung.fu.2021.s01e01.1080p.web.h264-cakes.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.25,
+                    "path": "Kung.Fu.2021.S01E01.1080p.WEB.H264-CAKES/kung.fu.2021.s01e01.1080p.web.h264-cakes.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.25,
+                    "path": "Kung.Fu.2021.S01E01.1080p.WEB.H264-CAKES/kung.fu.2021.s01e01.1080p.web.h264-cakes.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.25,
+                    "path": "Kung.Fu.2021.S01E01.1080p.WEB.H264-CAKES/kung.fu.2021.s01e01.1080p.web.h264-cakes.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.25,
+                    "path": "Kung.Fu.2021.S01E01.1080p.WEB.H264-CAKES/kung.fu.2021.s01e01.1080p.web.h264-cakes.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.049908883,
+                    "path": "Kung.Fu.2021.S01E01.1080p.WEB.H264-CAKES/kung.fu.2021.s01e01.1080p.web.h264-cakes.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.25,
+                    "path": "Kung.Fu.2021.S01E01.1080p.WEB.H264-CAKES/kung.fu.2021.s01e01.1080p.web.h264-cakes.rar"
+                },
+                {
+                    "number": 13,
+                    "size": 6.05e-7,
+                    "path": "Kung.Fu.2021.S01E01.1080p.WEB.H264-CAKES/kung.fu.2021.s01e01.1080p.web.h264-cakes.sfv"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Kung.Fu.2021.S01E01.1080p.WEB.H264-CAKES",
+            "size_total": 2.549907716,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.549907464,
+                    "path": "Kung.Fu.2021.S01E01.1080p.WEB.H264-CAKES/kung.fu.2021.s01e01.1080p.web.h264-cakes.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 2.52e-7,
+                    "path": "Kung.Fu.2021.S01E01.1080p.WEB.H264-CAKES/kung.fu.2021.s01e01.1080p.web.h264-cakes.nfo"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Kung.Fu.2021.S01E01.1080p.WEB.H264-CAKES[rarbg]",
+            "size_total": 2.549907845,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Kung.Fu.2021.S01E01.1080p.WEB.H264-CAKES[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Kung.Fu.2021.S01E01.1080p.WEB.H264-CAKES[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 2.549907464,
+                    "path": "Kung.Fu.2021.S01E01.1080p.WEB.H264-CAKES[rarbg]/kung.fu.2021.s01e01.1080p.web.h264-cakes.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 2.52e-7,
+                    "path": "Kung.Fu.2021.S01E01.1080p.WEB.H264-CAKES[rarbg]/kung.fu.2021.s01e01.1080p.web.h264-cakes.nfo"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "Kung.Fu.2021.S01E01.1080p.WEB.H264-CAKES[rartv]-[rarbg.to]",
+            "size_total": 2.549907845,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Kung.Fu.2021.S01E01.1080p.WEB.H264-CAKES[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Kung.Fu.2021.S01E01.1080p.WEB.H264-CAKES[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 2.549907464,
+                    "path": "Kung.Fu.2021.S01E01.1080p.WEB.H264-CAKES[rarbg]/kung.fu.2021.s01e01.1080p.web.h264-cakes.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 2.52e-7,
+                    "path": "Kung.Fu.2021.S01E01.1080p.WEB.H264-CAKES[rarbg]/kung.fu.2021.s01e01.1080p.web.h264-cakes.nfo"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "Kung.Fu.2021.S01E01.1080p.WEB.H264-CAKES[TGx]",
+            "size_total": 2.549908394,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 6.78e-7,
+                    "path": "Kung.Fu.2021.S01E01.1080p.WEB.H264-CAKES[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 2,
+                    "size": 2.549907464,
+                    "path": "Kung.Fu.2021.S01E01.1080p.WEB.H264-CAKES[TGx]/kung.fu.2021.s01e01.1080p.web.h264-cakes.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 2.52e-7,
+                    "path": "Kung.Fu.2021.S01E01.1080p.WEB.H264-CAKES[TGx]/kung.fu.2021.s01e01.1080p.web.h264-cakes.nfo"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "name": "Kung.Fu.2021.S01E01.480p.x264-mSD [IPT]",
+            "size_total": 0.1546874,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.154205085,
+                    "path": "Kung.Fu.2021.S01E01.480p.x264-mSD/Kung.Fu.2021.S01E01.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 9.65e-7,
+                    "path": "Kung.Fu.2021.S01E01.480p.x264-mSD/Kung.Fu.2021.S01E01.480p.x264-mSD.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000155499,
+                    "path": "Kung.Fu.2021.S01E01.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000083253,
+                    "path": "Kung.Fu.2021.S01E01.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000242598,
+                    "path": "Kung.Fu.2021.S01E01.480p.x264-mSD/Screens/screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "name": "Kung.Fu.2021.S01E01.480p.x264-mSD[eztv.re].mkv",
+            "size_total": 0.154205085,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.154205085,
+                    "path": "Kung.Fu.2021.S01E01.480p.x264-mSD[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "name": "Kung.Fu.2021.S01E01.720p.HDTV.x264-YANKEES [IPT]",
+            "size_total": 0.888871038,
+            "files_total": 20,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000009352,
+                    "path": "Kung.Fu.2021.S01E01.720p.HDTV.x264-YANKEES/kung.fu.2021.s01e01.720p.hdtv.x264-yankees.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.05,
+                    "path": "Kung.Fu.2021.S01E01.720p.HDTV.x264-YANKEES/kung.fu.2021.s01e01.720p.hdtv.x264-yankees.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "Kung.Fu.2021.S01E01.720p.HDTV.x264-YANKEES/kung.fu.2021.s01e01.720p.hdtv.x264-yankees.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "Kung.Fu.2021.S01E01.720p.HDTV.x264-YANKEES/kung.fu.2021.s01e01.720p.hdtv.x264-yankees.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "Kung.Fu.2021.S01E01.720p.HDTV.x264-YANKEES/kung.fu.2021.s01e01.720p.hdtv.x264-yankees.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "Kung.Fu.2021.S01E01.720p.HDTV.x264-YANKEES/kung.fu.2021.s01e01.720p.hdtv.x264-yankees.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "Kung.Fu.2021.S01E01.720p.HDTV.x264-YANKEES/kung.fu.2021.s01e01.720p.hdtv.x264-yankees.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "Kung.Fu.2021.S01E01.720p.HDTV.x264-YANKEES/kung.fu.2021.s01e01.720p.hdtv.x264-yankees.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "Kung.Fu.2021.S01E01.720p.HDTV.x264-YANKEES/kung.fu.2021.s01e01.720p.hdtv.x264-yankees.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "Kung.Fu.2021.S01E01.720p.HDTV.x264-YANKEES/kung.fu.2021.s01e01.720p.hdtv.x264-yankees.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "Kung.Fu.2021.S01E01.720p.HDTV.x264-YANKEES/kung.fu.2021.s01e01.720p.hdtv.x264-yankees.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "Kung.Fu.2021.S01E01.720p.HDTV.x264-YANKEES/kung.fu.2021.s01e01.720p.hdtv.x264-yankees.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.05,
+                    "path": "Kung.Fu.2021.S01E01.720p.HDTV.x264-YANKEES/kung.fu.2021.s01e01.720p.hdtv.x264-yankees.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.05,
+                    "path": "Kung.Fu.2021.S01E01.720p.HDTV.x264-YANKEES/kung.fu.2021.s01e01.720p.hdtv.x264-yankees.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05,
+                    "path": "Kung.Fu.2021.S01E01.720p.HDTV.x264-YANKEES/kung.fu.2021.s01e01.720p.hdtv.x264-yankees.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.05,
+                    "path": "Kung.Fu.2021.S01E01.720p.HDTV.x264-YANKEES/kung.fu.2021.s01e01.720p.hdtv.x264-yankees.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.05,
+                    "path": "Kung.Fu.2021.S01E01.720p.HDTV.x264-YANKEES/kung.fu.2021.s01e01.720p.hdtv.x264-yankees.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.03886066,
+                    "path": "Kung.Fu.2021.S01E01.720p.HDTV.x264-YANKEES/kung.fu.2021.s01e01.720p.hdtv.x264-yankees.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.05,
+                    "path": "Kung.Fu.2021.S01E01.720p.HDTV.x264-YANKEES/kung.fu.2021.s01e01.720p.hdtv.x264-yankees.rar"
+                },
+                {
+                    "number": 20,
+                    "size": 0.000001026,
+                    "path": "Kung.Fu.2021.S01E01.720p.HDTV.x264-YANKEES/kung.fu.2021.s01e01.720p.hdtv.x264-yankees.sfv"
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "name": "Kung.Fu.2021.S01E01.720p.HDTV.x264-YANKEES[rartv]-[rarbg.to]",
+            "size_total": 0.888867927,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.888858446,
+                    "path": "Kung.Fu.2021.S01E01.720p.HDTV.x264-YANKEES[rarbg]/Kung.Fu.2021.S01E01.720p.HDTV.x264-YANKEES.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Kung.Fu.2021.S01E01.720p.HDTV.x264-YANKEES[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 9.9e-8,
+                    "path": "Kung.Fu.2021.S01E01.720p.HDTV.x264-YANKEES[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000009352,
+                    "path": "Kung.Fu.2021.S01E01.720p.HDTV.x264-YANKEES[rarbg]/kung.fu.2021.s01e01.720p.hdtv.x264-yankees.nfo"
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "name": "Kung.Fu.2021.S01E01.720p.HDTV.x264-YANKEES[TGx]",
+            "size_total": 0.888868476,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.888858446,
+                    "path": "Kung.Fu.2021.S01E01.720p.HDTV.x264-YANKEES[TGx]/Kung.Fu.2021.S01E01.720p.HDTV.x264-YANKEES.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 6.78e-7,
+                    "path": "Kung.Fu.2021.S01E01.720p.HDTV.x264-YANKEES[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000009352,
+                    "path": "Kung.Fu.2021.S01E01.720p.HDTV.x264-YANKEES[TGx]/kung.fu.2021.s01e01.720p.hdtv.x264-yankees.nfo"
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "name": "Kung.Fu.2021.S01E01.720p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.217017759,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.208879831,
+                    "path": "Kung.Fu.2021.S01E01.720p.HEVC.x265-MeGusta/Kung.Fu.2021.S01E01.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001131,
+                    "path": "Kung.Fu.2021.S01E01.720p.HEVC.x265-MeGusta/Kung.Fu.2021.S01E01.720p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.002836201,
+                    "path": "Kung.Fu.2021.S01E01.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001722028,
+                    "path": "Kung.Fu.2021.S01E01.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.003578568,
+                    "path": "Kung.Fu.2021.S01E01.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "name": "Kung.Fu.2021.S01E01.720p.HEVC.x265-MeGusta[eztv.re].mkv",
+            "size_total": 0.208879831,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.208879831,
+                    "path": "Kung.Fu.2021.S01E01.720p.HEVC.x265-MeGusta[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "name": "Kung.Fu.2021.S01E01.720p.WEB.H264-CAKES [IPT]",
+            "size_total": 0.792708267,
+            "files_total": 10,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.51e-7,
+                    "path": "Kung.Fu.2021.S01E01.720p.WEB.H264-CAKES/kung.fu.2021.s01e01.720p.web.h264-cakes.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.1,
+                    "path": "Kung.Fu.2021.S01E01.720p.WEB.H264-CAKES/kung.fu.2021.s01e01.720p.web.h264-cakes.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.1,
+                    "path": "Kung.Fu.2021.S01E01.720p.WEB.H264-CAKES/kung.fu.2021.s01e01.720p.web.h264-cakes.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.1,
+                    "path": "Kung.Fu.2021.S01E01.720p.WEB.H264-CAKES/kung.fu.2021.s01e01.720p.web.h264-cakes.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.1,
+                    "path": "Kung.Fu.2021.S01E01.720p.WEB.H264-CAKES/kung.fu.2021.s01e01.720p.web.h264-cakes.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.1,
+                    "path": "Kung.Fu.2021.S01E01.720p.WEB.H264-CAKES/kung.fu.2021.s01e01.720p.web.h264-cakes.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.1,
+                    "path": "Kung.Fu.2021.S01E01.720p.WEB.H264-CAKES/kung.fu.2021.s01e01.720p.web.h264-cakes.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.092707584,
+                    "path": "Kung.Fu.2021.S01E01.720p.WEB.H264-CAKES/kung.fu.2021.s01e01.720p.web.h264-cakes.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.1,
+                    "path": "Kung.Fu.2021.S01E01.720p.WEB.H264-CAKES/kung.fu.2021.s01e01.720p.web.h264-cakes.rar"
+                },
+                {
+                    "number": 10,
+                    "size": 4.32e-7,
+                    "path": "Kung.Fu.2021.S01E01.720p.WEB.H264-CAKES/kung.fu.2021.s01e01.720p.web.h264-cakes.sfv"
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "name": "Kung.Fu.2021.S01E01.720p.WEB.H264-CAKES",
+            "size_total": 0.792706875,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.792706624,
+                    "path": "Kung.Fu.2021.S01E01.720p.WEB.H264-CAKES/kung.fu.2021.s01e01.720p.web.h264-cakes.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 2.51e-7,
+                    "path": "Kung.Fu.2021.S01E01.720p.WEB.H264-CAKES/kung.fu.2021.s01e01.720p.web.h264-cakes.nfo"
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "name": "Kung.Fu.2021.S01E01.720p.WEB.H264-CAKES[rarbg]",
+            "size_total": 0.792707004,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Kung.Fu.2021.S01E01.720p.WEB.H264-CAKES[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Kung.Fu.2021.S01E01.720p.WEB.H264-CAKES[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 0.792706624,
+                    "path": "Kung.Fu.2021.S01E01.720p.WEB.H264-CAKES[rarbg]/kung.fu.2021.s01e01.720p.web.h264-cakes.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 2.51e-7,
+                    "path": "Kung.Fu.2021.S01E01.720p.WEB.H264-CAKES[rarbg]/kung.fu.2021.s01e01.720p.web.h264-cakes.nfo"
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "name": "Kung.Fu.2021.S01E01.720p.WEB.H264-CAKES[rartv]-[rarbg.to]",
+            "size_total": 0.792707004,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Kung.Fu.2021.S01E01.720p.WEB.H264-CAKES[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Kung.Fu.2021.S01E01.720p.WEB.H264-CAKES[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 0.792706624,
+                    "path": "Kung.Fu.2021.S01E01.720p.WEB.H264-CAKES[rarbg]/kung.fu.2021.s01e01.720p.web.h264-cakes.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 2.51e-7,
+                    "path": "Kung.Fu.2021.S01E01.720p.WEB.H264-CAKES[rarbg]/kung.fu.2021.s01e01.720p.web.h264-cakes.nfo"
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "name": "Kung.Fu.2021.S01E01.720p.WEB.H264-CAKES[TGx]",
+            "size_total": 0.792707553,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 6.78e-7,
+                    "path": "Kung.Fu.2021.S01E01.720p.WEB.H264-CAKES[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.792706624,
+                    "path": "Kung.Fu.2021.S01E01.720p.WEB.H264-CAKES[TGx]/kung.fu.2021.s01e01.720p.web.h264-cakes.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 2.51e-7,
+                    "path": "Kung.Fu.2021.S01E01.720p.WEB.H264-CAKES[TGx]/kung.fu.2021.s01e01.720p.web.h264-cakes.nfo"
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "name": "Kung.Fu.2021.S01E01.720p.WEB.x265-MiNX[TGx]",
+            "size_total": 0.217926147,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.217925469,
+                    "path": "Kung.Fu.2021.S01E01.720p.WEB.x265-MiNX[TGx]/Kung.Fu.2021.S01E01.720p.WEB.x265-MiNX.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 6.78e-7,
+                    "path": "Kung.Fu.2021.S01E01.720p.WEB.x265-MiNX[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "name": "Kung.Fu.2021.S01E01.AAC.MP4-Mobile [IPT]",
+            "size_total": 0.174063059,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.173515728,
+                    "path": "Kung.Fu.2021.S01E01.AAC.MP4-Mobile/Kung.Fu.2021.S01E01.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001226,
+                    "path": "Kung.Fu.2021.S01E01.AAC.MP4-Mobile/Kung.Fu.2021.S01E01.AAC.MP4-Mobile.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000176375,
+                    "path": "Kung.Fu.2021.S01E01.AAC.MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.00009601,
+                    "path": "Kung.Fu.2021.S01E01.AAC.MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.00027372,
+                    "path": "Kung.Fu.2021.S01E01.AAC.MP4-Mobile/Screens/screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "name": "Kung.Fu.2021.S01E01.HDTV.Subtitulado.Esp.SC.mp4",
+            "size_total": 0.462528528,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.462528528,
+                    "path": "Kung.Fu.2021.S01E01.HDTV.Subtitulado.Esp.SC.mp4"
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "name": "Kung.Fu.2021.S01E01.HDTV.x264-YANKEES [IPT]",
+            "size_total": 0.288537592,
+            "files_total": 17,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000009349,
+                    "path": "Kung.Fu.2021.S01E01.HDTV.x264-YANKEES/kung.fu.2021.s01e01.hdtv.x264-yankees.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.02,
+                    "path": "Kung.Fu.2021.S01E01.HDTV.x264-YANKEES/kung.fu.2021.s01e01.hdtv.x264-yankees.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.02,
+                    "path": "Kung.Fu.2021.S01E01.HDTV.x264-YANKEES/kung.fu.2021.s01e01.hdtv.x264-yankees.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.02,
+                    "path": "Kung.Fu.2021.S01E01.HDTV.x264-YANKEES/kung.fu.2021.s01e01.hdtv.x264-yankees.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.02,
+                    "path": "Kung.Fu.2021.S01E01.HDTV.x264-YANKEES/kung.fu.2021.s01e01.hdtv.x264-yankees.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.02,
+                    "path": "Kung.Fu.2021.S01E01.HDTV.x264-YANKEES/kung.fu.2021.s01e01.hdtv.x264-yankees.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.02,
+                    "path": "Kung.Fu.2021.S01E01.HDTV.x264-YANKEES/kung.fu.2021.s01e01.hdtv.x264-yankees.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.02,
+                    "path": "Kung.Fu.2021.S01E01.HDTV.x264-YANKEES/kung.fu.2021.s01e01.hdtv.x264-yankees.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.02,
+                    "path": "Kung.Fu.2021.S01E01.HDTV.x264-YANKEES/kung.fu.2021.s01e01.hdtv.x264-yankees.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.02,
+                    "path": "Kung.Fu.2021.S01E01.HDTV.x264-YANKEES/kung.fu.2021.s01e01.hdtv.x264-yankees.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.02,
+                    "path": "Kung.Fu.2021.S01E01.HDTV.x264-YANKEES/kung.fu.2021.s01e01.hdtv.x264-yankees.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.02,
+                    "path": "Kung.Fu.2021.S01E01.HDTV.x264-YANKEES/kung.fu.2021.s01e01.hdtv.x264-yankees.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.02,
+                    "path": "Kung.Fu.2021.S01E01.HDTV.x264-YANKEES/kung.fu.2021.s01e01.hdtv.x264-yankees.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.019938097,
+                    "path": "Kung.Fu.2021.S01E01.HDTV.x264-YANKEES/kung.fu.2021.s01e01.hdtv.x264-yankees.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.02,
+                    "path": "Kung.Fu.2021.S01E01.HDTV.x264-YANKEES/kung.fu.2021.s01e01.hdtv.x264-yankees.rar"
+                },
+                {
+                    "number": 16,
+                    "size": 7.28e-7,
+                    "path": "Kung.Fu.2021.S01E01.HDTV.x264-YANKEES/kung.fu.2021.s01e01.hdtv.x264-yankees.sfv"
+                },
+                {
+                    "number": 17,
+                    "size": 0.008589418,
+                    "path": "Kung.Fu.2021.S01E01.HDTV.x264-YANKEES/Sample/kung.fu.2021.s01e01.hdtv.x264-yankees.sample.mkv"
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "name": "Kung.Fu.2021.S01E01.HDTV.x264-YANKEES[rarbg]",
+            "size_total": 0.288535341,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.279936445,
+                    "path": "Kung.Fu.2021.S01E01.HDTV.x264-YANKEES[rarbg]/Kung.Fu.2021.S01E01.HDTV.x264-YANKEES.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Kung.Fu.2021.S01E01.HDTV.x264-YANKEES[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 9.9e-8,
+                    "path": "Kung.Fu.2021.S01E01.HDTV.x264-YANKEES[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 4,
+                    "size": 0.008589418,
+                    "path": "Kung.Fu.2021.S01E01.HDTV.x264-YANKEES[rarbg]/Sample/kung.fu.2021.s01e01.hdtv.x264-yankees.sample.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000009349,
+                    "path": "Kung.Fu.2021.S01E01.HDTV.x264-YANKEES[rarbg]/kung.fu.2021.s01e01.hdtv.x264-yankees.nfo"
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "name": "Kung.Fu.2021.S01E01.HDTV.x264-YANKEES[rartv]-[rarbg.to]",
+            "size_total": 0.288535341,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.279936445,
+                    "path": "Kung.Fu.2021.S01E01.HDTV.x264-YANKEES[rarbg]/Kung.Fu.2021.S01E01.HDTV.x264-YANKEES.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Kung.Fu.2021.S01E01.HDTV.x264-YANKEES[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 9.9e-8,
+                    "path": "Kung.Fu.2021.S01E01.HDTV.x264-YANKEES[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 4,
+                    "size": 0.008589418,
+                    "path": "Kung.Fu.2021.S01E01.HDTV.x264-YANKEES[rarbg]/Sample/kung.fu.2021.s01e01.hdtv.x264-yankees.sample.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000009349,
+                    "path": "Kung.Fu.2021.S01E01.HDTV.x264-YANKEES[rarbg]/kung.fu.2021.s01e01.hdtv.x264-yankees.nfo"
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "name": "Kung.Fu.2021.S01E01.HDTV.x264-YANKEES[TGx]",
+            "size_total": 0.279946472,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.279936445,
+                    "path": "Kung.Fu.2021.S01E01.HDTV.x264-YANKEES[TGx]/Kung.Fu.2021.S01E01.HDTV.x264-YANKEES.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 6.78e-7,
+                    "path": "Kung.Fu.2021.S01E01.HDTV.x264-YANKEES[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000009349,
+                    "path": "Kung.Fu.2021.S01E01.HDTV.x264-YANKEES[TGx]/kung.fu.2021.s01e01.hdtv.x264-yankees.nfo"
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "name": "Kung.Fu.2021.S01E01.Pilot.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]",
+            "size_total": 2.931108848,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.931108719,
+                    "path": "Kung.Fu.2021.S01E01.Pilot.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/Kung.Fu.2021.S01E01.Pilot.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Kung.Fu.2021.S01E01.Pilot.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 9.9e-8,
+                    "path": "Kung.Fu.2021.S01E01.Pilot.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "name": "Kung.Fu.2021.S01E01.Pilot.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[TGx]",
+            "size_total": 2.931109397,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.931108719,
+                    "path": "Kung.Fu.2021.S01E01.Pilot.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[TGx]/Kung.Fu.2021.S01E01.Pilot.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 6.78e-7,
+                    "path": "Kung.Fu.2021.S01E01.Pilot.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "name": "Kung.Fu.2021.S01E01.Pilot.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]",
+            "size_total": 1.384741851,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.384741722,
+                    "path": "Kung.Fu.2021.S01E01.Pilot.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/Kung.Fu.2021.S01E01.Pilot.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Kung.Fu.2021.S01E01.Pilot.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 9.9e-8,
+                    "path": "Kung.Fu.2021.S01E01.Pilot.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                }
+            ]
+        },
+        {
+            "id": 43,
+            "name": "Kung.Fu.2021.S01E01.Pilot.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]",
+            "size_total": 1.384741851,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.384741722,
+                    "path": "Kung.Fu.2021.S01E01.Pilot.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/Kung.Fu.2021.S01E01.Pilot.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Kung.Fu.2021.S01E01.Pilot.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 9.9e-8,
+                    "path": "Kung.Fu.2021.S01E01.Pilot.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                }
+            ]
+        },
+        {
+            "id": 44,
+            "name": "Kung.Fu.2021.S01E01.Pilot.720p.AMZN.WEBRip.DDP5.1.x264-NTb[TGx]",
+            "size_total": 1.3847424,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.384741722,
+                    "path": "Kung.Fu.2021.S01E01.Pilot.720p.AMZN.WEBRip.DDP5.1.x264-NTb[TGx]/Kung.Fu.2021.S01E01.Pilot.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 6.78e-7,
+                    "path": "Kung.Fu.2021.S01E01.Pilot.720p.AMZN.WEBRip.DDP5.1.x264-NTb[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 45,
+            "name": "Kung.Fu.2021.S01E01.Pilot.720p.WEBRip.2CH.x265.HEVC-PSA.mkv",
+            "size_total": 0.219372286,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.219372286,
+                    "path": "Kung.Fu.2021.S01E01.Pilot.720p.WEBRip.2CH.x265.HEVC-PSA.mkv"
+                }
+            ]
+        },
+        {
+            "id": 46,
+            "name": "Kung.Fu.2021.S01E01.WEB.x264-PHOENiX [IPT]",
+            "size_total": 0.290283431,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.289121552,
+                    "path": "Kung.Fu.2021.S01E01.WEB.x264-PHOENiX/Kung.Fu.2021.S01E01.WEB.x264-PHOENiX.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001303,
+                    "path": "Kung.Fu.2021.S01E01.WEB.x264-PHOENiX/Kung.Fu.2021.S01E01.WEB.x264-PHOENiX.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000539041,
+                    "path": "Kung.Fu.2021.S01E01.WEB.x264-PHOENiX/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000260263,
+                    "path": "Kung.Fu.2021.S01E01.WEB.x264-PHOENiX/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000097089,
+                    "path": "Kung.Fu.2021.S01E01.WEB.x264-PHOENiX/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000264183,
+                    "path": "Kung.Fu.2021.S01E01.WEB.x264-PHOENiX/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 47,
+            "name": "Kung.Fu.2021.S01E01.WEB.x264-PHOENiX[TGx]",
+            "size_total": 0.28912223,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.289121552,
+                    "path": "Kung.Fu.2021.S01E01.WEB.x264-PHOENiX[TGx]/Kung.Fu.2021.S01E01.WEB.x264-PHOENiX.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 6.78e-7,
+                    "path": "Kung.Fu.2021.S01E01.WEB.x264-PHOENiX[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 48,
+            "name": "Kung.Fu.2021.S01E01.XviD-AFG [IPT]",
+            "size_total": 0.39331976,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.39278796,
+                    "path": "Kung.Fu.2021.S01E01.XviD-AFG/Kung.Fu.2021.S01E01.XviD-AFG.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001104,
+                    "path": "Kung.Fu.2021.S01E01.XviD-AFG/Kung.Fu.2021.S01E01.XviD-AFG.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000178912,
+                    "path": "Kung.Fu.2021.S01E01.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.00009608,
+                    "path": "Kung.Fu.2021.S01E01.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000255704,
+                    "path": "Kung.Fu.2021.S01E01.XviD-AFG/Screens/screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 49,
+            "name": "Kung.Fu.2021.S01E01.XviD-AFG[eztv.re].avi",
+            "size_total": 0.39278796,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.39278796,
+                    "path": "Kung.Fu.2021.S01E01.XviD-AFG[eztv.re].avi"
+                }
+            ]
+        },
+        {
+            "id": 50,
+            "name": "Kung.Fu.2021.S01E01.XviD-AFG[TGx]",
+            "size_total": 0.392789742,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.39278796,
+                    "path": "Kung.Fu.2021.S01E01.XviD-AFG[TGx]/Kung.Fu.2021.S01E01.XviD-AFG.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001104,
+                    "path": "Kung.Fu.2021.S01E01.XviD-AFG[TGx]/Kung.Fu.2021.S01E01.XviD-AFG.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 6.78e-7,
+                    "path": "Kung.Fu.2021.S01E01.XviD-AFG[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 51,
+            "name": "Kung.Fu.2021.S01E03.HDTV.x264-YANKEES[TGx]",
+            "size_total": 0.285449704,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.285439677,
+                    "path": "Kung.Fu.2021.S01E03.HDTV.x264-YANKEES[TGx]/Kung.Fu.2021.S01E03.HDTV.x264-YANKEES.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 6.78e-7,
+                    "path": "Kung.Fu.2021.S01E03.HDTV.x264-YANKEES[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000009349,
+                    "path": "Kung.Fu.2021.S01E03.HDTV.x264-YANKEES[TGx]/kung.fu.2021.s01e03.hdtv.x264-yankees.nfo"
+                }
+            ]
+        },
+        {
+            "id": 52,
+            "name": "Kung.Fu.S01.1080p.Ultradox",
+            "size_total": 1.565060919,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.565060919,
+                    "path": "Kung.Fu.S01.1080p.Ultradox/Kung.Fu.S01E01.1080p.Ultradox.mkv"
+                }
+            ]
+        },
+        {
+            "id": 53,
+            "name": "Kung.Fu.S01.400p.ColdFilm",
+            "size_total": 0.534017236,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.534017236,
+                    "path": "Kung.Fu.S01.400p.ColdFilm/Kung.Fu.S01E01.400p.ColdFilm.avi"
+                }
+            ]
+        },
+        {
+            "id": 54,
+            "name": "Kung.Fu.S01.400p.Ultradox",
+            "size_total": 0.623187968,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.623187968,
+                    "path": "Kung.Fu.S01.400p.Ultradox/Kung.Fu.S01E01.400p.Ultradox.avi"
+                }
+            ]
+        },
+        {
+            "id": 55,
+            "name": "Kung.Fu.s01.HD1080p.WEBRip.Rus.BaibaKo.tv",
+            "size_total": 2.356191571,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.356191571,
+                    "path": "Kung.Fu.s01.HD1080p.WEBRip.Rus.BaibaKo.tv/Kung.Fu.s01e01.HD1080p.WEBRip.Rus.BaibaKo.tv.mkv"
+                }
+            ]
+        },
+        {
+            "id": 56,
+            "name": "Kung.Fu.S01E01.1080p.ColdFilm.mkv",
+            "size_total": 1.701666996,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.701666996,
+                    "path": "Kung.Fu.S01E01.1080p.ColdFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 57,
+            "name": "Kung.Fu.S01E01.400p.ColdFilm.avi",
+            "size_total": 0.534017236,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.534017236,
+                    "path": "Kung.Fu.S01E01.400p.ColdFilm.avi"
+                }
+            ]
+        },
+        {
+            "id": 58,
+            "name": "Kung.Fu.S01E01.480p.x264-ZMNT",
+            "size_total": 0.205987278,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.2051241,
+                    "path": "Kung.Fu.S01E01.480p.x264-ZMNT/Kung.Fu.S01E01.480p.x264-ZMNT.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.0000012,
+                    "path": "Kung.Fu.S01E01.480p.x264-ZMNT/Kung.Fu.S01E01.480p.x264-ZMNT.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000103412,
+                    "path": "Kung.Fu.S01E01.480p.x264-ZMNT/Screens/Kung.Fu.S01E01.480p.x264-ZMNT.Screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000046867,
+                    "path": "Kung.Fu.S01E01.480p.x264-ZMNT/Screens/Kung.Fu.S01E01.480p.x264-ZMNT.Screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000435798,
+                    "path": "Kung.Fu.S01E01.480p.x264-ZMNT/Screens/Kung.Fu.S01E01.480p.x264-ZMNT.Screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000275901,
+                    "path": "Kung.Fu.S01E01.480p.x264-ZMNT/Screens/Kung.Fu.S01E01.480p.x264-ZMNT.Screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 59,
+            "name": "Kung.Fu.S01E01.720p.ColdFilm.mkv",
+            "size_total": 1.374623985,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.374623985,
+                    "path": "Kung.Fu.S01E01.720p.ColdFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 60,
+            "name": "Kung.Fu.S01E01.720p.x265-ZMNT",
+            "size_total": 0.327880048,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.326238446,
+                    "path": "Kung.Fu.S01E01.720p.x265-ZMNT/Kung.Fu.S01E01.720p.x265-ZMNT.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001256,
+                    "path": "Kung.Fu.S01E01.720p.x265-ZMNT/Kung.Fu.S01E01.720p.x265-ZMNT.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000191472,
+                    "path": "Kung.Fu.S01E01.720p.x265-ZMNT/Screens/Kung.Fu.S01E01.720p.x265-ZMNT.Screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000112539,
+                    "path": "Kung.Fu.S01E01.720p.x265-ZMNT/Screens/Kung.Fu.S01E01.720p.x265-ZMNT.Screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000819246,
+                    "path": "Kung.Fu.S01E01.720p.x265-ZMNT/Screens/Kung.Fu.S01E01.720p.x265-ZMNT.Screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000517089,
+                    "path": "Kung.Fu.S01E01.720p.x265-ZMNT/Screens/Kung.Fu.S01E01.720p.x265-ZMNT.Screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 61,
+            "name": "Kung.Fu.S01E01.WEBRip.1080p.rus.5.1.HDREZKA.STUDIO.mkv",
+            "size_total": 2.980722161,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.980722161,
+                    "path": "Kung.Fu.S01E01.WEBRip.1080p.rus.5.1.HDREZKA.STUDIO.mkv"
+                }
+            ]
+        },
+        {
+            "id": 62,
+            "name": "Kung.Fu.S01E01.WEBRip.1080p.ukr.5.1.HDREZKA.STUDIO.mkv",
+            "size_total": 2.616299428,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.616299428,
+                    "path": "Kung.Fu.S01E01.WEBRip.1080p.ukr.5.1.HDREZKA.STUDIO.mkv"
+                }
+            ]
+        },
+        {
+            "id": 63,
+            "name": "Kung.Fu.S01E01.WEBRip.x264-ION10-[rarbg.to]",
+            "size_total": 0.431557856,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.431456533,
+                    "path": "Kung.Fu.S01E01.WEBRip.x264-ION10/Kung.Fu.S01E01.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Kung.Fu.S01E01.WEBRip.x264-ION10/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 9.9e-8,
+                    "path": "Kung.Fu.S01E01.WEBRip.x264-ION10/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000049028,
+                    "path": "Kung.Fu.S01E01.WEBRip.x264-ION10/Subs/2_English.srt"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000052166,
+                    "path": "Kung.Fu.S01E01.WEBRip.x264-ION10/Subs/3_English.srt"
+                }
+            ]
+        },
+        {
+            "id": 64,
+            "name": "Kung.Fu.S01E01.WEBRip.x264-ION10",
+            "size_total": 0.431557856,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.431456533,
+                    "path": "Kung.Fu.S01E01.WEBRip.x264-ION10/Kung.Fu.S01E01.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Kung.Fu.S01E01.WEBRip.x264-ION10/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 9.9e-8,
+                    "path": "Kung.Fu.S01E01.WEBRip.x264-ION10/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000049028,
+                    "path": "Kung.Fu.S01E01.WEBRip.x264-ION10/Subs/2_English.srt"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000052166,
+                    "path": "Kung.Fu.S01E01.WEBRip.x264-ION10/Subs/3_English.srt"
+                }
+            ]
+        },
+        {
+            "id": 65,
+            "name": "www.Torrenting.com   -    Kung Fu 2021 S01E01 480p x264-mSD",
+            "size_total": 0.154687486,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.154205085,
+                    "path": "www.Torrenting.com   -    Kung Fu 2021 S01E01 480p x264-mSD/Kung.Fu.2021.S01E01.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 9.65e-7,
+                    "path": "www.Torrenting.com   -    Kung Fu 2021 S01E01 480p x264-mSD/Kung.Fu.2021.S01E01.480p.x264-mSD.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000155499,
+                    "path": "www.Torrenting.com   -    Kung Fu 2021 S01E01 480p x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000083253,
+                    "path": "www.Torrenting.com   -    Kung Fu 2021 S01E01 480p x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000242598,
+                    "path": "www.Torrenting.com   -    Kung Fu 2021 S01E01 480p x264-mSD/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 8.6e-8,
+                    "path": "www.Torrenting.com   -    Kung Fu 2021 S01E01 480p x264-mSD/Torrent Downloaded From Torrenting.com.txt"
+                }
+            ]
+        },
+        {
+            "id": 66,
+            "name": "www.Torrenting.com   -    Kung Fu 2021 S01E01 XviD-AFG",
+            "size_total": 0.393319846,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.39278796,
+                    "path": "www.Torrenting.com   -    Kung Fu 2021 S01E01 XviD-AFG/Kung.Fu.2021.S01E01.XviD-AFG.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001104,
+                    "path": "www.Torrenting.com   -    Kung Fu 2021 S01E01 XviD-AFG/Kung.Fu.2021.S01E01.XviD-AFG.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000178912,
+                    "path": "www.Torrenting.com   -    Kung Fu 2021 S01E01 XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.00009608,
+                    "path": "www.Torrenting.com   -    Kung Fu 2021 S01E01 XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000255704,
+                    "path": "www.Torrenting.com   -    Kung Fu 2021 S01E01 XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 8.6e-8,
+                    "path": "www.Torrenting.com   -    Kung Fu 2021 S01E01 XviD-AFG/Torrent Downloaded From Torrenting.com.txt"
+                }
+            ]
+        }
+    ],
+    "collection_cumulative_by_btiha": [
+        {
+            "id": 71,
+            "name": "multi-btih-4-2-x-Kung.Fu.2021.S01E01.Pilot.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]",
+            "btih": "50439e63bc67d8680dc38e94f17ba529381d4e63",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.384741851,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 157970,
+            "uuploaders": 66367
+        },
+        {
+            "id": 73,
+            "name": "multi-btih-6-2-x-[rutor.is]Kung.Fu.2021.S01.1080p.Kerob",
+            "btih": "87b9a9ef34d56b0cae0634cc13a79fa05441b93d",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 2.261628787,
+            "creation": "2021-04-08T10:12:16.000000000Z,Tixati v2.81,http://rutor.is/torrent/809695",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 105470,
+            "uuploaders": 6861
+        },
+        {
+            "id": 74,
+            "name": "multi-btih-7-2-x-[rutor.is]Kung.Fu.2021.S01.720p.Kerob",
+            "btih": "6dfc36869d613602f8e0efc047a70e32f4faa25e",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 1.356805499,
+            "creation": "2021-04-08T10:12:23.000000000Z,Tixati v2.81,http://rutor.is/torrent/809696",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 101792,
+            "uuploaders": 8427
+        },
+        {
+            "id": 28,
+            "name": "Kung.Fu.2021.S01E01.720p.WEB.H264-CAKES [IPT]",
+            "btih": "b4b507306cf00257ca4257d16a95a8328a1e27c8",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.792708267,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 93003,
+            "uuploaders": 19804
+        },
+        {
+            "id": 7,
+            "name": "[rutor.is]Kung.Fu.S01.AMZN.WEBRip.720p.-ad3wal3",
+            "btih": "1e2c16103687cdfbbcc0b559404ee2710679170b",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 29.496720586,
+            "creation": "2019-08-18T14:01:30.000000000Z,BitTorrent/7.10.5,http://rutor.is/torrent/713733",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 86438,
+            "uuploaders": 4669
+        },
+        {
+            "id": 67,
+            "name": "multi-btih-0-2-x-Kung.Fu.2021.S01E01.1080p.HDTV.x264-YANKEES[rarbg]",
+            "btih": "dae743196ce0576ec4faaa1b20f28b10fc514ac5",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.813728698,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 85519,
+            "uuploaders": 5182
+        },
+        {
+            "id": 72,
+            "name": "multi-btih-5-2-x-Kung.Fu.S01E01.WEBRip.x264-ION10-[rarbg.to]",
+            "btih": "795982b66d786985c70f877155035c9f67aed446",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.431557856,
+            "creation": "2021-04-12T19:57:09.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 81725,
+            "uuploaders": 3179
+        },
+        {
+            "id": 25,
+            "name": "Kung.Fu.2021.S01E01.720p.HDTV.x264-YANKEES[TGx]",
+            "btih": "d634f6645f327786c14c10f0ce47540a65b4f33e",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.888868476,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 81656,
+            "uuploaders": 4180
+        },
+        {
+            "id": 27,
+            "name": "Kung.Fu.2021.S01E01.720p.HEVC.x265-MeGusta[eztv.re].mkv",
+            "btih": "3e758cad8179eb940278b7d618c36c1e33fd9887",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.208879831,
+            "creation": "2021-04-08T19:47:24.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 81351,
+            "uuploaders": 8665
+        },
+        {
+            "id": 36,
+            "name": "Kung.Fu.2021.S01E01.HDTV.x264-YANKEES [IPT]",
+            "btih": "5ecc51ed1a9e34cfc499950e2ac3ba2c7dce7ab8",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.288537592,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 81142,
+            "uuploaders": 8319
+        },
+        {
+            "id": 20,
+            "name": "Kung.Fu.2021.S01E01.1080p.WEB.H264-CAKES[TGx]",
+            "btih": "c3433c1594f90b68fd9a87f42f82787fca92e0c4",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.549908394,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 81062,
+            "uuploaders": 2059
+        },
+        {
+            "id": 70,
+            "name": "multi-btih-3-2-x-Kung.Fu.2021.S01E01.HDTV.x264-YANKEES[rarbg]",
+            "btih": "741032a4c1308e7efeb6d1e384069fb12aaf8161",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.288535341,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 78682,
+            "uuploaders": 5560
+        },
+        {
+            "id": 15,
+            "name": "Kung.Fu.2021.S01E01.1080p.HEVC.x265-MeGusta [IPT]",
+            "btih": "6f02ff6bddc29c335bad06adc5b5e0985f8d6e10",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.329152389,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 76249,
+            "uuploaders": 4068
+        },
+        {
+            "id": 22,
+            "name": "Kung.Fu.2021.S01E01.480p.x264-mSD[eztv.re].mkv",
+            "btih": "08009aa236a903f1ea4aed858f5a9218fcbca20e",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.154205085,
+            "creation": "2021-04-08T19:46:31.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 75497,
+            "uuploaders": 5388
+        },
+        {
+            "id": 24,
+            "name": "Kung.Fu.2021.S01E01.720p.HDTV.x264-YANKEES[rartv]-[rarbg.to]",
+            "btih": "63b110e518333ad2e7fb582797db7fabdd1ab7e8",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.888867927,
+            "creation": "2021-04-08T16:39:23.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 73666,
+            "uuploaders": 5001
+        },
+        {
+            "id": 65,
+            "name": "www.Torrenting.com   -    Kung Fu 2021 S01E01 480p x264-mSD",
+            "btih": "e9263ea6c05b9c8d7a65c5ee1e30ca63dad8ac0a",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.154687486,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 72571,
+            "uuploaders": 329
+        },
+        {
+            "id": 14,
+            "name": "Kung.Fu.2021.S01E01.1080p.HDTV.x264-YANKEES[TGx]",
+            "btih": "a764d58473b786339ee239f89917a2d6c561c15a",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.813729247,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 71830,
+            "uuploaders": 1549
+        },
+        {
+            "id": 69,
+            "name": "multi-btih-2-2-x-Kung.Fu.2021.S01E01.720p.WEB.H264-CAKES[rarbg]",
+            "btih": "2f69e7ce3b01d83dd4fec0959c562a74128b6447",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.792707004,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 71087,
+            "uuploaders": 1090
+        },
+        {
+            "id": 26,
+            "name": "Kung.Fu.2021.S01E01.720p.HEVC.x265-MeGusta [IPT]",
+            "btih": "ee20a272dd9418d547275a7ec16960a8c987a6f8",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.217017759,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 70279,
+            "uuploaders": 2886
+        },
+        {
+            "id": 44,
+            "name": "Kung.Fu.2021.S01E01.Pilot.720p.AMZN.WEBRip.DDP5.1.x264-NTb[TGx]",
+            "btih": "49fcda5321a7f003221fd16336d154ac526622dd",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.3847424,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 70139,
+            "uuploaders": 1310
+        },
+        {
+            "id": 60,
+            "name": "Kung.Fu.S01E01.720p.x265-ZMNT",
+            "btih": "ca41dc972ce336f4c88dcca2a6b4a853c8f6b34f",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.327880048,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 68407,
+            "uuploaders": 464
+        },
+        {
+            "id": 17,
+            "name": "Kung.Fu.2021.S01E01.1080p.WEB.H264-CAKES",
+            "btih": "6c62cc180186632737ef1a85a075d4b57b75fed0",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.549907716,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 67980,
+            "uuploaders": 4751
+        },
+        {
+            "id": 59,
+            "name": "Kung.Fu.S01E01.720p.ColdFilm.mkv",
+            "btih": "443ae045858d148c1356fb7f1fff8c24ee63c70e",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 1.374623985,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 67970,
+            "uuploaders": 217
+        },
+        {
+            "id": 57,
+            "name": "Kung.Fu.S01E01.400p.ColdFilm.avi",
+            "btih": "79299d3e13c5ef211837bef59dc2826fd99d21bf",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.534017236,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 67528,
+            "uuploaders": 9269
+        },
+        {
+            "id": 52,
+            "name": "Kung.Fu.S01.1080p.Ultradox",
+            "btih": "1b592d023681950553bfcbb9b3c22a0bacd20efa",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 1.565060919,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 66486,
+            "uuploaders": 1577
+        },
+        {
+            "id": 3,
+            "name": "[HR] Kung Fu S01E01 [PV 1080p HEVC E-OPUS 5.1]~HR-DR",
+            "btih": "6676efcddc1a72ab31d878dccb0469afc1e7d6d6",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 0.708069699,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 64844,
+            "uuploaders": 1709
+        },
+        {
+            "id": 58,
+            "name": "Kung.Fu.S01E01.480p.x264-ZMNT",
+            "btih": "058a451cb094f4c0dae57ea4c0ff68f64a650158",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.205987278,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 63974,
+            "uuploaders": 5721
+        },
+        {
+            "id": 32,
+            "name": "Kung.Fu.2021.S01E01.720p.WEB.H264-CAKES[TGx]",
+            "btih": "46918f42a818dbf0b9ad475463081831e23fc8f1",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.792707553,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 60746,
+            "uuploaders": 1473
+        },
+        {
+            "id": 56,
+            "name": "Kung.Fu.S01E01.1080p.ColdFilm.mkv",
+            "btih": "4c703429b7790a4374cd8595a8a6ae8f2cf5203a",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 1.701666996,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 60700,
+            "uuploaders": 159
+        },
+        {
+            "id": 49,
+            "name": "Kung.Fu.2021.S01E01.XviD-AFG[eztv.re].avi",
+            "btih": "5b19452bca1a5fccd925979e75c12199c3980dbf",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.39278796,
+            "creation": "2021-04-08T19:47:44.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 60514,
+            "uuploaders": 241
+        },
+        {
+            "id": 54,
+            "name": "Kung.Fu.S01.400p.Ultradox",
+            "btih": "502ab7f0555836cf36d499eab2925142f53d504b",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.623187968,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 59349,
+            "uuploaders": 2244
+        },
+        {
+            "id": 46,
+            "name": "Kung.Fu.2021.S01E01.WEB.x264-PHOENiX [IPT]",
+            "btih": "17b92e64039a683f483acf7b70e0f5e0cf93cc1b",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.290283431,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 59227,
+            "uuploaders": 1969
+        },
+        {
+            "id": 35,
+            "name": "Kung.Fu.2021.S01E01.HDTV.Subtitulado.Esp.SC.mp4",
+            "btih": "95dd5abc6d641faebf2e211a3c4aa3c82b4ff7fd",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.462528528,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 57758,
+            "uuploaders": 3904
+        },
+        {
+            "id": 68,
+            "name": "multi-btih-1-2-x-Kung.Fu.2021.S01E01.1080p.WEB.H264-CAKES[rarbg]",
+            "btih": "cbacaa814240089992e575ba1ae7732800eb17c3",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.549907845,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 57306,
+            "uuploaders": 837
+        },
+        {
+            "id": 34,
+            "name": "Kung.Fu.2021.S01E01.AAC.MP4-Mobile [IPT]",
+            "btih": "a958bda909cbe4732f3f8ff294e310987318d9a9",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.174063059,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 55989,
+            "uuploaders": 5472
+        },
+        {
+            "id": 40,
+            "name": "Kung.Fu.2021.S01E01.Pilot.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]",
+            "btih": "5e4bf2a6f5d7788bbcd0c1d80e4dbe33c959cd01",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.931108848,
+            "creation": "2021-04-08T07:41:26.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 55712,
+            "uuploaders": 971
+        },
+        {
+            "id": 55,
+            "name": "Kung.Fu.s01.HD1080p.WEBRip.Rus.BaibaKo.tv",
+            "btih": "7cf069fff20e92d30f8dd4cbbf4afdce6aa94529",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 2.356191571,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 55375,
+            "uuploaders": 213
+        },
+        {
+            "id": 66,
+            "name": "www.Torrenting.com   -    Kung Fu 2021 S01E01 XviD-AFG",
+            "btih": "d620a8621ab27c6074de13d422601908e37aa947",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.393319846,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 55234,
+            "uuploaders": 402
+        },
+        {
+            "id": 51,
+            "name": "Kung.Fu.2021.S01E03.HDTV.x264-YANKEES[TGx]",
+            "btih": "80ced5aeb991867a1544014cbfeb9c21f28ba08a",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.285449704,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 54150,
+            "uuploaders": 581
+        },
+        {
+            "id": 33,
+            "name": "Kung.Fu.2021.S01E01.720p.WEB.x265-MiNX[TGx]",
+            "btih": "e62659e1494cdc6313bd15d93fe2d298ff5abe43",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.217926147,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 53039,
+            "uuploaders": 2843
+        },
+        {
+            "id": 53,
+            "name": "Kung.Fu.S01.400p.ColdFilm",
+            "btih": "2ada3afd5325df4edb0680ed6fa1f15f74ca577a",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.534017236,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 52121,
+            "uuploaders": 365
+        },
+        {
+            "id": 47,
+            "name": "Kung.Fu.2021.S01E01.WEB.x264-PHOENiX[TGx]",
+            "btih": "463a7359e2120a3a57ea6f4c15a05cbde68b4eb2",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.28912223,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 47758,
+            "uuploaders": 104
+        },
+        {
+            "id": 1,
+            "name": " Kung Fu .2021. WEBDLRip.TVShows",
+            "btih": "7ba432135efffaa7a82619580c1d75349175a4bd",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.5747712,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 47578,
+            "uuploaders": 817
+        },
+        {
+            "id": 39,
+            "name": "Kung.Fu.2021.S01E01.HDTV.x264-YANKEES[TGx]",
+            "btih": "5265fa7db88d39e7bc52c3cf0dea737e64000967",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.279946472,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 46371,
+            "uuploaders": 6582
+        },
+        {
+            "id": 2,
+            "name": "26a7-Kung.Fu.2021.S01E01.720p.WEB.H264-CAKES",
+            "btih": "bae3122c860ff1711f901275718458f95ee36851",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.792706912,
+            "creation": "2021-04-08T09:07:45.000000000Z,mktorrent 1.1",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 46124,
+            "uuploaders": 3633
+        },
+        {
+            "id": 48,
+            "name": "Kung.Fu.2021.S01E01.XviD-AFG [IPT]",
+            "btih": "1755dd8b02747be406155c632b94268ba4660534",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.39331976,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 45545,
+            "uuploaders": 197
+        },
+        {
+            "id": 50,
+            "name": "Kung.Fu.2021.S01E01.XviD-AFG[TGx]",
+            "btih": "a965cdebb1123e47ddf7ba49effa4c9e942c7324",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.392789742,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 42130,
+            "uuploaders": 537
+        },
+        {
+            "id": 61,
+            "name": "Kung.Fu.S01E01.WEBRip.1080p.rus.5.1.HDREZKA.STUDIO.mkv",
+            "btih": "ab398ad15e644478a17f6081eefe5ded402a148b",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 2.980722161,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 42108,
+            "uuploaders": 1479
+        },
+        {
+            "id": 62,
+            "name": "Kung.Fu.S01E01.WEBRip.1080p.ukr.5.1.HDREZKA.STUDIO.mkv",
+            "btih": "6f8cdfe02002ebdb7d345237bcbf998816522af9",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 2.616299428,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 40207,
+            "uuploaders": 1644
+        },
+        {
+            "id": 45,
+            "name": "Kung.Fu.2021.S01E01.Pilot.720p.WEBRip.2CH.x265.HEVC-PSA.mkv",
+            "btih": "e037a1d466c2154eee87f93bd729ce093e9f061d",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.219372286,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 38464,
+            "uuploaders": 4771
+        },
+        {
+            "id": 21,
+            "name": "Kung.Fu.2021.S01E01.480p.x264-mSD [IPT]",
+            "btih": "e74e4472c9d15dde80d98336d6e0265456da3df5",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.1546874,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1376,
+            "uuploaders": 791
+        },
+        {
+            "id": 10,
+            "name": "Kung.Fu.2021.S01E01.1080p.HDTV.x264-YANKEES [IPT]",
+            "btih": "71dc4f0895163acf72462c9ea77c81408fac3ea6",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.813735303,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1218,
+            "uuploaders": 581
+        },
+        {
+            "id": 11,
+            "name": "Kung.Fu.2021.S01E01.1080p.HDTV.x264-YANKEES[eztv.re].mkv",
+            "btih": "90b73688a7ad0410c56b3827a1bcf5e9fa98cf39",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.813719216,
+            "creation": "2021-04-09T05:56:43.000000000Z,Torrent RW PHP Class - http://github.com/adriengibrat/torrent-rw,Visit us: https://eztv.re/ - Bitcoin: 1EZTVtpeNttqdDayh3D98nfQYybeZhu5YV",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 887,
+            "uuploaders": 613
+        },
+        {
+            "id": 23,
+            "name": "Kung.Fu.2021.S01E01.720p.HDTV.x264-YANKEES [IPT]",
+            "btih": "8353606426f8afa494290a6cb196f03ab5ce35f8",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.888871038,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 540,
+            "uuploaders": 298
+        },
+        {
+            "id": 16,
+            "name": "Kung.Fu.2021.S01E01.1080p.WEB.H264-CAKES [IPT]",
+            "btih": "6ebfee45cbba2a27439702380aa7738844a01d9b",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.54990974,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 518,
+            "uuploaders": 320
+        },
+        {
+            "id": 5,
+            "name": "[rutor.is]Kung.Fu.2021.S01.400p.Kerob",
+            "btih": "141e095862e3417ee254badb83a83f0ba95fc941",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.533180924,
+            "creation": "2021-04-08T10:12:28.000000000Z,Tixati v2.81,http://rutor.is/torrent/809698",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 262,
+            "uuploaders": 121
+        },
+        {
+            "id": 29,
+            "name": "Kung.Fu.2021.S01E01.720p.WEB.H264-CAKES",
+            "btih": "7c4a5d26de1e5245cf2790f7a621897ae008be41",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.792706875,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 257,
+            "uuploaders": 159
+        },
+        {
+            "id": 41,
+            "name": "Kung.Fu.2021.S01E01.Pilot.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[TGx]",
+            "btih": "a65ea915f254a57a782201ee9d08678de01b4adf",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.931109397,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 65,
+            "uuploaders": 38
+        }
+    ]
+}
