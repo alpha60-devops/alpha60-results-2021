@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt9288848",
+    "imdb_id": "tt9288848",
+    "revision": "576c2b15dd1e39c011f3278699f852aced240cd0",
+    "wikidata_id": "Q105206200",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pacific_Rim:_The_Black"
+  },
+  "coverage_sha256": "9ed994ef98acd36886bc91546843a89521bb1892d5ac0cc225b33da52aa9572c",
+  "generated_at": "2026-09-03T19:43:33.734049+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2021-archives/pacific-rim-the-black.cache/cache.20210512.tar.xz",
+      "sha256": "9b3001eb03206eee1fc0b418ad1aa64b1590a4f54a886b5f4ae9fcbc838b852a",
+      "size": 194882280
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-coverage-evidence/pacific-rim-the-black.md",
+      "sha256": "5bef224b6ce5a3298c777d0f00effaae096b5356c8e0f301d6c51c79cac77ed4",
+      "size": 557
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-cache-stream-receipts/pacific-rim-the-black.json",
+      "sha256": "7ff8e9845d1495cbc344dd1e727bc7c565b4b5053cd2360a99d8e05e4db280e8",
+      "size": 2462
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-product-receipts/pacific-rim-the-black.json",
+      "sha256": "49a4cf0450013cfd4c0aa104e5d76cee14d42b5fdb223b39c4e52c0b7d42a313",
+      "size": 373
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-control/worker-map.json",
+      "sha256": "8007c46b300872bb9f00ced6cb29d0e2aa49e73a513f4c30d0e8765a7e08ef2c",
+      "size": 89669
+    }
+  },
+  "media_object": "pacific-rim-the-black",
+  "published_files": {
+    "data/csv/bytes/pacific-rim-the-black-cumulative-detail.2021-btiha-itemized-by-bytes.csv": "fcc77c89d0a2ffd62012bb8adb6709ecabe590474e9465ecb0b59f077ce9e8b8",
+    "docs/itemized/figures/pacific-rim-the-black-carto-4k.webp": "4f0d4a241429db7425a9aa898ed4a7ef38a444002f01529fd4d741ba81b129a3",
+    "docs/itemized/figures/pacific-rim-the-black-carto.png": "fe2dfcc02aa3044627c93e71edf0f4f7d017894b1ee018f4a515bd77c543e915",
+    "docs/itemized/figures/pacific-rim-the-black-cumulative-detail-btiha-itemized-by-bytes.svg": "9e17f4b136827b77fe5dfdd380a7c6100866b6c0484db6ad9a236f6828a9aed2",
+    "docs/itemized/figures/pacific-rim-the-black-data-ge-1080p-4k.webp": "7243bd8efe3ba416e7a050401cc2abaaf3f5caf75a14b4051684d99cb77f4d85",
+    "docs/itemized/figures/pacific-rim-the-black-data-ge-1080p.webp": "bd533a42d123e463e9b06fd5c843ca148e0c5b8edb5f3ca39174f116fb9733fd",
+    "docs/itemized/figures/pacific-rim-the-black-data-lt-1080p-4k.webp": "e14fe39bdc1c5f39a253edbc46471a65dd4d091df1074bfdb29ea5a14bd6fb5d",
+    "docs/itemized/figures/pacific-rim-the-black-data-lt-1080p.webp": "e842618bd39cff707e159f2f76ec050a1f2f184253ed453df34d65013ffafff7",
+    "docs/itemized/figures/pacific-rim-the-black-downloads-by-day-day.svg": "0dd6c4c4728c3c2d2cf783159807a3ae20916650f93e506ba61e08950dd4b9f7",
+    "docs/itemized/figures/pacific-rim-the-black-downloads-by-week-pacific-rim-the-black-week.svg": "0fd579e855d5f35612b3116cd509810660404d64fa50a8df7b30ac10ccbe8971",
+    "docs/itemized/pacific-rim-the-black-sample-cache-audit.md": "e3fcfc0f17a73eb500c7eb7819e2fd81ac47018da1f0100f1ad8e803921df50f",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "84873e743da03017b556934ba0f591c7ba6b051e",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/pacific-rim-the-black/tmp/pacific-rim-the-black-cumulative-btiha.geojson",
+        "sha256": "fc3101b418ee1c53b1bc134a128e4b848553e17dd100df49ec33b877a1f7101c",
+        "size": 35516548
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/pacific-rim-the-black/tmp/pacific-rim-the-black-cumulative-btiha-media-objects.json",
+        "sha256": "b7b3a5f89711311eb9cec007574a21b398bf9f85813aa98c730651309562fafc",
+        "size": 644362
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "pacific-rim-the-black",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          65.0,
+          58.0,
+          56.0,
+          55.0,
+          50.0,
+          47.0,
+          47.0,
+          42.0,
+          32.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Columbus",
+          "Ashburn",
+          "New York City",
+          "London",
+          "Seattle",
+          "Tokyo",
+          "Shanghai",
+          "Seoul",
+          "Independence",
+          "Beijing"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          63.0,
+          60.0,
+          59.0,
+          56.0,
+          48.0,
+          44.0,
+          42.0,
+          42.0,
+          31.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Columbus",
+          "New York City",
+          "London",
+          "Ashburn",
+          "Seattle",
+          "Tokyo",
+          "Seoul",
+          "Independence",
+          "Shanghai",
+          "Moscow"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 24,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 24,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 4,
+        "x_tick_marks": 4,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 10,
+        "y_tick_labels": 20
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "84873e743da03017b556934ba0f591c7ba6b051e",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "903f8276e5f31a4387bb88a459e5012c544222f6",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "576c2b15dd1e39c011f3278699f852aced240cd0"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2021"
+}
