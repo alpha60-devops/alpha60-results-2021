@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt13029044",
+    "imdb_id": "tt13029044",
+    "revision": "576c2b15dd1e39c011f3278699f852aced240cd0",
+    "wikidata_id": "Q104242404",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mother/Android"
+  },
+  "coverage_sha256": "9e0d842f514a15d68f91b9d0304fccad0a7ee27bc6daa3d2753da908ab45aada",
+  "generated_at": "2026-09-03T21:15:48.125710+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2021-archives/mother-android.cache/cache.20220225.tar.xz",
+      "sha256": "d4c50cf4276871ab6570911180b89970ac4dc519dc5675d766c6685b7c2ccce7",
+      "size": 521762892
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-coverage-evidence/mother-android.md",
+      "sha256": "eb5b56e696fdb61868fe6380a7ca690e8c98446624966f6a1010f59ba06d2fc8",
+      "size": 550
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-cache-stream-receipts/mother-android.json",
+      "sha256": "839c2652667308b3b570331544269005587620455865cd63bcd936511405a583",
+      "size": 2451
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-product-receipts/mother-android.json",
+      "sha256": "6b923aaa1b6390b497c808e536b73e1732c60a10b6bafc38cf49ad1ed4c1a80c",
+      "size": 366
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-control/worker-map.json",
+      "sha256": "7579d04c5dcdc59b240a95af1b60b0ea4d32d602a822e3a67b7b6f311e3066b9",
+      "size": 91326
+    }
+  },
+  "media_object": "mother-android",
+  "published_files": {
+    "data/csv/bytes/mother-android-cumulative-detail.2021-btiha-itemized-by-bytes.csv": "ac43a443af08f6771d4267ba8a224aaf2588bc4053663c5f6dea7a7e075f8e31",
+    "docs/itemized/figures/mother-android-carto-4k.webp": "bb572f2ee5e3431329c2daf919bec6adfef6e636c5af9ebfa5430250d31c065a",
+    "docs/itemized/figures/mother-android-carto.png": "40fed715548dc98819e15ed64ed4e077649b1778efcedef0a5b857057cf0f2ef",
+    "docs/itemized/figures/mother-android-cumulative-detail-btiha-itemized-by-bytes.svg": "eed9608f6b7d7e9d16f4e76d5e160b566d1e54e51872bb7893c6377b5bdf4c82",
+    "docs/itemized/figures/mother-android-data-ge-1080p-4k.webp": "b8de287cb9174cc4043b78f4c849c94401ead68761409101da9b96fd6a938b06",
+    "docs/itemized/figures/mother-android-data-ge-1080p.webp": "034a86d79cb68027c73df163ae986c800e9d307ab37f2830e9f7c423d3a020d1",
+    "docs/itemized/figures/mother-android-data-lt-1080p-4k.webp": "6ad344571c1c44400023df6c7e1340919804012bcec9d47f3f4df521729e9f64",
+    "docs/itemized/figures/mother-android-data-lt-1080p.webp": "15e02aae6cce418e3819ab2f85e1d6d10823d889cf91fe88d2476c3a03f4ef41",
+    "docs/itemized/figures/mother-android-downloads-by-day-day.svg": "e80844405442a7c0b241730d92356411ebd669c0d2a689df99c63b9e4d8359c3",
+    "docs/itemized/figures/mother-android-downloads-by-week-mother-android-week.svg": "9fa5060d53d3878fa52b2653c45c6d82f517ee796f3f581a2acdd87bb32d6de1",
+    "docs/itemized/mother-android-sample-cache-audit.md": "0720ede7453f44d10599d0a9a7a3c6ce5e0f5357a9ab7dd758d6e017763665ff",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "84873e743da03017b556934ba0f591c7ba6b051e",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/mother-android/tmp/mother-android-cumulative-btiha.geojson",
+        "sha256": "2e59049c566e55a824f416f611e23ea07dd8d2b6a3cc70396c82615ad9c23bcd",
+        "size": 31520955
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/mother-android/tmp/mother-android-cumulative-btiha-media-objects.json",
+        "sha256": "4ccfdbf6aa49889828b2f9e68b215a7695f1e709c37b9e3c75671a43df2da57d",
+        "size": 129613
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "mother-android",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          59.0,
+          47.0,
+          47.0,
+          40.0,
+          33.0,
+          30.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "London",
+          "Johannesburg",
+          "Ashburn",
+          "Seoul",
+          "Saint Petersburg",
+          "Cape Town",
+          "Pretoria",
+          "Amsterdam",
+          "New York City"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          56.0,
+          42.0,
+          40.0,
+          38.0,
+          34.0,
+          33.0,
+          32.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Quezon City",
+          "Johannesburg",
+          "Ashburn",
+          "London",
+          "Caracas",
+          "Saint Petersburg",
+          "Santiago",
+          "Bogot\u00e1",
+          "Seoul"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 24,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 32,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 4,
+        "x_tick_marks": 4,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 11,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "84873e743da03017b556934ba0f591c7ba6b051e",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "903f8276e5f31a4387bb88a459e5012c544222f6",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "576c2b15dd1e39c011f3278699f852aced240cd0"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2021"
+}
