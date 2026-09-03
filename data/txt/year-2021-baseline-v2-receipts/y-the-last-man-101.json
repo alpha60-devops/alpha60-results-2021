@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt8042500",
+    "imdb_id": "tt8042500",
+    "revision": "576c2b15dd1e39c011f3278699f852aced240cd0",
+    "wikidata_id": "Q62419394",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Y:_The_Last_Man_(TV_series)"
+  },
+  "coverage_sha256": "a5667f927099be8975d3587dbdbb80a4d6c032039da4f6e9bc2735486053ac20",
+  "generated_at": "2026-09-03T22:58:41.900089+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2021-archives/y-the-last-man-101.cache/cache.20211121.tar.xz",
+      "sha256": "7c26b193f49ab798a786c4e7e702a0cc448dfad0487da4780be4b0bdfcd5628c",
+      "size": 692429540
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-coverage-evidence/y-the-last-man-101.md",
+      "sha256": "3b8400c22a4aa46ccce41a940718b3ffef0e6d135ac5d90bac67283d6463deb1",
+      "size": 554
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-cache-stream-receipts/y-the-last-man-101.json",
+      "sha256": "55d782ae0e952bd1b8fa9affb982943e5b5302a459b27c3e6e66d591592fd3a4",
+      "size": 2458
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-product-receipts/y-the-last-man-101.json",
+      "sha256": "deb92edb2a107062ce12337201913efe72b9a752605b94ec59c253e8cec7f3fa",
+      "size": 370
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-control/worker-map.json",
+      "sha256": "7579d04c5dcdc59b240a95af1b60b0ea4d32d602a822e3a67b7b6f311e3066b9",
+      "size": 91326
+    }
+  },
+  "media_object": "y-the-last-man-101",
+  "published_files": {
+    "data/csv/bytes/y-the-last-man-101-cumulative-detail.2021-btiha-itemized-by-bytes.csv": "2d2ef51a050090dfbef7896315dd0e6457c563febca10d91acfecfdfc1f0b8db",
+    "docs/itemized/figures/y-the-last-man-101-carto-4k.webp": "40c4a9578a7e19ddfdc80582014c0b693fe996ecfbcdbb90a2e23abcd1f315cd",
+    "docs/itemized/figures/y-the-last-man-101-carto.png": "adef5fc77165af8c8c349408ceefb5c356855b72c99d4504578538f4fe7205c4",
+    "docs/itemized/figures/y-the-last-man-101-cumulative-detail-btiha-itemized-by-bytes.svg": "425b56427c11371af29672a528ff888d3d483e1ec1a047afed0d3ecd2150d661",
+    "docs/itemized/figures/y-the-last-man-101-data-ge-1080p-4k.webp": "214134f5410f017537f48c66ff28f44d64b647d73f193126edbf9ccf62e7e33f",
+    "docs/itemized/figures/y-the-last-man-101-data-ge-1080p.webp": "60ed922a9c1fd5f7124182cb32293ed22ce32eb683ee9367162ea5471683b531",
+    "docs/itemized/figures/y-the-last-man-101-data-lt-1080p-4k.webp": "0a230f7a4444206612cf818aa3d906b6f3252794238054db1564e31501a91495",
+    "docs/itemized/figures/y-the-last-man-101-data-lt-1080p.webp": "54977e42f52bfbaf3ee1708833f5c2510a4d9f9b67107431074d327919ac3005",
+    "docs/itemized/figures/y-the-last-man-101-downloads-by-day-day.svg": "07342cf6f0c37aea4930220825aa47547fb9d1c890490b5f39eb7c9ace8a3d9d",
+    "docs/itemized/figures/y-the-last-man-101-downloads-by-week-y-the-last-man-101-week.svg": "1cb27574bc46faf442292e00486f574cda3ebcf472f4a4631ec40b828c1142db",
+    "docs/itemized/y-the-last-man-101-sample-cache-audit.md": "719f5624380137192598d5be66ec4605811b81f37ca02ecbdfdf75195138f57d",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "84873e743da03017b556934ba0f591c7ba6b051e",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/y-the-last-man-101/tmp/y-the-last-man-101-cumulative-btiha.geojson",
+        "sha256": "3eb1436e59e6823e37eafdb4fc8b2a25e9c81f79269d3a7e18027154523098f0",
+        "size": 76962028
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/y-the-last-man-101/tmp/y-the-last-man-101-cumulative-btiha-media-objects.json",
+        "sha256": "3194cd26c4bb33bbdfdaaf2d07d2f19fbf18daca59d7b73b8fb8b3e50d69b59f",
+        "size": 214143
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "y-the-last-man-101",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          77.0,
+          76.0,
+          61.0,
+          44.0,
+          42.0,
+          34.0,
+          32.0,
+          30.0,
+          30.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "London",
+          "Moscow",
+          "Ashburn",
+          "Shanghai",
+          "New York City",
+          "Seoul",
+          "Columbus",
+          "Frankfurt am Main",
+          "Paris",
+          "Seattle"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          65.0,
+          60.0,
+          44.0,
+          39.0,
+          38.0,
+          31.0,
+          30.0,
+          30.0,
+          29.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "London",
+          "Ashburn",
+          "Moscow",
+          "New York City",
+          "Seoul",
+          "Madrid",
+          "Columbus",
+          "Paris",
+          "Shanghai",
+          "Frankfurt am Main"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 24,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 27,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 10,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "84873e743da03017b556934ba0f591c7ba6b051e",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "903f8276e5f31a4387bb88a459e5012c544222f6",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "576c2b15dd1e39c011f3278699f852aced240cd0"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2021"
+}
