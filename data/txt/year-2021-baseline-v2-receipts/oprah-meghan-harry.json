@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt14117288",
+    "imdb_id": "tt14117288",
+    "revision": "576c2b15dd1e39c011f3278699f852aced240cd0",
+    "wikidata_id": "Q105760267",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Oprah_with_Meghan_and_Harry"
+  },
+  "coverage_sha256": "88c566cf1a904bb659eea8b9b987146a62330a6b0336f60b89a67d3ab1d3dd64",
+  "generated_at": "2026-09-03T21:45:11.241451+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2021-archives/oprah-meghan-harry.cache/cache.20210516.tar.xz",
+      "sha256": "1af6f56ddedb735a6a2e023e2de995b411aee88276e99be832836f73c7b74164",
+      "size": 181564420
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-coverage-evidence/oprah-meghan-harry.md",
+      "sha256": "1cb8a39f9dae9a2d6194a1e7f0ca15bf799d52c6e26d39ffc23a1467d1a2300f",
+      "size": 554
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-cache-stream-receipts/oprah-meghan-harry.json",
+      "sha256": "a30dd261e4bb6215a5e2278258857043720bdc42c02e35bc7d727b0358e93404",
+      "size": 2453
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-product-receipts/oprah-meghan-harry.json",
+      "sha256": "6c5f7fda7f01bc2ba6dfbea1779a5ea80f2400e091f8aa554b08710787931a4a",
+      "size": 370
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-control/worker-map.json",
+      "sha256": "7579d04c5dcdc59b240a95af1b60b0ea4d32d602a822e3a67b7b6f311e3066b9",
+      "size": 91326
+    }
+  },
+  "media_object": "oprah-meghan-harry",
+  "published_files": {
+    "data/csv/bytes/oprah-meghan-harry-cumulative-detail.2021-btiha-itemized-by-bytes.csv": "e332e99ec1d774443fbc8a07d1be85e2b782bb46307705ec8dd4e9713912df2e",
+    "docs/itemized/figures/oprah-meghan-harry-carto-4k.webp": "036602c5c77786c2af16a7beff17481b0a3f1df9c9d3a81ce01e00155862e22b",
+    "docs/itemized/figures/oprah-meghan-harry-carto.png": "722089bbef44052cc2f686a6bea4ed778ebd3a42bc896de05aeb5a9153e31036",
+    "docs/itemized/figures/oprah-meghan-harry-cumulative-detail-btiha-itemized-by-bytes.svg": "e228f37b5fb805f49b4a1eae34f4471b8e55d1cd52a2ab4ac94ef0a7b35eb5bc",
+    "docs/itemized/figures/oprah-meghan-harry-data-ge-1080p-4k.webp": "55ae1f0d1961c607c54c199ed9b93d767bff4301b08db164024fd4151ff4b18c",
+    "docs/itemized/figures/oprah-meghan-harry-data-ge-1080p.webp": "637bddc3e1579ab3d8f6dace662a1bdeac5652bf83dec78ec882d49ae253385e",
+    "docs/itemized/figures/oprah-meghan-harry-data-lt-1080p-4k.webp": "f11583a74f8dd9cbcc6a4e112f6c40762bb3c452143165bde53f6594dff0e701",
+    "docs/itemized/figures/oprah-meghan-harry-data-lt-1080p.webp": "efd3a6382fea373020b44a8671cc2c675a952793528572c2645f42e9fd2f4a77",
+    "docs/itemized/figures/oprah-meghan-harry-downloads-by-day-day.svg": "c8659f61735cfa7e95c511dbc436d6cb82ae7dd6956faa8ad7b61a188dd3ddac",
+    "docs/itemized/figures/oprah-meghan-harry-downloads-by-week-oprah-meghan-harry-week.svg": "2d1886c3ec7bca9719cf97ff302f10d0a4649816f4273d67a660b4b9888e36b3",
+    "docs/itemized/oprah-meghan-harry-sample-cache-audit.md": "3cd9d69e82d1d726ca0edd3036bc4925d2ac5c6f68698d39bf3f39dc14cac441",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "84873e743da03017b556934ba0f591c7ba6b051e",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/oprah-meghan-harry/tmp/oprah-meghan-harry-cumulative-btiha.geojson",
+        "sha256": "0136993dc2e89ac277551fc180221ccda45545d4122adb8ce99982a70d71624a",
+        "size": 11110383
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/oprah-meghan-harry/tmp/oprah-meghan-harry-cumulative-btiha-media-objects.json",
+        "sha256": "4a9ea92d7304178b247d13a0918af4787bfe53281f40655fe7f71bf2991be4c5",
+        "size": 74338
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "oprah-meghan-harry",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          64.0,
+          59.0,
+          54.0,
+          50.0,
+          46.0,
+          41.0,
+          38.0,
+          34.0,
+          33.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "London",
+          "Johannesburg",
+          "Cape Town",
+          "New York City",
+          "Mumbai",
+          "Quezon City",
+          "Toronto",
+          "Pretoria",
+          "Amsterdam",
+          "Columbus"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          56.0,
+          56.0,
+          54.0,
+          51.0,
+          47.0,
+          45.0,
+          42.0,
+          41.0,
+          38.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "London",
+          "Cape Town",
+          "Mumbai",
+          "Johannesburg",
+          "New York City",
+          "Columbus",
+          "Pretoria",
+          "Nairobi",
+          "Sofia",
+          "Seattle"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 24,
+        "y_tick_labels": 20
+      },
+      "histogram": {
+        "bars": 10,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 4,
+        "x_tick_marks": 4,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 10,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "84873e743da03017b556934ba0f591c7ba6b051e",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "903f8276e5f31a4387bb88a459e5012c544222f6",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "576c2b15dd1e39c011f3278699f852aced240cd0"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2021"
+}
