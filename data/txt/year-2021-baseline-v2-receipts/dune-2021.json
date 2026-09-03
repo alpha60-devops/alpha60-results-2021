@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt1160419",
+    "imdb_id": "tt1160419",
+    "revision": "576c2b15dd1e39c011f3278699f852aced240cd0",
+    "wikidata_id": "Q60834962",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dune_(2021_film)"
+  },
+  "coverage_sha256": "c4d9e5de972d024fbd43f5d8f58df346c0287ab8571ed2cfd2209f7b4d536be3",
+  "generated_at": "2026-09-03T15:47:03.070932+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2021-archives/dune-2021.cache/cache.20220417.tar.xz",
+      "sha256": "3b1c411a2a915d283afc999e44bed0a31ecaf108e5d9db714dc5831f0560028f",
+      "size": 11791909760
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-coverage-evidence/dune-2021.md",
+      "sha256": "64bc6cf4e468c4a6de2e1935603b46d3b27bd5fb02341ab33b358a4ba4dbb8cb",
+      "size": 547
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-cache-stream-receipts/dune-2021.json",
+      "sha256": "f5a366912a71bde96914da50551a5c9c33799c736f056316504dd169c85b5b69",
+      "size": 3415
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-product-receipts/dune-2021.json",
+      "sha256": "6f0c21f41581a1f649faec8467322449c3a7c4642ea6347d86c5d34fef6ac62a",
+      "size": 363
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-control/worker-map.json",
+      "sha256": "8007c46b300872bb9f00ced6cb29d0e2aa49e73a513f4c30d0e8765a7e08ef2c",
+      "size": 89669
+    }
+  },
+  "media_object": "dune-2021",
+  "published_files": {
+    "data/csv/bytes/dune-2021-cumulative-detail.2021-btiha-itemized-by-bytes.csv": "9ab12b59e378d7e02a8268c8b12a0e34202447c59c71b9446f7adb8800c3ee38",
+    "docs/itemized/dune-2021-sample-cache-audit.md": "86b45ee35faf3877f453228d53fff1091eb9a3a129bc99ddca8840e1c09c8ed6",
+    "docs/itemized/figures/dune-2021-carto-4k.webp": "3596982933b327b03274d55e0951ec58227e9a70bc00d1a215f002780cec5275",
+    "docs/itemized/figures/dune-2021-carto.png": "34e4a062489e65efef98a9d9f6dc5f03bb634456aac39bf63b2bfb8223ac3a21",
+    "docs/itemized/figures/dune-2021-cumulative-detail-btiha-itemized-by-bytes.svg": "99b6d7b22292f28a4eb583bb1cec6bb39b2a2747a545b2ef20a55bef6b04c60d",
+    "docs/itemized/figures/dune-2021-data-ge-1080p-4k.webp": "9761455fe5509238c7d677e9abb166143ad8ba7770f9055de28b17b6f2830b09",
+    "docs/itemized/figures/dune-2021-data-ge-1080p.webp": "fb98ee06ac866266b4c0cb3399640146024fcea9b79eee53386b2da9a1f069a5",
+    "docs/itemized/figures/dune-2021-data-lt-1080p-4k.webp": "b635aa79401eddfd00ae4d5e21d4ac45e184c3ce78d60ca8241336352f42d495",
+    "docs/itemized/figures/dune-2021-data-lt-1080p.webp": "86a2240741c41c3a7f65caab5614f7b884f49e1bddff1e1236ccdf30e8123d8f",
+    "docs/itemized/figures/dune-2021-downloads-by-day-day.svg": "0967778739e4e74c7bb00eb2e7746d12f1e21ae9641393c02f1c720021557251",
+    "docs/itemized/figures/dune-2021-downloads-by-week-dune-2021-week.svg": "238550cc116fd7648f59d81013e9dd998c2fff269e22d8e3e78da14002f1cd5d",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "ef2f1a44d929ff9d6b2e6439cd8ada9ef932e2dc",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/dune-2021/tmp/dune-2021-cumulative-btiha.geojson",
+        "sha256": "36d26aa58c61c2ea18f4d460686d8ec4f2929427b5102057791f1e65f84f8a57",
+        "size": 242032979
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/dune-2021/tmp/dune-2021-cumulative-btiha-media-objects.json",
+        "sha256": "c60f2ac231fdf237e0ccf7dffced5e5ca86421fa1b0a339da9dcd9e89cd5bde5",
+        "size": 447252
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "dune-2021",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          73.0,
+          54.0,
+          35.0,
+          34.0,
+          34.0,
+          33.0,
+          32.0,
+          27.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "London",
+          "Seoul",
+          "Shanghai",
+          "Ashburn",
+          "Saint Petersburg",
+          "Mumbai",
+          "Leipzig",
+          "Amsterdam",
+          "Sydney"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          33.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Saint Petersburg",
+          "London",
+          "Krasnodar",
+          "Ashburn",
+          "Mumbai",
+          "Nizhniy Novgorod",
+          "Seoul",
+          "Yekaterinburg",
+          "Johannesburg"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 43,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 26,
+        "y_tick_labels": 20
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "ef2f1a44d929ff9d6b2e6439cd8ada9ef932e2dc",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "903f8276e5f31a4387bb88a459e5012c544222f6",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "576c2b15dd1e39c011f3278699f852aced240cd0"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2021"
+}
