@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt11286314",
+    "imdb_id": "tt11286314",
+    "revision": "576c2b15dd1e39c011f3278699f852aced240cd0",
+    "wikidata_id": "Q100361490",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Don%27t_Look_Up"
+  },
+  "coverage_sha256": "1bd1ddf6a709a7d25b351e17fbeaa3f0b51a6181db2c41be891b774fff845131",
+  "generated_at": "2026-09-03T18:30:56.275724+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2021-archives/dont-look-up.cache/cache.20220407.tar.xz",
+      "sha256": "972d300d3d34ae88e82cc296fae522a3f5db36860d605e7221ab83f1bed3ba5b",
+      "size": 4367709580
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-coverage-evidence/dont-look-up.md",
+      "sha256": "fef1bdcf62148c8e776563bc79f803e0e3360940f02024ad823cc8ce43156ec4",
+      "size": 550
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-cache-stream-receipts/dont-look-up.json",
+      "sha256": "b702bfce6b5a5fd88ed8a715631df1df73bfe5537fcf2e1d5374adfc0bc07660",
+      "size": 2731
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-product-receipts/dont-look-up.json",
+      "sha256": "d68dff293a9a3f09accc195b9aaa883cc3bc2700a53659bc5048dd4ccd378cd5",
+      "size": 366
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-control/worker-map.json",
+      "sha256": "7579d04c5dcdc59b240a95af1b60b0ea4d32d602a822e3a67b7b6f311e3066b9",
+      "size": 91326
+    }
+  },
+  "media_object": "dont-look-up",
+  "published_files": {
+    "data/csv/bytes/dont-look-up-cumulative-detail.2021-btiha-itemized-by-bytes.csv": "2273887553e24e66b7c75a41c3652e01baff0aa53fcadea16c1d71486b0c4e0c",
+    "docs/itemized/dont-look-up-sample-cache-audit.md": "d97e5bd03cfd78a9898fef9283198af4c5a316f94d562ffb184c1515b71b8d6a",
+    "docs/itemized/figures/dont-look-up-carto-4k.webp": "12fe80ad11f841eee05c77d0d615f9ea88cc8e67b12b644e7b44730154a1adee",
+    "docs/itemized/figures/dont-look-up-carto.png": "df3cacbf8eef51ed30ae61422d814b35780b7ec974e4c9dede0d45155592a41a",
+    "docs/itemized/figures/dont-look-up-cumulative-detail-btiha-itemized-by-bytes.svg": "249dccdd1ae287b277d655dd843394696f89cec9ec5def78989338fdea5dc4d5",
+    "docs/itemized/figures/dont-look-up-data-ge-1080p-4k.webp": "d9cf517fc87bfe8e6d2e2e8c81676f930281ecad834c93bef707267388b90887",
+    "docs/itemized/figures/dont-look-up-data-ge-1080p.webp": "ca95054dea025345e14895cb118186ee41fe2105907884699f2a9d67fa3125be",
+    "docs/itemized/figures/dont-look-up-data-lt-1080p-4k.webp": "066d7025b48e62583ecb166906e05a61729cc05d8232951de0c773dfb5f3e097",
+    "docs/itemized/figures/dont-look-up-data-lt-1080p.webp": "9071a4499e80be708240428033179fc0b8d7a4f9f22e7a1e17761460320b509f",
+    "docs/itemized/figures/dont-look-up-downloads-by-day-day.svg": "8186f2151d9e7877db7e65f177b77c2a2f905a82064f267d66106adcfec9f39f",
+    "docs/itemized/figures/dont-look-up-downloads-by-week-dont-look-up-week.svg": "886e85e9114402cba2d54eaa32df04fc695f1249148a0e717a62ec0c8201bd63",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "84873e743da03017b556934ba0f591c7ba6b051e",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/dont-look-up/tmp/dont-look-up-cumulative-btiha.geojson",
+        "sha256": "4f844a707576edfe3b24a009fb0897e315f3feba1a4537f15595e2d69721c0e1",
+        "size": 104575828
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/dont-look-up/tmp/dont-look-up-cumulative-btiha-media-objects.json",
+        "sha256": "e7b1624d6226dbf5cbd8d9eddf39983b5090ec00a68a1b5072e644e0e0a744f4",
+        "size": 355793
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "dont-look-up",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          35.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Saint Petersburg",
+          "London",
+          "Seoul",
+          "Krasnodar",
+          "Nizhniy Novgorod",
+          "Ashburn",
+          "Yekaterinburg",
+          "Almaty",
+          "Rostov-on-Don"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          34.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Saint Petersburg",
+          "Krasnodar",
+          "London",
+          "Nizhniy Novgorod",
+          "Quezon City",
+          "Almaty",
+          "Yekaterinburg",
+          "Rostov-on-Don",
+          "Novosibirsk"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 45,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 4,
+        "x_tick_marks": 4,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 15,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "84873e743da03017b556934ba0f591c7ba6b051e",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "903f8276e5f31a4387bb88a459e5012c544222f6",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "576c2b15dd1e39c011f3278699f852aced240cd0"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2021"
+}
