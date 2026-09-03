@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt9849186",
+    "imdb_id": "tt9849186",
+    "revision": "576c2b15dd1e39c011f3278699f852aced240cd0",
+    "wikidata_id": "Q106512256",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Intergalactic_(TV_series)"
+  },
+  "coverage_sha256": "5de3f1fb09259b50eb750b95e873efa6b7b0c079ee7206dc2d6dcbab8b8c2bc4",
+  "generated_at": "2026-09-03T19:50:42.757876+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2021-archives/intergalactic-01.cache/cache.20210709.tar.xz",
+      "sha256": "bd2a752b0b33ee6b8bb39d5d300ae2feabf4f3946023f8996fc1dbc849e736a2",
+      "size": 502504940
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-coverage-evidence/intergalactic-01.md",
+      "sha256": "23829c146c7d1bb6ce6bb671730765f8985e5d877511bea391d4d7647e6547c7",
+      "size": 552
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-cache-stream-receipts/intergalactic-01.json",
+      "sha256": "1c643d4717621145724c24d691a3f51f90f6b97292337d953c3229ddd13c676e",
+      "size": 2452
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-product-receipts/intergalactic-01.json",
+      "sha256": "db7e8f55072ef3ec0a1d49f214f34daaaa8eccd3bca72cd38d5a4eeeff5312fd",
+      "size": 368
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-control/worker-map.json",
+      "sha256": "7579d04c5dcdc59b240a95af1b60b0ea4d32d602a822e3a67b7b6f311e3066b9",
+      "size": 91326
+    }
+  },
+  "media_object": "intergalactic-01",
+  "published_files": {
+    "data/csv/bytes/intergalactic-01-cumulative-detail.2021-btiha-itemized-by-bytes.csv": "cdd0d657a8e3ae3e49ad90e64f18f68a7bffc78c78eb215567d3452990b49e97",
+    "docs/itemized/figures/intergalactic-01-carto-4k.webp": "e550e39d834ee7bfc190d5c228cf42e9381f265ecafbdbde9ad94a0ad42922d8",
+    "docs/itemized/figures/intergalactic-01-carto.png": "5d3890d1b8771817b2ad5b78eef168e51ddf07b4abce194071969e87c98218b5",
+    "docs/itemized/figures/intergalactic-01-cumulative-detail-btiha-itemized-by-bytes.svg": "114d8a4f388ebb83b5b12e66ec13b16ef37e5f845e27cc44569d91b056cc0aeb",
+    "docs/itemized/figures/intergalactic-01-data-ge-1080p-4k.webp": "77caa0550dc5b6ba23851548f4a126f11022709142ff1b23afaa098a76fa73a5",
+    "docs/itemized/figures/intergalactic-01-data-ge-1080p.webp": "55974c2f2114d13a952aacef2537037c522da9787782a017df3a91b7d29fcbc2",
+    "docs/itemized/figures/intergalactic-01-data-lt-1080p-4k.webp": "d578b4f725ccee57aab3172a788fb09230b4f7fb8540084feea2e8cea4e7cc18",
+    "docs/itemized/figures/intergalactic-01-data-lt-1080p.webp": "7e166593a63ca9ffd486646dbca0ca92f2982a6e553727c27c5df31c605922d9",
+    "docs/itemized/figures/intergalactic-01-downloads-by-day-day.svg": "e331c759a66c4bc2973ce66d957216848068ce473584660b361c2865b5873a55",
+    "docs/itemized/figures/intergalactic-01-downloads-by-week-intergalactic-01-week.svg": "85d86c229e6c6b9df1d38c9ff6f0aa4fb6ac1d3a75526dff167d82ca832ab375",
+    "docs/itemized/intergalactic-01-sample-cache-audit.md": "47590d088ae890885832b5075f83144b20836d09809f8bdba95738ee05b18072",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "84873e743da03017b556934ba0f591c7ba6b051e",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/intergalactic-01/tmp/intergalactic-01-cumulative-btiha.geojson",
+        "sha256": "3def5f44447377f9f0aa05be47140b196cbf752c85813ca2ef697755340b1326",
+        "size": 101095867
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/intergalactic-01/tmp/intergalactic-01-cumulative-btiha-media-objects.json",
+        "sha256": "34d7c69659473211634c042d15d412a622b0b488930cf6ea6e89334f026ef50f",
+        "size": 261366
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "intergalactic-01",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          82.0,
+          66.0,
+          61.0,
+          57.0,
+          53.0,
+          44.0,
+          41.0,
+          36.0,
+          28.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Columbus",
+          "Ashburn",
+          "London",
+          "New York City",
+          "Tokyo",
+          "Seattle",
+          "Seoul",
+          "Independence",
+          "Shanghai",
+          "Beijing"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          86.0,
+          66.0,
+          60.0,
+          53.0,
+          50.0,
+          44.0,
+          40.0,
+          36.0,
+          28.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Columbus",
+          "Ashburn",
+          "London",
+          "New York City",
+          "Seattle",
+          "Tokyo",
+          "Seoul",
+          "Independence",
+          "Shanghai",
+          "Beijing"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 24,
+        "y_tick_labels": 20
+      },
+      "histogram": {
+        "bars": 12,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 10,
+        "y_tick_labels": 20
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "84873e743da03017b556934ba0f591c7ba6b051e",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "903f8276e5f31a4387bb88a459e5012c544222f6",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "576c2b15dd1e39c011f3278699f852aced240cd0"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2021"
+}
