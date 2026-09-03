@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt10612922",
+    "imdb_id": "tt10612922",
+    "revision": "576c2b15dd1e39c011f3278699f852aced240cd0",
+    "wikidata_id": "Q83973479",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/One_Night_in_Miami..."
+  },
+  "coverage_sha256": "6172a49e8847a2da3debdc05fe561e5f070a86fa152b60439ea636b46c47c28e",
+  "generated_at": "2026-09-03T19:11:51.412064+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2021-archives/one-night-in-miami.cache/cache.20210325.tar.xz",
+      "sha256": "ea69f691ce025308860e3b99c7ee2784cc63c4d978684acd93cb3361ffa05fb1",
+      "size": 534491056
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-coverage-evidence/one-night-in-miami.md",
+      "sha256": "89b8ae2c8b4b6ff766f75f30bf8d5032a229cafebfbb82dda8ab7eb8f7e8e40f",
+      "size": 554
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-cache-stream-receipts/one-night-in-miami.json",
+      "sha256": "5742884447d27f22da04de20ecee025bcdde8677b72cd4622fff5f57673c56bf",
+      "size": 2453
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-product-receipts/one-night-in-miami.json",
+      "sha256": "fa6138137825c7a92c4b37e20aef620d995038f682479a3fb6cb7e5d033fad61",
+      "size": 370
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-control/worker-map.json",
+      "sha256": "8007c46b300872bb9f00ced6cb29d0e2aa49e73a513f4c30d0e8765a7e08ef2c",
+      "size": 89669
+    }
+  },
+  "media_object": "one-night-in-miami",
+  "published_files": {
+    "data/csv/bytes/one-night-in-miami-cumulative-detail.2021-btiha-itemized-by-bytes.csv": "55f9121804239ffd32cff53042cde4195dae1736c30ce883d294ff44908ea708",
+    "docs/itemized/figures/one-night-in-miami-carto-4k.webp": "5291973c2621b5049637fff0b672bf0406dfe35d8a1e08a37d5c7cacd7b294b3",
+    "docs/itemized/figures/one-night-in-miami-carto.png": "11c1844e682cf9c1f20e807dea5e4334c9c49c04d601516a5476e7a942ca4cd1",
+    "docs/itemized/figures/one-night-in-miami-cumulative-detail-btiha-itemized-by-bytes.svg": "8fd9a938b314d2082f13a5c6c78efbe085b254e365973f201ef5ccae7e8b2dbb",
+    "docs/itemized/figures/one-night-in-miami-data-ge-1080p-4k.webp": "3f624191a4307d2ed59ddb404934c0db3391d46a38f88950b4b41283e0045dac",
+    "docs/itemized/figures/one-night-in-miami-data-ge-1080p.webp": "ace123960120a8edbd2325ec2173d5f7b064bd41468a3df1f28231e767756d89",
+    "docs/itemized/figures/one-night-in-miami-data-lt-1080p-4k.webp": "b82daf34ec278f9f370ee6f71bd8e1729926e753b895191b4cb7545e3b39e137",
+    "docs/itemized/figures/one-night-in-miami-data-lt-1080p.webp": "eb91c5ad3e61c4ceffa1ef3543aa548edf064ef643ff1490bdd88510b7ac782b",
+    "docs/itemized/figures/one-night-in-miami-downloads-by-day-day.svg": "a85be1173ad811d6c61ed181d5f02a2833b9b5d6cfe581f916024522f7a017b1",
+    "docs/itemized/figures/one-night-in-miami-downloads-by-week-one-night-in-miami-week.svg": "2f2c99fdcdfd341bdd693f1cc9a2f9a1a37ebb9e6ef8a45b44d1073f69a817d2",
+    "docs/itemized/one-night-in-miami-sample-cache-audit.md": "7a783a153c37d2a1cc61c1dcf3138e932abbac20ca2a0b1affd37a448a88cf00",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "84873e743da03017b556934ba0f591c7ba6b051e",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/one-night-in-miami/tmp/one-night-in-miami-cumulative-btiha.geojson",
+        "sha256": "c1487e99341ea7f51331af07d046614e9d5000ffed5cb5e65d3a19b1c7e9210e",
+        "size": 53605845
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/one-night-in-miami/tmp/one-night-in-miami-cumulative-btiha-media-objects.json",
+        "sha256": "9aa9e46a59ff7b57f178c28d8496be582d6dc5701769b73e389be2c150fd8aa6",
+        "size": 204054
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "one-night-in-miami",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          73.0,
+          70.0,
+          56.0,
+          45.0,
+          43.0,
+          42.0,
+          39.0,
+          38.0,
+          32.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Columbus",
+          "New York City",
+          "London",
+          "Seattle",
+          "Ashburn",
+          "Seoul",
+          "Independence",
+          "Shanghai",
+          "Tokyo",
+          "Paris"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          64.0,
+          54.0,
+          52.0,
+          49.0,
+          44.0,
+          41.0,
+          40.0,
+          36.0,
+          28.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Columbus",
+          "New York City",
+          "London",
+          "Seattle",
+          "Tokyo",
+          "Ashburn",
+          "Seoul",
+          "Independence",
+          "Shanghai",
+          "Beijing"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 24,
+        "y_tick_labels": 20
+      },
+      "histogram": {
+        "bars": 27,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 4,
+        "x_tick_marks": 4,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 10,
+        "y_tick_labels": 20
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "84873e743da03017b556934ba0f591c7ba6b051e",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "903f8276e5f31a4387bb88a459e5012c544222f6",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "576c2b15dd1e39c011f3278699f852aced240cd0"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2021"
+}
