@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt9735318",
+    "imdb_id": "tt9735318",
+    "revision": "576c2b15dd1e39c011f3278699f852aced240cd0",
+    "wikidata_id": "Q88532913",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Beatles:_Get_Back"
+  },
+  "coverage_sha256": "cab08c8f9efc42440ef9f3efc6d5062849779fb832d484f3c2b0f554c2b45dbf",
+  "generated_at": "2026-09-03T17:47:47.979791+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2021-archives/beatles-get-back.cache/cache.20220310.tar.xz",
+      "sha256": "62806aaa626733d545f3c4e59e977e35e90db01ed85e79d35d1f6b8907ac3340",
+      "size": 1197139252
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-coverage-evidence/beatles-get-back.md",
+      "sha256": "a4145a74476f79586dc31b8b9ceb2d83ad50e63a4a381ecb82fc52a52f7eb531",
+      "size": 613
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-cache-stream-receipts/beatles-get-back.json",
+      "sha256": "95e6dc0ac0953672fd84ad76def1c1f0ff03521ca7acd37319c53fd431372926",
+      "size": 2744
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-product-receipts/beatles-get-back.json",
+      "sha256": "f779c2adb63ef509d6fa7c5e036f9218fdb1586b9a6d4c90eac9f84d69f05b86",
+      "size": 369
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-control/worker-map.json",
+      "sha256": "8007c46b300872bb9f00ced6cb29d0e2aa49e73a513f4c30d0e8765a7e08ef2c",
+      "size": 89669
+    }
+  },
+  "media_object": "beatles-get-back",
+  "published_files": {
+    "data/csv/bytes/beatles-get-back-cumulative-detail.2021-btiha-itemized-by-bytes.csv": "eac94410a1868c11a597d44a4604590efbedbb252ed1fa24cd9d24f784ad213e",
+    "docs/itemized/beatles-get-back-sample-cache-audit.md": "104f846e89943dc0be474af8893515cbcd42d6541c79b1688ee276cf6b5c88dc",
+    "docs/itemized/figures/beatles-get-back-carto-4k.webp": "20f40cec6a6d4bb1a947969ae28ebda0e60239f7e9d4627db4493e3a10e47c9c",
+    "docs/itemized/figures/beatles-get-back-carto.png": "0b892aad679228374c7f5e219c90d2204a458211d044fa72d97910a6f540889e",
+    "docs/itemized/figures/beatles-get-back-cumulative-detail-btiha-itemized-by-bytes.svg": "f283f93bbf26649dd3bb4bda253ddb0113b4200a3d18a3061482516b4caff77b",
+    "docs/itemized/figures/beatles-get-back-data-ge-1080p-4k.webp": "3f9886bb864cf945d4eb7b4cffe2152c6008953151dc20d0d85e92864cc2704f",
+    "docs/itemized/figures/beatles-get-back-data-ge-1080p.webp": "b62cb195faf4f09e99fba11dd9eb1b014ed83cc55f2b09655ad47bfc09b90b5d",
+    "docs/itemized/figures/beatles-get-back-data-lt-1080p-4k.webp": "8cda3a174f330ee79013489fed2a39f901fa0741252b580dcaee75dc409e33a1",
+    "docs/itemized/figures/beatles-get-back-data-lt-1080p.webp": "573275a014a2dbae4b8cf9543a318b94061596f5db2fff63046c228715b8437b",
+    "docs/itemized/figures/beatles-get-back-downloads-by-day-day.svg": "794e86bdc5cdc476932fe9639537702e82d79ce1f474ae16fe80d9f537294509",
+    "docs/itemized/figures/beatles-get-back-downloads-by-week-beatles-get-back-week.svg": "fba2d31714e3f46ac9ac20e329ad2408c22112941bcfd3cc0b80e670f161c44d",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "84873e743da03017b556934ba0f591c7ba6b051e",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/beatles-get-back/tmp/beatles-get-back-cumulative-btiha.geojson",
+        "sha256": "3d98aeb707ad530abdfb1d5a2d08ed92d3a4467fd2c9f6acd014dc5e3c04238c",
+        "size": 77914343
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/beatles-get-back/tmp/beatles-get-back-cumulative-btiha-media-objects.json",
+        "sha256": "a552a8e44643749f1f5e8e35529396053631b8d226d2fd09d99d226de817f13e",
+        "size": 559041
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "beatles-get-back",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          70.0,
+          63.0,
+          34.0,
+          34.0,
+          31.0,
+          30.0,
+          29.0,
+          27.0,
+          27.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "London",
+          "Moscow",
+          "Ashburn",
+          "Frankfurt am Main",
+          "New York City",
+          "Seoul",
+          "Amsterdam",
+          "Toronto",
+          "S\u00e3o Paulo",
+          "Sydney"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          79.0,
+          67.0,
+          41.0,
+          38.0,
+          32.0,
+          32.0,
+          32.0,
+          31.0,
+          27.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "London",
+          "Moscow",
+          "Ashburn",
+          "Seoul",
+          "New York City",
+          "S\u00e3o Paulo",
+          "Saint Petersburg",
+          "Amsterdam",
+          "Frankfurt am Main",
+          "Buenos Aires"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 24,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 15,
+        "y_tick_labels": 20
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "84873e743da03017b556934ba0f591c7ba6b051e",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "903f8276e5f31a4387bb88a459e5012c544222f6",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "576c2b15dd1e39c011f3278699f852aced240cd0"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2021"
+}
