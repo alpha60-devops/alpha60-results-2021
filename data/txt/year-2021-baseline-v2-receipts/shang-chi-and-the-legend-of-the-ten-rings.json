@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt9376612",
+    "imdb_id": "tt9376612",
+    "revision": "576c2b15dd1e39c011f3278699f852aced240cd0",
+    "wikidata_id": "Q65768589",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Shang-Chi_and_the_Legend_of_the_Ten_Rings"
+  },
+  "coverage_sha256": "e3587f2ea0131ee046cc0afbdf9799da60dd1ea709f233158affb955f24d94dc",
+  "generated_at": "2026-09-03T20:39:39.048002+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2021-archives/shang-chi-and-the-legend-of-the-ten-rings.cache/cache.20220511.tar.xz",
+      "sha256": "2c6526abdaa04d4df946bdfb81a649979e6038eb4c53d15d8b2ace767a9b545c",
+      "size": 10487808312
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-coverage-evidence/shang-chi-and-the-legend-of-the-ten-rings.md",
+      "sha256": "446433341b9e01a49a3ee778ab71ed65a4bfcb628bb92d4ca744e1796e6317eb",
+      "size": 579
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-cache-stream-receipts/shang-chi-and-the-legend-of-the-ten-rings.json",
+      "sha256": "659a15be20bc374c39e6c0bf9847e1dc4cc215e8fdb2139e75a1d48d07a8200c",
+      "size": 3521
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-product-receipts/shang-chi-and-the-legend-of-the-ten-rings.json",
+      "sha256": "8cf4224669627496f0e6030d557df096b809a945060bad6cae142ddb7bb81d32",
+      "size": 395
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-control/worker-map.json",
+      "sha256": "8007c46b300872bb9f00ced6cb29d0e2aa49e73a513f4c30d0e8765a7e08ef2c",
+      "size": 89669
+    }
+  },
+  "media_object": "shang-chi-and-the-legend-of-the-ten-rings",
+  "published_files": {
+    "data/csv/bytes/shang-chi-and-the-legend-of-the-ten-rings-cumulative-detail.2021-btiha-itemized-by-bytes.csv": "1d7f44652484a256b0c2c6402c655c2a407c16ac94ad6c2ff8528d27560b8827",
+    "docs/itemized/figures/shang-chi-and-the-legend-of-the-ten-rings-carto-4k.webp": "2691ba5a052b9fd92765e0dcd641c45213dac6d49e50ae89db9e9829350ee9b0",
+    "docs/itemized/figures/shang-chi-and-the-legend-of-the-ten-rings-carto.png": "052a6e4fa049658dcb6df7bbea923cd42893e854f2a4de33693d798947bf9dc9",
+    "docs/itemized/figures/shang-chi-and-the-legend-of-the-ten-rings-cumulative-detail-btiha-itemized-by-bytes.svg": "d1d8d899cc990c2c6ca401179a786229d878dcfaa04dc3870e8f5c85d32373cd",
+    "docs/itemized/figures/shang-chi-and-the-legend-of-the-ten-rings-data-ge-1080p-4k.webp": "a260bb94c13ffa9cfbfa337e7c11d3518139caf8e421207c57d558f64e830730",
+    "docs/itemized/figures/shang-chi-and-the-legend-of-the-ten-rings-data-ge-1080p.webp": "8c26d6d6da7fe3858a3b9ed039e22d23c595a46121e52c977e70808e355a1b45",
+    "docs/itemized/figures/shang-chi-and-the-legend-of-the-ten-rings-data-lt-1080p-4k.webp": "ec138560d50118588940fad38d5808d5f8734a6549fc187efae5fa70d4911077",
+    "docs/itemized/figures/shang-chi-and-the-legend-of-the-ten-rings-data-lt-1080p.webp": "66fddcb1e1ddaf7a3c5c97c71caeb3858bc43f4e34e4b290b9509e8d4e75f4f8",
+    "docs/itemized/figures/shang-chi-and-the-legend-of-the-ten-rings-downloads-by-day-day.svg": "3f5df1b6cae44f0c29df701719b3e748ba6bf2a96b0b1c0b662a047629c9e5e7",
+    "docs/itemized/figures/shang-chi-and-the-legend-of-the-ten-rings-downloads-by-week-shang-chi-and-the-legend-of-the-ten-rings-week.svg": "b8044311ee4a8e7f03c30a44f0490673a75e306015eaaa4b7b68d09e1c71ef17",
+    "docs/itemized/shang-chi-and-the-legend-of-the-ten-rings-sample-cache-audit.md": "201f6d8bbb919661632fd0a14f835ff7d683229e090ee2a012ccb2bb20450a6f",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "84873e743da03017b556934ba0f591c7ba6b051e",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/shang-chi-and-the-legend-of-the-ten-rings/tmp/shang-chi-and-the-legend-of-the-ten-rings-cumulative-btiha.geojson",
+        "sha256": "58c736a2bd26268194f312f38684b4a2375f4f68a7eb9263e59b9efabac9d1e4",
+        "size": 261299366
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/shang-chi-and-the-legend-of-the-ten-rings/tmp/shang-chi-and-the-legend-of-the-ten-rings-cumulative-btiha-media-objects.json",
+        "sha256": "1937fcecf2976faa8b31f9b288b9f85ae13f13ea9a56358a80034f44aaf5110b",
+        "size": 2870880
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "shang-chi-and-the-legend-of-the-ten-rings",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          45.0,
+          38.0,
+          37.0,
+          35.0,
+          35.0,
+          34.0,
+          32.0,
+          31.0,
+          27.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "London",
+          "Ashburn",
+          "Quezon City",
+          "Seoul",
+          "Mumbai",
+          "Saint Petersburg",
+          "Johannesburg",
+          "Shanghai",
+          "S\u00e3o Paulo"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          56.0,
+          47.0,
+          38.0,
+          34.0,
+          33.0,
+          33.0,
+          31.0,
+          30.0,
+          29.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Mumbai",
+          "London",
+          "Ashburn",
+          "Seoul",
+          "Shanghai",
+          "Saint Petersburg",
+          "Delhi",
+          "Johannesburg",
+          "Quezon City"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 58,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 27,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "84873e743da03017b556934ba0f591c7ba6b051e",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "903f8276e5f31a4387bb88a459e5012c544222f6",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "576c2b15dd1e39c011f3278699f852aced240cd0"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2021"
+}
