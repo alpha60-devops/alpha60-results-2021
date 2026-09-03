@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt10838180",
+    "imdb_id": "tt10838180",
+    "revision": "576c2b15dd1e39c011f3278699f852aced240cd0",
+    "wikidata_id": "Q80322391",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Matrix_Resurrections"
+  },
+  "coverage_sha256": "a974c8b173564bb7d4b51c68d092fecda39dad37a2bc4f416ee454caf8660b62",
+  "generated_at": "2026-09-03T21:04:08.688178+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2021-archives/matrix-resurrections.cache/cache.20220621.tar.xz",
+      "sha256": "44812188a5e5334e110c289e751d514f94364f134632253824b1c0a6955b1cd6",
+      "size": 11829652096
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-coverage-evidence/matrix-resurrections.md",
+      "sha256": "a81313df0a2d6a3cf400de001608231f359ff9f2faaa0b3749f33d4149b5d11c",
+      "size": 558
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-cache-stream-receipts/matrix-resurrections.json",
+      "sha256": "913015379299e700e3788b5bdf7f32ef1a727b0624cbeb5c8d79dad5ad5067d1",
+      "size": 3449
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-product-receipts/matrix-resurrections.json",
+      "sha256": "1fa2f3fd04541be360d0ce29ee26c4b69518117ed29efa789cbef33f9ad1e56e",
+      "size": 374
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-control/worker-map.json",
+      "sha256": "7579d04c5dcdc59b240a95af1b60b0ea4d32d602a822e3a67b7b6f311e3066b9",
+      "size": 91326
+    }
+  },
+  "media_object": "matrix-resurrections",
+  "published_files": {
+    "data/csv/bytes/matrix-resurrections-cumulative-detail.2021-btiha-itemized-by-bytes.csv": "1ea61e67e7dcd1618fdadb2f566e2448d2c8aa93d0a906264741e6c8fe2cbcad",
+    "docs/itemized/figures/matrix-resurrections-carto-4k.webp": "3fe10e5dfcd92f1ee11e02f361d77477d7850c491af7aaa315720e0f5b4fbd9a",
+    "docs/itemized/figures/matrix-resurrections-carto.png": "02324b51dc62ce4ebd239b5cbc8f85530553120692e27be17429f7929b789241",
+    "docs/itemized/figures/matrix-resurrections-cumulative-detail-btiha-itemized-by-bytes.svg": "1314c2442f5c67632a003dfe05d50dadd64d3a6e91f69274a9b35a690f09e540",
+    "docs/itemized/figures/matrix-resurrections-data-ge-1080p-4k.webp": "a6ee3c20a2ffadb48871738895b05f01d856e178675836fcfc3a0760098804dc",
+    "docs/itemized/figures/matrix-resurrections-data-ge-1080p.webp": "2cd69bef47ba1f32608f74836f4f2a21d2c3073fe1fe017c774a29cce5a9ada3",
+    "docs/itemized/figures/matrix-resurrections-data-lt-1080p-4k.webp": "4a1291dc4ba9498e9f4d0dd167f0e89feb1ef7f22217ff1ade7b42c734df40a8",
+    "docs/itemized/figures/matrix-resurrections-data-lt-1080p.webp": "061dee827ecd64dee947ca82ada55926ef043aaece7667e2e86f11a3dade4073",
+    "docs/itemized/figures/matrix-resurrections-downloads-by-day-day.svg": "09e9f49b52b978cf9ec735bfd0c5a106f327b859d5c014ad72ac8efef5712805",
+    "docs/itemized/figures/matrix-resurrections-downloads-by-week-matrix-resurrections-week.svg": "c4fb9c43c9f11f1b1c4fe6f8e18a1ce5bfa84c4bc420482815b0c5de48ccf064",
+    "docs/itemized/matrix-resurrections-sample-cache-audit.md": "c1a1ff73e5e19fbeb2d75e5813dbe4f7be3b639f91fdbe57478bf48bab2cac53",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "84873e743da03017b556934ba0f591c7ba6b051e",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/matrix-resurrections/tmp/matrix-resurrections-cumulative-btiha.geojson",
+        "sha256": "2b2620d01b3772caff3dfc473341c98cb481359ebe49462275fa71f79385e28d",
+        "size": 274445467
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/matrix-resurrections/tmp/matrix-resurrections-cumulative-btiha-media-objects.json",
+        "sha256": "5477eaabfafd154ff6efc22aa8a6e6a30e24143d26b0f4dd375cef490c264655",
+        "size": 1273303
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "matrix-resurrections",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          37.0,
+          35.0,
+          34.0,
+          34.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "London",
+          "Ashburn",
+          "Saint Petersburg",
+          "Seoul",
+          "Leipzig",
+          "Shanghai",
+          "Mumbai",
+          "S\u00e3o Paulo",
+          "Johannesburg"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          86.0,
+          50.0,
+          47.0,
+          46.0,
+          39.0,
+          37.0,
+          36.0,
+          34.0,
+          32.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "London",
+          "Johannesburg",
+          "Ashburn",
+          "Mumbai",
+          "Seoul",
+          "Shanghai",
+          "S\u00e3o Paulo",
+          "Saint Petersburg",
+          "Delhi"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 43,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 26,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "84873e743da03017b556934ba0f591c7ba6b051e",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "903f8276e5f31a4387bb88a459e5012c544222f6",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "576c2b15dd1e39c011f3278699f852aced240cd0"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2021"
+}
