@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt14731142",
+    "imdb_id": "tt14731142",
+    "revision": "576c2b15dd1e39c011f3278699f852aced240cd0",
+    "wikidata_id": "Q108858413",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Princess_Switch_3:_Romancing_the_Star"
+  },
+  "coverage_sha256": "710374b7934e0e2502b267f797ca22103cb13eeb86d1650877cf1c82705c2260",
+  "generated_at": "2026-09-03T21:52:45.736276+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2021-archives/princess-switch-3.cache/cache.20220127.tar.xz",
+      "sha256": "9ffd874cdd1ef63cb92493b79ebbca2b048e3372a59711f48f2b1f234b53d24b",
+      "size": 110877344
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-coverage-evidence/princess-switch-3.md",
+      "sha256": "eda70fecd07ec6136415d457b92c0b680079194cb76dd35899f35cde62a81e14",
+      "size": 553
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-cache-stream-receipts/princess-switch-3.json",
+      "sha256": "8163b15d256db5d61815ef330ca359dc8b55ef25013522a4c78635a762c785a8",
+      "size": 2450
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-product-receipts/princess-switch-3.json",
+      "sha256": "8d6efddc556f3709fb3b7c7c4819aa18bec0d0e25837b17382f90e6a79ea1142",
+      "size": 369
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-control/worker-map.json",
+      "sha256": "7579d04c5dcdc59b240a95af1b60b0ea4d32d602a822e3a67b7b6f311e3066b9",
+      "size": 91326
+    }
+  },
+  "media_object": "princess-switch-3",
+  "published_files": {
+    "data/csv/bytes/princess-switch-3-cumulative-detail.2021-btiha-itemized-by-bytes.csv": "dc9cd4fc047262a80b80ff027dbe32f32e92e15f04bcbcedad78557fbd3054b2",
+    "docs/itemized/figures/princess-switch-3-carto-4k.webp": "85e77d17e142b285421dd0fc10ea5dcd0d7c6674c63859aff779ce831c1309e6",
+    "docs/itemized/figures/princess-switch-3-carto.png": "12077335c5d0d7650415e8d4cff433fc2ea8cf475dc5789c11d1f6134a8707a3",
+    "docs/itemized/figures/princess-switch-3-cumulative-detail-btiha-itemized-by-bytes.svg": "adb4bdca51c2a24bf1a3b027d187a49ed59ff1637ffd03d5547637d80048cdaa",
+    "docs/itemized/figures/princess-switch-3-data-ge-1080p-4k.webp": "4aec1ada624e5fc6734661ee80bd9ca3a31f001da23ac10812425263b9b716fd",
+    "docs/itemized/figures/princess-switch-3-data-ge-1080p.webp": "8f95c2be43ee4c7887f8727c310725c5957bd3ff56f3fb3d0c37ed092482b21f",
+    "docs/itemized/figures/princess-switch-3-data-lt-1080p-4k.webp": "17c3bbd38dc8dafa64d8a63272c74bd68e72bff5ea4d25a17fb17054690a9660",
+    "docs/itemized/figures/princess-switch-3-data-lt-1080p.webp": "a53b28fec6d1154be0286fba4111d5164c6a9820f3a4cc816ef31275e245d02b",
+    "docs/itemized/figures/princess-switch-3-downloads-by-day-day.svg": "fb79eff82b3fe7f963dab2e6a995d1d453e8dd6f747e4deb87b2be7ca1f8096f",
+    "docs/itemized/figures/princess-switch-3-downloads-by-week-princess-switch-3-week.svg": "f23bbfd82d268a2f3b4633ee52438e8340f4058e8867915e21ab31dfb4b6dc7a",
+    "docs/itemized/princess-switch-3-sample-cache-audit.md": "adb9b4aa81afaa110269d51db387c8f3acaf55908d5dc0763ca7bf60e92e290d",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "84873e743da03017b556934ba0f591c7ba6b051e",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/princess-switch-3/tmp/princess-switch-3-cumulative-btiha.geojson",
+        "sha256": "c48c986800bc239be4ce5c377c9891907bb3dd676ffdb456478193f7ad5ead67",
+        "size": 12760934
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/princess-switch-3/tmp/princess-switch-3-cumulative-btiha-media-objects.json",
+        "sha256": "21bbff22b3340f3168b4f4484ba66f32121d32f0ba1ecd512e45d181b520df46",
+        "size": 202255
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "princess-switch-3",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          69.0,
+          37.0,
+          33.0,
+          27.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Ashburn",
+          "Saint Petersburg",
+          "Seoul",
+          "Johannesburg",
+          "Quezon City",
+          "Nairobi",
+          "London",
+          "Council Bluffs",
+          "Antananarivo"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          72.0,
+          31.0,
+          29.0,
+          28.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Ashburn",
+          "Moscow",
+          "Council Bluffs",
+          "Seoul",
+          "Saint Petersburg",
+          "Quezon City",
+          "London",
+          "Lelystad",
+          "Novosibirsk",
+          "Amsterdam"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 24,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 30,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 4,
+        "x_tick_marks": 4,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 10,
+        "y_tick_labels": 20
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "84873e743da03017b556934ba0f591c7ba6b051e",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "903f8276e5f31a4387bb88a459e5012c544222f6",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "576c2b15dd1e39c011f3278699f852aced240cd0"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2021"
+}
