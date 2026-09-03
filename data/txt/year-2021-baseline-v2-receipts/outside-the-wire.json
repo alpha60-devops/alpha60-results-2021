@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt10451914",
+    "imdb_id": "tt10451914",
+    "revision": "576c2b15dd1e39c011f3278699f852aced240cd0",
+    "wikidata_id": "Q104241071",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Outside_the_Wire"
+  },
+  "coverage_sha256": "6172a49e8847a2da3debdc05fe561e5f070a86fa152b60439ea636b46c47c28e",
+  "generated_at": "2026-09-03T21:51:28.742666+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2021-archives/outside-the-wire.cache/cache.20210325.tar.xz",
+      "sha256": "bd207cf293acbc95a3db804ee50206447aa7b29691e325b763f976be82ffdd08",
+      "size": 1610027332
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-coverage-evidence/outside-the-wire.md",
+      "sha256": "14ea230397699864649d58cbc3e6927cff82936a2da4b967b957951c688d052e",
+      "size": 552
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-cache-stream-receipts/outside-the-wire.json",
+      "sha256": "190699341ad8f0995883108595aba810ee4b59ce4707db64c422ea85394737c1",
+      "size": 2449
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-product-receipts/outside-the-wire.json",
+      "sha256": "e564a84a16f98d91f282bf7b4bd7e97613118738959c97308004db5ff90db2c4",
+      "size": 368
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-control/worker-map.json",
+      "sha256": "7579d04c5dcdc59b240a95af1b60b0ea4d32d602a822e3a67b7b6f311e3066b9",
+      "size": 91326
+    }
+  },
+  "media_object": "outside-the-wire",
+  "published_files": {
+    "data/csv/bytes/outside-the-wire-cumulative-detail.2021-btiha-itemized-by-bytes.csv": "f83bd1a12fd1c582cf1a073abce3e8a7289381655acbb4438b42cf5845636508",
+    "docs/itemized/figures/outside-the-wire-carto-4k.webp": "cf684d9247826ae4dfd625c0142714539fcd154c40856f1fc77a38506eae7e84",
+    "docs/itemized/figures/outside-the-wire-carto.png": "db81084b6f6c6e32f64a9939c5cd98c1c9184ef574d13a2b6b07b4a15eabd8df",
+    "docs/itemized/figures/outside-the-wire-cumulative-detail-btiha-itemized-by-bytes.svg": "6cc3d814fa1f5ac62748740983330e587e80596219a091c78ef408a5ded2833d",
+    "docs/itemized/figures/outside-the-wire-data-ge-1080p-4k.webp": "907056ca49f55d5360f7e8a5c4855f5e8b442df67cbde5ad51cb53e7c6a46a5b",
+    "docs/itemized/figures/outside-the-wire-data-ge-1080p.webp": "9013be34cbe09221af4f690ff5bfe88092abefb3529ba0192ccb48a11cf0f254",
+    "docs/itemized/figures/outside-the-wire-data-lt-1080p-4k.webp": "32709becc80d445a1286e18d19b6c20a2d7e1772dea79979a2fda95254eaac27",
+    "docs/itemized/figures/outside-the-wire-data-lt-1080p.webp": "99b8dcd402c7f78757a4ec609bce369ab6620d58fbb2fd24ad761e3a3629ba96",
+    "docs/itemized/figures/outside-the-wire-downloads-by-day-day.svg": "159084d1f9dfc98eedb9969c0b7a591486ea2b129250d056e49b9985ba69449e",
+    "docs/itemized/figures/outside-the-wire-downloads-by-week-outside-the-wire-week.svg": "4e42f6281c6f8763c13aa125b47cf96ba31a6f786103aa52246be1adf5cb3b4a",
+    "docs/itemized/outside-the-wire-sample-cache-audit.md": "27b2721d3106aff707141c448a0f8cffde1ec35ca254c1d562ca55977dcfb9e7",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "84873e743da03017b556934ba0f591c7ba6b051e",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/outside-the-wire/tmp/outside-the-wire-cumulative-btiha.geojson",
+        "sha256": "c6f4d66e44da3240391e68d149aa5a3dc802a0bf4b64d940e74225d6aae7df02",
+        "size": 43859478
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/outside-the-wire/tmp/outside-the-wire-cumulative-btiha-media-objects.json",
+        "sha256": "aed88a559b6176961dd4ca371e9834df50a3fbbd346ae664076420f918ce3eee",
+        "size": 258383
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "outside-the-wire",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          55.0,
+          36.0,
+          36.0,
+          35.0,
+          29.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Mumbai",
+          "Krasnodar",
+          "Saint Petersburg",
+          "Quezon City",
+          "Kyiv",
+          "Rostov-on-Don",
+          "London",
+          "Nairobi",
+          "Nizhniy Novgorod"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          36.0,
+          32.0,
+          28.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Saint Petersburg",
+          "Krasnodar",
+          "Kyiv",
+          "Rostov-on-Don",
+          "Nairobi",
+          "Quezon City",
+          "Nizhniy Novgorod",
+          "Yekaterinburg",
+          "Novosibirsk"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 24,
+        "y_tick_labels": 20
+      },
+      "histogram": {
+        "bars": 30,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 10,
+        "y_tick_labels": 20
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "84873e743da03017b556934ba0f591c7ba6b051e",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "903f8276e5f31a4387bb88a459e5012c544222f6",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "576c2b15dd1e39c011f3278699f852aced240cd0"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2021"
+}
