@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt2382320",
+    "imdb_id": "tt2382320",
+    "revision": "576c2b15dd1e39c011f3278699f852aced240cd0",
+    "wikidata_id": "Q21534241",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/No_Time_to_Die"
+  },
+  "coverage_sha256": "223bd653f6dc24415ca5514a6b218b3d60799ce6596ed46535de28e6dcb095f5",
+  "generated_at": "2026-09-03T21:40:57.436070+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2021-archives/no-time-to-die.cache/cache.20220228.tar.xz",
+      "sha256": "e5b20195efd9fbb3ecf9e01a469cfbf114ce3a10cefd94e808a6a67b71dc6849",
+      "size": 7062307232
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-coverage-evidence/no-time-to-die.md",
+      "sha256": "338fff07920632b108daef1f11a83c88402eaea3062ad96d5854b9dd910cc1ab",
+      "size": 552
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-cache-stream-receipts/no-time-to-die.json",
+      "sha256": "f3a7f2a91e6ac4acd5367521c349efacba7b3497d3359b0899730e9f4dc29343",
+      "size": 2800
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-product-receipts/no-time-to-die.json",
+      "sha256": "f44650d5cfb0159778bb0a105cff4ee657f6bfb57d4b7e51c01d7e6603d581a2",
+      "size": 368
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-control/worker-map.json",
+      "sha256": "7579d04c5dcdc59b240a95af1b60b0ea4d32d602a822e3a67b7b6f311e3066b9",
+      "size": 91326
+    }
+  },
+  "media_object": "no-time-to-die",
+  "published_files": {
+    "data/csv/bytes/no-time-to-die-cumulative-detail.2021-btiha-itemized-by-bytes.csv": "88d4137eb532252cdf30d187b406d7b8d7f52de0d3b7e5d49a7346167b1e0e43",
+    "docs/itemized/figures/no-time-to-die-carto-4k.webp": "0608278d4a0f0fc15c0c671f6b12b46b55d9c7626bf8ae737721f15d0c48ff3e",
+    "docs/itemized/figures/no-time-to-die-carto.png": "0abe961c207565409aeacd2f9472261c16bb333ff530cbe0dbcbdb9ccf0e8b22",
+    "docs/itemized/figures/no-time-to-die-cumulative-detail-btiha-itemized-by-bytes.svg": "04ff95157a0104935b6931eaa3d01f3f00bafec23640fc7cabe9fde0e153ace5",
+    "docs/itemized/figures/no-time-to-die-data-ge-1080p-4k.webp": "5b46dda78905c1c690637391280bbcd6e474a61215a9001937dc1343453aa6d7",
+    "docs/itemized/figures/no-time-to-die-data-ge-1080p.webp": "1794363c9c5b38698900821e9efe8d71a10dcb481322758bfe49b1bd4f9505a5",
+    "docs/itemized/figures/no-time-to-die-data-lt-1080p-4k.webp": "499f5ac0009a615eca284bfc2e432a1081f71f56183ef4fd7fc3f74248b1f25d",
+    "docs/itemized/figures/no-time-to-die-data-lt-1080p.webp": "9c0cf769b7589d35cf16a5718268945982bf68e960a72d0eb47f3449be0ff69e",
+    "docs/itemized/figures/no-time-to-die-downloads-by-day-day.svg": "dbed98852b16e3f05db6475b3763bf166d907453d0449be55645efe72bb7d984",
+    "docs/itemized/figures/no-time-to-die-downloads-by-week-no-time-to-die-week.svg": "9201fcd64c5bc34f3ae25bfd76e9145a81eeb9ba2575308e1e0b92c700e6da5f",
+    "docs/itemized/no-time-to-die-sample-cache-audit.md": "b9b795e352961030368f615a4fc7905288fa1184e3da15d9891f67b1cc3e6c9d",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "84873e743da03017b556934ba0f591c7ba6b051e",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/no-time-to-die/tmp/no-time-to-die-cumulative-btiha.geojson",
+        "sha256": "65fca46ba1bf78e52785f573d390f7a2552097ee1dc6d0ef5fc56d2779033037",
+        "size": 184198957
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/no-time-to-die/tmp/no-time-to-die-cumulative-btiha-media-objects.json",
+        "sha256": "48537f3c3578faa2a7eb4e18ce2756edbffc02d083892c5ba5e1f9cfd4202754",
+        "size": 827047
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "no-time-to-die",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          72.0,
+          50.0,
+          43.0,
+          34.0,
+          34.0,
+          33.0,
+          27.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "London",
+          "Shanghai",
+          "Seoul",
+          "Saint Petersburg",
+          "Ashburn",
+          "Shenzhen",
+          "Mumbai",
+          "New York City",
+          "Amsterdam"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          78.0,
+          64.0,
+          39.0,
+          37.0,
+          35.0,
+          35.0,
+          34.0,
+          32.0,
+          30.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "London",
+          "Mumbai",
+          "Johannesburg",
+          "Delhi",
+          "Seoul",
+          "Quezon City",
+          "Saint Petersburg",
+          "Ashburn",
+          "Bengaluru"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 23,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 47,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 16,
+        "y_tick_labels": 20
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "84873e743da03017b556934ba0f591c7ba6b051e",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "903f8276e5f31a4387bb88a459e5012c544222f6",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "576c2b15dd1e39c011f3278699f852aced240cd0"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2021"
+}
