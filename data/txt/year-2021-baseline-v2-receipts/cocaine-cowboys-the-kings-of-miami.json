@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt15049206",
+    "imdb_id": "tt15049206",
+    "revision": "576c2b15dd1e39c011f3278699f852aced240cd0",
+    "wikidata_id": "Q107928810",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cocaine_Cowboys:_The_Kings_of_Miami"
+  },
+  "coverage_sha256": "842c4366f437c9d28d21bf6ab755a4c3a88e4fd7153a4083c7db8fb3ba767df6",
+  "generated_at": "2026-09-03T15:57:57.329558+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2021-archives/cocaine-cowboys-the-kings-of-miami.cache/cache.20211012.tar.xz",
+      "sha256": "af602e3cee2b6fd539e43d279c11321188a2c5bb918c2111cae9187b67954b43",
+      "size": 75015648
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-coverage-evidence/cocaine-cowboys-the-kings-of-miami.md",
+      "sha256": "7a5a4a393f46a8ba949518628ee49157053ac6675d947866417aba2d636832c8",
+      "size": 570
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-cache-stream-receipts/cocaine-cowboys-the-kings-of-miami.json",
+      "sha256": "fc3ec8bae201e55dce09484a4867d8da7519a639295a130aadaca722f90b9fa6",
+      "size": 2501
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-product-receipts/cocaine-cowboys-the-kings-of-miami.json",
+      "sha256": "57dd5098c59cc02a3037fc4bc983df657ae0046314751e0956426487d78028e3",
+      "size": 386
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-control/worker-map.json",
+      "sha256": "8007c46b300872bb9f00ced6cb29d0e2aa49e73a513f4c30d0e8765a7e08ef2c",
+      "size": 89669
+    }
+  },
+  "media_object": "cocaine-cowboys-the-kings-of-miami",
+  "published_files": {
+    "data/csv/bytes/cocaine-cowboys-the-kings-of-miami-cumulative-detail.2021-btiha-itemized-by-bytes.csv": "f32305eaf36d36459363edb63ef021132d2af2a7fdd89dc679357870b87813d7",
+    "docs/itemized/cocaine-cowboys-the-kings-of-miami-sample-cache-audit.md": "b9a23d7ac5687fb92a41099ea5e41535e138864920e11df5bd57240e8f145721",
+    "docs/itemized/figures/cocaine-cowboys-the-kings-of-miami-carto-4k.webp": "d997f97070f3a808a49e87f835b7201a596d6231571bacae8921dd1d16fee467",
+    "docs/itemized/figures/cocaine-cowboys-the-kings-of-miami-carto.png": "cf73f89d322366a767a7766c6a10e2c49d8c6060ab09f7b999a5cbb6db521538",
+    "docs/itemized/figures/cocaine-cowboys-the-kings-of-miami-cumulative-detail-btiha-itemized-by-bytes.svg": "b789d12aa3e24e02762bf405b06bc10ad25c2ca8d50afc3ff7caf6c6b10de176",
+    "docs/itemized/figures/cocaine-cowboys-the-kings-of-miami-data-ge-1080p-4k.webp": "666d299f9fdf2895bfb616ba40b11c8ac71eb3b523d5c532c63a3f90d4db3425",
+    "docs/itemized/figures/cocaine-cowboys-the-kings-of-miami-data-ge-1080p.webp": "58cae746426bbd8a60f33f2d63b5a15305222590434cf89ac3c2871b3105b410",
+    "docs/itemized/figures/cocaine-cowboys-the-kings-of-miami-data-lt-1080p-4k.webp": "4a8450f5b3ec9e921a8cdd38056226e300fd94bda5c3acef7d4b025a73007e31",
+    "docs/itemized/figures/cocaine-cowboys-the-kings-of-miami-data-lt-1080p.webp": "ca76bcbe8d0a9dff9abc9fe24588db7a12e1b349594b923ad7855762c5bf9890",
+    "docs/itemized/figures/cocaine-cowboys-the-kings-of-miami-downloads-by-day-day.svg": "3cd3d472ff48175f183decf3267e8de7153ff841dd6129c3d79b18413bbacf7a",
+    "docs/itemized/figures/cocaine-cowboys-the-kings-of-miami-downloads-by-week-cocaine-cowboys-the-kings-of-miami-week.svg": "199742b933684c7ac2ad49ebb0bd092951216e7b5e124af631356d90e00c6fec",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "ef2f1a44d929ff9d6b2e6439cd8ada9ef932e2dc",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/cocaine-cowboys-the-kings-of-miami/tmp/cocaine-cowboys-the-kings-of-miami-cumulative-btiha.geojson",
+        "sha256": "6b72408da22e8b592aaf5781dd74adffd1cad4fe8c80964c3205a723ee787fbc",
+        "size": 27349456
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/cocaine-cowboys-the-kings-of-miami/tmp/cocaine-cowboys-the-kings-of-miami-cumulative-btiha-media-objects.json",
+        "sha256": "803987bcfc2da6acd5e6d9e0c73e9fb4dfb2464c8be04d45681ed25831a213f3",
+        "size": 311770
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "cocaine-cowboys-the-kings-of-miami",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          78.0,
+          60.0,
+          59.0,
+          58.0,
+          53.0,
+          49.0,
+          41.0,
+          39.0,
+          30.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Columbus",
+          "Ashburn",
+          "New York City",
+          "London",
+          "Tokyo",
+          "Seattle",
+          "Seoul",
+          "Independence",
+          "Shanghai",
+          "Beijing"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          77.0,
+          56.0,
+          54.0,
+          50.0,
+          48.0,
+          44.0,
+          36.0,
+          33.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Ashburn",
+          "Columbus",
+          "London",
+          "New York City",
+          "Tokyo",
+          "Seattle",
+          "Seoul",
+          "Independence",
+          "Shanghai",
+          "Moscow"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 24,
+        "y_tick_labels": 20
+      },
+      "histogram": {
+        "bars": 24,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 6,
+        "x_tick_marks": 6,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 10,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "ef2f1a44d929ff9d6b2e6439cd8ada9ef932e2dc",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "903f8276e5f31a4387bb88a459e5012c544222f6",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "576c2b15dd1e39c011f3278699f852aced240cd0"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2021"
+}
