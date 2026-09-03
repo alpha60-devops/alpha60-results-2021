@@ -1,0 +1,3142 @@
+{
+    "collection_name": "For All Mankind",
+    "collection_id": "201",
+    "collection_key": "for-all-mankind-201",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "collection_btiha_duplicates": [
+        {
+            "duplicate_id": 0,
+            "duplicate_btih": "0117ae535ee17e1a1b8952a78061063bf16f4cd5",
+            "duplicate_0_0": "For All Mankind S02E01 Every Little Thing  [1080p x265 10bit S91 Joy].mkv",
+            "duplicate_0_1": "For-All-Mankind-S02E01-Every-Little-Thing-[1080p-x265-10bit-S91-Joy]"
+        },
+        {
+            "duplicate_id": 1,
+            "duplicate_btih": "a45c9f47034340cbace568b4494b545aad26e6cf",
+            "duplicate_1_0": "For All Mankind s02e01 Every Little Thing 1080p WEBrip x265 DDP5.1 D0ct0rLew[SEV]",
+            "duplicate_1_1": "For-All-Mankind-s02e01-Every-Little-Thing-1080p-WEBrip-x265-DDP5-1-D0ct0rLew[SEV]"
+        },
+        {
+            "duplicate_id": 2,
+            "duplicate_btih": "8df1c78501827c31e864d8c8f67017d7856cdd2c",
+            "duplicate_2_0": "For-All-Mankind-S02E01-1080p-WEB-H264",
+            "duplicate_2_1": "For.All.Mankind.S02E01.1080p.WEB.H264-GGWP[rarbg]",
+            "duplicate_2_2": "For.All.Mankind.S02E01.1080p.WEB.H264-GGWP[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 3,
+            "duplicate_btih": "38bfc492c03bccc21a4d1139b1e5448d69f58e7d",
+            "duplicate_3_0": "For-All-Mankind-S02E01-WEB-x264-PHOENiX[eztv-re]",
+            "duplicate_3_1": "For.All.Mankind.S02E01.WEB.x264-PHOENiX[eztv.re].mkv"
+        },
+        {
+            "duplicate_id": 4,
+            "duplicate_btih": "54c49c02dde14bcabc14ac2c803cd2881777fcc6",
+            "duplicate_4_0": "For.All.Mankind.S02.1080p.ATVP.WEB-DL.DDP5.1.H.264-EniaHD",
+            "duplicate_4_1": "Ради всего человечества For All Mankind Сезон 2 Серии 1 из 10 (Майкл Моррис) [2021, США, фантастика, драма, WEB-DL 1080p] [rutracker-6013808]"
+        },
+        {
+            "duplicate_id": 5,
+            "duplicate_btih": "7efc0c9af465136800512e356bf69882512dad12",
+            "duplicate_5_0": "For.All.Mankind.S02.WEBDL.720p.Rus.Eng",
+            "duplicate_5_1": "Ради всего человечества For All Mankind Сезон 2 Серии 1 из 10 (Аллен Култер) [2021, США, фантастика, драма, WEB-DL 720p] D [rutracker-6014048]"
+        },
+        {
+            "duplicate_id": 6,
+            "duplicate_btih": "0bdd41ca4cb22f10137a8faea3950d3462edea1a",
+            "duplicate_6_0": "For.All.Mankind.S02E01.720p.WEB.H264-GLHF[rarbg]",
+            "duplicate_6_1": "For.All.Mankind.S02E01.720p.WEB.H264-GLHF[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 7,
+            "duplicate_btih": "f20c58e7fba4d0459598fb28c2d2fd29ffd27e0a",
+            "duplicate_7_0": "[ OxTorrent.ws ] For.All.Mankind.S02E01.VOSTFR.WEB.XviD-EXTREME.avi",
+            "duplicate_7_1": "[-]-For-All-Mankind-S02E01-VOSTFR-WEB-XviD-EXTREME"
+        },
+        {
+            "duplicate_id": 8,
+            "duplicate_btih": "97856064d9da3e04d443b1cc73d09fc527559cb6",
+            "duplicate_8_0": "[rutor.is]For_All_Mankind._Season_2_WEB-DL_l_1080p_l_Jask",
+            "duplicate_8_1": "For All Mankind. Season 2 (WEB-DL l 1080p l Jaskier)"
+        },
+        {
+            "duplicate_id": 9,
+            "duplicate_btih": "190852a7480f6b683102985d242e93a748c97d9f",
+            "duplicate_9_0": "Ради всего человечества For All Mankind Сезон 2 Серии 1 из 10 (Майкл Моррис, Эндрю Стэнтон, Мира Менон, Дэнни Гордон, Серд [rutracker-6013901",
+            "duplicate_9_1": "Ради всего человечества For All Mankind Сезон 2 Серии 1 из 10 (Майкл Моррис, Эндрю Стэнтон, Мира Менон, Дэнни Гордон, Серд [rutracker-6013901]"
+        }
+    ],
+    "collection_btiha_metadata": [
+        {
+            "id": 1,
+            "name": "[ OxTorrent.ws ] For.All.Mankind.S02E01.VOSTFR.WEB.XviD-EXTREME.avi",
+            "size_total": 0.513769056,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.513769056,
+                    "path": "[ OxTorrent.ws ] For.All.Mankind.S02E01.VOSTFR.WEB.XviD-EXTREME.avi"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "[-]-For-All-Mankind-S02E01-FRENCH-WEBRip-x264-FCK",
+            "size_total": 0.327636059,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.327636059,
+                    "path": "[ OxTorrent.ws ] For.All.Mankind.S02E01.FRENCH.WEBRip.x264-FCK.mkv"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "[-]-For-All-Mankind-S02E01-VOSTFR-WEB-XviD-EXTREME",
+            "size_total": 0.513769056,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.513769056,
+                    "path": "[ OxTorrent.ws ] For.All.Mankind.S02E01.VOSTFR.WEB.XviD-EXTREME.avi"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "[rutor.is]For.All.Mankind.S02.1080p.Kerob",
+            "size_total": 3.025844918,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.025844918,
+                    "path": "For.All.Mankind.S02.1080p.Kerob/For.All.Mankind.S02E01.1080p.Kerob.mkv"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "[rutor.is]For.All.Mankind.S02.400p.Kerob",
+            "size_total": 0.635945624,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.635945624,
+                    "path": "For.All.Mankind.S02.400p.Kerob/For.All.Mankind.S02E01.400p.Kerob.avi"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "[rutor.is]For.All.Mankind.S02.720p.Kerob",
+            "size_total": 1.815269969,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.815269969,
+                    "path": "For.All.Mankind.S02.720p.Kerob/For.All.Mankind.S02E01.720p.Kerob.mp4"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "[rutor.is]For.All.Mankind.S02.WEBRip.1080.IdeaFilm",
+            "size_total": 2.9312175,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.9312175,
+                    "path": "For.All.Mankind.S02.WEBRip.1080.IdeaFilm/For.All.Mankind.S02E01.WEBRip.1080.IdeaFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "[rutor.is]For.All.Mankind.S02.WEBRip.400.IdeaFilm",
+            "size_total": 0.816984064,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.816984064,
+                    "path": "For.All.Mankind.S02.WEBRip.400.IdeaFilm/For.All.Mankind.S02E01.WEBRip.400.IdeaFilm.avi"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "[rutor.is]For.All.Mankind.S02.WEBRip.720.IdeaFilm",
+            "size_total": 1.645213356,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.645213356,
+                    "path": "For.All.Mankind.S02.WEBRip.720.IdeaFilm/For.All.Mankind.S02E01.WEBRip.720.IdeaFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "[rutor.is]For_All_Mankind._Season_2_WEB-DL_l_1080p_l_Jask",
+            "size_total": 4.67036123,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.67036123,
+                    "path": "For All Mankind. Season 2 (WEB-DL l 1080p l Jaskier)/For.All.Mankind.S02E01.1080p.WEB-DL.DD5.1.H.264-Jaskier.mkv"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "[rutor.is]For_All_Mankind._Season_2_WEB-DL_l_720p_l_Jaski",
+            "size_total": 1.540923299,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.540923299,
+                    "path": "For All Mankind. Season 2 (WEB-DL l 720p l Jaskier)/For.All.Mankind.S02E01.720p.WEB-DL.DD5.1.H.264-Jaskier.mkv"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "[rutor.is]For_All_Mankind._Season_2_WEB-DLRip_l_400p_l_Ja",
+            "size_total": 0.692948992,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.692948992,
+                    "path": "For All Mankind. Season 2 (WEB-DLRip l 400p l Jaskier)/For.All.Mankind.S02E01.WEB-DLRip.Rus.Eng.Jaskier.avi"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "For All Mankind S02E01 Every Little Thing  [1080p x265 10bit S91 Joy].mkv",
+            "size_total": 0.573391405,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.573391405,
+                    "path": "For All Mankind S02E01 Every Little Thing  [1080p x265 10bit S91 Joy].mkv"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "For All Mankind s02e01 Every Little Thing 1080p WEBrip x265 DDP5.1 D0ct0rLew[SEV]",
+            "size_total": 2.0154591,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000001057,
+                    "path": "For All Mankind s02e01 Every Little Thing 1080p WEBrip x265 DDP5.1 D0ct0rLew[SEV]/Contact SEV.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 2.015458043,
+                    "path": "For All Mankind s02e01 Every Little Thing 1080p WEBrip x265 DDP5.1 D0ct0rLew[SEV]/For All Mankind s02e01 Every Little Thing 1080p WEBrip x265 DDP5.1 D0ct0rLew[SEV].mkv"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "For All Mankind. Season 2 (WEB-DL l 1080p l Jaskier)",
+            "size_total": 4.67036123,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.67036123,
+                    "path": "For All Mankind. Season 2 (WEB-DL l 1080p l Jaskier)/For.All.Mankind.S02E01.1080p.WEB-DL.DD5.1.H.264-Jaskier.mkv"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "For All Mankind.(Season 02).Невафильм",
+            "size_total": 0.897053039,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000070005,
+                    "path": "For All Mankind.(Season 02).Невафильм/Eng/For.All.Mankind.S02E01.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.896897024,
+                    "path": "For All Mankind.(Season 02).Невафильм/For.All.Mankind.S02E01.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000004485,
+                    "path": "For All Mankind.(Season 02).Невафильм/For.All.Mankind.S02E01.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].Forced.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000081525,
+                    "path": "For All Mankind.(Season 02).Невафильм/Rus/For.All.Mankind.S02E01.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "For All Mankind.S02. WEBDLRip.Невафильм",
+            "size_total": 0.769933312,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.769933312,
+                    "path": "For All Mankind.S02. WEBDLRip.Невафильм/01. For All Mankind.S02. WEBDLRip.Невафильм.avi"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "For-All-Mankind-S01E06-WEB-x264-PHOENiX[TGx]",
+            "size_total": 0.324093886,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.324093197,
+                    "path": "For.All.Mankind.S01E06.WEB.x264-PHOENiX[TGx]/For.All.Mankind.S01E06.WEB.x264-PHOENiX.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 6.89e-7,
+                    "path": "For.All.Mankind.S01E06.WEB.x264-PHOENiX[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "For-All-Mankind-S02E01-1080p-HEVC-x265",
+            "size_total": 0.676862004,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.65640842,
+                    "path": "www.lyrics.lol    -    For All Mankind S02E01 1080p HEVC x265-MeGusta/For.All.Mankind.S02E01.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001146,
+                    "path": "www.lyrics.lol    -    For All Mankind S02E01 1080p HEVC x265-MeGusta/For.All.Mankind.S02E01.1080p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.006256546,
+                    "path": "www.lyrics.lol    -    For All Mankind S02E01 1080p HEVC x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.008398739,
+                    "path": "www.lyrics.lol    -    For All Mankind S02E01 1080p HEVC x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.005797067,
+                    "path": "www.lyrics.lol    -    For All Mankind S02E01 1080p HEVC x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 8.6e-8,
+                    "path": "www.lyrics.lol    -    For All Mankind S02E01 1080p HEVC x265-MeGusta/Torrent Downloaded From Torrenting.com.txt"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "For-All-Mankind-S02E01-1080p-WEB-H264",
+            "size_total": 4.672916042,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "For.All.Mankind.S02E01.1080p.WEB.H264-GGWP[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "For.All.Mankind.S02E01.1080p.WEB.H264-GGWP[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 4.67291587,
+                    "path": "For.All.Mankind.S02E01.1080p.WEB.H264-GGWP[rarbg]/for.all.mankind.s02e01.1080p.web.h264-ggwp.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 4.3e-8,
+                    "path": "For.All.Mankind.S02E01.1080p.WEB.H264-GGWP[rarbg]/for.all.mankind.s02e01.1080p.web.h264-ggwp.nfo"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "name": "For-All-Mankind-s02e01-Every-Little-Thing-1080p-WEBrip-x265-DDP5-1-D0ct0rLew[SEV]",
+            "size_total": 2.0154591,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000001057,
+                    "path": "For All Mankind s02e01 Every Little Thing 1080p WEBrip x265 DDP5.1 D0ct0rLew[SEV]/Contact SEV.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 2.015458043,
+                    "path": "For All Mankind s02e01 Every Little Thing 1080p WEBrip x265 DDP5.1 D0ct0rLew[SEV]/For All Mankind s02e01 Every Little Thing 1080p WEBrip x265 DDP5.1 D0ct0rLew[SEV].mkv"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "name": "For-All-Mankind-S02E01-Every-Little-Thing-[1080p-x265-10bit-S91-Joy]",
+            "size_total": 0.573391405,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.573391405,
+                    "path": "For All Mankind S02E01 Every Little Thing  [1080p x265 10bit S91 Joy].mkv"
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "name": "For-All-Mankind-S02E01-Every-Little-Thing-[2160p-NV-10bit-Joy]",
+            "size_total": 1.905964901,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.905964901,
+                    "path": "For All Mankind S02E01 Every Little Thing  [2160p NV 10bit Joy].mkv"
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "name": "For-All-Mankind-S02E01-WEB-x264-PHOENiX[eztv-re]",
+            "size_total": 0.352939709,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.352939709,
+                    "path": "For.All.Mankind.S02E01.WEB.x264-PHOENiX[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "name": "For.All.Mankind.2x01.Ogni.Piccola.Cosa.iTA.AC3.DLMux.x264-ADE.CreW.mkv",
+            "size_total": 0.5316802,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.5316802,
+                    "path": "For.All.Mankind.2x01.Ogni.Piccola.Cosa.iTA.AC3.DLMux.x264-ADE.CreW.mkv"
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "name": "For.All.Mankind.S01.1080р",
+            "size_total": 32.566450921,
+            "files_total": 10,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.483125507,
+                    "path": "For.All.Mankind.S01.1080р/For.All.Mankind.S01E01.WEBRip.1080p.ukr.5.1.HDREZKA.STUDIO.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3.276495522,
+                    "path": "For.All.Mankind.S01.1080р/For.All.Mankind.S01E02.WEBRip.1080p.ukr.5.1.HDREZKA.STUDIO.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 3.296072081,
+                    "path": "For.All.Mankind.S01.1080р/For.All.Mankind.S01E03.WEBRip.1080p.ukr.5.1.HDREZKA.STUDIO.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 3.276939431,
+                    "path": "For.All.Mankind.S01.1080р/For.All.Mankind.S01E04.WEBRip.1080p.ukr.5.1.HDREZKA.STUDIO.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 3.165000516,
+                    "path": "For.All.Mankind.S01.1080р/For.All.Mankind.S01E05.WEBRip.1080p.ukr.5.1.HDREZKA.STUDIO.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 3.190059964,
+                    "path": "For.All.Mankind.S01.1080р/For.All.Mankind.S01E06.WEBRip.1080p.ukr.5.1.HDREZKA.STUDIO.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 3.17406931,
+                    "path": "For.All.Mankind.S01.1080р/For.All.Mankind.S01E07.WEBRip.1080p.ukr.5.1.HDREZKA.STUDIO.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 3.072313322,
+                    "path": "For.All.Mankind.S01.1080р/For.All.Mankind.S01E08.WEBRip.1080p.ukr.5.1.HDREZKA.STUDIO.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 2.554203186,
+                    "path": "For.All.Mankind.S01.1080р/For.All.Mankind.S01E09.WEBRip.1080p.ukr.5.1.HDREZKA.STUDIO.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 4.078172082,
+                    "path": "For.All.Mankind.S01.1080р/For.All.Mankind.S01E10.WEBRip.1080p.ukr.5.1.HDREZKA.STUDIO.mkv"
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "name": "For.All.Mankind.S01.2160p.ATVP.WEB-DL.DDP5.1.Atmos.x265-PETRiFiED[rartv]-[rarbg.to]",
+            "size_total": 98.896895773,
+            "files_total": 11,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 10.516906118,
+                    "path": "For.All.Mankind.S01.2160p.WEB.h265-PETRiFiED[rartv]/For.All.Mankind.S01E01.2160p.WEB.h265-PETRiFiED.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 10.02404053,
+                    "path": "For.All.Mankind.S01.2160p.WEB.h265-PETRiFiED[rartv]/For.All.Mankind.S01E02.2160p.WEB.h265-PETRiFiED.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 10.046789768,
+                    "path": "For.All.Mankind.S01.2160p.WEB.h265-PETRiFiED[rartv]/For.All.Mankind.S01E03.2160p.WEB.h265-PETRiFiED.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 9.994916013,
+                    "path": "For.All.Mankind.S01.2160p.WEB.h265-PETRiFiED[rartv]/For.All.Mankind.S01E04.2160p.WEB.h265-PETRiFiED.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 9.605735171,
+                    "path": "For.All.Mankind.S01.2160p.WEB.h265-PETRiFiED[rartv]/For.All.Mankind.S01E05.2160p.WEB.h265-PETRiFiED.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 9.734953716,
+                    "path": "For.All.Mankind.S01.2160p.WEB.h265-PETRiFiED[rartv]/For.All.Mankind.S01E06.2160p.WEB.h265-PETRiFiED.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 9.601847137,
+                    "path": "For.All.Mankind.S01.2160p.WEB.h265-PETRiFiED[rartv]/For.All.Mankind.S01E07.2160p.WEB.h265-PETRiFiED.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 9.300583541,
+                    "path": "For.All.Mankind.S01.2160p.WEB.h265-PETRiFiED[rartv]/For.All.Mankind.S01E08.2160p.WEB.h265-PETRiFiED.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 7.772269077,
+                    "path": "For.All.Mankind.S01.2160p.WEB.h265-PETRiFiED[rartv]/For.All.Mankind.S01E09.2160p.WEB.h265-PETRiFiED.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 12.298854671,
+                    "path": "For.All.Mankind.S01.2160p.WEB.h265-PETRiFiED[rartv]/For.All.Mankind.S01E10.2160p.WEB.h265-PETRiFiED.mkv"
+                },
+                {
+                    "number": 11,
+                    "size": 3.1e-8,
+                    "path": "For.All.Mankind.S01.2160p.WEB.h265-PETRiFiED[rartv]/RARBG.txt"
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "name": "For.All.Mankind.S01.2160p.ATVP.WEB-DL.x265.10bit.HDR.DDP5.1.Atmos-PETFRiFiED[rartv]-[rarbg.to]",
+            "size_total": 116.133181702,
+            "files_total": 11,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 12.364039537,
+                    "path": "For.All.Mankind.S01.HDR.2160p.WEB.h265-PETFRiFiED[rartv]/For.All.Mankind.S01E01.HDR.2160p.WEB.h265-PETFRiFiED.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 11.667402998,
+                    "path": "For.All.Mankind.S01.HDR.2160p.WEB.h265-PETFRiFiED[rartv]/For.All.Mankind.S01E02.HDR.2160p.WEB.h265-PETFRiFiED.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 11.807855205,
+                    "path": "For.All.Mankind.S01.HDR.2160p.WEB.h265-PETFRiFiED[rartv]/For.All.Mankind.S01E03.HDR.2160p.WEB.h265-PETFRiFiED.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 11.753550184,
+                    "path": "For.All.Mankind.S01.HDR.2160p.WEB.h265-PETFRiFiED[rartv]/For.All.Mankind.S01E04.HDR.2160p.WEB.h265-PETFRiFiED.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 11.32724689,
+                    "path": "For.All.Mankind.S01.HDR.2160p.WEB.h265-PETFRiFiED[rartv]/For.All.Mankind.S01E05.HDR.2160p.WEB.h265-PETFRiFiED.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 11.401839817,
+                    "path": "For.All.Mankind.S01.HDR.2160p.WEB.h265-PETFRiFiED[rartv]/For.All.Mankind.S01E06.HDR.2160p.WEB.h265-PETFRiFiED.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 11.331190924,
+                    "path": "For.All.Mankind.S01.HDR.2160p.WEB.h265-PETFRiFiED[rartv]/For.All.Mankind.S01E07.HDR.2160p.WEB.h265-PETFRiFiED.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 10.818366804,
+                    "path": "For.All.Mankind.S01.HDR.2160p.WEB.h265-PETFRiFiED[rartv]/For.All.Mankind.S01E08.HDR.2160p.WEB.h265-PETFRiFiED.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 9.138326798,
+                    "path": "For.All.Mankind.S01.HDR.2160p.WEB.h265-PETFRiFiED[rartv]/For.All.Mankind.S01E09.HDR.2160p.WEB.h265-PETFRiFiED.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 14.523362514,
+                    "path": "For.All.Mankind.S01.HDR.2160p.WEB.h265-PETFRiFiED[rartv]/For.All.Mankind.S01E10.HDR.2160p.WEB.h265-PETFRiFiED.mkv"
+                },
+                {
+                    "number": 11,
+                    "size": 3.1e-8,
+                    "path": "For.All.Mankind.S01.HDR.2160p.WEB.h265-PETFRiFiED[rartv]/RARBG.txt"
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "name": "For.All.Mankind.S01E01.1080p.WEB-DL.DD5.1.H.264-Tars.chs.eng.mp4",
+            "size_total": 1.294976426,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.294976426,
+                    "path": "For.All.Mankind.S01E01.1080p.WEB-DL.DD5.1.H.264-Tars.chs.eng.mp4"
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "name": "For.All.Mankind.S02.1080p.ATVP.WEB-DL.DDP5.1.H.264-EniaHD",
+            "size_total": 4.999266948,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.999266948,
+                    "path": "For.All.Mankind.S02.1080p.ATVP.WEB-DL.DDP5.1.H.264-EniaHD/For.All.Mankind.S02E01.Every.Little.Thing.1080p.ATVP.WEB-DL.DDP5.1.H.264-EniaHD.mkv"
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "name": "For.All.Mankind.S02.1080p.Ultradox",
+            "size_total": 2.116364698,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.116364698,
+                    "path": "For.All.Mankind.S02.1080p.Ultradox/For.All.Mankind.S02E01.1080p.Ultradox.mkv"
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "name": "For.All.Mankind.S02.WEBDL.720p.Rus.Eng",
+            "size_total": 1.869421405,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.869421405,
+                    "path": "For.All.Mankind.S02.WEBDL.720p.Rus.Eng/For.All.Mankind.S02E01.WEBDL.720p.RGzsRutracker.mkv"
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "name": "For.All.Mankind.S02E01.1080p.HEVC.x265-MeGusta[eztv.re].mkv",
+            "size_total": 0.65640842,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.65640842,
+                    "path": "For.All.Mankind.S02E01.1080p.HEVC.x265-MeGusta[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "name": "For.All.Mankind.S02E01.1080p.WEB.H264-GGWP [IPT]",
+            "size_total": 4.672917981,
+            "files_total": 13,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.3e-8,
+                    "path": "For.All.Mankind.S02E01.1080p.WEB.H264-GGWP/for.all.mankind.s02e01.1080p.web.h264-ggwp.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.45,
+                    "path": "For.All.Mankind.S02E01.1080p.WEB.H264-GGWP/for.all.mankind.s02e01.1080p.web.h264-ggwp.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.45,
+                    "path": "For.All.Mankind.S02E01.1080p.WEB.H264-GGWP/for.all.mankind.s02e01.1080p.web.h264-ggwp.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.45,
+                    "path": "For.All.Mankind.S02E01.1080p.WEB.H264-GGWP/for.all.mankind.s02e01.1080p.web.h264-ggwp.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.45,
+                    "path": "For.All.Mankind.S02E01.1080p.WEB.H264-GGWP/for.all.mankind.s02e01.1080p.web.h264-ggwp.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.45,
+                    "path": "For.All.Mankind.S02E01.1080p.WEB.H264-GGWP/for.all.mankind.s02e01.1080p.web.h264-ggwp.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.45,
+                    "path": "For.All.Mankind.S02E01.1080p.WEB.H264-GGWP/for.all.mankind.s02e01.1080p.web.h264-ggwp.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.45,
+                    "path": "For.All.Mankind.S02E01.1080p.WEB.H264-GGWP/for.all.mankind.s02e01.1080p.web.h264-ggwp.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.45,
+                    "path": "For.All.Mankind.S02E01.1080p.WEB.H264-GGWP/for.all.mankind.s02e01.1080p.web.h264-ggwp.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.45,
+                    "path": "For.All.Mankind.S02E01.1080p.WEB.H264-GGWP/for.all.mankind.s02e01.1080p.web.h264-ggwp.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.172917311,
+                    "path": "For.All.Mankind.S02E01.1080p.WEB.H264-GGWP/for.all.mankind.s02e01.1080p.web.h264-ggwp.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.45,
+                    "path": "For.All.Mankind.S02E01.1080p.WEB.H264-GGWP/for.all.mankind.s02e01.1080p.web.h264-ggwp.rar"
+                },
+                {
+                    "number": 13,
+                    "size": 6.27e-7,
+                    "path": "For.All.Mankind.S02E01.1080p.WEB.H264-GGWP/for.all.mankind.s02e01.1080p.web.h264-ggwp.sfv"
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "name": "for.all.mankind.s02e01.1080p.web.h264-ggwp[eztv.re].mkv",
+            "size_total": 4.67291587,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.67291587,
+                    "path": "for.all.mankind.s02e01.1080p.web.h264-ggwp[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "name": "For.All.Mankind.S02E01.1080p.WEB.H264-GGWP[rarbg]",
+            "size_total": 4.672916042,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "For.All.Mankind.S02E01.1080p.WEB.H264-GGWP[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "For.All.Mankind.S02E01.1080p.WEB.H264-GGWP[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 4.67291587,
+                    "path": "For.All.Mankind.S02E01.1080p.WEB.H264-GGWP[rarbg]/for.all.mankind.s02e01.1080p.web.h264-ggwp.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 4.3e-8,
+                    "path": "For.All.Mankind.S02E01.1080p.WEB.H264-GGWP[rarbg]/for.all.mankind.s02e01.1080p.web.h264-ggwp.nfo"
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "name": "For.All.Mankind.S02E01.1080p.WEB.H264-GGWP[rartv]-[rarbg.to]",
+            "size_total": 4.672916042,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "For.All.Mankind.S02E01.1080p.WEB.H264-GGWP[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "For.All.Mankind.S02E01.1080p.WEB.H264-GGWP[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 4.67291587,
+                    "path": "For.All.Mankind.S02E01.1080p.WEB.H264-GGWP[rarbg]/for.all.mankind.s02e01.1080p.web.h264-ggwp.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 4.3e-8,
+                    "path": "For.All.Mankind.S02E01.1080p.WEB.H264-GGWP[rarbg]/for.all.mankind.s02e01.1080p.web.h264-ggwp.nfo"
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "name": "For.All.Mankind.S02E01.1080p.WEB.H264-GGWP[TGx]",
+            "size_total": 4.672916591,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 6.78e-7,
+                    "path": "For.All.Mankind.S02E01.1080p.WEB.H264-GGWP[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 2,
+                    "size": 4.67291587,
+                    "path": "For.All.Mankind.S02E01.1080p.WEB.H264-GGWP[TGx]/for.all.mankind.s02e01.1080p.web.h264-ggwp.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 4.3e-8,
+                    "path": "For.All.Mankind.S02E01.1080p.WEB.H264-GGWP[TGx]/for.all.mankind.s02e01.1080p.web.h264-ggwp.nfo"
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "name": "For.All.Mankind.S02E01.2160p.WEB.H265-GGWP[rartv]-[rarbg.to]",
+            "size_total": 9.204902391,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 9.20490236,
+                    "path": "For.All.Mankind.S02E01.2160p.WEB.H265-GGWP[rartv]/For.All.Mankind.S02E01.2160p.WEB.H265-GGWP.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3.1e-8,
+                    "path": "For.All.Mankind.S02E01.2160p.WEB.H265-GGWP[rartv]/RARBG.txt"
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "name": "For.All.Mankind.S02E01.480p.x264-mSD [IPT]",
+            "size_total": 0.465061828,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.464393228,
+                    "path": "For.All.Mankind.S02E01.480p.x264-mSD/For.All.Mankind.S02E01.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 9.66e-7,
+                    "path": "For.All.Mankind.S02E01.480p.x264-mSD/For.All.Mankind.S02E01.480p.x264-mSD.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000214091,
+                    "path": "For.All.Mankind.S02E01.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000299594,
+                    "path": "For.All.Mankind.S02E01.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000153949,
+                    "path": "For.All.Mankind.S02E01.480p.x264-mSD/Screens/screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "name": "For.All.Mankind.S02E01.480p.x264-mSD[eztv.re].mkv",
+            "size_total": 0.464393228,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.464393228,
+                    "path": "For.All.Mankind.S02E01.480p.x264-mSD[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "name": "For.All.Mankind.S02E01.720p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.585128258,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.574225956,
+                    "path": "For.All.Mankind.S02E01.720p.HEVC.x265-MeGusta/For.All.Mankind.S02E01.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001133,
+                    "path": "For.All.Mankind.S02E01.720p.HEVC.x265-MeGusta/For.All.Mankind.S02E01.720p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.003390764,
+                    "path": "For.All.Mankind.S02E01.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.004347706,
+                    "path": "For.All.Mankind.S02E01.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.003162699,
+                    "path": "For.All.Mankind.S02E01.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 43,
+            "name": "For.All.Mankind.S02E01.720p.HEVC.x265-MeGusta[eztv.re].mkv",
+            "size_total": 0.574225956,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.574225956,
+                    "path": "For.All.Mankind.S02E01.720p.HEVC.x265-MeGusta[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 44,
+            "name": "For.All.Mankind.S02E01.720p.WEB.H264-GLHF [IPT]",
+            "size_total": 1.543487968,
+            "files_total": 13,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.2e-8,
+                    "path": "For.All.Mankind.S02E01.720p.WEB.H264-GLHF/for.all.mankind.s02e01.720p.web.h264-glhf.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.15,
+                    "path": "For.All.Mankind.S02E01.720p.WEB.H264-GLHF/for.all.mankind.s02e01.720p.web.h264-glhf.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.15,
+                    "path": "For.All.Mankind.S02E01.720p.WEB.H264-GLHF/for.all.mankind.s02e01.720p.web.h264-glhf.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.15,
+                    "path": "For.All.Mankind.S02E01.720p.WEB.H264-GLHF/for.all.mankind.s02e01.720p.web.h264-glhf.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.15,
+                    "path": "For.All.Mankind.S02E01.720p.WEB.H264-GLHF/for.all.mankind.s02e01.720p.web.h264-glhf.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.15,
+                    "path": "For.All.Mankind.S02E01.720p.WEB.H264-GLHF/for.all.mankind.s02e01.720p.web.h264-glhf.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.15,
+                    "path": "For.All.Mankind.S02E01.720p.WEB.H264-GLHF/for.all.mankind.s02e01.720p.web.h264-glhf.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.15,
+                    "path": "For.All.Mankind.S02E01.720p.WEB.H264-GLHF/for.all.mankind.s02e01.720p.web.h264-glhf.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.15,
+                    "path": "For.All.Mankind.S02E01.720p.WEB.H264-GLHF/for.all.mankind.s02e01.720p.web.h264-glhf.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.15,
+                    "path": "For.All.Mankind.S02E01.720p.WEB.H264-GLHF/for.all.mankind.s02e01.720p.web.h264-glhf.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.04348731,
+                    "path": "For.All.Mankind.S02E01.720p.WEB.H264-GLHF/for.all.mankind.s02e01.720p.web.h264-glhf.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.15,
+                    "path": "For.All.Mankind.S02E01.720p.WEB.H264-GLHF/for.all.mankind.s02e01.720p.web.h264-glhf.rar"
+                },
+                {
+                    "number": 13,
+                    "size": 6.16e-7,
+                    "path": "For.All.Mankind.S02E01.720p.WEB.H264-GLHF/for.all.mankind.s02e01.720p.web.h264-glhf.sfv"
+                }
+            ]
+        },
+        {
+            "id": 45,
+            "name": "For.All.Mankind.S02E01.720p.WEB.H264-GLHF",
+            "size_total": 1.54348601,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.543485968,
+                    "path": "For.All.Mankind.S02E01.720p.WEB.H264-GLHF/for.all.mankind.s02e01.720p.web.h264-glhf.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 4.2e-8,
+                    "path": "For.All.Mankind.S02E01.720p.WEB.H264-GLHF/for.all.mankind.s02e01.720p.web.h264-glhf.nfo"
+                }
+            ]
+        },
+        {
+            "id": 46,
+            "name": "for.all.mankind.s02e01.720p.web.h264-glhf[eztv.re].mkv",
+            "size_total": 1.543485968,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.543485968,
+                    "path": "for.all.mankind.s02e01.720p.web.h264-glhf[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 47,
+            "name": "For.All.Mankind.S02E01.720p.WEB.H264-GLHF[rarbg]",
+            "size_total": 1.543486139,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "For.All.Mankind.S02E01.720p.WEB.H264-GLHF[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "For.All.Mankind.S02E01.720p.WEB.H264-GLHF[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 1.543485968,
+                    "path": "For.All.Mankind.S02E01.720p.WEB.H264-GLHF[rarbg]/for.all.mankind.s02e01.720p.web.h264-glhf.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 4.2e-8,
+                    "path": "For.All.Mankind.S02E01.720p.WEB.H264-GLHF[rarbg]/for.all.mankind.s02e01.720p.web.h264-glhf.nfo"
+                }
+            ]
+        },
+        {
+            "id": 48,
+            "name": "For.All.Mankind.S02E01.720p.WEB.H264-GLHF[rartv]-[rarbg.to]",
+            "size_total": 1.543486139,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "For.All.Mankind.S02E01.720p.WEB.H264-GLHF[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "For.All.Mankind.S02E01.720p.WEB.H264-GLHF[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 1.543485968,
+                    "path": "For.All.Mankind.S02E01.720p.WEB.H264-GLHF[rarbg]/for.all.mankind.s02e01.720p.web.h264-glhf.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 4.2e-8,
+                    "path": "For.All.Mankind.S02E01.720p.WEB.H264-GLHF[rarbg]/for.all.mankind.s02e01.720p.web.h264-glhf.nfo"
+                }
+            ]
+        },
+        {
+            "id": 49,
+            "name": "For.All.Mankind.S02E01.720p.WEB.x265-MiNX[eztv.re].mkv",
+            "size_total": 0.289550011,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.289550011,
+                    "path": "For.All.Mankind.S02E01.720p.WEB.x265-MiNX[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 50,
+            "name": "For.All.Mankind.S02E01.720p.WEB.x265-MiNX[TGx]",
+            "size_total": 0.28955068900000003,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.289550011,
+                    "path": "For.All.Mankind.S02E01.720p.WEB.x265-MiNX[TGx]/For.All.Mankind.S02E01.720p.WEB.x265-MiNX.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 6.78e-7,
+                    "path": "For.All.Mankind.S02E01.720p.WEB.x265-MiNX[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 51,
+            "name": "For.All.Mankind.S02E01.AAC.MP4-Mobile [IPT]",
+            "size_total": 0.189819023,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.189125735,
+                    "path": "For.All.Mankind.S02E01.AAC.MP4-Mobile/For.All.Mankind.S02E01.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001232,
+                    "path": "For.All.Mankind.S02E01.AAC.MP4-Mobile/For.All.Mankind.S02E01.AAC.MP4-Mobile.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.0002237,
+                    "path": "For.All.Mankind.S02E01.AAC.MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000308744,
+                    "path": "For.All.Mankind.S02E01.AAC.MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000159612,
+                    "path": "For.All.Mankind.S02E01.AAC.MP4-Mobile/Screens/screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 52,
+            "name": "For.All.Mankind.S02E01.Every.Little.Thing.1080p.WEB-DL.DDP5.1.Atmos.H264-TOMMY[rartv]-[rarbg.to]",
+            "size_total": 4.672639339,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.67263921,
+                    "path": "For.All.Mankind.S02E01.Every.Little.Thing.1080p.WEB-DL.DDP5.1.Atmos.H264-TOMMY[rarbg]/For.All.Mankind.S02E01.Every.Little.Thing.1080p.ATVP.WEB-DL.DDP5.1.Atmos.H.264-TOMMY.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "For.All.Mankind.S02E01.Every.Little.Thing.1080p.WEB-DL.DDP5.1.Atmos.H264-TOMMY[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 9.9e-8,
+                    "path": "For.All.Mankind.S02E01.Every.Little.Thing.1080p.WEB-DL.DDP5.1.Atmos.H264-TOMMY[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                }
+            ]
+        },
+        {
+            "id": 53,
+            "name": "For.All.Mankind.S02E01.Every.Little.Thing.1080p.WEB-DL.DDP5.1.Atmos.H264-TOMMY[TGx]",
+            "size_total": 4.672639888,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.67263921,
+                    "path": "For.All.Mankind.S02E01.Every.Little.Thing.1080p.WEB-DL.DDP5.1.Atmos.H264-TOMMY[TGx]/For.All.Mankind.S02E01.Every.Little.Thing.1080p.ATVP.WEB-DL.DDP5.1.Atmos.H.264-TOMMY.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 6.78e-7,
+                    "path": "For.All.Mankind.S02E01.Every.Little.Thing.1080p.WEB-DL.DDP5.1.Atmos.H264-TOMMY[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 54,
+            "name": "For.All.Mankind.S02E01.Every.Little.Thing.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv",
+            "size_total": 0.285833853,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.285833853,
+                    "path": "For.All.Mankind.S02E01.Every.Little.Thing.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv"
+                }
+            ]
+        },
+        {
+            "id": 55,
+            "name": "For.All.Mankind.S02E01.Every.Little.Thing.720p.WEB-DL.DD5.1.H264-TOMMY[eztv.re].mkv",
+            "size_total": 1.379044865,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.379044865,
+                    "path": "For.All.Mankind.S02E01.Every.Little.Thing.720p.WEB-DL.DD5.1.H264-TOMMY[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 56,
+            "name": "For.All.Mankind.S02E01.Every.Little.Thing.720p.WEB-DL.DD5.1.H264-TOMMY[rartv]-[rarbg.to]",
+            "size_total": 1.379044994,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.379044865,
+                    "path": "For.All.Mankind.S02E01.Every.Little.Thing.720p.WEB-DL.DD5.1.H264-TOMMY[rarbg]/For.All.Mankind.S02E01.Every.Little.Thing.720p.ATVP.WEB-DL.DD5.1.H.264-TOMMY.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "For.All.Mankind.S02E01.Every.Little.Thing.720p.WEB-DL.DD5.1.H264-TOMMY[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 9.9e-8,
+                    "path": "For.All.Mankind.S02E01.Every.Little.Thing.720p.WEB-DL.DD5.1.H264-TOMMY[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                }
+            ]
+        },
+        {
+            "id": 57,
+            "name": "For.All.Mankind.S02E01.HDR.2160p.WEB.H265-GGWP[rartv]-[rarbg.to]",
+            "size_total": 10.856302372,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 10.856302341,
+                    "path": "For.All.Mankind.S02E01.HDR.2160p.WEB.H265-GGWP[rartv]/For.All.Mankind.S02E01.HDR.2160p.WEB.H265-GGWP.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3.1e-8,
+                    "path": "For.All.Mankind.S02E01.HDR.2160p.WEB.H265-GGWP[rartv]/RARBG.txt"
+                }
+            ]
+        },
+        {
+            "id": 58,
+            "name": "For.All.Mankind.S02E01.ITA.WEBDL.1080p.mp4",
+            "size_total": 0.450771606,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.450771606,
+                    "path": "For.All.Mankind.S02E01.ITA.WEBDL.1080p.mp4"
+                }
+            ]
+        },
+        {
+            "id": 59,
+            "name": "For.All.Mankind.S02E01.Ogni.Piccola.Cosa.iTALiAN.MULTi.1080p.WEB.x264-MeM.mkv",
+            "size_total": 4.998865233,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.998865233,
+                    "path": "For.All.Mankind.S02E01.Ogni.Piccola.Cosa.iTALiAN.MULTi.1080p.WEB.x264-MeM.mkv"
+                }
+            ]
+        },
+        {
+            "id": 60,
+            "name": "For.All.Mankind.S02E01.WEB-DL.x264-ION10-[rarbg.to]",
+            "size_total": 0.576826505,
+            "files_total": 44,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.574210236,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/For.All.Mankind.S02E01.WEB-DL.x264-ION10.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 9.9e-8,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000077312,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/10_Greek.srt"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000057835,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/11_Spanish.srt"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000059558,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/12_Spanish.srt"
+                },
+                {
+                    "number": 7,
+                    "size": 0.000052191,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/13_Estonian.srt"
+                },
+                {
+                    "number": 8,
+                    "size": 0.000054068,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/14_Finnish.srt"
+                },
+                {
+                    "number": 9,
+                    "size": 0.00005159,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/15_French.srt"
+                },
+                {
+                    "number": 10,
+                    "size": 0.000051532,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/16_French.srt"
+                },
+                {
+                    "number": 11,
+                    "size": 0.0000706,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/17_Hebrew.srt"
+                },
+                {
+                    "number": 12,
+                    "size": 0.000104818,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/18_hin.srt"
+                },
+                {
+                    "number": 13,
+                    "size": 0.000054136,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/19_Hungarian.srt"
+                },
+                {
+                    "number": 14,
+                    "size": 0.000058803,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/20_Indonesian.srt"
+                },
+                {
+                    "number": 15,
+                    "size": 0.000054197,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/21_Italian.srt"
+                },
+                {
+                    "number": 16,
+                    "size": 0.000046781,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/22_Japanese.srt"
+                },
+                {
+                    "number": 17,
+                    "size": 0.000058514,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/23_Korean.srt"
+                },
+                {
+                    "number": 18,
+                    "size": 0.000056566,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/24_Lithuanian.srt"
+                },
+                {
+                    "number": 19,
+                    "size": 0.000059716,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/25_Latvian.srt"
+                },
+                {
+                    "number": 20,
+                    "size": 0.000059412,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/26_may.srt"
+                },
+                {
+                    "number": 21,
+                    "size": 0.000047115,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/27_Dutch.srt"
+                },
+                {
+                    "number": 22,
+                    "size": 0.000054196,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/28_nor.srt"
+                },
+                {
+                    "number": 23,
+                    "size": 0.000055055,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/29_Polish.srt"
+                },
+                {
+                    "number": 24,
+                    "size": 0.000056914,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/2_English.srt"
+                },
+                {
+                    "number": 25,
+                    "size": 0.000057516,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/30_Portuguese.srt"
+                },
+                {
+                    "number": 26,
+                    "size": 0.000055079,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/31_Portuguese.srt"
+                },
+                {
+                    "number": 27,
+                    "size": 0.000076838,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/32_Russian.srt"
+                },
+                {
+                    "number": 28,
+                    "size": 0.000053807,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/33_slo.srt"
+                },
+                {
+                    "number": 29,
+                    "size": 0.000052081,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/34_Slovenian.srt"
+                },
+                {
+                    "number": 30,
+                    "size": 0.000057366,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/35_Swedish.srt"
+                },
+                {
+                    "number": 31,
+                    "size": 0.000124356,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/36_tam.srt"
+                },
+                {
+                    "number": 32,
+                    "size": 0.000113554,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/37_tel.srt"
+                },
+                {
+                    "number": 33,
+                    "size": 0.000107103,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/38_Thai.srt"
+                },
+                {
+                    "number": 34,
+                    "size": 0.000059445,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/39_Turkish.srt"
+                },
+                {
+                    "number": 35,
+                    "size": 0.000072688,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/3_Arabic.srt"
+                },
+                {
+                    "number": 36,
+                    "size": 0.000074545,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/40_ukr.srt"
+                },
+                {
+                    "number": 37,
+                    "size": 0.000067882,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/41_Vietnamese.srt"
+                },
+                {
+                    "number": 38,
+                    "size": 0.000055014,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/42_Chinese.srt"
+                },
+                {
+                    "number": 39,
+                    "size": 0.000072455,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/4_Bulgarian.srt"
+                },
+                {
+                    "number": 40,
+                    "size": 0.000054202,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/5_Chinese.srt"
+                },
+                {
+                    "number": 41,
+                    "size": 0.000055456,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/6_Chinese.srt"
+                },
+                {
+                    "number": 42,
+                    "size": 0.000053862,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/7_Czech.srt"
+                },
+                {
+                    "number": 43,
+                    "size": 0.000055006,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/8_Danish.srt"
+                },
+                {
+                    "number": 44,
+                    "size": 0.000056976,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/9_German.srt"
+                }
+            ]
+        },
+        {
+            "id": 61,
+            "name": "For.All.Mankind.S02E01.WEB-DL.x264-ION10",
+            "size_total": 0.576826376,
+            "files_total": 42,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.574210236,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/For.All.Mankind.S02E01.WEB-DL.x264-ION10.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000077312,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/10_Greek.srt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000057835,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/11_Spanish.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000059558,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/12_Spanish.srt"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000052191,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/13_Estonian.srt"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000054068,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/14_Finnish.srt"
+                },
+                {
+                    "number": 7,
+                    "size": 0.00005159,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/15_French.srt"
+                },
+                {
+                    "number": 8,
+                    "size": 0.000051532,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/16_French.srt"
+                },
+                {
+                    "number": 9,
+                    "size": 0.0000706,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/17_Hebrew.srt"
+                },
+                {
+                    "number": 10,
+                    "size": 0.000104818,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/18_hin.srt"
+                },
+                {
+                    "number": 11,
+                    "size": 0.000054136,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/19_Hungarian.srt"
+                },
+                {
+                    "number": 12,
+                    "size": 0.000058803,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/20_Indonesian.srt"
+                },
+                {
+                    "number": 13,
+                    "size": 0.000054197,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/21_Italian.srt"
+                },
+                {
+                    "number": 14,
+                    "size": 0.000046781,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/22_Japanese.srt"
+                },
+                {
+                    "number": 15,
+                    "size": 0.000058514,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/23_Korean.srt"
+                },
+                {
+                    "number": 16,
+                    "size": 0.000056566,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/24_Lithuanian.srt"
+                },
+                {
+                    "number": 17,
+                    "size": 0.000059716,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/25_Latvian.srt"
+                },
+                {
+                    "number": 18,
+                    "size": 0.000059412,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/26_may.srt"
+                },
+                {
+                    "number": 19,
+                    "size": 0.000047115,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/27_Dutch.srt"
+                },
+                {
+                    "number": 20,
+                    "size": 0.000054196,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/28_nor.srt"
+                },
+                {
+                    "number": 21,
+                    "size": 0.000055055,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/29_Polish.srt"
+                },
+                {
+                    "number": 22,
+                    "size": 0.000056914,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/2_English.srt"
+                },
+                {
+                    "number": 23,
+                    "size": 0.000057516,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/30_Portuguese.srt"
+                },
+                {
+                    "number": 24,
+                    "size": 0.000055079,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/31_Portuguese.srt"
+                },
+                {
+                    "number": 25,
+                    "size": 0.000076838,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/32_Russian.srt"
+                },
+                {
+                    "number": 26,
+                    "size": 0.000053807,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/33_slo.srt"
+                },
+                {
+                    "number": 27,
+                    "size": 0.000052081,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/34_Slovenian.srt"
+                },
+                {
+                    "number": 28,
+                    "size": 0.000057366,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/35_Swedish.srt"
+                },
+                {
+                    "number": 29,
+                    "size": 0.000124356,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/36_tam.srt"
+                },
+                {
+                    "number": 30,
+                    "size": 0.000113554,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/37_tel.srt"
+                },
+                {
+                    "number": 31,
+                    "size": 0.000107103,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/38_Thai.srt"
+                },
+                {
+                    "number": 32,
+                    "size": 0.000059445,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/39_Turkish.srt"
+                },
+                {
+                    "number": 33,
+                    "size": 0.000072688,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/3_Arabic.srt"
+                },
+                {
+                    "number": 34,
+                    "size": 0.000074545,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/40_ukr.srt"
+                },
+                {
+                    "number": 35,
+                    "size": 0.000067882,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/41_Vietnamese.srt"
+                },
+                {
+                    "number": 36,
+                    "size": 0.000055014,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/42_Chinese.srt"
+                },
+                {
+                    "number": 37,
+                    "size": 0.000072455,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/4_Bulgarian.srt"
+                },
+                {
+                    "number": 38,
+                    "size": 0.000054202,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/5_Chinese.srt"
+                },
+                {
+                    "number": 39,
+                    "size": 0.000055456,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/6_Chinese.srt"
+                },
+                {
+                    "number": 40,
+                    "size": 0.000053862,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/7_Czech.srt"
+                },
+                {
+                    "number": 41,
+                    "size": 0.000055006,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/8_Danish.srt"
+                },
+                {
+                    "number": 42,
+                    "size": 0.000056976,
+                    "path": "For.All.Mankind.S02E01.WEB-DL.x264-ION10/Subs/9_German.srt"
+                }
+            ]
+        },
+        {
+            "id": 62,
+            "name": "For.All.Mankind.S02E01.WEB.x264-PHOENiX[eztv.re].mkv",
+            "size_total": 0.352939709,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.352939709,
+                    "path": "For.All.Mankind.S02E01.WEB.x264-PHOENiX[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 63,
+            "name": "For.All.Mankind.S02E01.WEB.x264-PHOENiX[TGx]",
+            "size_total": 0.352940387,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.352939709,
+                    "path": "For.All.Mankind.S02E01.WEB.x264-PHOENiX[TGx]/For.All.Mankind.S02E01.WEB.x264-PHOENiX.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 6.78e-7,
+                    "path": "For.All.Mankind.S02E01.WEB.x264-PHOENiX[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 64,
+            "name": "For.All.Mankind.S02E01.XviD-AFG [IPT]",
+            "size_total": 0.547623118,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.546871614,
+                    "path": "For.All.Mankind.S02E01.XviD-AFG/For.All.Mankind.S02E01.XviD-AFG.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001111,
+                    "path": "For.All.Mankind.S02E01.XviD-AFG/For.All.Mankind.S02E01.XviD-AFG.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000254976,
+                    "path": "For.All.Mankind.S02E01.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000341722,
+                    "path": "For.All.Mankind.S02E01.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000153695,
+                    "path": "For.All.Mankind.S02E01.XviD-AFG/Screens/screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 65,
+            "name": "For.All.Mankind.S02E01.XviD-AFG[eztv.re].avi",
+            "size_total": 0.546871614,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.546871614,
+                    "path": "For.All.Mankind.S02E01.XviD-AFG[eztv.re].avi"
+                }
+            ]
+        },
+        {
+            "id": 66,
+            "name": "For.All.Mankind.S02E01.XviD-AFG[TGx]",
+            "size_total": 0.546873403,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.546871614,
+                    "path": "For.All.Mankind.S02E01.XviD-AFG[TGx]/For.All.Mankind.S02E01.XviD-AFG.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001111,
+                    "path": "For.All.Mankind.S02E01.XviD-AFG[TGx]/For.All.Mankind.S02E01.XviD-AFG.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 6.78e-7,
+                    "path": "For.All.Mankind.S02E01.XviD-AFG[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 67,
+            "name": "www.lyrics.lol    -    For All Mankind S02E01 480p x264-mSD",
+            "size_total": 0.465061914,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.464393228,
+                    "path": "www.lyrics.lol    -    For All Mankind S02E01 480p x264-mSD/For.All.Mankind.S02E01.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 9.66e-7,
+                    "path": "www.lyrics.lol    -    For All Mankind S02E01 480p x264-mSD/For.All.Mankind.S02E01.480p.x264-mSD.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000214091,
+                    "path": "www.lyrics.lol    -    For All Mankind S02E01 480p x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000299594,
+                    "path": "www.lyrics.lol    -    For All Mankind S02E01 480p x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000153949,
+                    "path": "www.lyrics.lol    -    For All Mankind S02E01 480p x264-mSD/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 8.6e-8,
+                    "path": "www.lyrics.lol    -    For All Mankind S02E01 480p x264-mSD/Torrent Downloaded From Torrenting.com.txt"
+                }
+            ]
+        },
+        {
+            "id": 68,
+            "name": "Ради всего человечества For All Mankind Сезон 1-2 Серии 1-11 из 20 (Аллен Култер, Сет Гордон, Мира Менон) [2019-2021, США, [rutracker-5803109]",
+            "size_total": 13.974064967,
+            "files_total": 39,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000073959,
+                    "path": "For All Mankind/For All Mankind (Season 1) WEB-DLRip/Eng/For.All.Mankind.S01E01.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000065665,
+                    "path": "For All Mankind/For All Mankind (Season 1) WEB-DLRip/Eng/For.All.Mankind.S01E02.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000070192,
+                    "path": "For All Mankind/For All Mankind (Season 1) WEB-DLRip/Eng/For.All.Mankind.S01E03.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000059181,
+                    "path": "For All Mankind/For All Mankind (Season 1) WEB-DLRip/Eng/For.All.Mankind.S01E04.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000070008,
+                    "path": "For All Mankind/For All Mankind (Season 1) WEB-DLRip/Eng/For.All.Mankind.S01E05.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 6,
+                    "size": 0.00007412,
+                    "path": "For All Mankind/For All Mankind (Season 1) WEB-DLRip/Eng/For.All.Mankind.S01E06.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 7,
+                    "size": 0.000073475,
+                    "path": "For All Mankind/For All Mankind (Season 1) WEB-DLRip/Eng/For.All.Mankind.S01E07.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 8,
+                    "size": 0.000060318,
+                    "path": "For All Mankind/For All Mankind (Season 1) WEB-DLRip/Eng/For.All.Mankind.S01E08.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 9,
+                    "size": 0.000050237,
+                    "path": "For All Mankind/For All Mankind (Season 1) WEB-DLRip/Eng/For.All.Mankind.S01E09.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 10,
+                    "size": 0.000074638,
+                    "path": "For All Mankind/For All Mankind (Season 1) WEB-DLRip/Eng/For.All.Mankind.S01E10.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 11,
+                    "size": 0.000086525,
+                    "path": "For All Mankind/For All Mankind (Season 1) WEB-DLRip/Rus/For.All.Mankind.S01E01.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 12,
+                    "size": 0.00007653,
+                    "path": "For All Mankind/For All Mankind (Season 1) WEB-DLRip/Rus/For.All.Mankind.S01E02.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 13,
+                    "size": 0.000079661,
+                    "path": "For All Mankind/For All Mankind (Season 1) WEB-DLRip/Rus/For.All.Mankind.S01E03.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 14,
+                    "size": 0.000066881,
+                    "path": "For All Mankind/For All Mankind (Season 1) WEB-DLRip/Rus/For.All.Mankind.S01E04.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 15,
+                    "size": 0.000080376,
+                    "path": "For All Mankind/For All Mankind (Season 1) WEB-DLRip/Rus/For.All.Mankind.S01E05.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 16,
+                    "size": 0.000088411,
+                    "path": "For All Mankind/For All Mankind (Season 1) WEB-DLRip/Rus/For.All.Mankind.S01E06.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 17,
+                    "size": 0.000084875,
+                    "path": "For All Mankind/For All Mankind (Season 1) WEB-DLRip/Rus/For.All.Mankind.S01E07.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 18,
+                    "size": 0.000069421,
+                    "path": "For All Mankind/For All Mankind (Season 1) WEB-DLRip/Rus/For.All.Mankind.S01E08.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 19,
+                    "size": 0.000059697,
+                    "path": "For All Mankind/For All Mankind (Season 1) WEB-DLRip/Rus/For.All.Mankind.S01E09.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 20,
+                    "size": 0.000082769,
+                    "path": "For All Mankind/For All Mankind (Season 1) WEB-DLRip/Rus/For.All.Mankind.S01E10.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 21,
+                    "size": 0.000001321,
+                    "path": "For All Mankind/For All Mankind (Season 1) WEB-DLRip/For.All.Mankind.S01E01.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].ass"
+                },
+                {
+                    "number": 22,
+                    "size": 1.35871488,
+                    "path": "For All Mankind/For All Mankind (Season 1) WEB-DLRip/For.All.Mankind.S01E01.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 23,
+                    "size": 0.000002566,
+                    "path": "For All Mankind/For All Mankind (Season 1) WEB-DLRip/For.All.Mankind.S01E02.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].ass"
+                },
+                {
+                    "number": 24,
+                    "size": 1.308004352,
+                    "path": "For All Mankind/For All Mankind (Season 1) WEB-DLRip/For.All.Mankind.S01E02.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 25,
+                    "size": 1.297453056,
+                    "path": "For All Mankind/For All Mankind (Season 1) WEB-DLRip/For.All.Mankind.S01E03.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 26,
+                    "size": 1.287632896,
+                    "path": "For All Mankind/For All Mankind (Season 1) WEB-DLRip/For.All.Mankind.S01E04.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 27,
+                    "size": 1.242976256,
+                    "path": "For All Mankind/For All Mankind (Season 1) WEB-DLRip/For.All.Mankind.S01E05.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 28,
+                    "size": 1.18e-7,
+                    "path": "For All Mankind/For All Mankind (Season 1) WEB-DLRip/For.All.Mankind.S01E05.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 29,
+                    "size": 1.252716544,
+                    "path": "For All Mankind/For All Mankind (Season 1) WEB-DLRip/For.All.Mankind.S01E06.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 30,
+                    "size": 1.242253312,
+                    "path": "For All Mankind/For All Mankind (Season 1) WEB-DLRip/For.All.Mankind.S01E07.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 31,
+                    "size": 4.69e-7,
+                    "path": "For All Mankind/For All Mankind (Season 1) WEB-DLRip/For.All.Mankind.S01E07.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 32,
+                    "size": 1.205573632,
+                    "path": "For All Mankind/For All Mankind (Season 1) WEB-DLRip/For.All.Mankind.S01E08.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 33,
+                    "size": 1.001742336,
+                    "path": "For All Mankind/For All Mankind (Season 1) WEB-DLRip/For.All.Mankind.S01E09.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 34,
+                    "size": 1.586593792,
+                    "path": "For All Mankind/For All Mankind (Season 1) WEB-DLRip/For.All.Mankind.S01E10.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 35,
+                    "size": 6.7e-8,
+                    "path": "For All Mankind/For All Mankind (Season 1) WEB-DLRip/For.All.Mankind.S01E10.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 36,
+                    "size": 0.000070005,
+                    "path": "For All Mankind/For All Mankind (Season 2) WEB-DLRip/Eng/For.All.Mankind.S02E01.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 37,
+                    "size": 0.000081525,
+                    "path": "For All Mankind/For All Mankind (Season 2) WEB-DLRip/Rus/For.All.Mankind.S02E01.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 38,
+                    "size": 1.188796416,
+                    "path": "For All Mankind/For All Mankind (Season 2) WEB-DLRip/For.All.Mankind.S02E01.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 39,
+                    "size": 0.000004485,
+                    "path": "For All Mankind/For All Mankind (Season 2) WEB-DLRip/For.All.Mankind.S02E01.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].Forced.srt"
+                }
+            ]
+        },
+        {
+            "id": 69,
+            "name": "Ради всего человечества For All Mankind Сезон 2 Серии 1 из 10 (Аллен Култер) [2021, США, фантастика, драма, WEB-DL 720p] D [rutracker-6014048]",
+            "size_total": 1.869421405,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.869421405,
+                    "path": "For.All.Mankind.S02.WEBDL.720p.Rus.Eng/For.All.Mankind.S02E01.WEBDL.720p.RGzsRutracker.mkv"
+                }
+            ]
+        },
+        {
+            "id": 70,
+            "name": "Ради всего человечества For All Mankind Сезон 2 Серии 1 из 10 (Майкл Моррис) [2021, США, фантастика, драма, WEB-DL 1080p] [rutracker-6013808]",
+            "size_total": 4.999266948,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.999266948,
+                    "path": "For.All.Mankind.S02.1080p.ATVP.WEB-DL.DDP5.1.H.264-EniaHD/For.All.Mankind.S02E01.Every.Little.Thing.1080p.ATVP.WEB-DL.DDP5.1.H.264-EniaHD.mkv"
+                }
+            ]
+        },
+        {
+            "id": 71,
+            "name": "Ради всего человечества For All Mankind Сезон 2 Серии 1 из 10 (Майкл Моррис, Эндрю Стэнтон, Мира Менон, Дэнни Гордон, Серд [rutracker-6013901",
+            "size_total": 11.182330433,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 11.182330433,
+                    "path": "For All Mankind (Season 2) WEB-DL 2160p/For.All.Mankind.S02E01.HDR.2160p.WEB.H265-GGWP.RGzsRutracker.Wentworth_Miller.mkv"
+                }
+            ]
+        },
+        {
+            "id": 72,
+            "name": "Ради всего человечества For All Mankind Сезон 2 Серии 1 из 10 (Майкл Моррис, Эндрю Стэнтон, Мира Менон, Дэнни Гордон, Серд [rutracker-6013901]",
+            "size_total": 11.182330433,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 11.182330433,
+                    "path": "For All Mankind (Season 2) WEB-DL 2160p/For.All.Mankind.S02E01.HDR.2160p.WEB.H265-GGWP.RGzsRutracker.Wentworth_Miller.mkv"
+                }
+            ]
+        },
+        {
+            "id": 73,
+            "name": "Ради всего человечества For All Mankind Сезон 2 Серии 1 из 10 (Майкл Моррис, Эндрю Стэнтон, Мира Менон, Дэнни Гордон, Серд [rutracker-6014184",
+            "size_total": 0.897053039,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000070005,
+                    "path": "For All Mankind (Season 2) Dub WEB-DLRip/Eng/For.All.Mankind.S02E01.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000081525,
+                    "path": "For All Mankind (Season 2) Dub WEB-DLRip/Rus/For.All.Mankind.S02E01.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.896897024,
+                    "path": "For All Mankind (Season 2) Dub WEB-DLRip/For.All.Mankind.S02E01.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000004485,
+                    "path": "For All Mankind (Season 2) Dub WEB-DLRip/For.All.Mankind.S02E01.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].Forced.srt"
+                }
+            ]
+        },
+        {
+            "id": 74,
+            "name": "为了全人类.for.all.mankind.s02e01.1080p.web.h264.中英双字.7meiju.mp4",
+            "size_total": 2.268503938,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.268503938,
+                    "path": "为了全人类.for.all.mankind.s02e01.1080p.web.h264.中英双字.7meiju.mp4"
+                }
+            ]
+        },
+        {
+            "id": 75,
+            "name": "为全人类.For.All.Mankind.S02E01.1080p.H265-官方中字.mp4",
+            "size_total": 0.805252158,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.805252158,
+                    "path": "为全人类.For.All.Mankind.S02E01.1080p.H265-官方中字.mp4"
+                }
+            ]
+        }
+    ],
+    "collection_cumulative_by_btiha": [
+        {
+            "id": 23,
+            "name": "For-All-Mankind-S02E01-Every-Little-Thing-[2160p-NV-10bit-Joy]",
+            "btih": "7eef1faa876a3e2b3667fdc09fabc557468ca10b",
+            "resolution": "2160",
+            "encoding": "none",
+            "gigabytes": 1.905964901,
+            "creation": "2021-02-21T09:00:39.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 63741,
+            "uuploaders": 5469
+        },
+        {
+            "id": 82,
+            "name": "multi-btih-6-2-x-For.All.Mankind.S02E01.720p.WEB.H264-GLHF[rarbg]",
+            "btih": "0bdd41ca4cb22f10137a8faea3950d3462edea1a",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.543486139,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 63281,
+            "uuploaders": 7940
+        },
+        {
+            "id": 79,
+            "name": "multi-btih-3-2-x-For-All-Mankind-S02E01-WEB-x264-PHOENiX[eztv-re]",
+            "btih": "38bfc492c03bccc21a4d1139b1e5448d69f58e7d",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.352939709,
+            "creation": "2021-02-19T06:05:47.000000000Z,Torrent RW PHP Class - http://github.com/adriengibrat/torrent-rw,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 53158,
+            "uuploaders": 13117
+        },
+        {
+            "id": 68,
+            "name": "Ради всего человечества For All Mankind Сезон 1-2 Серии 1-11 из 20 (Аллен Култер, Сет Гордон, Мира Менон) [2019-2021, США, [rutracker-5803109]",
+            "btih": "9ff623eff71bfced89d135995136fd0588696bc8",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 13.974064967,
+            "creation": "2021-02-22T15:38:37.000000000Z,uTorrent/2040,https://rutracker.org/forum/viewtopic.php?t=5803109",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 52837,
+            "uuploaders": 819
+        },
+        {
+            "id": 84,
+            "name": "multi-btih-8-2-x-[rutor.is]For_All_Mankind._Season_2_WEB-DL_l_1080p_l_Jask",
+            "btih": "97856064d9da3e04d443b1cc73d09fc527559cb6",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 4.67036123,
+            "creation": "2021-02-21T13:10:34.000000000Z,uTorrent/2210,http://rutor.is/torrent/800892",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 50547,
+            "uuploaders": 1884
+        },
+        {
+            "id": 25,
+            "name": "For.All.Mankind.2x01.Ogni.Piccola.Cosa.iTA.AC3.DLMux.x264-ADE.CreW.mkv",
+            "btih": "dfd3fc81db16d59aa2e437b5506c670653e9c622",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.5316802,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 48607,
+            "uuploaders": 13274
+        },
+        {
+            "id": 8,
+            "name": "[rutor.is]For.All.Mankind.S02.WEBRip.400.IdeaFilm",
+            "btih": "4e98c0e9ce3a92980445bb06388b1c0911416181",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.816984064,
+            "creation": "2021-02-19T14:42:58.000000000Z,qBittorrent v4.2.5,http://rutor.is/torrent/800528",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 47950,
+            "uuploaders": 17458
+        },
+        {
+            "id": 28,
+            "name": "For.All.Mankind.S01.2160p.ATVP.WEB-DL.x265.10bit.HDR.DDP5.1.Atmos-PETFRiFiED[rartv]-[rarbg.to]",
+            "btih": "86b54f32433529cb861cb6dde27238eb1b5e6d69",
+            "resolution": "2160",
+            "encoding": "265",
+            "gigabytes": 116.133181702,
+            "creation": "2020-02-23T21:19:08.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 47792,
+            "uuploaders": 1151
+        },
+        {
+            "id": 85,
+            "name": "multi-btih-9-2-x-Ради всего человечества For All Mankind Сезон 2 Серии 1 из 10 (Майкл Моррис, Эндрю Стэнтон, Мира Менон, Дэнни Гордон, Серд [rutracker-6013901",
+            "btih": "190852a7480f6b683102985d242e93a748c97d9f",
+            "resolution": "2160",
+            "encoding": "none",
+            "gigabytes": 11.182330433,
+            "creation": "2021-02-19T17:20:22.000000000Z,uTorrent/2040,https://rutracker.org/forum/viewtopic.php?t=6013901",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 47762,
+            "uuploaders": 537
+        },
+        {
+            "id": 46,
+            "name": "for.all.mankind.s02e01.720p.web.h264-glhf[eztv.re].mkv",
+            "btih": "922e404822f1582676c2bad29ad81294f28b1013",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.543485968,
+            "creation": "2021-02-19T05:12:09.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 47053,
+            "uuploaders": 7455
+        },
+        {
+            "id": 52,
+            "name": "For.All.Mankind.S02E01.Every.Little.Thing.1080p.WEB-DL.DDP5.1.Atmos.H264-TOMMY[rartv]-[rarbg.to]",
+            "btih": "3893a05cc6db87a3af3e771a8bfa9f0c0799fd99",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 4.672639339,
+            "creation": "2021-02-19T13:39:29.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 42018,
+            "uuploaders": 2189
+        },
+        {
+            "id": 35,
+            "name": "for.all.mankind.s02e01.1080p.web.h264-ggwp[eztv.re].mkv",
+            "btih": "34918a1364341adbeb124e9e7bdea95ca2eb7b96",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 4.67291587,
+            "creation": "2021-02-19T07:04:35.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 40977,
+            "uuploaders": 8799
+        },
+        {
+            "id": 78,
+            "name": "multi-btih-2-3-x-For-All-Mankind-S02E01-1080p-WEB-H264",
+            "btih": "8df1c78501827c31e864d8c8f67017d7856cdd2c",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 4.672916042,
+            "creation": "2021-02-19T05:45:19.000000000Z,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 38824,
+            "uuploaders": 3288
+        },
+        {
+            "id": 75,
+            "name": "为全人类.For.All.Mankind.S02E01.1080p.H265-官方中字.mp4",
+            "btih": "78d33150a4d3c67c32033a000b78396059a32c17",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.805252158,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 35014,
+            "uuploaders": 2540
+        },
+        {
+            "id": 51,
+            "name": "For.All.Mankind.S02E01.AAC.MP4-Mobile [IPT]",
+            "btih": "d8d20db726dbe22141b508fcc21b65c715bb0061",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.189819023,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 34304,
+            "uuploaders": 1289
+        },
+        {
+            "id": 83,
+            "name": "multi-btih-7-2-x-[ OxTorrent.ws ] For.All.Mankind.S02E01.VOSTFR.WEB.XviD-EXTREME.avi",
+            "btih": "f20c58e7fba4d0459598fb28c2d2fd29ffd27e0a",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.513769056,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 34303,
+            "uuploaders": 1089
+        },
+        {
+            "id": 80,
+            "name": "multi-btih-4-2-x-For.All.Mankind.S02.1080p.ATVP.WEB-DL.DDP5.1.H.264-EniaHD",
+            "btih": "54c49c02dde14bcabc14ac2c803cd2881777fcc6",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 4.999266948,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 33969,
+            "uuploaders": 2757
+        },
+        {
+            "id": 81,
+            "name": "multi-btih-5-2-x-For.All.Mankind.S02.WEBDL.720p.Rus.Eng",
+            "btih": "7efc0c9af465136800512e356bf69882512dad12",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 1.869421405,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 30221,
+            "uuploaders": 1373
+        },
+        {
+            "id": 66,
+            "name": "For.All.Mankind.S02E01.XviD-AFG[TGx]",
+            "btih": "64164b23bc6c9f6334e119263c45ebf1d8f9d3a9",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.546873403,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 28953,
+            "uuploaders": 3094
+        },
+        {
+            "id": 76,
+            "name": "multi-btih-0-2-x-For All Mankind S02E01 Every Little Thing  [1080p x265 10bit S91 Joy].mkv",
+            "btih": "0117ae535ee17e1a1b8952a78061063bf16f4cd5",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.573391405,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 28736,
+            "uuploaders": 2007
+        },
+        {
+            "id": 65,
+            "name": "For.All.Mankind.S02E01.XviD-AFG[eztv.re].avi",
+            "btih": "e78826f85a03bd5a5ba59a151243935f88d6a8ba",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.546871614,
+            "creation": "2021-02-19T07:08:59.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 27322,
+            "uuploaders": 1636
+        },
+        {
+            "id": 77,
+            "name": "multi-btih-1-2-x-For All Mankind s02e01 Every Little Thing 1080p WEBrip x265 DDP5.1 D0ct0rLew[SEV]",
+            "btih": "a45c9f47034340cbace568b4494b545aad26e6cf",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 2.0154591,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 27199,
+            "uuploaders": 3719
+        },
+        {
+            "id": 34,
+            "name": "For.All.Mankind.S02E01.1080p.WEB.H264-GGWP [IPT]",
+            "btih": "a742d471cfec492bbbcd5ccd8d2c5920d9781aae",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 4.672917981,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 26773,
+            "uuploaders": 3667
+        },
+        {
+            "id": 44,
+            "name": "For.All.Mankind.S02E01.720p.WEB.H264-GLHF [IPT]",
+            "btih": "a4a21c9fc93887e89d0e256ae0117af2d3d4ff9a",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.543487968,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 26670,
+            "uuploaders": 138
+        },
+        {
+            "id": 45,
+            "name": "For.All.Mankind.S02E01.720p.WEB.H264-GLHF",
+            "btih": "a9c52cb5b6a9870ca7bc8ddab78e1362ad7be4f0",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.54348601,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 25808,
+            "uuploaders": 1471
+        },
+        {
+            "id": 18,
+            "name": "For-All-Mankind-S01E06-WEB-x264-PHOENiX[TGx]",
+            "btih": "8714abd8d164696d1431b87ed050e21c61325955",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.324093886,
+            "creation": "2019-11-22T07:50:07.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 25699,
+            "uuploaders": 1216
+        },
+        {
+            "id": 33,
+            "name": "For.All.Mankind.S02E01.1080p.HEVC.x265-MeGusta[eztv.re].mkv",
+            "btih": "c2ba436d12cdec7e34cfed8dc7d879c3f8939897",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.65640842,
+            "creation": "2021-02-21T03:34:09.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 25278,
+            "uuploaders": 3191
+        },
+        {
+            "id": 39,
+            "name": "For.All.Mankind.S02E01.2160p.WEB.H265-GGWP[rartv]-[rarbg.to]",
+            "btih": "c812dcb5ee025b588729a095a5b0bcabf6cd386a",
+            "resolution": "2160",
+            "encoding": "265",
+            "gigabytes": 9.204902391,
+            "creation": "2021-02-19T06:46:57.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 24996,
+            "uuploaders": 5495
+        },
+        {
+            "id": 64,
+            "name": "For.All.Mankind.S02E01.XviD-AFG [IPT]",
+            "btih": "b67dcfcc27542142e6a59f025f012cf4e077352b",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.547623118,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 24874,
+            "uuploaders": 325
+        },
+        {
+            "id": 43,
+            "name": "For.All.Mankind.S02E01.720p.HEVC.x265-MeGusta[eztv.re].mkv",
+            "btih": "ce0a528ee1e964db1f995c51d9907e410b406650",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.574225956,
+            "creation": "2021-02-19T06:11:50.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 24399,
+            "uuploaders": 3433
+        },
+        {
+            "id": 16,
+            "name": "For All Mankind.(Season 02).Невафильм",
+            "btih": "d3a463fe03c9d516021e190addb1f3a0810c5f35",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.897053039,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 24267,
+            "uuploaders": 4673
+        },
+        {
+            "id": 58,
+            "name": "For.All.Mankind.S02E01.ITA.WEBDL.1080p.mp4",
+            "btih": "3c5bb50270004994c46ab2e0f7dec4dd3bd61a2c",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 0.450771606,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 24160,
+            "uuploaders": 317
+        },
+        {
+            "id": 59,
+            "name": "For.All.Mankind.S02E01.Ogni.Piccola.Cosa.iTALiAN.MULTi.1080p.WEB.x264-MeM.mkv",
+            "btih": "7ca0c59aaa4321d2532914ff2ccb87e1d7e11d07",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 4.998865233,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 22627,
+            "uuploaders": 419
+        },
+        {
+            "id": 12,
+            "name": "[rutor.is]For_All_Mankind._Season_2_WEB-DLRip_l_400p_l_Ja",
+            "btih": "1e99fd6461c6c6aa592fd13eb4196821ef254ce9",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.692948992,
+            "creation": "2021-02-21T13:10:33.000000000Z,uTorrent/2210,http://rutor.is/torrent/800895",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 22246,
+            "uuploaders": 3822
+        },
+        {
+            "id": 63,
+            "name": "For.All.Mankind.S02E01.WEB.x264-PHOENiX[TGx]",
+            "btih": "ca28f2aefe93df0ca72832f7934caa9e523a3a70",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.352940387,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 21659,
+            "uuploaders": 424
+        },
+        {
+            "id": 54,
+            "name": "For.All.Mankind.S02E01.Every.Little.Thing.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv",
+            "btih": "cfc9a32f8d43ff7283b4448f484ea1bd6a297f52",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.285833853,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 21161,
+            "uuploaders": 3583
+        },
+        {
+            "id": 73,
+            "name": "Ради всего человечества For All Mankind Сезон 2 Серии 1 из 10 (Майкл Моррис, Эндрю Стэнтон, Мира Менон, Дэнни Гордон, Серд [rutracker-6014184",
+            "btih": "a05c7302afd840d3e1053cac715964e7c3adf723",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.897053039,
+            "creation": "2021-02-20T08:59:49.000000000Z,uTorrent/2040,https://rutracker.org/forum/viewtopic.php?t=6014184",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 21122,
+            "uuploaders": 1299
+        },
+        {
+            "id": 2,
+            "name": "[-]-For-All-Mankind-S02E01-FRENCH-WEBRip-x264-FCK",
+            "btih": "ef455533f228d7a35449f322da9f3e56f4c419fe",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.327636059,
+            "creation": "2021-02-22T21:55:11.000000000Z,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 21063,
+            "uuploaders": 3274
+        },
+        {
+            "id": 55,
+            "name": "For.All.Mankind.S02E01.Every.Little.Thing.720p.WEB-DL.DD5.1.H264-TOMMY[eztv.re].mkv",
+            "btih": "1704494835caae0796935791358c443ebd8f1416",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.379044865,
+            "creation": "2021-02-19T13:28:29.000000000Z,Torrent RW PHP Class - http://github.com/adriengibrat/torrent-rw,Visit us: https://eztv.re/ - Bitcoin: 1EZTVtpeNttqdDayh3D98nfQYybeZhu5YV",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 20147,
+            "uuploaders": 2463
+        },
+        {
+            "id": 53,
+            "name": "For.All.Mankind.S02E01.Every.Little.Thing.1080p.WEB-DL.DDP5.1.Atmos.H264-TOMMY[TGx]",
+            "btih": "bd62ded5156e1a37e91a2532c43db0413ae9a167",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 4.672639888,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 18488,
+            "uuploaders": 2207
+        },
+        {
+            "id": 6,
+            "name": "[rutor.is]For.All.Mankind.S02.720p.Kerob",
+            "btih": "db4289d5975b8998faacad9726bf9ae0feadf457",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 1.815269969,
+            "creation": "2021-02-19T10:53:40.000000000Z,Tixati v2.81,http://rutor.is/torrent/800481",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 18324,
+            "uuploaders": 3147
+        },
+        {
+            "id": 49,
+            "name": "For.All.Mankind.S02E01.720p.WEB.x265-MiNX[eztv.re].mkv",
+            "btih": "e6a844c34c1992e6c2df0f59b05267d2c9f55f66",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.289550011,
+            "creation": "2021-02-19T05:49:04.000000000Z,Torrent RW PHP Class - http://github.com/adriengibrat/torrent-rw,Visit us: https://eztv.re/ - Bitcoin: 1EZTVtpeNttqdDayh3D98nfQYybeZhu5YV",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 18115,
+            "uuploaders": 2955
+        },
+        {
+            "id": 56,
+            "name": "For.All.Mankind.S02E01.Every.Little.Thing.720p.WEB-DL.DD5.1.H264-TOMMY[rartv]-[rarbg.to]",
+            "btih": "0acbfb32782ad94ab7bc69689afd891bb0481529",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.379044994,
+            "creation": "2021-02-19T09:52:42.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 17782,
+            "uuploaders": 385
+        },
+        {
+            "id": 11,
+            "name": "[rutor.is]For_All_Mankind._Season_2_WEB-DL_l_720p_l_Jaski",
+            "btih": "32ae63d6971cafb1e589b31685e2f3fb4982443f",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 1.540923299,
+            "creation": "2021-02-21T13:10:35.000000000Z,uTorrent/2210,http://rutor.is/torrent/800893",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 17711,
+            "uuploaders": 2668
+        },
+        {
+            "id": 4,
+            "name": "[rutor.is]For.All.Mankind.S02.1080p.Kerob",
+            "btih": "8c09f0e59737cccfa4d0c74ec9eb467589a7cfa8",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 3.025844918,
+            "creation": "2021-02-19T10:53:33.000000000Z,Tixati v2.81,http://rutor.is/torrent/800480",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 17352,
+            "uuploaders": 71
+        },
+        {
+            "id": 67,
+            "name": "www.lyrics.lol    -    For All Mankind S02E01 480p x264-mSD",
+            "btih": "61e26d465ed8f81d0a26ffa11b3906c66119c397",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.465061914,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 15843,
+            "uuploaders": 166
+        },
+        {
+            "id": 9,
+            "name": "[rutor.is]For.All.Mankind.S02.WEBRip.720.IdeaFilm",
+            "btih": "427a467cc5cdbc5620603a7f0ec652e67141c112",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 1.645213356,
+            "creation": "2021-02-19T14:43:26.000000000Z,qBittorrent v4.2.5,http://rutor.is/torrent/800527",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 15418,
+            "uuploaders": 597
+        },
+        {
+            "id": 26,
+            "name": "For.All.Mankind.S01.1080р",
+            "btih": "f479706fb152a3eaf06676c96134cf0c78bc0f68",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 32.566450921,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 15341,
+            "uuploaders": 981
+        },
+        {
+            "id": 38,
+            "name": "For.All.Mankind.S02E01.1080p.WEB.H264-GGWP[TGx]",
+            "btih": "8dbace1ed847b4ca0b79bbd4100cb0e4cb7b83e8",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 4.672916591,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 15314,
+            "uuploaders": 1935
+        },
+        {
+            "id": 57,
+            "name": "For.All.Mankind.S02E01.HDR.2160p.WEB.H265-GGWP[rartv]-[rarbg.to]",
+            "btih": "6b852f36f4fe872b47d2e0e34db923070e5dcddd",
+            "resolution": "2160",
+            "encoding": "265",
+            "gigabytes": 10.856302372,
+            "creation": "2021-02-19T06:47:02.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 15026,
+            "uuploaders": 305
+        },
+        {
+            "id": 41,
+            "name": "For.All.Mankind.S02E01.480p.x264-mSD[eztv.re].mkv",
+            "btih": "abf85d1f0ad0ea07012658bf1788d32ad2ba65da",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.464393228,
+            "creation": "2021-02-19T07:05:34.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 14190,
+            "uuploaders": 4334
+        },
+        {
+            "id": 42,
+            "name": "For.All.Mankind.S02E01.720p.HEVC.x265-MeGusta [IPT]",
+            "btih": "0e973c2600089f0ac16b3878a6f25e8820f612b4",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.585128258,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 13832,
+            "uuploaders": 3670
+        },
+        {
+            "id": 17,
+            "name": "For All Mankind.S02. WEBDLRip.Невафильм",
+            "btih": "a2ab083d2ea794b03ba7b40430d0511b5a1883e7",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.769933312,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 13793,
+            "uuploaders": 335
+        },
+        {
+            "id": 40,
+            "name": "For.All.Mankind.S02E01.480p.x264-mSD [IPT]",
+            "btih": "51f8ea886d53b5bf89454e81bd50f7a8edffdc56",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.465061828,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 13544,
+            "uuploaders": 487
+        },
+        {
+            "id": 5,
+            "name": "[rutor.is]For.All.Mankind.S02.400p.Kerob",
+            "btih": "bf102c1593d80c8e2b9a3553aa675445e52c5af2",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.635945624,
+            "creation": "2021-02-19T10:53:48.000000000Z,Tixati v2.81,http://rutor.is/torrent/800483",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 12230,
+            "uuploaders": 231
+        },
+        {
+            "id": 74,
+            "name": "为了全人类.for.all.mankind.s02e01.1080p.web.h264.中英双字.7meiju.mp4",
+            "btih": "562876b5e8e9ed873cf79143634795d863c91ae2",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.268503938,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 10109,
+            "uuploaders": 162
+        },
+        {
+            "id": 19,
+            "name": "For-All-Mankind-S02E01-1080p-HEVC-x265",
+            "btih": "e5d71844d8b99da81eb3e937231a3d516af0c267",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.676862004,
+            "creation": "2021-02-21T13:15:06.000000000Z,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 9741,
+            "uuploaders": 78
+        },
+        {
+            "id": 60,
+            "name": "For.All.Mankind.S02E01.WEB-DL.x264-ION10-[rarbg.to]",
+            "btih": "b6091202de110bc6e5c38c097ebbb9994cf0af44",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.576826505,
+            "creation": "2021-02-19T05:49:24.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 9597,
+            "uuploaders": 301
+        },
+        {
+            "id": 7,
+            "name": "[rutor.is]For.All.Mankind.S02.WEBRip.1080.IdeaFilm",
+            "btih": "b793eb4a3a1a63a1f47be10fcb2eff9d2ac61294",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 2.9312175,
+            "creation": "2021-02-19T14:43:36.000000000Z,qBittorrent v4.2.5,http://rutor.is/torrent/800526",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 7435,
+            "uuploaders": 706
+        },
+        {
+            "id": 61,
+            "name": "For.All.Mankind.S02E01.WEB-DL.x264-ION10",
+            "btih": "2012a2cae95313afd1961f06b1188d9a35f92138",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.576826376,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 6356,
+            "uuploaders": 195
+        },
+        {
+            "id": 29,
+            "name": "For.All.Mankind.S01E01.1080p.WEB-DL.DD5.1.H.264-Tars.chs.eng.mp4",
+            "btih": "091d3d65bdb2f7d2fd1a9a54aa1e6285d12304cf",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.294976426,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2493,
+            "uuploaders": 1223
+        },
+        {
+            "id": 31,
+            "name": "For.All.Mankind.S02.1080p.Ultradox",
+            "btih": "c6fc6e494a36d7b5cd9ca5c9ffaf52911f8f2da1",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 2.116364698,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1454,
+            "uuploaders": 775
+        },
+        {
+            "id": 50,
+            "name": "For.All.Mankind.S02E01.720p.WEB.x265-MiNX[TGx]",
+            "btih": "f7444f3fba87b02a47804a5143dd53ca9fdf3448",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.28955068900000003,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1029,
+            "uuploaders": 593
+        },
+        {
+            "id": 27,
+            "name": "For.All.Mankind.S01.2160p.ATVP.WEB-DL.DDP5.1.Atmos.x265-PETRiFiED[rartv]-[rarbg.to]",
+            "btih": "ca8c04fe9148ba6cb33571fa48817088d097ad50",
+            "resolution": "2160",
+            "encoding": "265",
+            "gigabytes": 98.896895773,
+            "creation": "2020-02-23T20:50:50.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 454,
+            "uuploaders": 269
+        }
+    ]
+}
