@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt6334354",
+    "imdb_id": "tt6334354",
+    "revision": "576c2b15dd1e39c011f3278699f852aced240cd0",
+    "wikidata_id": "Q57317060",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Suicide_Squad_(film)"
+  },
+  "coverage_sha256": "5a7cf7dcf397c12d0e07c3e67e05bdb846e6c9303bff5181f7c1bb21dced5ec3",
+  "generated_at": "2026-09-03T21:16:27.206184+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2021-archives/suicide-squad-2021.cache/cache.20220203.tar.xz",
+      "sha256": "cc8e1fd964c7470f05a75512b1ecd1770760f2e5ea6f74010eddcae6bea427f6",
+      "size": 7675764292
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-coverage-evidence/suicide-squad-2021.md",
+      "sha256": "c594de5825abf6650fa3588d87d513202263aa07e14626293c2b05b8d4fb17be",
+      "size": 579
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-cache-stream-receipts/suicide-squad-2021.json",
+      "sha256": "9f71bbcc44e0f96ecde2451a64375627d89e281beed6ec1ea4e31ba7387bd7cd",
+      "size": 3443
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-product-receipts/suicide-squad-2021.json",
+      "sha256": "af2ecc4c7246f39ca574b575263f8abeae9f31619680075d56a900dc410dd57c",
+      "size": 371
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-control/worker-map.json",
+      "sha256": "8007c46b300872bb9f00ced6cb29d0e2aa49e73a513f4c30d0e8765a7e08ef2c",
+      "size": 89669
+    }
+  },
+  "media_object": "suicide-squad-2021",
+  "published_files": {
+    "data/csv/bytes/suicide-squad-2021-cumulative-detail.2021-btiha-itemized-by-bytes.csv": "079abcaebb20863f33b9dfc5b67eb58df2214ac77c412bdd9cfb63db0d5a519a",
+    "docs/itemized/figures/suicide-squad-2021-carto-4k.webp": "2801001ca9b2710102197984e8bc7532fb7021f394456437a8c1a90e68e858ef",
+    "docs/itemized/figures/suicide-squad-2021-carto.png": "ddc32881072b92b7314f4facd3068c4b6f621dce3d1031cf7e3a3c69341d787e",
+    "docs/itemized/figures/suicide-squad-2021-cumulative-detail-btiha-itemized-by-bytes.svg": "a0b43990191495e1d7aeefda20856c98e98b945bbac6cbfba8f1efbf18014b62",
+    "docs/itemized/figures/suicide-squad-2021-data-ge-1080p-4k.webp": "02bae4c2c85ece69ed31272c742bd536048277d712aaa29d5475753d44cf20f8",
+    "docs/itemized/figures/suicide-squad-2021-data-ge-1080p.webp": "0e20ea8fee69450d8ecc426d5f184e2b920b4fb2de49b54e197f0b962f089a61",
+    "docs/itemized/figures/suicide-squad-2021-data-lt-1080p-4k.webp": "ffe3bd7a6d0db4fab64d13a3fb5ab4c2042137c109f8b90981bad3701754f224",
+    "docs/itemized/figures/suicide-squad-2021-data-lt-1080p.webp": "d6a8182519c073302cbd511d68ccbc65cfd7994110f919da960d636cb0cdf4b8",
+    "docs/itemized/figures/suicide-squad-2021-downloads-by-day-day.svg": "1be6b4075cf743b0ccb6b97ab7f3e7a3f31630c1c2d1d59c8b7e62666f1c2e87",
+    "docs/itemized/figures/suicide-squad-2021-downloads-by-week-suicide-squad-2021-week.svg": "6990e04f2bc830e32e966cb4c9649fac32c4429a57ff06a4cc8b6f5e965b2e2a",
+    "docs/itemized/suicide-squad-2021-sample-cache-audit.md": "550bab3d1b247264a08ca12c56941b624b6177352c759921d0cf6e2d761906d2",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "84873e743da03017b556934ba0f591c7ba6b051e",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/suicide-squad-2021/tmp/suicide-squad-2021-cumulative-btiha.geojson",
+        "sha256": "98575c2ec1fe5fda8f25693330dd35d0dbb2db597ebb7c6f02f95ce2b1904fdc",
+        "size": 278137968
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/suicide-squad-2021/tmp/suicide-squad-2021-cumulative-btiha-media-objects.json",
+        "sha256": "937b958c2df52decdc0247158a7b8885bfd08a2f3702626879bc6ee469793ffe",
+        "size": 466829
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "suicide-squad-2021",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          85.0,
+          59.0,
+          58.0,
+          53.0,
+          51.0,
+          51.0,
+          47.0,
+          39.0,
+          33.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "London",
+          "Moscow",
+          "Seoul",
+          "Ashburn",
+          "Mumbai",
+          "Quezon City",
+          "New York City",
+          "Shanghai",
+          "Columbus",
+          "Saint Petersburg"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          43.0,
+          38.0,
+          35.0,
+          32.0,
+          30.0,
+          28.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "London",
+          "Ashburn",
+          "Saint Petersburg",
+          "Mumbai",
+          "Seoul",
+          "New York City",
+          "Columbus",
+          "Shanghai",
+          "Seattle"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 30,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 4,
+        "x_tick_marks": 4,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 26,
+        "y_tick_labels": 20
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "84873e743da03017b556934ba0f591c7ba6b051e",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "903f8276e5f31a4387bb88a459e5012c544222f6",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "576c2b15dd1e39c011f3278699f852aced240cd0"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2021"
+}
