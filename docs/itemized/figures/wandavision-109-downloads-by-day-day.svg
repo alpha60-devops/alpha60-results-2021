@@ -1,0 +1,142 @@
+<svg xml:space="preserve"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:html="http://www.w3.org/1999/xhtml"
+id="wandavision-109-downloads-by-day-day" x="0px" y="0px"
+width="1920.000000px" height="1080.000000px"
+viewBox="0 0 1920.000000 1080.000000" enable-background="new 0 0 1920.000000 1080.000000" role="img">
+<title>
+wandavision-109-downloads-by-day-day
+</title>
+<desc>
+Daily series for wandavision-109: upeers_total solid, useeds_total dashed.
+</desc>
+<title>
+wandavision-109-downloads-by-day-day
+</title>
+ <g id="annotations">
+<text x="960.000000" y="126.000000" font-family="Atkinson Hyperlegible" font-size="26.000000pt" text-anchor="middle" text-align="center" font-weight="600" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> wandavision-109 downloads by day</text>
+ <g id="axes-lines">
+<text x="960.000000" y="1007.000000" font-family="Atkinson Hyperlegible" font-size="18.000000pt" text-anchor="middle" text-align="center" font-weight="500" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> DAY</text>
+<text x="73.000000" y="540.000000" font-family="Atkinson Hyperlegible" font-size="18.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="500" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5" transform="rotate(-90,73,540)"> DOWNLOADERS</text>
+ </g>
+ <g id="tic-y-label-lines">
+<line x1="218.000000" y1="808.041540" x2="1702.000000" y2="808.041540" style="fill:rgb(0,0,255); fill-opacity:0; stroke:rgb(242,242,242); stroke-opacity:1; stroke-width:4" />
+<line x1="218.000000" y1="740.041540" x2="1702.000000" y2="740.041540" style="fill:rgb(0,0,255); fill-opacity:0; stroke:rgb(242,242,242); stroke-opacity:1; stroke-width:4" />
+<line x1="218.000000" y1="672.041540" x2="1702.000000" y2="672.041540" style="fill:rgb(0,0,255); fill-opacity:0; stroke:rgb(242,242,242); stroke-opacity:1; stroke-width:4" />
+<line x1="218.000000" y1="604.041540" x2="1702.000000" y2="604.041540" style="fill:rgb(0,0,255); fill-opacity:0; stroke:rgb(242,242,242); stroke-opacity:1; stroke-width:4" />
+<line x1="218.000000" y1="536.041540" x2="1702.000000" y2="536.041540" style="fill:rgb(0,0,255); fill-opacity:0; stroke:rgb(242,242,242); stroke-opacity:1; stroke-width:4" />
+<line x1="218.000000" y1="468.041540" x2="1702.000000" y2="468.041540" style="fill:rgb(0,0,255); fill-opacity:0; stroke:rgb(242,242,242); stroke-opacity:1; stroke-width:4" />
+<line x1="218.000000" y1="400.041540" x2="1702.000000" y2="400.041540" style="fill:rgb(0,0,255); fill-opacity:0; stroke:rgb(242,242,242); stroke-opacity:1; stroke-width:4" />
+<line x1="218.000000" y1="332.041540" x2="1702.000000" y2="332.041540" style="fill:rgb(0,0,255); fill-opacity:0; stroke:rgb(242,242,242); stroke-opacity:1; stroke-width:4" />
+<line x1="218.000000" y1="264.041540" x2="1702.000000" y2="264.041540" style="fill:rgb(0,0,255); fill-opacity:0; stroke:rgb(242,242,242); stroke-opacity:1; stroke-width:4" />
+<line x1="218.000000" y1="196.041540" x2="1702.000000" y2="196.041540" style="fill:rgb(0,0,255); fill-opacity:0; stroke:rgb(242,242,242); stroke-opacity:1; stroke-width:4" />
+ </g>
+ <g id="tic-x-labels">
+<text x="200.000000" y="898.000000" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 1</text>
+<text x="276.424581" y="898.000000" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 10</text>
+<text x="352.849162" y="898.000000" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 19</text>
+<text x="429.273743" y="898.000000" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 28</text>
+<text x="505.698324" y="898.000000" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 37</text>
+<text x="582.122905" y="898.000000" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 46</text>
+<text x="658.547486" y="898.000000" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 55</text>
+<text x="734.972067" y="898.000000" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 64</text>
+<text x="811.396648" y="898.000000" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 73</text>
+<text x="887.821229" y="898.000000" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 82</text>
+<text x="964.245810" y="898.000000" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 91</text>
+<text x="1040.670391" y="898.000000" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 100</text>
+<text x="1117.094972" y="898.000000" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 109</text>
+<text x="1193.519553" y="898.000000" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 118</text>
+<text x="1269.944134" y="898.000000" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 127</text>
+<text x="1346.368715" y="898.000000" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 136</text>
+<text x="1422.793296" y="898.000000" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 145</text>
+<text x="1499.217877" y="898.000000" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 154</text>
+<text x="1575.642458" y="898.000000" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 163</text>
+<text x="1652.067039" y="898.000000" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 172</text>
+ </g>
+ <g id="tic-y-labels">
+<text x="164.000000" y="878.041540" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 2k</text>
+<text x="1756.000000" y="878.041540" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 2k</text>
+<text x="164.000000" y="810.041540" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 74k</text>
+<text x="1756.000000" y="810.041540" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 74k</text>
+<text x="164.000000" y="742.041540" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 146k</text>
+<text x="1756.000000" y="742.041540" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 146k</text>
+<text x="164.000000" y="674.041540" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 218k</text>
+<text x="1756.000000" y="674.041540" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 218k</text>
+<text x="164.000000" y="606.041540" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 290k</text>
+<text x="1756.000000" y="606.041540" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 290k</text>
+<text x="164.000000" y="538.041540" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 362k</text>
+<text x="1756.000000" y="538.041540" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 362k</text>
+<text x="164.000000" y="470.041540" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 434k</text>
+<text x="1756.000000" y="470.041540" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 434k</text>
+<text x="164.000000" y="402.041540" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 506k</text>
+<text x="1756.000000" y="402.041540" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 506k</text>
+<text x="164.000000" y="334.041540" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 578k</text>
+<text x="1756.000000" y="334.041540" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 578k</text>
+<text x="164.000000" y="266.041540" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 650k</text>
+<text x="1756.000000" y="266.041540" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 650k</text>
+<text x="164.000000" y="198.041540" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 723k</text>
+<text x="1756.000000" y="198.041540" font-family="Atkinson Hyperlegible" font-size="14.000000pt" text-anchor="middle" text-align="center" dominant-baseline="central" font-weight="400" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(118,118,118); stroke-opacity:0; stroke-width:0.5"> 723k</text>
+ </g>
+ </g>
+ <g id="weekend-bands-wandavision-109 downloads by day">
+<rect x="200.000000" y="200.000000" width="16.983240" height="680.000000"
+ style="fill:rgb(148,148,148); fill-opacity:0.15; stroke:rgb(148,148,148); stroke-opacity:0; stroke-width:0" />
+<rect x="259.441341" y="200.000000" width="16.983240" height="680.000000"
+ style="fill:rgb(148,148,148); fill-opacity:0.15; stroke:rgb(148,148,148); stroke-opacity:0; stroke-width:0" />
+<rect x="318.882682" y="200.000000" width="16.983240" height="680.000000"
+ style="fill:rgb(148,148,148); fill-opacity:0.15; stroke:rgb(148,148,148); stroke-opacity:0; stroke-width:0" />
+<rect x="378.324022" y="200.000000" width="16.983240" height="680.000000"
+ style="fill:rgb(148,148,148); fill-opacity:0.15; stroke:rgb(148,148,148); stroke-opacity:0; stroke-width:0" />
+<rect x="437.765363" y="200.000000" width="16.983240" height="680.000000"
+ style="fill:rgb(148,148,148); fill-opacity:0.15; stroke:rgb(148,148,148); stroke-opacity:0; stroke-width:0" />
+<rect x="497.206704" y="200.000000" width="16.983240" height="680.000000"
+ style="fill:rgb(148,148,148); fill-opacity:0.15; stroke:rgb(148,148,148); stroke-opacity:0; stroke-width:0" />
+<rect x="556.648045" y="200.000000" width="16.983240" height="680.000000"
+ style="fill:rgb(148,148,148); fill-opacity:0.15; stroke:rgb(148,148,148); stroke-opacity:0; stroke-width:0" />
+<rect x="616.089385" y="200.000000" width="16.983240" height="680.000000"
+ style="fill:rgb(148,148,148); fill-opacity:0.15; stroke:rgb(148,148,148); stroke-opacity:0; stroke-width:0" />
+<rect x="675.530726" y="200.000000" width="16.983240" height="680.000000"
+ style="fill:rgb(148,148,148); fill-opacity:0.15; stroke:rgb(148,148,148); stroke-opacity:0; stroke-width:0" />
+<rect x="734.972067" y="200.000000" width="16.983240" height="680.000000"
+ style="fill:rgb(148,148,148); fill-opacity:0.15; stroke:rgb(148,148,148); stroke-opacity:0; stroke-width:0" />
+<rect x="794.413408" y="200.000000" width="16.983240" height="680.000000"
+ style="fill:rgb(148,148,148); fill-opacity:0.15; stroke:rgb(148,148,148); stroke-opacity:0; stroke-width:0" />
+<rect x="853.854749" y="200.000000" width="16.983240" height="680.000000"
+ style="fill:rgb(148,148,148); fill-opacity:0.15; stroke:rgb(148,148,148); stroke-opacity:0; stroke-width:0" />
+<rect x="913.296089" y="200.000000" width="16.983240" height="680.000000"
+ style="fill:rgb(148,148,148); fill-opacity:0.15; stroke:rgb(148,148,148); stroke-opacity:0; stroke-width:0" />
+<rect x="972.737430" y="200.000000" width="16.983240" height="680.000000"
+ style="fill:rgb(148,148,148); fill-opacity:0.15; stroke:rgb(148,148,148); stroke-opacity:0; stroke-width:0" />
+<rect x="1032.178771" y="200.000000" width="16.983240" height="680.000000"
+ style="fill:rgb(148,148,148); fill-opacity:0.15; stroke:rgb(148,148,148); stroke-opacity:0; stroke-width:0" />
+<rect x="1091.620112" y="200.000000" width="16.983240" height="680.000000"
+ style="fill:rgb(148,148,148); fill-opacity:0.15; stroke:rgb(148,148,148); stroke-opacity:0; stroke-width:0" />
+<rect x="1151.061453" y="200.000000" width="16.983240" height="680.000000"
+ style="fill:rgb(148,148,148); fill-opacity:0.15; stroke:rgb(148,148,148); stroke-opacity:0; stroke-width:0" />
+<rect x="1210.502793" y="200.000000" width="16.983240" height="680.000000"
+ style="fill:rgb(148,148,148); fill-opacity:0.15; stroke:rgb(148,148,148); stroke-opacity:0; stroke-width:0" />
+<rect x="1269.944134" y="200.000000" width="16.983240" height="680.000000"
+ style="fill:rgb(148,148,148); fill-opacity:0.15; stroke:rgb(148,148,148); stroke-opacity:0; stroke-width:0" />
+<rect x="1329.385475" y="200.000000" width="16.983240" height="680.000000"
+ style="fill:rgb(148,148,148); fill-opacity:0.15; stroke:rgb(148,148,148); stroke-opacity:0; stroke-width:0" />
+<rect x="1388.826816" y="200.000000" width="16.983240" height="680.000000"
+ style="fill:rgb(148,148,148); fill-opacity:0.15; stroke:rgb(148,148,148); stroke-opacity:0; stroke-width:0" />
+<rect x="1448.268156" y="200.000000" width="16.983240" height="680.000000"
+ style="fill:rgb(148,148,148); fill-opacity:0.15; stroke:rgb(148,148,148); stroke-opacity:0; stroke-width:0" />
+<rect x="1507.709497" y="200.000000" width="16.983240" height="680.000000"
+ style="fill:rgb(148,148,148); fill-opacity:0.15; stroke:rgb(148,148,148); stroke-opacity:0; stroke-width:0" />
+<rect x="1550.167598" y="200.000000" width="16.983240" height="680.000000"
+ style="fill:rgb(148,148,148); fill-opacity:0.15; stroke:rgb(148,148,148); stroke-opacity:0; stroke-width:0" />
+<rect x="1609.608939" y="200.000000" width="16.983240" height="680.000000"
+ style="fill:rgb(148,148,148); fill-opacity:0.15; stroke:rgb(148,148,148); stroke-opacity:0; stroke-width:0" />
+<rect x="1669.050279" y="200.000000" width="16.983240" height="680.000000"
+ style="fill:rgb(148,148,148); fill-opacity:0.15; stroke:rgb(148,148,148); stroke-opacity:0; stroke-width:0" />
+ </g>
+ <g id="polyline-wandavision-109 downloads by day">
+<polyline points="200,664.883 208.492,465.696 216.983,525.624 225.475,583.819 233.966,619.827 242.458,648.439 250.95,665.793 259.441,677.103 267.933,681.096 276.425,684.542 284.916,677.845 293.408,689.008 301.899,696.9 310.391,688.464 318.883,677.546 327.374,683.352 335.866,692.201 344.358,709.627 352.849,720.522 361.341,724.153 369.832,729.052 378.324,722.648 386.816,719.813 395.307,725.214 403.799,730.258 412.291,745.788 420.782,755.199 429.274,758.605 437.765,751.826 446.257,752.778 454.749,758.247 463.24,760.829 471.732,767.772 480.223,773.629 488.715,775.846 497.207,771.582 505.698,769.577 514.19,770.937 522.682,779.044 531.173,785.372 539.665,783.974 548.156,789.104 556.648,782.105 565.14,781.594 573.631,783.641 582.123,789.32 590.615,793.377 599.106,796.534 607.598,796.623 616.089,785.989 624.581,768.087 633.073,762.562 641.564,772.321 650.056,711.894 658.547,384.042 667.039,239.853 675.531,200 684.022,251.846 692.514,271.146 701.006,307.208 709.497,420.202 717.989,518.413 726.48,435.565 734.972,373.734 743.464,428.968 751.955,470.122 760.447,468.367 768.939,492.897 777.43,417.741 785.922,412.223 794.413,352.546 802.905,359.527 811.397,426.938 819.888,371.034 828.38,357.882 836.872,406.696 845.363,527.378 853.855,508.179 862.346,547.662 870.838,538.934 879.33,579.967 887.821,501.247 896.313,479.329 904.804,516.488 913.296,512.587 921.788,548.45 930.279,506.964 938.771,530.53 947.263,509.344 955.754,511.367 964.246,512.399 972.737,535.7 981.229,537.347 989.721,553.049 998.212,507.369 1006.7,496.256 1015.2,513.634 1023.69,540.451 1032.18,513.414 1040.67,513.497 1049.16,530.023 1057.65,524.581 1066.15,561.119 1074.64,577.442 1083.13,545.478 1091.62,510.763 1100.11,446.875 1108.6,455.328 1117.09,520.43 1125.59,513.402 1134.08,463.367 1142.57,486.487 1151.06,464.84 1159.55,468.797 1168.04,466.302 1176.54,486.459 1185.03,474.252 1193.52,467.268 1202.01,465.691 1210.5,484.214 1218.99,490.55 1227.49,507.719 1235.98,567.743 1244.47,469.538 1252.96,500.837 1261.45,494.687 1269.94,525.22 1278.44,480.203 1286.93,472.528 1295.42,525.973 1303.91,551.016 1312.4,553.799 1320.89,621.022 1329.39,581.189 1337.88,567.45 1346.37,560.904 1354.86,604.852 1363.35,606.493 1371.84,638.069 1380.34,534.639 1388.83,484.183 1397.32,566.402 1405.81,583.16 1414.3,598.766 1422.79,577.967 1431.28,542.667 1439.78,600.633 1448.27,615.751 1456.76,548.817 1465.25,579.5 1473.74,603.218 1482.23,594.187 1490.73,628.536 1499.22,642.397 1507.71,579.934 1516.2,639.102 1524.69,869.506 1533.18,667.492 1541.68,638.15 1550.17,575.484 1558.66,599.902 1567.15,625.082 1575.64,627.42 1584.13,615.244 1592.63,611.424 1601.12,619.129 1609.61,611.631 1618.1,662.798 1626.59,670.356 1635.08,647.157 1643.58,674.117 1652.07,635.542 1660.56,530.946 1669.05,581.872 1677.54,634.651 1686.03,649.154 1694.53,552.939 1703.02,553.063 1711.51,577.174 1720,548.364 "  style="fill:rgb(0,0,255); fill-opacity:0; stroke:rgb(0,0,255); stroke-opacity:1; stroke-width:4" />
+ </g>
+ <g id="polyline-wandavision-109 downloads by day uploaders">
+<polyline points="200,822.364 208.492,732.749 216.983,731.039 225.475,745.988 233.966,758.155 242.458,771.106 250.95,782.767 259.441,788.4 267.933,789.663 276.425,793.076 284.916,791.419 293.408,794.389 301.899,796.172 310.391,794.711 318.883,787.098 327.374,789.763 335.866,794.84 344.358,801.978 352.849,808.198 361.341,810.425 369.832,813.92 378.324,811.633 386.816,810.448 395.307,813.59 403.799,817.901 412.291,823.471 420.782,823.376 429.274,824.939 437.765,822.352 446.257,820.378 454.749,823.929 463.24,823.181 471.732,825.98 480.223,828.827 488.715,830.656 497.207,829.247 505.698,826.452 514.19,827.001 522.682,831.359 531.173,835.168 539.665,836.01 548.156,837.09 556.648,833.244 565.14,832.515 573.631,833.528 582.123,839.42 590.615,843.486 599.106,843.693 607.598,844.1 616.089,839.574 624.581,838.245 633.073,839.926 641.564,842.309 650.056,843.781 658.547,844.299 667.039,845.468 675.531,843.812 684.022,845.105 692.514,845.926 701.006,845.577 709.497,847.069 717.989,847.425 726.48,848.663 734.972,848.781 743.464,848.387 751.955,848.944 760.447,849.222 768.939,850.634 777.43,851.045 785.922,850.241 794.413,850.714 802.905,850.522 811.397,849.022 819.888,850.486 828.38,850.501 836.872,850.956 845.363,851.231 853.855,851.224 862.346,852.415 870.838,851.238 879.33,851.991 887.821,852.563 896.313,850.976 904.804,852.464 913.296,852.05 921.788,851.989 930.279,852.323 938.771,853.202 947.263,852.318 955.754,852.161 964.246,853.244 972.737,852.917 981.229,852.835 989.721,852.761 998.212,854.129 1006.7,854.602 1015.2,852.431 1023.69,851.446 1032.18,852.101 1040.67,851.612 1049.16,851.524 1057.65,851.336 1066.15,852.549 1074.64,851.175 1083.13,852.062 1091.62,853.433 1100.11,853.541 1108.6,852.727 1117.09,853.711 1125.59,853.792 1134.08,851.658 1142.57,853.516 1151.06,853.506 1159.55,854.469 1168.04,854.367 1176.54,854.221 1185.03,855.257 1193.52,853.532 1202.01,854.491 1210.5,854.299 1218.99,855.603 1227.49,855.395 1235.98,856.294 1244.47,858.179 1252.96,856.837 1261.45,855.485 1269.94,855.458 1278.44,855.036 1286.93,856.025 1295.42,855.492 1303.91,856.334 1312.4,853.229 1320.89,852.05 1329.39,852.757 1337.88,851.788 1346.37,850.751 1354.86,852.311 1363.35,853.92 1371.84,855.111 1380.34,854.504 1388.83,854.7 1397.32,854.496 1405.81,853.581 1414.3,854.286 1422.79,854.423 1431.28,854.788 1439.78,854.697 1448.27,855.512 1456.76,854.944 1465.25,855.026 1473.74,855.824 1482.23,856.8 1490.73,856.927 1499.22,857.134 1507.71,856.878 1516.2,858.24 1524.69,880 1533.18,861.9 1541.68,858.747 1550.17,858.616 1558.66,859.588 1567.15,859.265 1575.64,859.689 1584.13,859.887 1592.63,860.055 1601.12,859.998 1609.61,860.198 1618.1,859.578 1626.59,860.292 1635.08,859.892 1643.58,859.352 1652.07,858.511 1660.56,859.075 1669.05,858.754 1677.54,859.446 1686.03,859.089 1694.53,859.354 1703.02,859.405 1711.51,859.741 1720,860.306 " stroke-dasharray="5 15"  style="fill:rgb(0,0,255); fill-opacity:0; stroke:rgb(0,0,255); stroke-opacity:1; stroke-width:4" />
+ </g>
+</svg>
