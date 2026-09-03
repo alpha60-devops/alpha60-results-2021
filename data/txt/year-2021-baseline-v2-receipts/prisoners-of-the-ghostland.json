@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt6372694",
+    "imdb_id": "tt6372694",
+    "revision": "576c2b15dd1e39c011f3278699f852aced240cd0",
+    "wikidata_id": "Q59783263",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Prisoners_of_the_Ghostland"
+  },
+  "coverage_sha256": "3b6ec9687ad0b916c88f9849b8e76a1dc3785d01def748980cb0bb3de900686c",
+  "generated_at": "2026-09-03T19:49:02.990675+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2021-archives/prisoners-of-the-ghostland.cache/cache.20211123.tar.xz",
+      "sha256": "667c5f6c20a29fc165f746962f68396017930c600fffe12e541e943c692d8f30",
+      "size": 686061312
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-coverage-evidence/prisoners-of-the-ghostland.md",
+      "sha256": "dcbcd0345c9ca94da9b66ed5fb13604943b8cc9811b3b76f320fd1ecd0ada813",
+      "size": 562
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-cache-stream-receipts/prisoners-of-the-ghostland.json",
+      "sha256": "372e2dde4d9badb6a76bdc2500583a790d1095264b52631fc35e308845146da2",
+      "size": 2479
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-product-receipts/prisoners-of-the-ghostland.json",
+      "sha256": "52818cdbbd08ac2642de5f8b043577cd937734a082846a8f5f6e2f12a2b6b1b2",
+      "size": 378
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-control/worker-map.json",
+      "sha256": "8007c46b300872bb9f00ced6cb29d0e2aa49e73a513f4c30d0e8765a7e08ef2c",
+      "size": 89669
+    }
+  },
+  "media_object": "prisoners-of-the-ghostland",
+  "published_files": {
+    "data/csv/bytes/prisoners-of-the-ghostland-cumulative-detail.2021-btiha-itemized-by-bytes.csv": "4c94230099c1c85c49655f8cb7e427018c16be51d41e28ffed0d8c8422c3ac06",
+    "docs/itemized/figures/prisoners-of-the-ghostland-carto-4k.webp": "09799a3fda5e7fc202289ac2918b3984cbbfdbac6bf08010d655a6610b630b08",
+    "docs/itemized/figures/prisoners-of-the-ghostland-carto.png": "01bff5d4691f3b5b15ac80ffd7b81773f0f8c88afc9cc6a7cf1825142469023b",
+    "docs/itemized/figures/prisoners-of-the-ghostland-cumulative-detail-btiha-itemized-by-bytes.svg": "ce78e0e17537828e7af19084abd2562a91fa3eaa6dce1998c9e3230feae1270e",
+    "docs/itemized/figures/prisoners-of-the-ghostland-data-ge-1080p-4k.webp": "f4939a8de8c2e5763d1671b99ea11edfbe0a5dbddd6ee54e3f6decbb6b1ad63c",
+    "docs/itemized/figures/prisoners-of-the-ghostland-data-ge-1080p.webp": "0d23b58a8ca7add9ef611585287afc0e3d22f300508f4da74da177c46bff3509",
+    "docs/itemized/figures/prisoners-of-the-ghostland-data-lt-1080p-4k.webp": "eb7289b630dff9fdcc1d0b7d0f778b7d05d8758509065cd58926a1daf58fec4f",
+    "docs/itemized/figures/prisoners-of-the-ghostland-data-lt-1080p.webp": "8630fa416f2d216234ee50044ff12c4b87d9bd107ef1a9253a0d10071955c498",
+    "docs/itemized/figures/prisoners-of-the-ghostland-downloads-by-day-day.svg": "3875c85cf6ca8704a86f8b53b57c303832f897ee16b36ac226ffb11b6325aea0",
+    "docs/itemized/figures/prisoners-of-the-ghostland-downloads-by-week-prisoners-of-the-ghostland-week.svg": "bf7aa23343d6ac5327371e04df46336090f03ece3925017aa752b42bb5d334bc",
+    "docs/itemized/prisoners-of-the-ghostland-sample-cache-audit.md": "3199268829ee02e27077ef5830509fe5a67742bd529cf52fe9a9471686a3c02f",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "84873e743da03017b556934ba0f591c7ba6b051e",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/prisoners-of-the-ghostland/tmp/prisoners-of-the-ghostland-cumulative-btiha.geojson",
+        "sha256": "de9376152e2a737fadad30d02638f7a9fcac8ff09765e26f1b1c0bd2b40bd8da",
+        "size": 46180744
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/prisoners-of-the-ghostland/tmp/prisoners-of-the-ghostland-cumulative-btiha-media-objects.json",
+        "sha256": "eaf5a04a5567d7bf4cfef46ef5b81f308b74e4a40cb10492cbdcf6df745f7767",
+        "size": 240904
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "prisoners-of-the-ghostland",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          88.0,
+          78.0,
+          64.0,
+          62.0,
+          56.0,
+          48.0,
+          42.0,
+          36.0,
+          35.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "London",
+          "Ashburn",
+          "Moscow",
+          "New York City",
+          "Quezon City",
+          "Mumbai",
+          "Johannesburg",
+          "Seoul",
+          "Amsterdam",
+          "Pretoria"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          57.0,
+          57.0,
+          34.0,
+          33.0,
+          29.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Ashburn",
+          "London",
+          "New York City",
+          "Saint Petersburg",
+          "Quezon City",
+          "Amsterdam",
+          "Seoul",
+          "Krasnodar",
+          "Johannesburg"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 24,
+        "y_tick_labels": 20
+      },
+      "histogram": {
+        "bars": 35,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 6,
+        "x_tick_marks": 6,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 10,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "84873e743da03017b556934ba0f591c7ba6b051e",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "903f8276e5f31a4387bb88a459e5012c544222f6",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "576c2b15dd1e39c011f3278699f852aced240cd0"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2021"
+}
