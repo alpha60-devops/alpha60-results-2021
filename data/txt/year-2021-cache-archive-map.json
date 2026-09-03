@@ -1,0 +1,4859 @@
+{
+  "assignment_policy": "largest-archive-first-minimum-assigned-bytes",
+  "cache_root": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold",
+  "counts": {
+    "approved_filename_date_mismatches": 0,
+    "approved_observed_endpoint_mismatches": 0,
+    "checkpoint_records_reused": 76,
+    "day_member_streams_validated": 77,
+    "eligible_archives": 77,
+    "post_release_archive_records": 0,
+    "records": 77,
+    "sample_end_matches": 77,
+    "selected_archive_bytes": 143853753332,
+    "selected_archive_hashes": 77,
+    "sparse_sample_records": 11,
+    "unique_records": 77
+  },
+  "identity_source": {
+    "kind": "canonical-swarm-metadata",
+    "root": "/home/bkoz/src/alpha60-swarm-metadata/metadata"
+  },
+  "inventory": {
+    "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-0-media-objects.txt",
+    "sha256": "99f6a7729bcfc0b62821b2f5ecf024379cc5c0a6611a87f5d779ea4c904841dc"
+  },
+  "overrides": {
+    "count": 0
+  },
+  "owners": {
+    "eureka": {
+      "archive_bytes": 71932403712,
+      "records": 39
+    },
+    "ord": {
+      "archive_bytes": 71921349620,
+      "records": 38
+    }
+  },
+  "records": [
+    {
+      "archive": {
+        "filename": "cache.20211103.tar.xz",
+        "filename_date": "20211103",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/archer-1201.cache/cache.20211103.tar.xz",
+        "sha256": "61249b44f1e61dd27be453a7efb6169b1e64d508ddf213160beda686ae349831",
+        "size": 407421648
+      },
+      "collection_key": "archer-1201",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 70,
+          "cache_members": 8455,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2021-11-03",
+          "sample_span_days": 70,
+          "sample_start": "2021-08-26",
+          "torrent_indices": 126
+        },
+        "required_collection_key": "archer-1201",
+        "required_day_products": 70,
+        "required_sample_days": 70,
+        "required_sample_end": "2021-11-03",
+        "required_sample_start": "2021-08-26",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "1201",
+        "collection_name": "Archer",
+        "metadata_version": "2025-11-22",
+        "sample_days": 70,
+        "sample_end": "2021-11-03",
+        "sample_start": "2021-08-26",
+        "sha256": "924ffc3d5f321bb005f6148988ae55a8ecb7f8d861bc3040e370c9532e882ba9",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/archer-1201.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20211103.tar.xz",
+            "size": 407421648
+          }
+        ],
+        "expected_filename_date": "20211103"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20210902.tar.xz",
+        "filename_date": "20210902",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/army-of-the-dead.cache/cache.20210902.tar.xz",
+        "sha256": "7a47c96a68e667c099a37680a81680dbc18e31233cd261b12eba59a4793bb0f5",
+        "size": 2048761500
+      },
+      "collection_key": "army-of-the-dead",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 105,
+          "cache_members": 15665,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2021-09-02",
+          "sample_span_days": 105,
+          "sample_start": "2021-05-21",
+          "torrent_indices": 164
+        },
+        "required_collection_key": "army-of-the-dead",
+        "required_day_products": 105,
+        "required_sample_days": 105,
+        "required_sample_end": "2021-09-02",
+        "required_sample_start": "2021-05-21",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "",
+        "collection_name": "Army of the Dead",
+        "metadata_version": "2025-11-22",
+        "sample_days": 105,
+        "sample_end": "2021-09-02",
+        "sample_start": "2021-05-21",
+        "sha256": "708bc343a1698d47793c25ec27699c9cd942555acefbec4d082a28b2b71da910",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/army-of-the-dead.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20210902.tar.xz",
+            "size": 2048761500
+          }
+        ],
+        "expected_filename_date": "20210902"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20220310.tar.xz",
+        "filename_date": "20220310",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/beatles-get-back.cache/cache.20220310.tar.xz",
+        "sha256": "62806aaa626733d545f3c4e59e977e35e90db01ed85e79d35d1f6b8907ac3340",
+        "size": 1197139252
+      },
+      "collection_key": "beatles-get-back",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 103,
+          "cache_members": 19287,
+          "missing_indices": [
+            72,
+            74
+          ],
+          "post_release_day_products": 0,
+          "sample_end": "2022-03-10",
+          "sample_span_days": 105,
+          "sample_start": "2021-11-26",
+          "torrent_indices": 197
+        },
+        "required_collection_key": "beatles-get-back",
+        "required_day_products": 103,
+        "required_sample_days": 105,
+        "required_sample_end": "2022-03-10",
+        "required_sample_start": "2021-11-26",
+        "required_sparse_intervals": [
+          {
+            "days": 1,
+            "first_index": 72,
+            "last_index": 72
+          },
+          {
+            "days": 1,
+            "first_index": 74,
+            "last_index": 74
+          }
+        ],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "",
+        "collection_name": "The Beatles: Get Back",
+        "metadata_version": "2025-11-22",
+        "sample_days": 105,
+        "sample_end": "2022-03-10",
+        "sample_start": "2021-11-26",
+        "sha256": "18d21d60999f22288e509b9995d19363394c5ad2fa0fc9851df7ac7b61f28c41",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/beatles-get-back.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20220310.tar.xz",
+            "size": 1197139252
+          }
+        ],
+        "expected_filename_date": "20220310"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20220122.tar.xz",
+        "filename_date": "20220122",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/blade-runner-black-lotus-101.cache/cache.20220122.tar.xz",
+        "sha256": "3aa83a8754a1126f47b16256fbde67214ddb002b5de8035aed6230c8a22cf83d",
+        "size": 204473188
+      },
+      "collection_key": "blade-runner-black-lotus-101",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 70,
+          "cache_members": 7971,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2022-01-22",
+          "sample_span_days": 70,
+          "sample_start": "2021-11-14",
+          "torrent_indices": 117
+        },
+        "required_collection_key": "blade-runner-black-lotus-101",
+        "required_day_products": 70,
+        "required_sample_days": 70,
+        "required_sample_end": "2022-01-22",
+        "required_sample_start": "2021-11-14",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "101",
+        "collection_name": "Blade Runner Black Lotus",
+        "metadata_version": "2025-11-22",
+        "sample_days": 70,
+        "sample_end": "2022-01-22",
+        "sample_start": "2021-11-14",
+        "sha256": "2d2755bb34fd5050f231e15331e0c4b045781b707116ed0f35f1863dde15ca2c",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/blade-runner-black-lotus-101.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20220122.tar.xz",
+            "size": 204473188
+          }
+        ],
+        "expected_filename_date": "20220122"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20210415.tar.xz",
+        "filename_date": "20210415",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/bliss.cache/cache.20210415.tar.xz",
+        "sha256": "8c878997edf9f3b2afd3c190e45779a54e35548dc36769d4e5c52e71772dcc01",
+        "size": 706514752
+      },
+      "collection_key": "bliss",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 70,
+          "cache_members": 7654,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2021-04-15",
+          "sample_span_days": 70,
+          "sample_start": "2021-02-05",
+          "torrent_indices": 120
+        },
+        "required_collection_key": "bliss",
+        "required_day_products": 70,
+        "required_sample_days": 70,
+        "required_sample_end": "2021-04-15",
+        "required_sample_start": "2021-02-05",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "",
+        "collection_name": "Bliss",
+        "metadata_version": "2025-11-22",
+        "sample_days": 70,
+        "sample_end": "2021-04-15",
+        "sample_start": "2021-02-05",
+        "sha256": "74546dbfde7e1ac3657e0b207460a514c54125d42b4dd97d976c3b4d557e2b24",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/bliss.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20210415.tar.xz",
+            "size": 706514752
+          }
+        ],
+        "expected_filename_date": "20210415"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20210802.tar.xz",
+        "filename_date": "20210802",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/borats-american-lockdown.cache/cache.20210802.tar.xz",
+        "sha256": "c2562d81e67124a3ef39b9c3989ee7aed7349817063c5c1f8b61d73833ee6eb6",
+        "size": 121311168
+      },
+      "collection_key": "borats-american-lockdown",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 70,
+          "cache_members": 8361,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2021-08-02",
+          "sample_span_days": 70,
+          "sample_start": "2021-05-25",
+          "torrent_indices": 131
+        },
+        "required_collection_key": "borats-american-lockdown",
+        "required_day_products": 70,
+        "required_sample_days": 70,
+        "required_sample_end": "2021-08-02",
+        "required_sample_start": "2021-05-25",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "",
+        "collection_name": "Borats American Lockdown",
+        "metadata_version": "2025-11-22",
+        "sample_days": 70,
+        "sample_end": "2021-08-02",
+        "sample_start": "2021-05-25",
+        "sha256": "e60f815b1f5df1375c0171893c862e304757cf816eb3a05d62097ea18ee2ef2c",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/borats-american-lockdown.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20210802.tar.xz",
+            "size": 121311168
+          }
+        ],
+        "expected_filename_date": "20210802"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20211111.tar.xz",
+        "filename_date": "20211111",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/cinderella-2021.cache/cache.20211111.tar.xz",
+        "sha256": "b8dc2209c9c983ae25e2af63cf7e380e28947e8ea7eca404b0e4ccffaae938ab",
+        "size": 868420408
+      },
+      "collection_key": "cinderella-2021",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 63,
+          "cache_members": 8637,
+          "missing_indices": [
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42
+          ],
+          "post_release_day_products": 0,
+          "sample_end": "2021-11-11",
+          "sample_span_days": 70,
+          "sample_start": "2021-09-03",
+          "torrent_indices": 154
+        },
+        "required_collection_key": "cinderella-2021",
+        "required_day_products": 63,
+        "required_sample_days": 70,
+        "required_sample_end": "2021-11-11",
+        "required_sample_start": "2021-09-03",
+        "required_sparse_intervals": [
+          {
+            "days": 7,
+            "first_index": 36,
+            "last_index": 42
+          }
+        ],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "",
+        "collection_name": "Cinderella",
+        "metadata_version": "2025-11-22",
+        "sample_days": 70,
+        "sample_end": "2021-11-11",
+        "sample_start": "2021-09-03",
+        "sha256": "1de298e7e8a995dadf725c8c5c7faa0d66dd4fbd85740447856c76bb729c86d0",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/cinderella-2021.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20211111.tar.xz",
+            "size": 868420408
+          }
+        ],
+        "expected_filename_date": "20211111"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20210311.tar.xz",
+        "filename_date": "20210311",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/cobra-kai-03.cache/cache.20210311.tar.xz",
+        "sha256": "5a153ba10254f2849265415ebf0decd71c2843bbdf7f371294efff2b91f55aed",
+        "size": 545104880
+      },
+      "collection_key": "cobra-kai-03",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 70,
+          "cache_members": 10274,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2021-03-11",
+          "sample_span_days": 70,
+          "sample_start": "2021-01-01",
+          "torrent_indices": 156
+        },
+        "required_collection_key": "cobra-kai-03",
+        "required_day_products": 70,
+        "required_sample_days": 70,
+        "required_sample_end": "2021-03-11",
+        "required_sample_start": "2021-01-01",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "3",
+        "collection_name": "Cobra Kai",
+        "metadata_version": "2025-11-22",
+        "sample_days": 70,
+        "sample_end": "2021-03-11",
+        "sample_start": "2021-01-01",
+        "sha256": "da342d2d157b3bd5039a0349994b0c5887a3cf49d22cd8b436a054b66f81751e",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/cobra-kai-03.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20210311.tar.xz",
+            "size": 545104880
+          }
+        ],
+        "expected_filename_date": "20210311"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20211012.tar.xz",
+        "filename_date": "20211012",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/cocaine-cowboys-the-kings-of-miami.cache/cache.20211012.tar.xz",
+        "sha256": "af602e3cee2b6fd539e43d279c11321188a2c5bb918c2111cae9187b67954b43",
+        "size": 75015648
+      },
+      "collection_key": "cocaine-cowboys-the-kings-of-miami",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 70,
+          "cache_members": 5593,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2021-10-12",
+          "sample_span_days": 70,
+          "sample_start": "2021-08-04",
+          "torrent_indices": 85
+        },
+        "required_collection_key": "cocaine-cowboys-the-kings-of-miami",
+        "required_day_products": 70,
+        "required_sample_days": 70,
+        "required_sample_end": "2021-10-12",
+        "required_sample_start": "2021-08-04",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "1",
+        "collection_name": "Cocaine Cowboys: The Kings of Miami",
+        "metadata_version": "2025-11-22",
+        "sample_days": 70,
+        "sample_end": "2021-10-12",
+        "sample_start": "2021-08-04",
+        "sha256": "8521dba121ce0dc7535fdeabd74ab90c3f5cd5c3fcbaea6d021823f9f0f500cd",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/cocaine-cowboys-the-kings-of-miami.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20211012.tar.xz",
+            "size": 75015648
+          }
+        ],
+        "expected_filename_date": "20211012"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20210327.tar.xz",
+        "filename_date": "20210327",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/coming-2-america.cache/cache.20210327.tar.xz",
+        "sha256": "33620dc82bfa628d3899cd5f2e1cdb44088350ad95743addf925f020c03ea4b0",
+        "size": 909067100
+      },
+      "collection_key": "coming-2-america",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 23,
+          "cache_members": 2806,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2021-03-27",
+          "sample_span_days": 23,
+          "sample_start": "2021-03-05",
+          "torrent_indices": 144
+        },
+        "required_collection_key": "coming-2-america",
+        "required_day_products": 23,
+        "required_sample_days": 23,
+        "required_sample_end": "2021-03-27",
+        "required_sample_start": "2021-03-05",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "",
+        "collection_name": "Coming 2 America",
+        "metadata_version": "2025-11-22",
+        "sample_days": 23,
+        "sample_end": "2021-03-27",
+        "sample_start": "2021-03-05",
+        "sha256": "6b2375905fb72b0db94ba32252171d55e537c5a103c6d255946d027cc2717cd2",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/coming-2-america.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20210327.tar.xz",
+            "size": 909067100
+          }
+        ],
+        "expected_filename_date": "20210327"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20220127.tar.xz",
+        "filename_date": "20220127",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/cowboy-bebop-2021-01.cache/cache.20220127.tar.xz",
+        "sha256": "c671be38feed688d0115dcd4bbfd0ba3f2c79fd693e3ebc59a475400d3fb4835",
+        "size": 851440952
+      },
+      "collection_key": "cowboy-bebop-2021-01",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 70,
+          "cache_members": 21985,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2022-01-27",
+          "sample_span_days": 70,
+          "sample_start": "2021-11-19",
+          "torrent_indices": 329
+        },
+        "required_collection_key": "cowboy-bebop-2021-01",
+        "required_day_products": 70,
+        "required_sample_days": 70,
+        "required_sample_end": "2022-01-27",
+        "required_sample_start": "2021-11-19",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "1",
+        "collection_name": "Cowboy Bebop 2021",
+        "metadata_version": "2025-11-22",
+        "sample_days": 70,
+        "sample_end": "2022-01-27",
+        "sample_start": "2021-11-19",
+        "sha256": "eba560b43e545677bd92a1faaa6b6537bdf3f76e113deb6e06931db7c4619bc9",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/cowboy-bebop-2021-01.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20220127.tar.xz",
+            "size": 851440952
+          }
+        ],
+        "expected_filename_date": "20220127"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20210802.tar.xz",
+        "filename_date": "20210802",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/debris-113.cache/cache.20210802.tar.xz",
+        "sha256": "71850559957a810de81e56aa199227c1c8d75487d9d6cff6db18b5a03fcaf925",
+        "size": 357841256
+      },
+      "collection_key": "debris-113",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 70,
+          "cache_members": 4981,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2021-08-02",
+          "sample_span_days": 70,
+          "sample_start": "2021-05-25",
+          "torrent_indices": 79
+        },
+        "required_collection_key": "debris-113",
+        "required_day_products": 70,
+        "required_sample_days": 70,
+        "required_sample_end": "2021-08-02",
+        "required_sample_start": "2021-05-25",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "1",
+        "collection_name": "Debris",
+        "metadata_version": "2025-11-22",
+        "sample_days": 70,
+        "sample_end": "2021-08-02",
+        "sample_start": "2021-05-25",
+        "sha256": "6644c241b9bc11a4074d61bea3f6e2442c980c589b6336628ac9e164e26ee728",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/debris-113.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20210802.tar.xz",
+            "size": 357841256
+          }
+        ],
+        "expected_filename_date": "20210802"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20210814.tar.xz",
+        "filename_date": "20210814",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/detective-chinatown-3.cache/cache.20210814.tar.xz",
+        "sha256": "911c2dfddd825195c8e2b7ec01f54ce7e2fbfa9094df7399507802a414e946f6",
+        "size": 447146656
+      },
+      "collection_key": "detective-chinatown-3",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 182,
+          "cache_members": 7058,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2021-08-14",
+          "sample_span_days": 182,
+          "sample_start": "2021-02-14",
+          "torrent_indices": 66
+        },
+        "required_collection_key": "detective-chinatown-3",
+        "required_day_products": 182,
+        "required_sample_days": 182,
+        "required_sample_end": "2021-08-14",
+        "required_sample_start": "2021-02-14",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "",
+        "collection_name": "Detective Chinatown 3",
+        "metadata_version": "2025-11-22",
+        "sample_days": 182,
+        "sample_end": "2021-08-14",
+        "sample_start": "2021-02-14",
+        "sha256": "400e22e021c5940babc6274d67c52e3919a522754e937e2c7ff3a84484e34eae",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/detective-chinatown-3.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20210814.tar.xz",
+            "size": 447146656
+          }
+        ],
+        "expected_filename_date": "20210814"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20220407.tar.xz",
+        "filename_date": "20220407",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/dont-look-up.cache/cache.20220407.tar.xz",
+        "sha256": "972d300d3d34ae88e82cc296fae522a3f5db36860d605e7221ab83f1bed3ba5b",
+        "size": 4367709580
+      },
+      "collection_key": "dont-look-up",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 105,
+          "cache_members": 20133,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2022-04-07",
+          "sample_span_days": 105,
+          "sample_start": "2021-12-24",
+          "torrent_indices": 205
+        },
+        "required_collection_key": "dont-look-up",
+        "required_day_products": 105,
+        "required_sample_days": 105,
+        "required_sample_end": "2022-04-07",
+        "required_sample_start": "2021-12-24",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "",
+        "collection_name": "Don't Look Up",
+        "metadata_version": "2025-11-22",
+        "sample_days": 105,
+        "sample_end": "2022-04-07",
+        "sample_start": "2021-12-24",
+        "sha256": "891da34ab82ce4228afd6622cb20bf39d90f65661efe429ee8d89e52376509b0",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/dont-look-up.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20220407.tar.xz",
+            "size": 4367709580
+          }
+        ],
+        "expected_filename_date": "20220407"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20211209.tar.xz",
+        "filename_date": "20211209",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/doom-patrol-301.cache/cache.20211209.tar.xz",
+        "sha256": "6c4997ca9e9ae257386fafc948b370ac8d96d711544b90076afa9ca27083a07f",
+        "size": 360137696
+      },
+      "collection_key": "doom-patrol-301",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 75,
+          "cache_members": 10153,
+          "missing_indices": [
+            16,
+            17,
+            23
+          ],
+          "post_release_day_products": 0,
+          "sample_end": "2021-12-09",
+          "sample_span_days": 78,
+          "sample_start": "2021-09-23",
+          "torrent_indices": 139
+        },
+        "required_collection_key": "doom-patrol-301",
+        "required_day_products": 75,
+        "required_sample_days": 78,
+        "required_sample_end": "2021-12-09",
+        "required_sample_start": "2021-09-23",
+        "required_sparse_intervals": [
+          {
+            "days": 2,
+            "first_index": 16,
+            "last_index": 17
+          },
+          {
+            "days": 1,
+            "first_index": 23,
+            "last_index": 23
+          }
+        ],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "301",
+        "collection_name": "Doom Patrol",
+        "metadata_version": "2025-11-22",
+        "sample_days": 78,
+        "sample_end": "2021-12-09",
+        "sample_start": "2021-09-23",
+        "sha256": "1c8c9bd3da10e1a07376e3d22530f0cfe47b8e09e3342b64903b6117aaad376b",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/doom-patrol-301.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20211209.tar.xz",
+            "size": 360137696
+          }
+        ],
+        "expected_filename_date": "20211209"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20210531.tar.xz",
+        "filename_date": "20210531",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/doors.cache/cache.20210531.tar.xz",
+        "sha256": "68ef96e64105caefc24f6dfe6806a3bd2bf240f3b3a1b0ee3c398ec1e23dee55",
+        "size": 291914804
+      },
+      "collection_key": "doors",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 70,
+          "cache_members": 3687,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2021-05-31",
+          "sample_span_days": 70,
+          "sample_start": "2021-03-23",
+          "torrent_indices": 56
+        },
+        "required_collection_key": "doors",
+        "required_day_products": 70,
+        "required_sample_days": 70,
+        "required_sample_end": "2021-05-31",
+        "required_sample_start": "2021-03-23",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "",
+        "collection_name": "Doors",
+        "metadata_version": "2025-11-22",
+        "sample_days": 70,
+        "sample_end": "2021-05-31",
+        "sample_start": "2021-03-23",
+        "sha256": "367811661a8087dbc54fc58f2f31b551e0803c82fdf11ace207434571f1cd638",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/doors.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20210531.tar.xz",
+            "size": 291914804
+          }
+        ],
+        "expected_filename_date": "20210531"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20220417.tar.xz",
+        "filename_date": "20220417",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/dune-2021.cache/cache.20220417.tar.xz",
+        "sha256": "3b1c411a2a915d283afc999e44bed0a31ecaf108e5d9db714dc5831f0560028f",
+        "size": 11791909760
+      },
+      "collection_key": "dune-2021",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 182,
+          "cache_members": 64257,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2022-04-17",
+          "sample_span_days": 182,
+          "sample_start": "2021-10-18",
+          "torrent_indices": 368
+        },
+        "required_collection_key": "dune-2021",
+        "required_day_products": 182,
+        "required_sample_days": 182,
+        "required_sample_end": "2022-04-17",
+        "required_sample_start": "2021-10-18",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "",
+        "collection_name": "Dune 2021: Part One",
+        "metadata_version": "2025-11-22",
+        "sample_days": 182,
+        "sample_end": "2022-04-17",
+        "sample_start": "2021-10-18",
+        "sha256": "b5fc28dcc44b4542a8a55c2377b9bd48c0e901e5ab64dd71bf9092e10749dee0",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/dune-2021.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20220417.tar.xz",
+            "size": 11791909760
+          }
+        ],
+        "expected_filename_date": "20220417"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20210413.tar.xz",
+        "filename_date": "20210413",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/expanse-510.cache/cache.20210413.tar.xz",
+        "sha256": "55c62d5469e7ce8f644ac10422d0f11ef37c62526bfaf4d411a7b603ec06c83b",
+        "size": 663466656
+      },
+      "collection_key": "expanse-510",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 70,
+          "cache_members": 6880,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2021-04-13",
+          "sample_span_days": 70,
+          "sample_start": "2021-02-03",
+          "torrent_indices": 103
+        },
+        "required_collection_key": "expanse-510",
+        "required_day_products": 70,
+        "required_sample_days": 70,
+        "required_sample_end": "2021-04-13",
+        "required_sample_start": "2021-02-03",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "510",
+        "collection_name": "The Expanse",
+        "metadata_version": "2025-11-22",
+        "sample_days": 70,
+        "sample_end": "2021-04-13",
+        "sample_start": "2021-02-03",
+        "sha256": "9e9ad9f934cd4fc329a5082d17b21153069b1a12c93cd60d13f1cb13297fe19b",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/expanse-510.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20210413.tar.xz",
+            "size": 663466656
+          }
+        ],
+        "expected_filename_date": "20210413"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20220224.tar.xz",
+        "filename_date": "20220224",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/expanse-601.cache/cache.20220224.tar.xz",
+        "sha256": "82cfb02c2062ab92ea2f78e04f8a97ca598d1d5bc3253b72b4c9a18d0497291f",
+        "size": 634638736
+      },
+      "collection_key": "expanse-601",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 76,
+          "cache_members": 12984,
+          "missing_indices": [
+            52
+          ],
+          "post_release_day_products": 0,
+          "sample_end": "2022-02-24",
+          "sample_span_days": 77,
+          "sample_start": "2021-12-10",
+          "torrent_indices": 177
+        },
+        "required_collection_key": "expanse-601",
+        "required_day_products": 76,
+        "required_sample_days": 77,
+        "required_sample_end": "2022-02-24",
+        "required_sample_start": "2021-12-10",
+        "required_sparse_intervals": [
+          {
+            "days": 1,
+            "first_index": 52,
+            "last_index": 52
+          }
+        ],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "601",
+        "collection_name": "The Expanse",
+        "metadata_version": "2025-11-22",
+        "sample_days": 77,
+        "sample_end": "2022-02-24",
+        "sample_start": "2021-12-10",
+        "sha256": "8a43513529ea2f7f04e3af1dea769d66598e18aaa7f2fcaa313d07c487885122",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/expanse-601.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20220224.tar.xz",
+            "size": 634638736
+          }
+        ],
+        "expected_filename_date": "20220224"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20210527.tar.xz",
+        "filename_date": "20210527",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/falcon-and-the-winter-soldier-101.cache/cache.20210527.tar.xz",
+        "sha256": "cc41390cf974d854b2f01ecd1bfe65e669b14944741fa28e1f14ba730b1ba892",
+        "size": 1942187588
+      },
+      "collection_key": "falcon-and-the-winter-soldier-101",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 70,
+          "cache_members": 13187,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2021-05-27",
+          "sample_span_days": 70,
+          "sample_start": "2021-03-19",
+          "torrent_indices": 195
+        },
+        "required_collection_key": "falcon-and-the-winter-soldier-101",
+        "required_day_products": 70,
+        "required_sample_days": 70,
+        "required_sample_end": "2021-05-27",
+        "required_sample_start": "2021-03-19",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "101",
+        "collection_name": "Falcon and Winter Soldier",
+        "metadata_version": "2025-11-22",
+        "sample_days": 70,
+        "sample_end": "2021-05-27",
+        "sample_start": "2021-03-19",
+        "sha256": "cb75704289940a1b7e399ffedbaa5205665078d2ec5d80e82cca9bd9cf8025c1",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/falcon-and-the-winter-soldier-101.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20210527.tar.xz",
+            "size": 1942187588
+          }
+        ],
+        "expected_filename_date": "20210527"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20210805.tar.xz",
+        "filename_date": "20210805",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/falcon-and-the-winter-soldier-106.cache/cache.20210805.tar.xz",
+        "sha256": "ebea22055c29ee3d7a30bd924cf2602e97c6aca93ba6354b0b0480370d991ba1",
+        "size": 2691100004
+      },
+      "collection_key": "falcon-and-the-winter-soldier-106",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 105,
+          "cache_members": 22811,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2021-08-05",
+          "sample_span_days": 105,
+          "sample_start": "2021-04-23",
+          "torrent_indices": 224
+        },
+        "required_collection_key": "falcon-and-the-winter-soldier-106",
+        "required_day_products": 105,
+        "required_sample_days": 105,
+        "required_sample_end": "2021-08-05",
+        "required_sample_start": "2021-04-23",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "106",
+        "collection_name": "Falcon and Winter Soldier",
+        "metadata_version": "2025-11-22",
+        "sample_days": 105,
+        "sample_end": "2021-08-05",
+        "sample_start": "2021-04-23",
+        "sha256": "4ee334a7e8b3d513121cb8d88c33fc5c4cf2902c636376ea691daba0755ad691",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/falcon-and-the-winter-soldier-106.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20210805.tar.xz",
+            "size": 2691100004
+          }
+        ],
+        "expected_filename_date": "20210805"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20210429.tar.xz",
+        "filename_date": "20210429",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/for-all-mankind-201.cache/cache.20210429.tar.xz",
+        "sha256": "a7f00ada132ee7287c4db5f77a5fbcffe03c5f3e6e31ebd1b0b1753d8506ad0f",
+        "size": 193414780
+      },
+      "collection_key": "for-all-mankind-201",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 70,
+          "cache_members": 5106,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2021-04-29",
+          "sample_span_days": 70,
+          "sample_start": "2021-02-19",
+          "torrent_indices": 75
+        },
+        "required_collection_key": "for-all-mankind-201",
+        "required_day_products": 70,
+        "required_sample_days": 70,
+        "required_sample_end": "2021-04-29",
+        "required_sample_start": "2021-02-19",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "201",
+        "collection_name": "For All Mankind",
+        "metadata_version": "2025-11-22",
+        "sample_days": 70,
+        "sample_end": "2021-04-29",
+        "sample_start": "2021-02-19",
+        "sha256": "92061c41bc9bf5afdbe89c39c1f1deb8046376992b368e0ce453f70eb19d9b1d",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/for-all-mankind-201.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20210429.tar.xz",
+            "size": 193414780
+          }
+        ],
+        "expected_filename_date": "20210429"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20210708.tar.xz",
+        "filename_date": "20210708",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/for-all-mankind-210.cache/cache.20210708.tar.xz",
+        "sha256": "25963c38670c1e487b3e01374172ecdfc94acd1353a525f9c459a0af51528469",
+        "size": 332555196
+      },
+      "collection_key": "for-all-mankind-210",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 77,
+          "cache_members": 7749,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2021-07-08",
+          "sample_span_days": 77,
+          "sample_start": "2021-04-23",
+          "torrent_indices": 103
+        },
+        "required_collection_key": "for-all-mankind-210",
+        "required_day_products": 77,
+        "required_sample_days": 77,
+        "required_sample_end": "2021-07-08",
+        "required_sample_start": "2021-04-23",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "210",
+        "collection_name": "For All Mankind",
+        "metadata_version": "2025-11-22",
+        "sample_days": 77,
+        "sample_end": "2021-07-08",
+        "sample_start": "2021-04-23",
+        "sha256": "30e93c4ca189e6917df5d30ef06ad7336e261b353bfc163321d960b48fc4922c",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/for-all-mankind-210.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20210708.tar.xz",
+            "size": 332555196
+          }
+        ],
+        "expected_filename_date": "20210708"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20211202.tar.xz",
+        "filename_date": "20211202",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/foundation-101.cache/cache.20211202.tar.xz",
+        "sha256": "1adff8a9b0652afdff428fcde3f5c720b14ce8f7be90eaf796339ad5e4739d4b",
+        "size": 1524503572
+      },
+      "collection_key": "foundation-101",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 70,
+          "cache_members": 12245,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2021-12-02",
+          "sample_span_days": 70,
+          "sample_start": "2021-09-24",
+          "torrent_indices": 185
+        },
+        "required_collection_key": "foundation-101",
+        "required_day_products": 70,
+        "required_sample_days": 70,
+        "required_sample_end": "2021-12-02",
+        "required_sample_start": "2021-09-24",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "101",
+        "collection_name": "Foundation",
+        "metadata_version": "2025-11-22",
+        "sample_days": 70,
+        "sample_end": "2021-12-02",
+        "sample_start": "2021-09-24",
+        "sha256": "31ecb1910372e260d9715b566efcd03e724a2f7879b283f9b9581bb62ea32d07",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/foundation-101.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20211202.tar.xz",
+            "size": 1524503572
+          }
+        ],
+        "expected_filename_date": "20211202"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20210928.tar.xz",
+        "filename_date": "20210928",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/godzilla-vs-kong.cache/cache.20210928.tar.xz",
+        "sha256": "187af218b6bd2da445049b8809124d43ac584b9fbae4f42747b8e8027ac73f99",
+        "size": 10232464248
+      },
+      "collection_key": "godzilla-vs-kong",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 181,
+          "cache_members": 54126,
+          "missing_indices": [
+            113
+          ],
+          "post_release_day_products": 0,
+          "sample_end": "2021-09-28",
+          "sample_span_days": 182,
+          "sample_start": "2021-03-31",
+          "torrent_indices": 307
+        },
+        "required_collection_key": "godzilla-vs-kong",
+        "required_day_products": 181,
+        "required_sample_days": 182,
+        "required_sample_end": "2021-09-28",
+        "required_sample_start": "2021-03-31",
+        "required_sparse_intervals": [
+          {
+            "days": 1,
+            "first_index": 113,
+            "last_index": 113
+          }
+        ],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "",
+        "collection_name": "Godzilla vs. Kong",
+        "metadata_version": "2025-11-22",
+        "sample_days": 182,
+        "sample_end": "2021-09-28",
+        "sample_start": "2021-03-31",
+        "sha256": "8a91f4100aace6231b8c9d726d4ae99aaa20847782d60678ddcbd401524ff290",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/godzilla-vs-kong.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20210928.tar.xz",
+            "size": 10232464248
+          }
+        ],
+        "expected_filename_date": "20210928"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20210722.tar.xz",
+        "filename_date": "20210722",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/halston-01.cache/cache.20210722.tar.xz",
+        "sha256": "36de026ef8f899ce1ef2c1f7e6bb80f48f1e266d6b7db454258587e0ca9ad759",
+        "size": 363018428
+      },
+      "collection_key": "halston-01",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 70,
+          "cache_members": 7543,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2021-07-22",
+          "sample_span_days": 70,
+          "sample_start": "2021-05-14",
+          "torrent_indices": 116
+        },
+        "required_collection_key": "halston-01",
+        "required_day_products": 70,
+        "required_sample_days": 70,
+        "required_sample_end": "2021-07-22",
+        "required_sample_start": "2021-05-14",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "1",
+        "collection_name": "Halston",
+        "metadata_version": "2025-11-22",
+        "sample_days": 70,
+        "sample_end": "2021-07-22",
+        "sample_start": "2021-05-14",
+        "sha256": "6fa9d24c79a20f6b699feb418cc965e533f84fd2aa062742f13a443034a024cd",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/halston-01.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20210722.tar.xz",
+            "size": 363018428
+          }
+        ],
+        "expected_filename_date": "20210722"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20220111.tar.xz",
+        "filename_date": "20220111",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/harder-they-fall.cache/cache.20220111.tar.xz",
+        "sha256": "4f7fde9ea0840a37ff873bf00a95fd84e7419317a7447fcda03f16c1aa0dc40b",
+        "size": 685730992
+      },
+      "collection_key": "harder-they-fall",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 70,
+          "cache_members": 7471,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2022-01-11",
+          "sample_span_days": 70,
+          "sample_start": "2021-11-03",
+          "torrent_indices": 120
+        },
+        "required_collection_key": "harder-they-fall",
+        "required_day_products": 70,
+        "required_sample_days": 70,
+        "required_sample_end": "2022-01-11",
+        "required_sample_start": "2021-11-03",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "",
+        "collection_name": "The Harder They Fall",
+        "metadata_version": "2025-11-22",
+        "sample_days": 70,
+        "sample_end": "2022-01-11",
+        "sample_start": "2021-11-03",
+        "sha256": "19a87671e160d0d2cb0b88f579ac25ad4f3e26629af68a1d4f425ac3abc9c0a1",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/harder-they-fall.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20220111.tar.xz",
+            "size": 685730992
+          }
+        ],
+        "expected_filename_date": "20220111"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20210709.tar.xz",
+        "filename_date": "20210709",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/intergalactic-01.cache/cache.20210709.tar.xz",
+        "sha256": "bd2a752b0b33ee6b8bb39d5d300ae2feabf4f3946023f8996fc1dbc849e736a2",
+        "size": 502504940
+      },
+      "collection_key": "intergalactic-01",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 70,
+          "cache_members": 11131,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2021-07-09",
+          "sample_span_days": 70,
+          "sample_start": "2021-05-01",
+          "torrent_indices": 167
+        },
+        "required_collection_key": "intergalactic-01",
+        "required_day_products": 70,
+        "required_sample_days": 70,
+        "required_sample_end": "2021-07-09",
+        "required_sample_start": "2021-05-01",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "1",
+        "collection_name": "Intergalactic",
+        "metadata_version": "2025-11-22",
+        "sample_days": 70,
+        "sample_end": "2021-07-09",
+        "sample_start": "2021-05-01",
+        "sha256": "1ee7bd14eb587f75adc5f060f391622d90806061d8ca94efee19b12c9b12959d",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/intergalactic-01.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20210709.tar.xz",
+            "size": 502504940
+          }
+        ],
+        "expected_filename_date": "20210709"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20220121.tar.xz",
+        "filename_date": "20220121",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/invasion-101.cache/cache.20220121.tar.xz",
+        "sha256": "f4c224687f916ebaa33cb2f474e10cc7f97db3aa10896184970130fa86871323",
+        "size": 799271204
+      },
+      "collection_key": "invasion-101",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 92,
+          "cache_members": 10257,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2022-01-21",
+          "sample_span_days": 92,
+          "sample_start": "2021-10-22",
+          "torrent_indices": 113
+        },
+        "required_collection_key": "invasion-101",
+        "required_day_products": 92,
+        "required_sample_days": 92,
+        "required_sample_end": "2022-01-21",
+        "required_sample_start": "2021-10-22",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "1",
+        "collection_name": "Invasion",
+        "metadata_version": "2025-11-22",
+        "sample_days": 92,
+        "sample_end": "2022-01-21",
+        "sample_start": "2021-10-22",
+        "sha256": "9c3b1d6fea7c0f662b93191e3007176c4613d16fadc144078a2627fb9a7a7bcf",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/invasion-101.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20220121.tar.xz",
+            "size": 799271204
+          }
+        ],
+        "expected_filename_date": "20220121"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20210603.tar.xz",
+        "filename_date": "20210603",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/invincible-101.cache/cache.20210603.tar.xz",
+        "sha256": "ba82326e3d122522e2a8c3f5e6b459a3cb40dae07d976b84e63595196a905dfb",
+        "size": 578544412
+      },
+      "collection_key": "invincible-101",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 70,
+          "cache_members": 6390,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2021-06-03",
+          "sample_span_days": 70,
+          "sample_start": "2021-03-26",
+          "torrent_indices": 104
+        },
+        "required_collection_key": "invincible-101",
+        "required_day_products": 70,
+        "required_sample_days": 70,
+        "required_sample_end": "2021-06-03",
+        "required_sample_start": "2021-03-26",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "101, 102, 103",
+        "collection_name": "Invincible",
+        "metadata_version": "2025-11-22",
+        "sample_days": 70,
+        "sample_end": "2021-06-03",
+        "sample_start": "2021-03-26",
+        "sha256": "45809bf398f27d0b1ee44d170178d976e01c2da128b1cae565c5b854a119de15",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/invincible-101.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20210603.tar.xz",
+            "size": 578544412
+          }
+        ],
+        "expected_filename_date": "20210603"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20210623.tar.xz",
+        "filename_date": "20210623",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/kung-fu-101.cache/cache.20210623.tar.xz",
+        "sha256": "66094499e2c53e6599be64399882896d96d30e6857d93670823df91220a13fad",
+        "size": 345341580
+      },
+      "collection_key": "kung-fu-101",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 77,
+          "cache_members": 4913,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2021-06-23",
+          "sample_span_days": 77,
+          "sample_start": "2021-04-08",
+          "torrent_indices": 66
+        },
+        "required_collection_key": "kung-fu-101",
+        "required_day_products": 77,
+        "required_sample_days": 77,
+        "required_sample_end": "2021-06-23",
+        "required_sample_start": "2021-04-08",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "101",
+        "collection_name": "Kung Fu 2021",
+        "metadata_version": "2025-11-22",
+        "sample_days": 77,
+        "sample_end": "2021-06-23",
+        "sample_start": "2021-04-08",
+        "sha256": "11a89435010fdb85ba6a9a3c9bc7a13090dcbb2119155465c1194febb323abfe",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/kung-fu-101.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20210623.tar.xz",
+            "size": 345341580
+          }
+        ],
+        "expected_filename_date": "20210623"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20210929.tar.xz",
+        "filename_date": "20210929",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/kung-fu-113.cache/cache.20210929.tar.xz",
+        "sha256": "dede4e06a3ab23f9405300d862661c6299593b05de1fd3dd321b8eddcba08bd9",
+        "size": 232484492
+      },
+      "collection_key": "kung-fu-113",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 70,
+          "cache_members": 4828,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2021-09-29",
+          "sample_span_days": 70,
+          "sample_start": "2021-07-22",
+          "torrent_indices": 74
+        },
+        "required_collection_key": "kung-fu-113",
+        "required_day_products": 70,
+        "required_sample_days": 70,
+        "required_sample_end": "2021-09-29",
+        "required_sample_start": "2021-07-22",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "113",
+        "collection_name": "Kung Fu 2021",
+        "metadata_version": "2025-11-22",
+        "sample_days": 70,
+        "sample_end": "2021-09-29",
+        "sample_start": "2021-07-22",
+        "sha256": "2bc72056f3df2907ff248e0ec16b2042c36dfa96928b0084e4d46e6adf00b393",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/kung-fu-113.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20210929.tar.xz",
+            "size": 232484492
+          }
+        ],
+        "expected_filename_date": "20210929"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20210817.tar.xz",
+        "filename_date": "20210817",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/loki-101.cache/cache.20210817.tar.xz",
+        "sha256": "da4f9791507bbf33bc4c313c1fe199e127e37e90d8f6ab70b8197f9922120387",
+        "size": 4483427568
+      },
+      "collection_key": "loki-101",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 68,
+          "cache_members": 16570,
+          "missing_indices": [
+            52,
+            53
+          ],
+          "post_release_day_products": 0,
+          "sample_end": "2021-08-17",
+          "sample_span_days": 70,
+          "sample_start": "2021-06-09",
+          "torrent_indices": 259
+        },
+        "required_collection_key": "loki-101",
+        "required_day_products": 68,
+        "required_sample_days": 70,
+        "required_sample_end": "2021-08-17",
+        "required_sample_start": "2021-06-09",
+        "required_sparse_intervals": [
+          {
+            "days": 2,
+            "first_index": 52,
+            "last_index": 53
+          }
+        ],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "101",
+        "collection_name": "Loki",
+        "metadata_version": "2025-11-22",
+        "sample_days": 70,
+        "sample_end": "2021-08-17",
+        "sample_start": "2021-06-09",
+        "sha256": "edf38dcd48b1730c1eb672ce4110a3915c2a9097452dbd00abf95aeb1a6d5e13",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/loki-101.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20210817.tar.xz",
+            "size": 4483427568
+          }
+        ],
+        "expected_filename_date": "20210817"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20211109.tar.xz",
+        "filename_date": "20211109",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/loki-106.cache/cache.20211109.tar.xz",
+        "sha256": "1020386d0cbf7900f1529fc9410d1e6ba5da9f22625427a155bd0373f7b42f13",
+        "size": 3874830472
+      },
+      "collection_key": "loki-106",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 119,
+          "cache_members": 33067,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2021-11-09",
+          "sample_span_days": 119,
+          "sample_start": "2021-07-14",
+          "torrent_indices": 287
+        },
+        "required_collection_key": "loki-106",
+        "required_day_products": 119,
+        "required_sample_days": 119,
+        "required_sample_end": "2021-11-09",
+        "required_sample_start": "2021-07-14",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "106",
+        "collection_name": "Loki",
+        "metadata_version": "2025-11-22",
+        "sample_days": 119,
+        "sample_end": "2021-11-09",
+        "sample_start": "2021-07-14",
+        "sha256": "13f04eadd945186921641bc80ee25bf74123fe5d9f9cb6e2ebe3c21813fc9b4a",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/loki-106.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20211109.tar.xz",
+            "size": 3874830472
+          }
+        ],
+        "expected_filename_date": "20211109"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20210722.tar.xz",
+        "filename_date": "20210722",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/love-death-robots-02.cache/cache.20210722.tar.xz",
+        "sha256": "1fb859eb29da605f37edb684af7ebc9c51d22e4cb673ba91672c26997e915129",
+        "size": 1278903896
+      },
+      "collection_key": "love-death-robots-02",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 70,
+          "cache_members": 10517,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2021-07-22",
+          "sample_span_days": 70,
+          "sample_start": "2021-05-14",
+          "torrent_indices": 166
+        },
+        "required_collection_key": "love-death-robots-02",
+        "required_day_products": 70,
+        "required_sample_days": 70,
+        "required_sample_end": "2021-07-22",
+        "required_sample_start": "2021-05-14",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "2",
+        "collection_name": "Love, Death & Robots",
+        "metadata_version": "2025-11-22",
+        "sample_days": 70,
+        "sample_end": "2021-07-22",
+        "sample_start": "2021-05-14",
+        "sha256": "f01661769d782b7cc1475136cfb8975c8f7e02e28c8e926d390fe96081755fca",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/love-death-robots-02.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20210722.tar.xz",
+            "size": 1278903896
+          }
+        ],
+        "expected_filename_date": "20210722"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20210923.tar.xz",
+        "filename_date": "20210923",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/lupin-02.cache/cache.20210923.tar.xz",
+        "sha256": "6ab6ac74462d6443b7b3e30b50b897bff1907df619602dc2cfde3d1b30008209",
+        "size": 1471663072
+      },
+      "collection_key": "lupin-02",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 105,
+          "cache_members": 19975,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2021-09-23",
+          "sample_span_days": 105,
+          "sample_start": "2021-06-11",
+          "torrent_indices": 205
+        },
+        "required_collection_key": "lupin-02",
+        "required_day_products": 105,
+        "required_sample_days": 105,
+        "required_sample_end": "2021-09-23",
+        "required_sample_start": "2021-06-11",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "2",
+        "collection_name": "Lupin",
+        "metadata_version": "2025-11-22",
+        "sample_days": 105,
+        "sample_end": "2021-09-23",
+        "sample_start": "2021-06-11",
+        "sha256": "33f734c5e0a873f5c3b719f20efe2b2bcfc56284fe8a035a456b71cd77a7a3eb",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/lupin-02.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20210923.tar.xz",
+            "size": 1471663072
+          }
+        ],
+        "expected_filename_date": "20210923"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20210415.tar.xz",
+        "filename_date": "20210415",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/malcolm-and-marie.cache/cache.20210415.tar.xz",
+        "sha256": "e401ee2c3e180bac0ad45eb8bb3e0818448c1530ce47b16404bf1ce6777175ed",
+        "size": 347433412
+      },
+      "collection_key": "malcolm-and-marie",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 70,
+          "cache_members": 5859,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2021-04-15",
+          "sample_span_days": 70,
+          "sample_start": "2021-02-05",
+          "torrent_indices": 93
+        },
+        "required_collection_key": "malcolm-and-marie",
+        "required_day_products": 70,
+        "required_sample_days": 70,
+        "required_sample_end": "2021-04-15",
+        "required_sample_start": "2021-02-05",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "",
+        "collection_name": "Malcom & Marie",
+        "metadata_version": "2025-11-22",
+        "sample_days": 70,
+        "sample_end": "2021-04-15",
+        "sample_start": "2021-02-05",
+        "sha256": "e8a212cd43d0f6bf0bb02cbb3db5a4928b3749efb2b0f19a4c726a029077c707",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/malcolm-and-marie.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20210415.tar.xz",
+            "size": 347433412
+          }
+        ],
+        "expected_filename_date": "20210415"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20220621.tar.xz",
+        "filename_date": "20220621",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/matrix-resurrections.cache/cache.20220621.tar.xz",
+        "sha256": "44812188a5e5334e110c289e751d514f94364f134632253824b1c0a6955b1cd6",
+        "size": 11829652096
+      },
+      "collection_key": "matrix-resurrections",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 182,
+          "cache_members": 82141,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2022-06-21",
+          "sample_span_days": 182,
+          "sample_start": "2021-12-22",
+          "torrent_indices": 521
+        },
+        "required_collection_key": "matrix-resurrections",
+        "required_day_products": 182,
+        "required_sample_days": 182,
+        "required_sample_end": "2022-06-21",
+        "required_sample_start": "2021-12-22",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "",
+        "collection_name": "The Matrix Resurrections (2021)",
+        "metadata_version": "2025-11-22",
+        "sample_days": 182,
+        "sample_end": "2022-06-21",
+        "sample_start": "2021-12-22",
+        "sha256": "6ab55876ada1e94fb1783dda40ba4a0ed9ab41d4bab0cf11dc0b7dbf46d969ea",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/matrix-resurrections.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20220621.tar.xz",
+            "size": 11829652096
+          }
+        ],
+        "expected_filename_date": "20220621"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20210709.tar.xz",
+        "filename_date": "20210709",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/mitchells-vs-the-machines.cache/cache.20210709.tar.xz",
+        "sha256": "316a2def400fa0e594f5a7957abf1904dbbfd1dfd73358ef46a698bea3add46e",
+        "size": 1882121760
+      },
+      "collection_key": "mitchells-vs-the-machines",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 70,
+          "cache_members": 7216,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2021-07-09",
+          "sample_span_days": 70,
+          "sample_start": "2021-05-01",
+          "torrent_indices": 118
+        },
+        "required_collection_key": "mitchells-vs-the-machines",
+        "required_day_products": 70,
+        "required_sample_days": 70,
+        "required_sample_end": "2021-07-09",
+        "required_sample_start": "2021-05-01",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "",
+        "collection_name": "The Mitchells vs The Machines",
+        "metadata_version": "2025-11-22",
+        "sample_days": 70,
+        "sample_end": "2021-07-09",
+        "sample_start": "2021-05-01",
+        "sha256": "f03612aad7b37991713907abd2421e8890640e930b21ab971e04c1e517fcdfed",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/mitchells-vs-the-machines.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20210709.tar.xz",
+            "size": 1882121760
+          }
+        ],
+        "expected_filename_date": "20210709"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20220225.tar.xz",
+        "filename_date": "20220225",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/mother-android.cache/cache.20220225.tar.xz",
+        "sha256": "d4c50cf4276871ab6570911180b89970ac4dc519dc5675d766c6685b7c2ccce7",
+        "size": 521762892
+      },
+      "collection_key": "mother-android",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 71,
+          "cache_members": 6523,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2022-02-25",
+          "sample_span_days": 71,
+          "sample_start": "2021-12-17",
+          "torrent_indices": 109
+        },
+        "required_collection_key": "mother-android",
+        "required_day_products": 71,
+        "required_sample_days": 71,
+        "required_sample_end": "2022-02-25",
+        "required_sample_start": "2021-12-17",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "",
+        "collection_name": "Mother/Android",
+        "metadata_version": "2025-11-22",
+        "sample_days": 71,
+        "sample_end": "2022-02-25",
+        "sample_start": "2021-12-17",
+        "sha256": "f59bb132cbb4c0f8d01fff0f4070132bd1fda57729736ac688d628699db3332e",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/mother-android.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20220225.tar.xz",
+            "size": 521762892
+          }
+        ],
+        "expected_filename_date": "20220225"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20220113.tar.xz",
+        "filename_date": "20220113",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/narcos-mexico-03.cache/cache.20220113.tar.xz",
+        "sha256": "aae6bd5e3afb14cb9832da921b2028e88db741b7e92d8d98128296ac0ccf7fd1",
+        "size": 396434864
+      },
+      "collection_key": "narcos-mexico-03",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 70,
+          "cache_members": 12460,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2022-01-13",
+          "sample_span_days": 70,
+          "sample_start": "2021-11-05",
+          "torrent_indices": 188
+        },
+        "required_collection_key": "narcos-mexico-03",
+        "required_day_products": 70,
+        "required_sample_days": 70,
+        "required_sample_end": "2022-01-13",
+        "required_sample_start": "2021-11-05",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "3",
+        "collection_name": "Narcos Mexico",
+        "metadata_version": "2025-11-22",
+        "sample_days": 70,
+        "sample_end": "2022-01-13",
+        "sample_start": "2021-11-05",
+        "sha256": "02851974ac16108e3eb7ad8ba7c9e0c50be0b4eca97f2c71af8b916ff2ade554",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/narcos-mexico-03.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20220113.tar.xz",
+            "size": 396434864
+          }
+        ],
+        "expected_filename_date": "20220113"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20210908.tar.xz",
+        "filename_date": "20210908",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/no-sudden-move.cache/cache.20210908.tar.xz",
+        "sha256": "4954aef1cef73d16d576dc79730e72f91abbdfae2a4fe0ba7c5ce31145f74627",
+        "size": 875905284
+      },
+      "collection_key": "no-sudden-move",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 70,
+          "cache_members": 6351,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2021-09-08",
+          "sample_span_days": 70,
+          "sample_start": "2021-07-01",
+          "torrent_indices": 103
+        },
+        "required_collection_key": "no-sudden-move",
+        "required_day_products": 70,
+        "required_sample_days": 70,
+        "required_sample_end": "2021-09-08",
+        "required_sample_start": "2021-07-01",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "",
+        "collection_name": "No Sudden Move",
+        "metadata_version": "2025-11-22",
+        "sample_days": 70,
+        "sample_end": "2021-09-08",
+        "sample_start": "2021-07-01",
+        "sha256": "707bc6ede3dea764b0042417f5330624e12a2bbeadaf3884781c21dfa9f37656",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/no-sudden-move.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20210908.tar.xz",
+            "size": 875905284
+          }
+        ],
+        "expected_filename_date": "20210908"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20220228.tar.xz",
+        "filename_date": "20220228",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/no-time-to-die.cache/cache.20220228.tar.xz",
+        "sha256": "e5b20195efd9fbb3ecf9e01a469cfbf114ce3a10cefd94e808a6a67b71dc6849",
+        "size": 7062307232
+      },
+      "collection_key": "no-time-to-die",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 112,
+          "cache_members": 30934,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2022-02-28",
+          "sample_span_days": 112,
+          "sample_start": "2021-11-09",
+          "torrent_indices": 321
+        },
+        "required_collection_key": "no-time-to-die",
+        "required_day_products": 112,
+        "required_sample_days": 112,
+        "required_sample_end": "2022-02-28",
+        "required_sample_start": "2021-11-09",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "",
+        "collection_name": "No Time To Die",
+        "metadata_version": "2025-11-22",
+        "sample_days": 112,
+        "sample_end": "2022-02-28",
+        "sample_start": "2021-11-09",
+        "sha256": "d84b2c1fdf2f7796045ec10af5205c65850be58e5b97b5b24d59938068074d8a",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/no-time-to-die.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20220228.tar.xz",
+            "size": 7062307232
+          }
+        ],
+        "expected_filename_date": "20220228"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20210325.tar.xz",
+        "filename_date": "20210325",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/one-night-in-miami.cache/cache.20210325.tar.xz",
+        "sha256": "ea69f691ce025308860e3b99c7ee2784cc63c4d978684acd93cb3361ffa05fb1",
+        "size": 534491056
+      },
+      "collection_key": "one-night-in-miami",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 70,
+          "cache_members": 5974,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2021-03-25",
+          "sample_span_days": 70,
+          "sample_start": "2021-01-15",
+          "torrent_indices": 94
+        },
+        "required_collection_key": "one-night-in-miami",
+        "required_day_products": 70,
+        "required_sample_days": 70,
+        "required_sample_end": "2021-03-25",
+        "required_sample_start": "2021-01-15",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "",
+        "collection_name": "One Night In Miami",
+        "metadata_version": "2025-11-22",
+        "sample_days": 70,
+        "sample_end": "2021-03-25",
+        "sample_start": "2021-01-15",
+        "sha256": "7e217c1f94fd589546ca6f84eb932ff61d03d65c73eb9b6037096602ee566f3e",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/one-night-in-miami.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20210325.tar.xz",
+            "size": 534491056
+          }
+        ],
+        "expected_filename_date": "20210325"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20211007.tar.xz",
+        "filename_date": "20211007",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/one-piece-95x.cache/cache.20211007.tar.xz",
+        "sha256": "7a830abb46739ab113af727ff4c4d3476b18cf57958b998e5fc004b3856f8837",
+        "size": 1177263460
+      },
+      "collection_key": "one-piece-95x",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 189,
+          "cache_members": 50369,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2021-10-07",
+          "sample_span_days": 189,
+          "sample_start": "2021-04-02",
+          "torrent_indices": 324
+        },
+        "required_collection_key": "one-piece-95x",
+        "required_day_products": 189,
+        "required_sample_days": 189,
+        "required_sample_end": "2021-10-07",
+        "required_sample_start": "2021-04-02",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "9",
+        "collection_name": "One Piece 95x",
+        "metadata_version": "2025-11-22",
+        "sample_days": 189,
+        "sample_end": "2021-10-07",
+        "sample_start": "2021-04-02",
+        "sha256": "3ad0ce1e0a4b1003e1e0c157f512bef49ccdfac4df3e2bb4f6383899da48f1ad",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/one-piece-95x.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20211007.tar.xz",
+            "size": 1177263460
+          }
+        ],
+        "expected_filename_date": "20211007"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20220311.tar.xz",
+        "filename_date": "20220311",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/one-piece-98x.cache/cache.20220311.tar.xz",
+        "sha256": "8dc54f90b39f719e8763a0867573cd935e8c8ce9eeedc54c870f69fe19a52ec6",
+        "size": 1856878296
+      },
+      "collection_key": "one-piece-98x",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 177,
+          "cache_members": 91193,
+          "missing_indices": [
+            16
+          ],
+          "post_release_day_products": 0,
+          "sample_end": "2022-03-11",
+          "sample_span_days": 178,
+          "sample_start": "2021-09-15",
+          "torrent_indices": 758
+        },
+        "required_collection_key": "one-piece-98x",
+        "required_day_products": 177,
+        "required_sample_days": 178,
+        "required_sample_end": "2022-03-11",
+        "required_sample_start": "2021-09-15",
+        "required_sparse_intervals": [
+          {
+            "days": 1,
+            "first_index": 16,
+            "last_index": 16
+          }
+        ],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "9",
+        "collection_name": "One Piece 98x",
+        "metadata_version": "2025-11-22",
+        "sample_days": 178,
+        "sample_end": "2022-03-11",
+        "sample_start": "2021-09-15",
+        "sha256": "4a4afb7fee1f3f4a4d1118657c033e42095ed9b192bc9986460bb33e5fd701de",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/one-piece-98x.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20220311.tar.xz",
+            "size": 1856878296
+          }
+        ],
+        "expected_filename_date": "20220311"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20211227.tar.xz",
+        "filename_date": "20211227",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/only-murders-in-the-building-110.cache/cache.20211227.tar.xz",
+        "sha256": "4810060f63185bb47123a251c6b30f995a5602bed2ce62c2aaf86a3c91a6224c",
+        "size": 420981632
+      },
+      "collection_key": "only-murders-in-the-building-110",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 70,
+          "cache_members": 9367,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2021-12-27",
+          "sample_span_days": 70,
+          "sample_start": "2021-10-19",
+          "torrent_indices": 146
+        },
+        "required_collection_key": "only-murders-in-the-building-110",
+        "required_day_products": 70,
+        "required_sample_days": 70,
+        "required_sample_end": "2021-12-27",
+        "required_sample_start": "2021-10-19",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "1",
+        "collection_name": "Only Murders In The Building",
+        "metadata_version": "2025-11-22",
+        "sample_days": 70,
+        "sample_end": "2021-12-27",
+        "sample_start": "2021-10-19",
+        "sha256": "67dd6413c028136cfd7e3b9ca51956865fa82892f4b26ce6054ed39842c13175",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/only-murders-in-the-building-110.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20211227.tar.xz",
+            "size": 420981632
+          }
+        ],
+        "expected_filename_date": "20211227"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20210516.tar.xz",
+        "filename_date": "20210516",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/oprah-meghan-harry.cache/cache.20210516.tar.xz",
+        "sha256": "1af6f56ddedb735a6a2e023e2de995b411aee88276e99be832836f73c7b74164",
+        "size": 181564420
+      },
+      "collection_key": "oprah-meghan-harry",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 70,
+          "cache_members": 1939,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2021-05-16",
+          "sample_span_days": 70,
+          "sample_start": "2021-03-08",
+          "torrent_indices": 29
+        },
+        "required_collection_key": "oprah-meghan-harry",
+        "required_day_products": 70,
+        "required_sample_days": 70,
+        "required_sample_end": "2021-05-16",
+        "required_sample_start": "2021-03-08",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "",
+        "collection_name": "Oprah With Meghan and Harry",
+        "metadata_version": "2025-11-22",
+        "sample_days": 70,
+        "sample_end": "2021-05-16",
+        "sample_start": "2021-03-08",
+        "sha256": "73e88f47f27d9dbc5c3ad514869a1d34a0eed21a8abc87ac63d522ba6bd4f62e",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/oprah-meghan-harry.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20210516.tar.xz",
+            "size": 181564420
+          }
+        ],
+        "expected_filename_date": "20210516"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20211007.tar.xz",
+        "filename_date": "20211007",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/outer-banks-02.cache/cache.20211007.tar.xz",
+        "sha256": "92f3f002b2b58918cd1ffff4edb3db46f1b32db912864eeb471ed7c791ef7e94",
+        "size": 408437632
+      },
+      "collection_key": "outer-banks-02",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 70,
+          "cache_members": 11690,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2021-10-07",
+          "sample_span_days": 70,
+          "sample_start": "2021-07-30",
+          "torrent_indices": 179
+        },
+        "required_collection_key": "outer-banks-02",
+        "required_day_products": 70,
+        "required_sample_days": 70,
+        "required_sample_end": "2021-10-07",
+        "required_sample_start": "2021-07-30",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "2",
+        "collection_name": "Outer Banks",
+        "metadata_version": "2025-11-22",
+        "sample_days": 70,
+        "sample_end": "2021-10-07",
+        "sample_start": "2021-07-30",
+        "sha256": "b58e1a42554d0b1f6af5668582b334bef9c84c31c6cba129058feec3cfdab019",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/outer-banks-02.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20211007.tar.xz",
+            "size": 408437632
+          }
+        ],
+        "expected_filename_date": "20211007"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20210325.tar.xz",
+        "filename_date": "20210325",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/outside-the-wire.cache/cache.20210325.tar.xz",
+        "sha256": "bd207cf293acbc95a3db804ee50206447aa7b29691e325b763f976be82ffdd08",
+        "size": 1610027332
+      },
+      "collection_key": "outside-the-wire",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 70,
+          "cache_members": 8138,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2021-03-25",
+          "sample_span_days": 70,
+          "sample_start": "2021-01-15",
+          "torrent_indices": 129
+        },
+        "required_collection_key": "outside-the-wire",
+        "required_day_products": 70,
+        "required_sample_days": 70,
+        "required_sample_end": "2021-03-25",
+        "required_sample_start": "2021-01-15",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "",
+        "collection_name": "Outside The Wire",
+        "metadata_version": "2025-11-22",
+        "sample_days": 70,
+        "sample_end": "2021-03-25",
+        "sample_start": "2021-01-15",
+        "sha256": "3ea4188e06bfc5d59f37a12bfe08c18f0ae0d0ece3dd1ef94ff99599ad78db9b",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/outside-the-wire.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20210325.tar.xz",
+            "size": 1610027332
+          }
+        ],
+        "expected_filename_date": "20210325"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20210512.tar.xz",
+        "filename_date": "20210512",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/pacific-rim-the-black.cache/cache.20210512.tar.xz",
+        "sha256": "9b3001eb03206eee1fc0b418ad1aa64b1590a4f54a886b5f4ae9fcbc838b852a",
+        "size": 194882280
+      },
+      "collection_key": "pacific-rim-the-black",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 70,
+          "cache_members": 5996,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2021-05-12",
+          "sample_span_days": 70,
+          "sample_start": "2021-03-04",
+          "torrent_indices": 91
+        },
+        "required_collection_key": "pacific-rim-the-black",
+        "required_day_products": 70,
+        "required_sample_days": 70,
+        "required_sample_end": "2021-05-12",
+        "required_sample_start": "2021-03-04",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "1",
+        "collection_name": "Pacific Rim The Black",
+        "metadata_version": "2025-11-22",
+        "sample_days": 70,
+        "sample_end": "2021-05-12",
+        "sample_start": "2021-03-04",
+        "sha256": "63c850ed4196727793751359a7024247816015c583b86acaeebadc0f248e28db",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/pacific-rim-the-black.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20210512.tar.xz",
+            "size": 194882280
+          }
+        ],
+        "expected_filename_date": "20210512"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20210815.tar.xz",
+        "filename_date": "20210815",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/pose-307.cache/cache.20210815.tar.xz",
+        "sha256": "729c5ccc53b70912c32199f5f9f2200fb73620148095dbde281b279f93abea08",
+        "size": 187672924
+      },
+      "collection_key": "pose-307",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 70,
+          "cache_members": 4899,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2021-08-15",
+          "sample_span_days": 70,
+          "sample_start": "2021-06-07",
+          "torrent_indices": 75
+        },
+        "required_collection_key": "pose-307",
+        "required_day_products": 70,
+        "required_sample_days": 70,
+        "required_sample_end": "2021-08-15",
+        "required_sample_start": "2021-06-07",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "3",
+        "collection_name": "Pose",
+        "metadata_version": "2025-11-22",
+        "sample_days": 70,
+        "sample_end": "2021-08-15",
+        "sample_start": "2021-06-07",
+        "sha256": "7f3844bb06889d8764a5f59e64ad54789d03b1729483bfb9dbe887e1182dd7ec",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/pose-307.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20210815.tar.xz",
+            "size": 187672924
+          }
+        ],
+        "expected_filename_date": "20210815"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20220127.tar.xz",
+        "filename_date": "20220127",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/princess-switch-3.cache/cache.20220127.tar.xz",
+        "sha256": "9ffd874cdd1ef63cb92493b79ebbca2b048e3372a59711f48f2b1f234b53d24b",
+        "size": 110877344
+      },
+      "collection_key": "princess-switch-3",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 70,
+          "cache_members": 4511,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2022-01-27",
+          "sample_span_days": 70,
+          "sample_start": "2021-11-19",
+          "torrent_indices": 69
+        },
+        "required_collection_key": "princess-switch-3",
+        "required_day_products": 70,
+        "required_sample_days": 70,
+        "required_sample_end": "2022-01-27",
+        "required_sample_start": "2021-11-19",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "",
+        "collection_name": "The Princess Switch 3",
+        "metadata_version": "2025-11-22",
+        "sample_days": 70,
+        "sample_end": "2022-01-27",
+        "sample_start": "2021-11-19",
+        "sha256": "8b8d75f233ba1ddc1915cc132917bc1a392b2a3f0906fc5d0d9a9af7711b7673",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/princess-switch-3.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20220127.tar.xz",
+            "size": 110877344
+          }
+        ],
+        "expected_filename_date": "20220127"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20211123.tar.xz",
+        "filename_date": "20211123",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/prisoners-of-the-ghostland.cache/cache.20211123.tar.xz",
+        "sha256": "667c5f6c20a29fc165f746962f68396017930c600fffe12e541e943c692d8f30",
+        "size": 686061312
+      },
+      "collection_key": "prisoners-of-the-ghostland",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 70,
+          "cache_members": 7815,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2021-11-23",
+          "sample_span_days": 70,
+          "sample_start": "2021-09-15",
+          "torrent_indices": 145
+        },
+        "required_collection_key": "prisoners-of-the-ghostland",
+        "required_day_products": 70,
+        "required_sample_days": 70,
+        "required_sample_end": "2021-11-23",
+        "required_sample_start": "2021-09-15",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "",
+        "collection_name": "Prisoners of the Ghostland",
+        "metadata_version": "2025-11-22",
+        "sample_days": 70,
+        "sample_end": "2021-11-23",
+        "sample_start": "2021-09-15",
+        "sha256": "de042f0d98cee5846550ae690e4cbf56a0cd2e6fea26310b5df197d2958696be",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/prisoners-of-the-ghostland.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20211123.tar.xz",
+            "size": 686061312
+          }
+        ],
+        "expected_filename_date": "20211123"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20211110.tar.xz",
+        "filename_date": "20211110",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/q-force-01.cache/cache.20211110.tar.xz",
+        "sha256": "fee744697e1534cd1c19b2f20e60b9ca3cf700e125d6da5c4ac3ab077939108f",
+        "size": 69711488
+      },
+      "collection_key": "q-force-01",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 70,
+          "cache_members": 6579,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2021-11-10",
+          "sample_span_days": 70,
+          "sample_start": "2021-09-02",
+          "torrent_indices": 97
+        },
+        "required_collection_key": "q-force-01",
+        "required_day_products": 70,
+        "required_sample_days": 70,
+        "required_sample_end": "2021-11-10",
+        "required_sample_start": "2021-09-02",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "1",
+        "collection_name": "Q-Force",
+        "metadata_version": "2025-11-22",
+        "sample_days": 70,
+        "sample_end": "2021-11-10",
+        "sample_start": "2021-09-02",
+        "sha256": "6d222f1e8176637be2bed765b776a8697567c26d827445d028691ea15549154d",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/q-force-01.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20211110.tar.xz",
+            "size": 69711488
+          }
+        ],
+        "expected_filename_date": "20211110"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20210819.tar.xz",
+        "filename_date": "20210819",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/queen-of-the-south-510.cache/cache.20210819.tar.xz",
+        "sha256": "6e16495de34ba0558a356978a3eea6948d143cedcdabb900c42dde1ccd66cd25",
+        "size": 378902940
+      },
+      "collection_key": "queen-of-the-south-510",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 71,
+          "cache_members": 5128,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2021-08-19",
+          "sample_span_days": 71,
+          "sample_start": "2021-06-10",
+          "torrent_indices": 78
+        },
+        "required_collection_key": "queen-of-the-south-510",
+        "required_day_products": 71,
+        "required_sample_days": 71,
+        "required_sample_end": "2021-08-19",
+        "required_sample_start": "2021-06-10",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "510",
+        "collection_name": "Queen Of The South",
+        "metadata_version": "2025-11-22",
+        "sample_days": 71,
+        "sample_end": "2021-08-19",
+        "sample_start": "2021-06-10",
+        "sha256": "91f85f5f7f2209e9ebfeab3597b81cfbd8d293677a90d7146000b6c0f0199e6f",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/queen-of-the-south-510.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20210819.tar.xz",
+            "size": 378902940
+          }
+        ],
+        "expected_filename_date": "20210819"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20210902.tar.xz",
+        "filename_date": "20210902",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/raya-and-the-last-dragon.cache/cache.20210902.tar.xz",
+        "sha256": "ae9bf83052816b479a1144f9ba414ca10d9270645c5e48c397b3113efcbb2b6d",
+        "size": 8324642280
+      },
+      "collection_key": "raya-and-the-last-dragon",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 182,
+          "cache_members": 34359,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2021-09-02",
+          "sample_span_days": 182,
+          "sample_start": "2021-03-05",
+          "torrent_indices": 195
+        },
+        "required_collection_key": "raya-and-the-last-dragon",
+        "required_day_products": 182,
+        "required_sample_days": 182,
+        "required_sample_end": "2021-09-02",
+        "required_sample_start": "2021-03-05",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "",
+        "collection_name": "Raya & The Last Dragon",
+        "metadata_version": "2025-11-22",
+        "sample_days": 182,
+        "sample_end": "2021-09-02",
+        "sample_start": "2021-03-05",
+        "sha256": "14c683bf9a3f938b41268d4bd09bfb5187948de5f11ca9e2b56c176f205aced7",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/raya-and-the-last-dragon.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20210902.tar.xz",
+            "size": 8324642280
+          }
+        ],
+        "expected_filename_date": "20210902"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20211017.tar.xz",
+        "filename_date": "20211017",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/reservation-dogs-101.cache/cache.20211017.tar.xz",
+        "sha256": "72d8dcddff7e164e25c943ff70fcb930e4290d21c1ea22942477e04359d81bc2",
+        "size": 325504044
+      },
+      "collection_key": "reservation-dogs-101",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 70,
+          "cache_members": 5803,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2021-10-17",
+          "sample_span_days": 70,
+          "sample_start": "2021-08-09",
+          "torrent_indices": 86
+        },
+        "required_collection_key": "reservation-dogs-101",
+        "required_day_products": 70,
+        "required_sample_days": 70,
+        "required_sample_end": "2021-10-17",
+        "required_sample_start": "2021-08-09",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "101",
+        "collection_name": "Reservation Dogs",
+        "metadata_version": "2025-11-22",
+        "sample_days": 70,
+        "sample_end": "2021-10-17",
+        "sample_start": "2021-08-09",
+        "sha256": "51a739ce327d1aecce80f447ffa2cb6df85502f2ec7ef2f906f646f3915ea6a9",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/reservation-dogs-101.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20211017.tar.xz",
+            "size": 325504044
+          }
+        ],
+        "expected_filename_date": "20211017"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20210805.tar.xz",
+        "filename_date": "20210805",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/shadow-and-bone-01.cache/cache.20210805.tar.xz",
+        "sha256": "52f9f5f9b74a251105049f60131963ed1b46fa27b4f4b3c932c8a29421a929fd",
+        "size": 2195469876
+      },
+      "collection_key": "shadow-and-bone-01",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 105,
+          "cache_members": 22409,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2021-08-05",
+          "sample_span_days": 105,
+          "sample_start": "2021-04-23",
+          "torrent_indices": 220
+        },
+        "required_collection_key": "shadow-and-bone-01",
+        "required_day_products": 105,
+        "required_sample_days": 105,
+        "required_sample_end": "2021-08-05",
+        "required_sample_start": "2021-04-23",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "1",
+        "collection_name": "Shadow & Bone",
+        "metadata_version": "2025-11-22",
+        "sample_days": 105,
+        "sample_end": "2021-08-05",
+        "sample_start": "2021-04-23",
+        "sha256": "1e8476e353e332759dc04e46f0aaefa74dea1c746a52e4e2f70029e7397252c0",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/shadow-and-bone-01.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20210805.tar.xz",
+            "size": 2195469876
+          }
+        ],
+        "expected_filename_date": "20210805"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20220511.tar.xz",
+        "filename_date": "20220511",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/shang-chi-and-the-legend-of-the-ten-rings.cache/cache.20220511.tar.xz",
+        "sha256": "2c6526abdaa04d4df946bdfb81a649979e6038eb4c53d15d8b2ace767a9b545c",
+        "size": 10487808312
+      },
+      "collection_key": "shang-chi-and-the-legend-of-the-ten-rings",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 183,
+          "cache_members": 78364,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2022-05-11",
+          "sample_span_days": 183,
+          "sample_start": "2021-11-10",
+          "torrent_indices": 440
+        },
+        "required_collection_key": "shang-chi-and-the-legend-of-the-ten-rings",
+        "required_day_products": 183,
+        "required_sample_days": 183,
+        "required_sample_end": "2022-05-11",
+        "required_sample_start": "2021-11-10",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "",
+        "collection_name": "Shang Chi and the Legend of the Ten Rings",
+        "metadata_version": "2025-11-22",
+        "sample_days": 183,
+        "sample_end": "2022-05-11",
+        "sample_start": "2021-11-10",
+        "sha256": "33151306a2596cc215f1eb22861edc82ba58403c252b327ab53777a5654196c0",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/shang-chi-and-the-legend-of-the-ten-rings.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20220511.tar.xz",
+            "size": 10487808312
+          }
+        ],
+        "expected_filename_date": "20220511"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20210607.tar.xz",
+        "filename_date": "20210607",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/snowpiercer-209.cache/cache.20210607.tar.xz",
+        "sha256": "023667f21bfe25e550aaa8265873a78d13276383fdbd01701e04a1d786493bb5",
+        "size": 507646208
+      },
+      "collection_key": "snowpiercer-209",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 70,
+          "cache_members": 10834,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2021-06-07",
+          "sample_span_days": 70,
+          "sample_start": "2021-03-30",
+          "torrent_indices": 171
+        },
+        "required_collection_key": "snowpiercer-209",
+        "required_day_products": 70,
+        "required_sample_days": 70,
+        "required_sample_end": "2021-06-07",
+        "required_sample_start": "2021-03-30",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "209",
+        "collection_name": "Snowpiercer",
+        "metadata_version": "2025-11-22",
+        "sample_days": 70,
+        "sample_end": "2021-06-07",
+        "sample_start": "2021-03-30",
+        "sha256": "30cd1595b97571f4397f6601af58c27085f5755d4566298954fb03340f97963c",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/snowpiercer-209.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20210607.tar.xz",
+            "size": 507646208
+          }
+        ],
+        "expected_filename_date": "20210607"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20210415.tar.xz",
+        "filename_date": "20210415",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/space-sweepers.cache/cache.20210415.tar.xz",
+        "sha256": "6808bf4c7b124b261f5fd07c6bd2d2047e0708d7f232f63cef6caccb5ef9175b",
+        "size": 1194845952
+      },
+      "collection_key": "space-sweepers",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 70,
+          "cache_members": 10540,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2021-04-15",
+          "sample_span_days": 70,
+          "sample_start": "2021-02-05",
+          "torrent_indices": 169
+        },
+        "required_collection_key": "space-sweepers",
+        "required_day_products": 70,
+        "required_sample_days": 70,
+        "required_sample_end": "2021-04-15",
+        "required_sample_start": "2021-02-05",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "",
+        "collection_name": "Space Sweepers",
+        "metadata_version": "2025-11-22",
+        "sample_days": 70,
+        "sample_end": "2021-04-15",
+        "sample_start": "2021-02-05",
+        "sha256": "09e60f540d9add384cdde37271d4163e16b413655103e519dcffee3a3a85b3fb",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/space-sweepers.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20210415.tar.xz",
+            "size": 1194845952
+          }
+        ],
+        "expected_filename_date": "20210415"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20211208.tar.xz",
+        "filename_date": "20211208",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/star-wars-visions-01.cache/cache.20211208.tar.xz",
+        "sha256": "3d54f9b3cfab9bfa87b58f04c568382e36f9a75ddae61b720ffcb9ec137d5030",
+        "size": 475432080
+      },
+      "collection_key": "star-wars-visions-01",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 78,
+          "cache_members": 14585,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2021-12-08",
+          "sample_span_days": 78,
+          "sample_start": "2021-09-22",
+          "torrent_indices": 204
+        },
+        "required_collection_key": "star-wars-visions-01",
+        "required_day_products": 78,
+        "required_sample_days": 78,
+        "required_sample_end": "2021-12-08",
+        "required_sample_start": "2021-09-22",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "101, 102, 103, 104, 105, 106, 107, 108, 109",
+        "collection_name": "Star Wars: Visions",
+        "metadata_version": "2025-11-22",
+        "sample_days": 78,
+        "sample_end": "2021-12-08",
+        "sample_start": "2021-09-22",
+        "sha256": "3583139eb86839c1caa01951d0e8e85d4c242d961329a61abbd1776f5e83646b",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/star-wars-visions-01.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20211208.tar.xz",
+            "size": 475432080
+          }
+        ],
+        "expected_filename_date": "20211208"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20211226.tar.xz",
+        "filename_date": "20211226",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/succession-301.cache/cache.20211226.tar.xz",
+        "sha256": "362c8357158a2a91bc1a86f65c966e4cc5dbc36864ec8217417d0fa5a1683577",
+        "size": 288962608
+      },
+      "collection_key": "succession-301",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 70,
+          "cache_members": 4455,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2021-12-26",
+          "sample_span_days": 70,
+          "sample_start": "2021-10-18",
+          "torrent_indices": 67
+        },
+        "required_collection_key": "succession-301",
+        "required_day_products": 70,
+        "required_sample_days": 70,
+        "required_sample_end": "2021-12-26",
+        "required_sample_start": "2021-10-18",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "301",
+        "collection_name": "Succession",
+        "metadata_version": "2025-11-22",
+        "sample_days": 70,
+        "sample_end": "2021-12-26",
+        "sample_start": "2021-10-18",
+        "sha256": "b2f7e042d26e8b46bb4f3e963f7831451483717db4cce7c5f21b4d5ef0503009",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/succession-301.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20211226.tar.xz",
+            "size": 288962608
+          }
+        ],
+        "expected_filename_date": "20211226"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20220203.tar.xz",
+        "filename_date": "20220203",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/suicide-squad-2021.cache/cache.20220203.tar.xz",
+        "sha256": "cc8e1fd964c7470f05a75512b1ecd1770760f2e5ea6f74010eddcae6bea427f6",
+        "size": 7675764292
+      },
+      "collection_key": "suicide-squad-2021",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 181,
+          "cache_members": 52864,
+          "missing_indices": [
+            178
+          ],
+          "post_release_day_products": 0,
+          "sample_end": "2022-02-03",
+          "sample_span_days": 182,
+          "sample_start": "2021-08-06",
+          "torrent_indices": 306
+        },
+        "required_collection_key": "suicide-squad-2021",
+        "required_day_products": 181,
+        "required_sample_days": 182,
+        "required_sample_end": "2022-02-03",
+        "required_sample_start": "2021-08-06",
+        "required_sparse_intervals": [
+          {
+            "days": 1,
+            "first_index": 178,
+            "last_index": 178
+          }
+        ],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "",
+        "collection_name": "Suicide Squad",
+        "metadata_version": "2025-11-22",
+        "sample_days": 182,
+        "sample_end": "2022-02-03",
+        "sample_start": "2021-08-06",
+        "sha256": "7bab1733acfa87ce416e4dcb50430ced979174f0a40029c7cc6b6c3216f7da86",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/suicide-squad-2021.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20220203.tar.xz",
+            "size": 7675764292
+          }
+        ],
+        "expected_filename_date": "20220203"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20210910.tar.xz",
+        "filename_date": "20210910",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/summer-of-soul.cache/cache.20210910.tar.xz",
+        "sha256": "111a4a4d5c5f6fe2e20d406aa7c898dcddd550f6155d71bec5e5cc42f7ef360e",
+        "size": 71658112
+      },
+      "collection_key": "summer-of-soul",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 70,
+          "cache_members": 1880,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2021-09-10",
+          "sample_span_days": 70,
+          "sample_start": "2021-07-03",
+          "torrent_indices": 29
+        },
+        "required_collection_key": "summer-of-soul",
+        "required_day_products": 70,
+        "required_sample_days": 70,
+        "required_sample_end": "2021-09-10",
+        "required_sample_start": "2021-07-03",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "",
+        "collection_name": "Summer of Soul",
+        "metadata_version": "2025-11-22",
+        "sample_days": 70,
+        "sample_end": "2021-09-10",
+        "sample_start": "2021-07-03",
+        "sha256": "50091398441f554108dc89a7fd01c5b9247d32c0d403bf055278a142a71a84d3",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/summer-of-soul.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20210910.tar.xz",
+            "size": 71658112
+          }
+        ],
+        "expected_filename_date": "20210910"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20210930.tar.xz",
+        "filename_date": "20210930",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/ted-lasso-201.cache/cache.20210930.tar.xz",
+        "sha256": "a48a709f1b35029c083446c447e0bf1b908b074e9d8bb5ee02d3726f227efac9",
+        "size": 569078044
+      },
+      "collection_key": "ted-lasso-201",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 70,
+          "cache_members": 5529,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2021-09-30",
+          "sample_span_days": 70,
+          "sample_start": "2021-07-23",
+          "torrent_indices": 83
+        },
+        "required_collection_key": "ted-lasso-201",
+        "required_day_products": 70,
+        "required_sample_days": 70,
+        "required_sample_end": "2021-09-30",
+        "required_sample_start": "2021-07-23",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "201",
+        "collection_name": "Ted Lasso",
+        "metadata_version": "2025-11-22",
+        "sample_days": 70,
+        "sample_end": "2021-09-30",
+        "sample_start": "2021-07-23",
+        "sha256": "4ec219571b7592f68690aaa04d810fb016b19689feebb4d1733edbd1d23748e2",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/ted-lasso-201.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20210930.tar.xz",
+            "size": 569078044
+          }
+        ],
+        "expected_filename_date": "20210930"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20211230.tar.xz",
+        "filename_date": "20211230",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/tomorrow-war.cache/cache.20211230.tar.xz",
+        "sha256": "ce061be62dbd9fbe1a603ea293a1ae6bbe1882ab701f993b573b133fa3619e81",
+        "size": 7281184084
+      },
+      "collection_key": "tomorrow-war",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 180,
+          "cache_members": 48110,
+          "missing_indices": [
+            39,
+            40
+          ],
+          "post_release_day_products": 0,
+          "sample_end": "2021-12-30",
+          "sample_span_days": 182,
+          "sample_start": "2021-07-02",
+          "torrent_indices": 275
+        },
+        "required_collection_key": "tomorrow-war",
+        "required_day_products": 180,
+        "required_sample_days": 182,
+        "required_sample_end": "2021-12-30",
+        "required_sample_start": "2021-07-02",
+        "required_sparse_intervals": [
+          {
+            "days": 2,
+            "first_index": 39,
+            "last_index": 40
+          }
+        ],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "",
+        "collection_name": "The Tomorrow War",
+        "metadata_version": "2025-11-22",
+        "sample_days": 182,
+        "sample_end": "2021-12-30",
+        "sample_start": "2021-07-02",
+        "sha256": "96139bb0bb5e4c6040733741f44ab6a95154575037fce2cb9f1eef4a2020e1a9",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/tomorrow-war.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20211230.tar.xz",
+            "size": 7281184084
+          }
+        ],
+        "expected_filename_date": "20211230"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20210819.tar.xz",
+        "filename_date": "20210819",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/trese-01.cache/cache.20210819.tar.xz",
+        "sha256": "0cb2650a8a8e3c157a4876d389213101e2a1fdfe970f84491321ec6a262d0ed8",
+        "size": 375066384
+      },
+      "collection_key": "trese-01",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 70,
+          "cache_members": 8655,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2021-08-19",
+          "sample_span_days": 70,
+          "sample_start": "2021-06-11",
+          "torrent_indices": 131
+        },
+        "required_collection_key": "trese-01",
+        "required_day_products": 70,
+        "required_sample_days": 70,
+        "required_sample_end": "2021-08-19",
+        "required_sample_start": "2021-06-11",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "1",
+        "collection_name": "Trese",
+        "metadata_version": "2025-11-22",
+        "sample_days": 70,
+        "sample_end": "2021-08-19",
+        "sample_start": "2021-06-11",
+        "sha256": "ba26cad12d21377874d4686ea7237007a4f37aa5af2a3a550d718f628e0fb0bd",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/trese-01.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20210819.tar.xz",
+            "size": 375066384
+          }
+        ],
+        "expected_filename_date": "20210819"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20211027.tar.xz",
+        "filename_date": "20211027",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/ultra-city-smiths-106.cache/cache.20211027.tar.xz",
+        "sha256": "956c3b72f3316764cecfe47d9f5cb43ac008e6244c0c1b83ece60399a7d1a1d1",
+        "size": 35979292
+      },
+      "collection_key": "ultra-city-smiths-106",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 70,
+          "cache_members": 1629,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2021-10-27",
+          "sample_span_days": 70,
+          "sample_start": "2021-08-19",
+          "torrent_indices": 26
+        },
+        "required_collection_key": "ultra-city-smiths-106",
+        "required_day_products": 70,
+        "required_sample_days": 70,
+        "required_sample_end": "2021-10-27",
+        "required_sample_start": "2021-08-19",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "106",
+        "collection_name": "Ultra City Smiths",
+        "metadata_version": "2025-11-22",
+        "sample_days": 70,
+        "sample_end": "2021-10-27",
+        "sample_start": "2021-08-19",
+        "sha256": "93ed7e91f5cdac709731bf19b500bd06c2b292848363e2636cf9edc9260637ed",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/ultra-city-smiths-106.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20211027.tar.xz",
+            "size": 35979292
+          }
+        ],
+        "expected_filename_date": "20211027"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20210722.tar.xz",
+        "filename_date": "20210722",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/underground-railroad-01.cache/cache.20210722.tar.xz",
+        "sha256": "9e8a55576cb6b9b5679588aec53c46cd55ca77af8a78005c29aea003b7cb4aa6",
+        "size": 498017356
+      },
+      "collection_key": "underground-railroad-01",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 62,
+          "cache_members": 12308,
+          "missing_indices": [
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56
+          ],
+          "post_release_day_products": 0,
+          "sample_end": "2021-07-22",
+          "sample_span_days": 70,
+          "sample_start": "2021-05-14",
+          "torrent_indices": 206
+        },
+        "required_collection_key": "underground-railroad-01",
+        "required_day_products": 62,
+        "required_sample_days": 70,
+        "required_sample_end": "2021-07-22",
+        "required_sample_start": "2021-05-14",
+        "required_sparse_intervals": [
+          {
+            "days": 8,
+            "first_index": 49,
+            "last_index": 56
+          }
+        ],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "1",
+        "collection_name": "Underground Railroad",
+        "metadata_version": "2025-11-22",
+        "sample_days": 70,
+        "sample_end": "2021-07-22",
+        "sample_start": "2021-05-14",
+        "sha256": "a67530cc9907c826b9ed26c63d0d7899aac3ca04fe63d76f979d7dc864b2359d",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/underground-railroad-01.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20210722.tar.xz",
+            "size": 498017356
+          }
+        ],
+        "expected_filename_date": "20210722"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20210325.tar.xz",
+        "filename_date": "20210325",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/wandavision-101.cache/cache.20210325.tar.xz",
+        "sha256": "f1628dfaf902a87c09c0c89788729fcb070f6aec7ecb4d557193982a727d0a64",
+        "size": 2474260316
+      },
+      "collection_key": "wandavision-101",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 70,
+          "cache_members": 11654,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2021-03-25",
+          "sample_span_days": 70,
+          "sample_start": "2021-01-15",
+          "torrent_indices": 170
+        },
+        "required_collection_key": "wandavision-101",
+        "required_day_products": 70,
+        "required_sample_days": 70,
+        "required_sample_end": "2021-03-25",
+        "required_sample_start": "2021-01-15",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "101",
+        "collection_name": "WandaVision",
+        "metadata_version": "2025-11-22",
+        "sample_days": 70,
+        "sample_end": "2021-03-25",
+        "sample_start": "2021-01-15",
+        "sha256": "d80b8e6d1bfa1d1020dd323b0e5d5899fb6a6620ee2eea8a9ec65163bcbffdba",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/wandavision-101.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20210325.tar.xz",
+            "size": 2474260316
+          }
+        ],
+        "expected_filename_date": "20210325"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20210902.tar.xz",
+        "filename_date": "20210902",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/wandavision-109.cache/cache.20210902.tar.xz",
+        "sha256": "fa944b8147c4ef6bc861a53e68c1193094360eb473be7735e169321ab09d0c54",
+        "size": 4543330496
+      },
+      "collection_key": "wandavision-109",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 180,
+          "cache_members": 38366,
+          "missing_indices": [
+            158,
+            159
+          ],
+          "post_release_day_products": 0,
+          "sample_end": "2021-09-02",
+          "sample_span_days": 182,
+          "sample_start": "2021-03-05",
+          "torrent_indices": 219
+        },
+        "required_collection_key": "wandavision-109",
+        "required_day_products": 180,
+        "required_sample_days": 182,
+        "required_sample_end": "2021-09-02",
+        "required_sample_start": "2021-03-05",
+        "required_sparse_intervals": [
+          {
+            "days": 2,
+            "first_index": 158,
+            "last_index": 159
+          }
+        ],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "109",
+        "collection_name": "WandaVision",
+        "metadata_version": "2025-11-22",
+        "sample_days": 182,
+        "sample_end": "2021-09-02",
+        "sample_start": "2021-03-05",
+        "sha256": "bef555489a456222680704a6b158947be57baf016df76af8c312a5a46fe1759f",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/wandavision-109.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20210902.tar.xz",
+            "size": 4543330496
+          }
+        ],
+        "expected_filename_date": "20210902"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20211123.tar.xz",
+        "filename_date": "20211123",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/what-if-2021-101.cache/cache.20211123.tar.xz",
+        "sha256": "e8a04b911b934132942d2d4cd795f90120be954c8f6c49d6273324e3072dbb5b",
+        "size": 1579790224
+      },
+      "collection_key": "what-if-2021-101",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 105,
+          "cache_members": 17268,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2021-11-23",
+          "sample_span_days": 105,
+          "sample_start": "2021-08-11",
+          "torrent_indices": 170
+        },
+        "required_collection_key": "what-if-2021-101",
+        "required_day_products": 105,
+        "required_sample_days": 105,
+        "required_sample_end": "2021-11-23",
+        "required_sample_start": "2021-08-11",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "101",
+        "collection_name": "What if?",
+        "metadata_version": "2025-11-22",
+        "sample_days": 105,
+        "sample_end": "2021-11-23",
+        "sample_start": "2021-08-11",
+        "sha256": "9a144b26957d49089737dabf6323f1534a3d49704ae99b6da06dfbdd0a1a2c36",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/what-if-2021-101.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20211123.tar.xz",
+            "size": 1579790224
+          }
+        ],
+        "expected_filename_date": "20211123"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20220406.tar.xz",
+        "filename_date": "20220406",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/witcher-02.cache/cache.20220406.tar.xz",
+        "sha256": "f15b92697f422ae45b33d135281be8412f77038e39dc8c225a16fd2473203e66",
+        "size": 4465293176
+      },
+      "collection_key": "witcher-02",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 112,
+          "cache_members": 36222,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2022-04-06",
+          "sample_span_days": 112,
+          "sample_start": "2021-12-16",
+          "torrent_indices": 339
+        },
+        "required_collection_key": "witcher-02",
+        "required_day_products": 112,
+        "required_sample_days": 112,
+        "required_sample_end": "2022-04-06",
+        "required_sample_start": "2021-12-16",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "S02",
+        "collection_name": "The Witcher",
+        "metadata_version": "2025-11-22",
+        "sample_days": 112,
+        "sample_end": "2022-04-06",
+        "sample_start": "2021-12-16",
+        "sha256": "0f74511bc9d9227d656851e2cee3b831a586d7665c4976798d7b098f70b79cea",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/witcher-02.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20220406.tar.xz",
+            "size": 4465293176
+          }
+        ],
+        "expected_filename_date": "20220406"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20211121.tar.xz",
+        "filename_date": "20211121",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/y-the-last-man-101.cache/cache.20211121.tar.xz",
+        "sha256": "7c26b193f49ab798a786c4e7e702a0cc448dfad0487da4780be4b0bdfcd5628c",
+        "size": 692429540
+      },
+      "collection_key": "y-the-last-man-101",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 70,
+          "cache_members": 10681,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2021-11-21",
+          "sample_span_days": 70,
+          "sample_start": "2021-09-13",
+          "torrent_indices": 162
+        },
+        "required_collection_key": "y-the-last-man-101",
+        "required_day_products": 70,
+        "required_sample_days": 70,
+        "required_sample_end": "2021-11-21",
+        "required_sample_start": "2021-09-13",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "101",
+        "collection_name": "Y: The Last Man",
+        "metadata_version": "2025-11-22",
+        "sample_days": 70,
+        "sample_end": "2021-11-21",
+        "sample_start": "2021-09-13",
+        "sha256": "e0408ab637c86379c34ceac26b23862f2dbf3314a188e697297ebdd2a704c5b6",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/y-the-last-man-101.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20211121.tar.xz",
+            "size": 692429540
+          }
+        ],
+        "expected_filename_date": "20211121"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20210707.tar.xz",
+        "filename_date": "20210707",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/yasuke-01.cache/cache.20210707.tar.xz",
+        "sha256": "89bda6289bf9a67b8956f9ff29574d3166a1de09a759299a0209c8609543a20c",
+        "size": 676838916
+      },
+      "collection_key": "yasuke-01",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 70,
+          "cache_members": 9597,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2021-07-07",
+          "sample_span_days": 70,
+          "sample_start": "2021-04-29",
+          "torrent_indices": 144
+        },
+        "required_collection_key": "yasuke-01",
+        "required_day_products": 70,
+        "required_sample_days": 70,
+        "required_sample_end": "2021-07-07",
+        "required_sample_start": "2021-04-29",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "1",
+        "collection_name": "Yasuke",
+        "metadata_version": "2025-11-22",
+        "sample_days": 70,
+        "sample_end": "2021-07-07",
+        "sample_start": "2021-04-29",
+        "sha256": "d31a81613dd4ad6bef0b468f7845b909ab68b46e53797f0046bc9398072b7992",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/yasuke-01.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20210707.tar.xz",
+            "size": 676838916
+          }
+        ],
+        "expected_filename_date": "20210707"
+      }
+    }
+  ],
+  "schema": "alpha60-year-cache-archive-map/1",
+  "selection_policy": "canonical-metadata-sample-end-or-explicit-override",
+  "status": "pass",
+  "year": "2021"
+}
