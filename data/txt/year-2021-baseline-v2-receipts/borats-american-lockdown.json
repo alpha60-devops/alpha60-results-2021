@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt14532412",
+    "imdb_id": "tt14532412",
+    "revision": "576c2b15dd1e39c011f3278699f852aced240cd0",
+    "wikidata_id": "",
+    "wikipedia_url": ""
+  },
+  "coverage_sha256": "679fec1c0f2998f3980de6c38b26faa75a997c065158af1dca7852a08d15bda7",
+  "generated_at": "2026-09-04T00:22:29.039841+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2021-archives/borats-american-lockdown.cache/cache.20210802.tar.xz",
+      "sha256": "c2562d81e67124a3ef39b9c3989ee7aed7349817063c5c1f8b61d73833ee6eb6",
+      "size": 121311168
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-coverage-evidence/borats-american-lockdown.md",
+      "sha256": "e1a5fdd163deaea78fadae40c68419751f5fe2faefc680d737a1825e84ef5c1b",
+      "size": 560
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-cache-stream-receipts/borats-american-lockdown.json",
+      "sha256": "993bd66a042e6f65d1a4af4e9abeb0774779481cb6654c5e90041384d6fd9c3f",
+      "size": 2473
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-product-receipts/borats-american-lockdown.json",
+      "sha256": "0767f637dbfc272ea14497a502bdf4dc7b014993bc8ae50fafe10bd79543b5a4",
+      "size": 376
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-control/worker-map.json",
+      "sha256": "8007c46b300872bb9f00ced6cb29d0e2aa49e73a513f4c30d0e8765a7e08ef2c",
+      "size": 89669
+    }
+  },
+  "media_object": "borats-american-lockdown",
+  "published_files": {
+    "data/csv/bytes/borats-american-lockdown-cumulative-detail.2021-btiha-itemized-by-bytes.csv": "5e6c8062636afa1a53497417cbc07a844688db915cc2ff2c6dff06c308954b68",
+    "docs/itemized/borats-american-lockdown-sample-cache-audit.md": "63e0d0c902c88cdbb6c0348a173591866af6c81fff5384c534a63c92a1258081",
+    "docs/itemized/figures/borats-american-lockdown-carto-4k.webp": "a3cefe45f8cfdf142b3e54c9501f383469a25d2e6ba51317a241b23e51828eba",
+    "docs/itemized/figures/borats-american-lockdown-carto.png": "85e05850fa34ec98eb73d76d61a2ff466b23c646489b0bbb353b0ac9624f2894",
+    "docs/itemized/figures/borats-american-lockdown-cumulative-detail-btiha-itemized-by-bytes.svg": "1ee4fd82c0c887f8f34dec0e2a5cc7e4092067b5011efc4cea33aadb0ba0b68a",
+    "docs/itemized/figures/borats-american-lockdown-data-ge-1080p-4k.webp": "17ab880fee19a5e7fb393c10700986c25dd5ab5b4d4ae52dd140f6aecc4302c0",
+    "docs/itemized/figures/borats-american-lockdown-data-ge-1080p.webp": "ba53b2eef8f29adca6b1f54b7f69bbfa23fc64f30037e8f990464af3cd239725",
+    "docs/itemized/figures/borats-american-lockdown-data-lt-1080p-4k.webp": "55bec1a5cdf77693e582f2f526f7e23463ffa3f8af86907f9ddc89b41ac9e809",
+    "docs/itemized/figures/borats-american-lockdown-data-lt-1080p.webp": "f05a72030761bb7408500e3e109e11346a0bf2ccd74b2599757b35d2d3e2bfbe",
+    "docs/itemized/figures/borats-american-lockdown-downloads-by-day-day.svg": "fcfdce8124e8e5c7884bdfbd730ed1b4938948b39a804e39cf2959682aae3080",
+    "docs/itemized/figures/borats-american-lockdown-downloads-by-week-borats-american-lockdown-week.svg": "014bbb7bc4ddec662bbfd96229f73c77188bc06679db5449c0b0cc27e085527e",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "266854316e16c7daa84891da3052099e07c6bd33",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/borats-american-lockdown/tmp/borats-american-lockdown-cumulative-btiha.geojson",
+        "sha256": "7197012010ccc13099b25f55d152045c0d1e157901849f326221e5e3a99b3c90",
+        "size": 41815641
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/borats-american-lockdown/tmp/borats-american-lockdown-cumulative-btiha-media-objects.json",
+        "sha256": "0f6abf6db73e0f966994fce8fe00b3f12d1a5b4018f1d7990fff8a4be5cc98c0",
+        "size": 285438
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "borats-american-lockdown",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          61.0,
+          59.0,
+          56.0,
+          54.0,
+          48.0,
+          45.0,
+          41.0,
+          36.0,
+          29.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Columbus",
+          "Ashburn",
+          "London",
+          "New York City",
+          "Seattle",
+          "Tokyo",
+          "Seoul",
+          "Independence",
+          "Shanghai",
+          "Beijing"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          68.0,
+          61.0,
+          57.0,
+          53.0,
+          44.0,
+          44.0,
+          41.0,
+          36.0,
+          29.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Columbus",
+          "Ashburn",
+          "London",
+          "New York City",
+          "Seattle",
+          "Tokyo",
+          "Seoul",
+          "Independence",
+          "Shanghai",
+          "Beijing"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 24,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 22,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 10,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "266854316e16c7daa84891da3052099e07c6bd33",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "903f8276e5f31a4387bb88a459e5012c544222f6",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "576c2b15dd1e39c011f3278699f852aced240cd0"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2021"
+}
