@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt13148384",
+    "imdb_id": "tt13148384",
+    "revision": "576c2b15dd1e39c011f3278699f852aced240cd0",
+    "wikidata_id": "",
+    "wikipedia_url": ""
+  },
+  "coverage_sha256": "580bdb5fb60da607643e8dd97cd1b38c0bf9f02ecc64d46396c0abf60670f4fa",
+  "generated_at": "2026-09-04T00:21:17.176878+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2021-archives/ultra-city-smiths-106.cache/cache.20211027.tar.xz",
+      "sha256": "956c3b72f3316764cecfe47d9f5cb43ac008e6244c0c1b83ece60399a7d1a1d1",
+      "size": 35979292
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-coverage-evidence/ultra-city-smiths-106.md",
+      "sha256": "9b24d06ba738bb46ca4327719748f807f0f312657b9473443bcbdeb6292d83dd",
+      "size": 557
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-cache-stream-receipts/ultra-city-smiths-106.json",
+      "sha256": "c0c750aa59f0b41a8073aa6f3c851c7256471712c6234a369ef92df4bd82eb04",
+      "size": 2462
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-product-receipts/ultra-city-smiths-106.json",
+      "sha256": "a8ba01dd55023b3fb2c6df5cb114f6298e02c9d0caf2c4d040377db444bc12ca",
+      "size": 373
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-control/worker-map.json",
+      "sha256": "7579d04c5dcdc59b240a95af1b60b0ea4d32d602a822e3a67b7b6f311e3066b9",
+      "size": 91326
+    }
+  },
+  "media_object": "ultra-city-smiths-106",
+  "published_files": {
+    "data/csv/bytes/ultra-city-smiths-106-cumulative-detail.2021-btiha-itemized-by-bytes.csv": "fefec44e8c33931baf7cb9fe58b1d173d250d259a9c2c41cc0dc85828675c755",
+    "docs/itemized/figures/ultra-city-smiths-106-carto-4k.webp": "e4e875375ca0df1c90cba483b33afc53afe33bc8e7adae49e995488c53ddaf18",
+    "docs/itemized/figures/ultra-city-smiths-106-carto.png": "235065649ca0a20cc0fb21a8b8d71418ab281cdf4ed9dc97cc824ef4490cabb3",
+    "docs/itemized/figures/ultra-city-smiths-106-cumulative-detail-btiha-itemized-by-bytes.svg": "158d401081d8635f4e064b727b3df38639fe1e71e07fc5de29d819d39cac8b08",
+    "docs/itemized/figures/ultra-city-smiths-106-data-ge-1080p-4k.webp": "195a140ef4a38e8d2dfea61cd29bf0af8d58fa38327f9ab3c1df0cb9f9b21fa3",
+    "docs/itemized/figures/ultra-city-smiths-106-data-ge-1080p.webp": "9e78aaabb58977f19ddfae8e13923dd2952fc4403857950eeb3ceeb9a1cb5091",
+    "docs/itemized/figures/ultra-city-smiths-106-data-lt-1080p-4k.webp": "651a8863f583681f471536f2e6ac5dff3df7c59d50f15a941e4e9d7c0cd3b4b0",
+    "docs/itemized/figures/ultra-city-smiths-106-data-lt-1080p.webp": "a309c022cdf0ad280b93b06846824f6eb352ded2570e6f072baebb80414518a6",
+    "docs/itemized/figures/ultra-city-smiths-106-downloads-by-day-day.svg": "10e162a3716dc7043734e1e2303aa812d9e5c4689a571b83a8edeb506f97353f",
+    "docs/itemized/figures/ultra-city-smiths-106-downloads-by-week-ultra-city-smiths-106-week.svg": "3ef627873f09505bf78f72808e81865cde59147e8c468b4bd191f4384dc10f88",
+    "docs/itemized/ultra-city-smiths-106-sample-cache-audit.md": "37aadfde974d4ab57f65d8cbae3d773ab00699f48bf625413b5fe6f47a977ed0",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "266854316e16c7daa84891da3052099e07c6bd33",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/ultra-city-smiths-106/tmp/ultra-city-smiths-106-cumulative-btiha.geojson",
+        "sha256": "8cdc01b16d305f790a6eb90e5eabaa64eee5f22c96863383c4bb86359b8dd313",
+        "size": 9031896
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/ultra-city-smiths-106/tmp/ultra-city-smiths-106-cumulative-btiha-media-objects.json",
+        "sha256": "9d5d38a3372ed67c5863c589b8d377fc6361c847229cfbb2e1a5002b6e848cb1",
+        "size": 41048
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "ultra-city-smiths-106",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          60.0,
+          41.0,
+          40.0,
+          38.0,
+          35.0,
+          28.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Ashburn",
+          "Columbus",
+          "New York City",
+          "London",
+          "Seattle",
+          "Seoul",
+          "Independence",
+          "Tokyo",
+          "Shanghai",
+          "Moscow"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          42.0,
+          34.0,
+          29.0,
+          27.0,
+          27.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Ashburn",
+          "Columbus",
+          "London",
+          "Seoul",
+          "New York City",
+          "Seattle",
+          "Tokyo",
+          "Moscow",
+          "Independence",
+          "Shanghai"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 24,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 11,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 4,
+        "x_tick_marks": 4,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 10,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "266854316e16c7daa84891da3052099e07c6bd33",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "903f8276e5f31a4387bb88a459e5012c544222f6",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "576c2b15dd1e39c011f3278699f852aced240cd0"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2021"
+}

@@ -1,0 +1,4077 @@
+{
+    "collection_name": "Ultra City Smiths",
+    "collection_id": "106",
+    "collection_key": "ultra-city-smiths-106",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "sample_duration": "2021-08-19-to-2021-10-27",
+    "sample_days": 70,
+    "sample_year_start": 2021,
+    "sample_year_end": 2021,
+    "sample_day_year_start": 231,
+    "sample_day_year_end": 300,
+    "collection_week": [
+        {
+    "number": "week-00001",
+    "btiha_size": 14,
+    "udownloaders_total": 66492,
+    "uuploaders_total": 3178
+},
+        {
+    "number": "week-00002",
+    "btiha_size": 20,
+    "udownloaders_total": 176058,
+    "uuploaders_total": 5819
+},
+        {
+    "number": "week-00003",
+    "btiha_size": 20,
+    "udownloaders_total": 251704,
+    "uuploaders_total": 7907
+},
+        {
+    "number": "week-00004",
+    "btiha_size": 20,
+    "udownloaders_total": 338277,
+    "uuploaders_total": 10161
+},
+        {
+    "number": "week-00005",
+    "btiha_size": 20,
+    "udownloaders_total": 389332,
+    "uuploaders_total": 12806
+},
+        {
+    "number": "week-00006",
+    "btiha_size": 24,
+    "udownloaders_total": 408506,
+    "uuploaders_total": 15420
+},
+        {
+    "number": "week-00007",
+    "btiha_size": 24,
+    "udownloaders_total": 422930,
+    "uuploaders_total": 18097
+},
+        {
+    "number": "week-00008",
+    "btiha_size": 24,
+    "udownloaders_total": 436010,
+    "uuploaders_total": 20589
+},
+        {
+    "number": "week-00009",
+    "btiha_size": 24,
+    "udownloaders_total": 451034,
+    "uuploaders_total": 22984
+},
+        {
+    "number": "week-00010",
+    "btiha_size": 24,
+    "udownloaders_total": 470242,
+    "uuploaders_total": 25219
+}
+    ],
+    "collection_week_by_btiha": [
+        [
+    {
+        "id": 15,
+        "name": "Ultra.City.Smiths.S01E06.720p.HEVC.x265-MeGusta [IPT]",
+        "btih": "db880c8fdd3805646d6b442d5877873a60d7e7ba",
+        "resolution": "720",
+        "encoding": "265",
+        "gigabytes": 0.231429943,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 24439,
+        "uuploaders": 457
+    },
+    {
+        "id": 28,
+        "name": "multi-btih-1-2-x-Ultra.City.Smiths.S01E06.WEBRip.x264-ION10-[rarbg.to]",
+        "btih": "549727f2a37a9e4bfae831e372a08209554707e7",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.229552195,
+        "creation": "2021-08-19T13:08:21.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 7563,
+        "uuploaders": 315
+    },
+    {
+        "id": 24,
+        "name": "Ultra.City.Smiths.S01E06.XviD-AFG[eztv.re].avi",
+        "btih": "b9ca88c3fd5ed8db3b1f8b8a979671d3497452d7",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 0.23930895,
+        "creation": "2021-08-19T13:09:44.000000000Z,EZTV,Visit us: https://eztv.re/",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 7222,
+        "uuploaders": 318
+    },
+    {
+        "id": 13,
+        "name": "Ultra.City.Smiths.S01E06.480p.x264-mSD [IPT]",
+        "btih": "76ef43cd9773f3af5ba6573f87d872d019be0ec3",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.160974292,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 6077,
+        "uuploaders": 399
+    },
+    {
+        "id": 23,
+        "name": "Ultra.City.Smiths.S01E06.XviD-AFG [IPT]",
+        "btih": "eab5dfe34de8b65b1ebf51439d3d64907ef0a8fa",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 0.240029046,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 5864,
+        "uuploaders": 331
+    },
+    {
+        "id": 19,
+        "name": "Ultra.City.Smiths.S01E06.720p.WEB.H264-GGWP[rartv]-[rarbg.to]",
+        "btih": "81a0667bbc61c357c1d400f7564d5996795a80f8",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 0.717227177,
+        "creation": "2021-08-19T12:59:28.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 4545,
+        "uuploaders": 462
+    },
+    {
+        "id": 17,
+        "name": "Ultra.City.Smiths.S01E06.720p.WEB.H264-GGWP [IPT]",
+        "btih": "0784069f175231f4db30b406217aff969829527e",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 0.743695252,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 3845,
+        "uuploaders": 200
+    },
+    {
+        "id": 27,
+        "name": "multi-btih-0-2-x-Ultra.City.Smiths.S01E06.1080p.WEB.H264-GGWP[rarbg]",
+        "btih": "9245d47215dd10c869af51e4a252333fc902a136",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 1.512102933,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 3835,
+        "uuploaders": 384
+    },
+    {
+        "id": 10,
+        "name": "ultra.city.smiths.s01e06.1080p.web.h264-ggwp[eztv.re].mkv",
+        "btih": "46eaa33e05990c167377c3a31e3c9ca56f3d67ec",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 1.512102759,
+        "creation": "2021-08-19T13:03:11.000000000Z,EZTV,Visit us: https://eztv.re/",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 2810,
+        "uuploaders": 164
+    },
+    {
+        "id": 14,
+        "name": "Ultra.City.Smiths.S01E06.480p.x264-mSD[eztv.re].mkv",
+        "btih": "fea184e7d46912b5faa5bf3ed9e22d38c9bc98fc",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.160359083,
+        "creation": "2021-08-19T13:13:50.000000000Z,EZTV,Visit us: https://eztv.re/",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 117,
+        "uuploaders": 43
+    },
+    {
+        "id": 7,
+        "name": "Ultra.City.Smiths.S01E06.1080p.HEVC.x265-MeGusta [IPT]",
+        "btih": "8b9c86afd20ef1d2ff53535164c1f3733da110af",
+        "resolution": "1080",
+        "encoding": "265",
+        "gigabytes": 0.336731006,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 72,
+        "uuploaders": 29
+    },
+    {
+        "id": 9,
+        "name": "Ultra.City.Smiths.S01E06.1080p.WEB.H264-GGWP [IPT]",
+        "btih": "0885782c91abb7d9a8552dbfccb946438c526339",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 1.512104828,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 58,
+        "uuploaders": 43
+    },
+    {
+        "id": 16,
+        "name": "Ultra.City.Smiths.S01E06.720p.HEVC.x265-MeGusta[eztv.re].mkv",
+        "btih": "590436ace8e7f03f4085d170577d49a23de754d0",
+        "resolution": "720",
+        "encoding": "265",
+        "gigabytes": 0.22174209,
+        "creation": "2021-08-19T13:10:57.000000000Z,EZTV,Visit us: https://eztv.re/",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 33,
+        "uuploaders": 25
+    },
+    {
+        "id": 18,
+        "name": "ultra.city.smiths.s01e06.720p.web.h264-ggwp[eztv.re].mkv",
+        "btih": "abdff065251f9595b7bdf88bd7c9303d2a5c99ad",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 0.717227004,
+        "creation": "2021-08-19T13:06:58.000000000Z,EZTV,Visit us: https://eztv.re/",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 12,
+        "uuploaders": 8
+    }
+],
+        [
+    {
+        "id": 15,
+        "name": "Ultra.City.Smiths.S01E06.720p.HEVC.x265-MeGusta [IPT]",
+        "btih": "db880c8fdd3805646d6b442d5877873a60d7e7ba",
+        "resolution": "720",
+        "encoding": "265",
+        "gigabytes": 0.231429943,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 43883,
+        "uuploaders": 754
+    },
+    {
+        "id": 23,
+        "name": "Ultra.City.Smiths.S01E06.XviD-AFG [IPT]",
+        "btih": "eab5dfe34de8b65b1ebf51439d3d64907ef0a8fa",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 0.240029046,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 17823,
+        "uuploaders": 548
+    },
+    {
+        "id": 27,
+        "name": "multi-btih-0-2-x-Ultra.City.Smiths.S01E06.1080p.WEB.H264-GGWP[rarbg]",
+        "btih": "9245d47215dd10c869af51e4a252333fc902a136",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 1.512102933,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 16848,
+        "uuploaders": 478
+    },
+    {
+        "id": 10,
+        "name": "ultra.city.smiths.s01e06.1080p.web.h264-ggwp[eztv.re].mkv",
+        "btih": "46eaa33e05990c167377c3a31e3c9ca56f3d67ec",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 1.512102759,
+        "creation": "2021-08-19T13:03:11.000000000Z,EZTV,Visit us: https://eztv.re/",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 15999,
+        "uuploaders": 249
+    },
+    {
+        "id": 24,
+        "name": "Ultra.City.Smiths.S01E06.XviD-AFG[eztv.re].avi",
+        "btih": "b9ca88c3fd5ed8db3b1f8b8a979671d3497452d7",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 0.23930895,
+        "creation": "2021-08-19T13:09:44.000000000Z,EZTV,Visit us: https://eztv.re/",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 14962,
+        "uuploaders": 526
+    },
+    {
+        "id": 28,
+        "name": "multi-btih-1-2-x-Ultra.City.Smiths.S01E06.WEBRip.x264-ION10-[rarbg.to]",
+        "btih": "549727f2a37a9e4bfae831e372a08209554707e7",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.229552195,
+        "creation": "2021-08-19T13:08:21.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 12458,
+        "uuploaders": 517
+    },
+    {
+        "id": 17,
+        "name": "Ultra.City.Smiths.S01E06.720p.WEB.H264-GGWP [IPT]",
+        "btih": "0784069f175231f4db30b406217aff969829527e",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 0.743695252,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 12144,
+        "uuploaders": 263
+    },
+    {
+        "id": 13,
+        "name": "Ultra.City.Smiths.S01E06.480p.x264-mSD [IPT]",
+        "btih": "76ef43cd9773f3af5ba6573f87d872d019be0ec3",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.160974292,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 11668,
+        "uuploaders": 614
+    },
+    {
+        "id": 6,
+        "name": "Ultra.City.Smiths.S01E05.1080p.HEVC.x265-MeGusta[eztv.re].mkv",
+        "btih": "e1e2e255388116b0588a6aeb07d2045031b5ad16",
+        "resolution": "1080",
+        "encoding": "265",
+        "gigabytes": 0.303027765,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 7549,
+        "uuploaders": 195
+    },
+    {
+        "id": 8,
+        "name": "Ultra.City.Smiths.S01E06.1080p.HEVC.x265-MeGusta[eztv.re].mkv",
+        "btih": "062747327fe3a323038fbe9c6fa45d4ec6bc1e51",
+        "resolution": "1080",
+        "encoding": "265",
+        "gigabytes": 0.317870361,
+        "creation": "2021-08-19T17:26:56.000000000Z,EZTV,Visit us: https://eztv.re/",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 7441,
+        "uuploaders": 263
+    },
+    {
+        "id": 3,
+        "name": "Ultra.City.Smiths.S01E02.XviD-AFG[eztv.re].avi",
+        "btih": "b25983c5228731c16e1a6df009ed55ee1e583623",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 0.197089446,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 5772,
+        "uuploaders": 150
+    },
+    {
+        "id": 19,
+        "name": "Ultra.City.Smiths.S01E06.720p.WEB.H264-GGWP[rartv]-[rarbg.to]",
+        "btih": "81a0667bbc61c357c1d400f7564d5996795a80f8",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 0.717227177,
+        "creation": "2021-08-19T12:59:28.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 4912,
+        "uuploaders": 512
+    },
+    {
+        "id": 26,
+        "name": "www.SceneTime.com   -    Ultra City Smiths S01E06 480p x264-mSD",
+        "btih": "f73e3fe7f2ef9710733db09a9d1f171e51c35468",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.160974377,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 1746,
+        "uuploaders": 219
+    },
+    {
+        "id": 5,
+        "name": "Ultra.City.Smiths.S01E04.WEBRip.x264-ION10",
+        "btih": "f7b8694f099b29ad1707643675c9abfe8da8cb50",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.210714454,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 1291,
+        "uuploaders": 133
+    },
+    {
+        "id": 2,
+        "name": "Ultra.City.Smiths.S01E02.WEB.x264-PHOENiX[eztv.re].mkv",
+        "btih": "bfd1e111e1dffeb5a48d2a6c2c75a4677aa86cd1",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.13418641,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 1179,
+        "uuploaders": 213
+    },
+    {
+        "id": 14,
+        "name": "Ultra.City.Smiths.S01E06.480p.x264-mSD[eztv.re].mkv",
+        "btih": "fea184e7d46912b5faa5bf3ed9e22d38c9bc98fc",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.160359083,
+        "creation": "2021-08-19T13:13:50.000000000Z,EZTV,Visit us: https://eztv.re/",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 172,
+        "uuploaders": 51
+    },
+    {
+        "id": 7,
+        "name": "Ultra.City.Smiths.S01E06.1080p.HEVC.x265-MeGusta [IPT]",
+        "btih": "8b9c86afd20ef1d2ff53535164c1f3733da110af",
+        "resolution": "1080",
+        "encoding": "265",
+        "gigabytes": 0.336731006,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 99,
+        "uuploaders": 52
+    },
+    {
+        "id": 9,
+        "name": "Ultra.City.Smiths.S01E06.1080p.WEB.H264-GGWP [IPT]",
+        "btih": "0885782c91abb7d9a8552dbfccb946438c526339",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 1.512104828,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 65,
+        "uuploaders": 45
+    },
+    {
+        "id": 16,
+        "name": "Ultra.City.Smiths.S01E06.720p.HEVC.x265-MeGusta[eztv.re].mkv",
+        "btih": "590436ace8e7f03f4085d170577d49a23de754d0",
+        "resolution": "720",
+        "encoding": "265",
+        "gigabytes": 0.22174209,
+        "creation": "2021-08-19T13:10:57.000000000Z,EZTV,Visit us: https://eztv.re/",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 35,
+        "uuploaders": 29
+    },
+    {
+        "id": 18,
+        "name": "ultra.city.smiths.s01e06.720p.web.h264-ggwp[eztv.re].mkv",
+        "btih": "abdff065251f9595b7bdf88bd7c9303d2a5c99ad",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 0.717227004,
+        "creation": "2021-08-19T13:06:58.000000000Z,EZTV,Visit us: https://eztv.re/",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 12,
+        "uuploaders": 8
+    }
+],
+        [
+    {
+        "id": 15,
+        "name": "Ultra.City.Smiths.S01E06.720p.HEVC.x265-MeGusta [IPT]",
+        "btih": "db880c8fdd3805646d6b442d5877873a60d7e7ba",
+        "resolution": "720",
+        "encoding": "265",
+        "gigabytes": 0.231429943,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 49549,
+        "uuploaders": 956
+    },
+    {
+        "id": 27,
+        "name": "multi-btih-0-2-x-Ultra.City.Smiths.S01E06.1080p.WEB.H264-GGWP[rarbg]",
+        "btih": "9245d47215dd10c869af51e4a252333fc902a136",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 1.512102933,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 22977,
+        "uuploaders": 561
+    },
+    {
+        "id": 10,
+        "name": "ultra.city.smiths.s01e06.1080p.web.h264-ggwp[eztv.re].mkv",
+        "btih": "46eaa33e05990c167377c3a31e3c9ca56f3d67ec",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 1.512102759,
+        "creation": "2021-08-19T13:03:11.000000000Z,EZTV,Visit us: https://eztv.re/",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 22345,
+        "uuploaders": 319
+    },
+    {
+        "id": 24,
+        "name": "Ultra.City.Smiths.S01E06.XviD-AFG[eztv.re].avi",
+        "btih": "b9ca88c3fd5ed8db3b1f8b8a979671d3497452d7",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 0.23930895,
+        "creation": "2021-08-19T13:09:44.000000000Z,EZTV,Visit us: https://eztv.re/",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 21548,
+        "uuploaders": 694
+    },
+    {
+        "id": 23,
+        "name": "Ultra.City.Smiths.S01E06.XviD-AFG [IPT]",
+        "btih": "eab5dfe34de8b65b1ebf51439d3d64907ef0a8fa",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 0.240029046,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 19192,
+        "uuploaders": 727
+    },
+    {
+        "id": 17,
+        "name": "Ultra.City.Smiths.S01E06.720p.WEB.H264-GGWP [IPT]",
+        "btih": "0784069f175231f4db30b406217aff969829527e",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 0.743695252,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 18979,
+        "uuploaders": 294
+    },
+    {
+        "id": 6,
+        "name": "Ultra.City.Smiths.S01E05.1080p.HEVC.x265-MeGusta[eztv.re].mkv",
+        "btih": "e1e2e255388116b0588a6aeb07d2045031b5ad16",
+        "resolution": "1080",
+        "encoding": "265",
+        "gigabytes": 0.303027765,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 15455,
+        "uuploaders": 346
+    },
+    {
+        "id": 3,
+        "name": "Ultra.City.Smiths.S01E02.XviD-AFG[eztv.re].avi",
+        "btih": "b25983c5228731c16e1a6df009ed55ee1e583623",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 0.197089446,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 15079,
+        "uuploaders": 268
+    },
+    {
+        "id": 8,
+        "name": "Ultra.City.Smiths.S01E06.1080p.HEVC.x265-MeGusta[eztv.re].mkv",
+        "btih": "062747327fe3a323038fbe9c6fa45d4ec6bc1e51",
+        "resolution": "1080",
+        "encoding": "265",
+        "gigabytes": 0.317870361,
+        "creation": "2021-08-19T17:26:56.000000000Z,EZTV,Visit us: https://eztv.re/",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 14960,
+        "uuploaders": 458
+    },
+    {
+        "id": 28,
+        "name": "multi-btih-1-2-x-Ultra.City.Smiths.S01E06.WEBRip.x264-ION10-[rarbg.to]",
+        "btih": "549727f2a37a9e4bfae831e372a08209554707e7",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.229552195,
+        "creation": "2021-08-19T13:08:21.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 14418,
+        "uuploaders": 666
+    },
+    {
+        "id": 13,
+        "name": "Ultra.City.Smiths.S01E06.480p.x264-mSD [IPT]",
+        "btih": "76ef43cd9773f3af5ba6573f87d872d019be0ec3",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.160974292,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 13201,
+        "uuploaders": 762
+    },
+    {
+        "id": 19,
+        "name": "Ultra.City.Smiths.S01E06.720p.WEB.H264-GGWP[rartv]-[rarbg.to]",
+        "btih": "81a0667bbc61c357c1d400f7564d5996795a80f8",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 0.717227177,
+        "creation": "2021-08-19T12:59:28.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 8674,
+        "uuploaders": 562
+    },
+    {
+        "id": 5,
+        "name": "Ultra.City.Smiths.S01E04.WEBRip.x264-ION10",
+        "btih": "f7b8694f099b29ad1707643675c9abfe8da8cb50",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.210714454,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 7621,
+        "uuploaders": 281
+    },
+    {
+        "id": 2,
+        "name": "Ultra.City.Smiths.S01E02.WEB.x264-PHOENiX[eztv.re].mkv",
+        "btih": "bfd1e111e1dffeb5a48d2a6c2c75a4677aa86cd1",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.13418641,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 3750,
+        "uuploaders": 420
+    },
+    {
+        "id": 26,
+        "name": "www.SceneTime.com   -    Ultra City Smiths S01E06 480p x264-mSD",
+        "btih": "f73e3fe7f2ef9710733db09a9d1f171e51c35468",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.160974377,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 3527,
+        "uuploaders": 382
+    },
+    {
+        "id": 14,
+        "name": "Ultra.City.Smiths.S01E06.480p.x264-mSD[eztv.re].mkv",
+        "btih": "fea184e7d46912b5faa5bf3ed9e22d38c9bc98fc",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.160359083,
+        "creation": "2021-08-19T13:13:50.000000000Z,EZTV,Visit us: https://eztv.re/",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 176,
+        "uuploaders": 55
+    },
+    {
+        "id": 7,
+        "name": "Ultra.City.Smiths.S01E06.1080p.HEVC.x265-MeGusta [IPT]",
+        "btih": "8b9c86afd20ef1d2ff53535164c1f3733da110af",
+        "resolution": "1080",
+        "encoding": "265",
+        "gigabytes": 0.336731006,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 132,
+        "uuploaders": 71
+    },
+    {
+        "id": 9,
+        "name": "Ultra.City.Smiths.S01E06.1080p.WEB.H264-GGWP [IPT]",
+        "btih": "0885782c91abb7d9a8552dbfccb946438c526339",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 1.512104828,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 74,
+        "uuploaders": 48
+    },
+    {
+        "id": 16,
+        "name": "Ultra.City.Smiths.S01E06.720p.HEVC.x265-MeGusta[eztv.re].mkv",
+        "btih": "590436ace8e7f03f4085d170577d49a23de754d0",
+        "resolution": "720",
+        "encoding": "265",
+        "gigabytes": 0.22174209,
+        "creation": "2021-08-19T13:10:57.000000000Z,EZTV,Visit us: https://eztv.re/",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 35,
+        "uuploaders": 29
+    },
+    {
+        "id": 18,
+        "name": "ultra.city.smiths.s01e06.720p.web.h264-ggwp[eztv.re].mkv",
+        "btih": "abdff065251f9595b7bdf88bd7c9303d2a5c99ad",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 0.717227004,
+        "creation": "2021-08-19T13:06:58.000000000Z,EZTV,Visit us: https://eztv.re/",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 12,
+        "uuploaders": 8
+    }
+],
+        [
+    {
+        "id": 15,
+        "name": "Ultra.City.Smiths.S01E06.720p.HEVC.x265-MeGusta [IPT]",
+        "btih": "db880c8fdd3805646d6b442d5877873a60d7e7ba",
+        "resolution": "720",
+        "encoding": "265",
+        "gigabytes": 0.231429943,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 54843,
+        "uuploaders": 1148
+    },
+    {
+        "id": 24,
+        "name": "Ultra.City.Smiths.S01E06.XviD-AFG[eztv.re].avi",
+        "btih": "b9ca88c3fd5ed8db3b1f8b8a979671d3497452d7",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 0.23930895,
+        "creation": "2021-08-19T13:09:44.000000000Z,EZTV,Visit us: https://eztv.re/",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 34457,
+        "uuploaders": 877
+    },
+    {
+        "id": 27,
+        "name": "multi-btih-0-2-x-Ultra.City.Smiths.S01E06.1080p.WEB.H264-GGWP[rarbg]",
+        "btih": "9245d47215dd10c869af51e4a252333fc902a136",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 1.512102933,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 29038,
+        "uuploaders": 642
+    },
+    {
+        "id": 10,
+        "name": "ultra.city.smiths.s01e06.1080p.web.h264-ggwp[eztv.re].mkv",
+        "btih": "46eaa33e05990c167377c3a31e3c9ca56f3d67ec",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 1.512102759,
+        "creation": "2021-08-19T13:03:11.000000000Z,EZTV,Visit us: https://eztv.re/",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 28637,
+        "uuploaders": 382
+    },
+    {
+        "id": 3,
+        "name": "Ultra.City.Smiths.S01E02.XviD-AFG[eztv.re].avi",
+        "btih": "b25983c5228731c16e1a6df009ed55ee1e583623",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 0.197089446,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 26384,
+        "uuploaders": 392
+    },
+    {
+        "id": 23,
+        "name": "Ultra.City.Smiths.S01E06.XviD-AFG [IPT]",
+        "btih": "eab5dfe34de8b65b1ebf51439d3d64907ef0a8fa",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 0.240029046,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 22685,
+        "uuploaders": 895
+    },
+    {
+        "id": 17,
+        "name": "Ultra.City.Smiths.S01E06.720p.WEB.H264-GGWP [IPT]",
+        "btih": "0784069f175231f4db30b406217aff969829527e",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 0.743695252,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 22004,
+        "uuploaders": 312
+    },
+    {
+        "id": 8,
+        "name": "Ultra.City.Smiths.S01E06.1080p.HEVC.x265-MeGusta[eztv.re].mkv",
+        "btih": "062747327fe3a323038fbe9c6fa45d4ec6bc1e51",
+        "resolution": "1080",
+        "encoding": "265",
+        "gigabytes": 0.317870361,
+        "creation": "2021-08-19T17:26:56.000000000Z,EZTV,Visit us: https://eztv.re/",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 20516,
+        "uuploaders": 637
+    },
+    {
+        "id": 6,
+        "name": "Ultra.City.Smiths.S01E05.1080p.HEVC.x265-MeGusta[eztv.re].mkv",
+        "btih": "e1e2e255388116b0588a6aeb07d2045031b5ad16",
+        "resolution": "1080",
+        "encoding": "265",
+        "gigabytes": 0.303027765,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 19401,
+        "uuploaders": 505
+    },
+    {
+        "id": 13,
+        "name": "Ultra.City.Smiths.S01E06.480p.x264-mSD [IPT]",
+        "btih": "76ef43cd9773f3af5ba6573f87d872d019be0ec3",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.160974292,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 17586,
+        "uuploaders": 932
+    },
+    {
+        "id": 28,
+        "name": "multi-btih-1-2-x-Ultra.City.Smiths.S01E06.WEBRip.x264-ION10-[rarbg.to]",
+        "btih": "549727f2a37a9e4bfae831e372a08209554707e7",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.229552195,
+        "creation": "2021-08-19T13:08:21.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 16968,
+        "uuploaders": 822
+    },
+    {
+        "id": 5,
+        "name": "Ultra.City.Smiths.S01E04.WEBRip.x264-ION10",
+        "btih": "f7b8694f099b29ad1707643675c9abfe8da8cb50",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.210714454,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 14024,
+        "uuploaders": 471
+    },
+    {
+        "id": 19,
+        "name": "Ultra.City.Smiths.S01E06.720p.WEB.H264-GGWP[rartv]-[rarbg.to]",
+        "btih": "81a0667bbc61c357c1d400f7564d5996795a80f8",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 0.717227177,
+        "creation": "2021-08-19T12:59:28.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 11792,
+        "uuploaders": 621
+    },
+    {
+        "id": 2,
+        "name": "Ultra.City.Smiths.S01E02.WEB.x264-PHOENiX[eztv.re].mkv",
+        "btih": "bfd1e111e1dffeb5a48d2a6c2c75a4677aa86cd1",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.13418641,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 11661,
+        "uuploaders": 693
+    },
+    {
+        "id": 26,
+        "name": "www.SceneTime.com   -    Ultra City Smiths S01E06 480p x264-mSD",
+        "btih": "f73e3fe7f2ef9710733db09a9d1f171e51c35468",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.160974377,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 7816,
+        "uuploaders": 593
+    },
+    {
+        "id": 14,
+        "name": "Ultra.City.Smiths.S01E06.480p.x264-mSD[eztv.re].mkv",
+        "btih": "fea184e7d46912b5faa5bf3ed9e22d38c9bc98fc",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.160359083,
+        "creation": "2021-08-19T13:13:50.000000000Z,EZTV,Visit us: https://eztv.re/",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 184,
+        "uuploaders": 62
+    },
+    {
+        "id": 7,
+        "name": "Ultra.City.Smiths.S01E06.1080p.HEVC.x265-MeGusta [IPT]",
+        "btih": "8b9c86afd20ef1d2ff53535164c1f3733da110af",
+        "resolution": "1080",
+        "encoding": "265",
+        "gigabytes": 0.336731006,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 148,
+        "uuploaders": 85
+    },
+    {
+        "id": 9,
+        "name": "Ultra.City.Smiths.S01E06.1080p.WEB.H264-GGWP [IPT]",
+        "btih": "0885782c91abb7d9a8552dbfccb946438c526339",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 1.512104828,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 85,
+        "uuploaders": 53
+    },
+    {
+        "id": 16,
+        "name": "Ultra.City.Smiths.S01E06.720p.HEVC.x265-MeGusta[eztv.re].mkv",
+        "btih": "590436ace8e7f03f4085d170577d49a23de754d0",
+        "resolution": "720",
+        "encoding": "265",
+        "gigabytes": 0.22174209,
+        "creation": "2021-08-19T13:10:57.000000000Z,EZTV,Visit us: https://eztv.re/",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 36,
+        "uuploaders": 31
+    },
+    {
+        "id": 18,
+        "name": "ultra.city.smiths.s01e06.720p.web.h264-ggwp[eztv.re].mkv",
+        "btih": "abdff065251f9595b7bdf88bd7c9303d2a5c99ad",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 0.717227004,
+        "creation": "2021-08-19T13:06:58.000000000Z,EZTV,Visit us: https://eztv.re/",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 12,
+        "uuploaders": 8
+    }
+],
+        [
+    {
+        "id": 15,
+        "name": "Ultra.City.Smiths.S01E06.720p.HEVC.x265-MeGusta [IPT]",
+        "btih": "db880c8fdd3805646d6b442d5877873a60d7e7ba",
+        "resolution": "720",
+        "encoding": "265",
+        "gigabytes": 0.231429943,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 57528,
+        "uuploaders": 1392
+    },
+    {
+        "id": 24,
+        "name": "Ultra.City.Smiths.S01E06.XviD-AFG[eztv.re].avi",
+        "btih": "b9ca88c3fd5ed8db3b1f8b8a979671d3497452d7",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 0.23930895,
+        "creation": "2021-08-19T13:09:44.000000000Z,EZTV,Visit us: https://eztv.re/",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 41910,
+        "uuploaders": 1129
+    },
+    {
+        "id": 27,
+        "name": "multi-btih-0-2-x-Ultra.City.Smiths.S01E06.1080p.WEB.H264-GGWP[rarbg]",
+        "btih": "9245d47215dd10c869af51e4a252333fc902a136",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 1.512102933,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 32539,
+        "uuploaders": 698
+    },
+    {
+        "id": 10,
+        "name": "ultra.city.smiths.s01e06.1080p.web.h264-ggwp[eztv.re].mkv",
+        "btih": "46eaa33e05990c167377c3a31e3c9ca56f3d67ec",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 1.512102759,
+        "creation": "2021-08-19T13:03:11.000000000Z,EZTV,Visit us: https://eztv.re/",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 32020,
+        "uuploaders": 431
+    },
+    {
+        "id": 3,
+        "name": "Ultra.City.Smiths.S01E02.XviD-AFG[eztv.re].avi",
+        "btih": "b25983c5228731c16e1a6df009ed55ee1e583623",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 0.197089446,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 29114,
+        "uuploaders": 543
+    },
+    {
+        "id": 8,
+        "name": "Ultra.City.Smiths.S01E06.1080p.HEVC.x265-MeGusta[eztv.re].mkv",
+        "btih": "062747327fe3a323038fbe9c6fa45d4ec6bc1e51",
+        "resolution": "1080",
+        "encoding": "265",
+        "gigabytes": 0.317870361,
+        "creation": "2021-08-19T17:26:56.000000000Z,EZTV,Visit us: https://eztv.re/",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 25340,
+        "uuploaders": 862
+    },
+    {
+        "id": 23,
+        "name": "Ultra.City.Smiths.S01E06.XviD-AFG [IPT]",
+        "btih": "eab5dfe34de8b65b1ebf51439d3d64907ef0a8fa",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 0.240029046,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 25082,
+        "uuploaders": 1107
+    },
+    {
+        "id": 17,
+        "name": "Ultra.City.Smiths.S01E06.720p.WEB.H264-GGWP [IPT]",
+        "btih": "0784069f175231f4db30b406217aff969829527e",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 0.743695252,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 23206,
+        "uuploaders": 329
+    },
+    {
+        "id": 6,
+        "name": "Ultra.City.Smiths.S01E05.1080p.HEVC.x265-MeGusta[eztv.re].mkv",
+        "btih": "e1e2e255388116b0588a6aeb07d2045031b5ad16",
+        "resolution": "1080",
+        "encoding": "265",
+        "gigabytes": 0.303027765,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 21794,
+        "uuploaders": 699
+    },
+    {
+        "id": 5,
+        "name": "Ultra.City.Smiths.S01E04.WEBRip.x264-ION10",
+        "btih": "f7b8694f099b29ad1707643675c9abfe8da8cb50",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.210714454,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 20691,
+        "uuploaders": 678
+    },
+    {
+        "id": 28,
+        "name": "multi-btih-1-2-x-Ultra.City.Smiths.S01E06.WEBRip.x264-ION10-[rarbg.to]",
+        "btih": "549727f2a37a9e4bfae831e372a08209554707e7",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.229552195,
+        "creation": "2021-08-19T13:08:21.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 19984,
+        "uuploaders": 1045
+    },
+    {
+        "id": 13,
+        "name": "Ultra.City.Smiths.S01E06.480p.x264-mSD [IPT]",
+        "btih": "76ef43cd9773f3af5ba6573f87d872d019be0ec3",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.160974292,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 19639,
+        "uuploaders": 1169
+    },
+    {
+        "id": 2,
+        "name": "Ultra.City.Smiths.S01E02.WEB.x264-PHOENiX[eztv.re].mkv",
+        "btih": "bfd1e111e1dffeb5a48d2a6c2c75a4677aa86cd1",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.13418641,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 16232,
+        "uuploaders": 971
+    },
+    {
+        "id": 19,
+        "name": "Ultra.City.Smiths.S01E06.720p.WEB.H264-GGWP[rartv]-[rarbg.to]",
+        "btih": "81a0667bbc61c357c1d400f7564d5996795a80f8",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 0.717227177,
+        "creation": "2021-08-19T12:59:28.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 13556,
+        "uuploaders": 656
+    },
+    {
+        "id": 26,
+        "name": "www.SceneTime.com   -    Ultra City Smiths S01E06 480p x264-mSD",
+        "btih": "f73e3fe7f2ef9710733db09a9d1f171e51c35468",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.160974377,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 10166,
+        "uuploaders": 835
+    },
+    {
+        "id": 14,
+        "name": "Ultra.City.Smiths.S01E06.480p.x264-mSD[eztv.re].mkv",
+        "btih": "fea184e7d46912b5faa5bf3ed9e22d38c9bc98fc",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.160359083,
+        "creation": "2021-08-19T13:13:50.000000000Z,EZTV,Visit us: https://eztv.re/",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 184,
+        "uuploaders": 62
+    },
+    {
+        "id": 7,
+        "name": "Ultra.City.Smiths.S01E06.1080p.HEVC.x265-MeGusta [IPT]",
+        "btih": "8b9c86afd20ef1d2ff53535164c1f3733da110af",
+        "resolution": "1080",
+        "encoding": "265",
+        "gigabytes": 0.336731006,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 167,
+        "uuploaders": 103
+    },
+    {
+        "id": 9,
+        "name": "Ultra.City.Smiths.S01E06.1080p.WEB.H264-GGWP [IPT]",
+        "btih": "0885782c91abb7d9a8552dbfccb946438c526339",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 1.512104828,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 131,
+        "uuploaders": 58
+    },
+    {
+        "id": 16,
+        "name": "Ultra.City.Smiths.S01E06.720p.HEVC.x265-MeGusta[eztv.re].mkv",
+        "btih": "590436ace8e7f03f4085d170577d49a23de754d0",
+        "resolution": "720",
+        "encoding": "265",
+        "gigabytes": 0.22174209,
+        "creation": "2021-08-19T13:10:57.000000000Z,EZTV,Visit us: https://eztv.re/",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 37,
+        "uuploaders": 31
+    },
+    {
+        "id": 18,
+        "name": "ultra.city.smiths.s01e06.720p.web.h264-ggwp[eztv.re].mkv",
+        "btih": "abdff065251f9595b7bdf88bd7c9303d2a5c99ad",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 0.717227004,
+        "creation": "2021-08-19T13:06:58.000000000Z,EZTV,Visit us: https://eztv.re/",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 12,
+        "uuploaders": 8
+    }
+],
+        [
+    {
+        "id": 15,
+        "name": "Ultra.City.Smiths.S01E06.720p.HEVC.x265-MeGusta [IPT]",
+        "btih": "db880c8fdd3805646d6b442d5877873a60d7e7ba",
+        "resolution": "720",
+        "encoding": "265",
+        "gigabytes": 0.231429943,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 58548,
+        "uuploaders": 1614
+    },
+    {
+        "id": 24,
+        "name": "Ultra.City.Smiths.S01E06.XviD-AFG[eztv.re].avi",
+        "btih": "b9ca88c3fd5ed8db3b1f8b8a979671d3497452d7",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 0.23930895,
+        "creation": "2021-08-19T13:09:44.000000000Z,EZTV,Visit us: https://eztv.re/",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 43124,
+        "uuploaders": 1319
+    },
+    {
+        "id": 27,
+        "name": "multi-btih-0-2-x-Ultra.City.Smiths.S01E06.1080p.WEB.H264-GGWP[rarbg]",
+        "btih": "9245d47215dd10c869af51e4a252333fc902a136",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 1.512102933,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 32992,
+        "uuploaders": 743
+    },
+    {
+        "id": 10,
+        "name": "ultra.city.smiths.s01e06.1080p.web.h264-ggwp[eztv.re].mkv",
+        "btih": "46eaa33e05990c167377c3a31e3c9ca56f3d67ec",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 1.512102759,
+        "creation": "2021-08-19T13:03:11.000000000Z,EZTV,Visit us: https://eztv.re/",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 32492,
+        "uuploaders": 467
+    },
+    {
+        "id": 3,
+        "name": "Ultra.City.Smiths.S01E02.XviD-AFG[eztv.re].avi",
+        "btih": "b25983c5228731c16e1a6df009ed55ee1e583623",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 0.197089446,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 30071,
+        "uuploaders": 585
+    },
+    {
+        "id": 8,
+        "name": "Ultra.City.Smiths.S01E06.1080p.HEVC.x265-MeGusta[eztv.re].mkv",
+        "btih": "062747327fe3a323038fbe9c6fa45d4ec6bc1e51",
+        "resolution": "1080",
+        "encoding": "265",
+        "gigabytes": 0.317870361,
+        "creation": "2021-08-19T17:26:56.000000000Z,EZTV,Visit us: https://eztv.re/",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 26906,
+        "uuploaders": 1074
+    },
+    {
+        "id": 23,
+        "name": "Ultra.City.Smiths.S01E06.XviD-AFG [IPT]",
+        "btih": "eab5dfe34de8b65b1ebf51439d3d64907ef0a8fa",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 0.240029046,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 25831,
+        "uuploaders": 1299
+    },
+    {
+        "id": 17,
+        "name": "Ultra.City.Smiths.S01E06.720p.WEB.H264-GGWP [IPT]",
+        "btih": "0784069f175231f4db30b406217aff969829527e",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 0.743695252,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 25403,
+        "uuploaders": 348
+    },
+    {
+        "id": 6,
+        "name": "Ultra.City.Smiths.S01E05.1080p.HEVC.x265-MeGusta[eztv.re].mkv",
+        "btih": "e1e2e255388116b0588a6aeb07d2045031b5ad16",
+        "resolution": "1080",
+        "encoding": "265",
+        "gigabytes": 0.303027765,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 23019,
+        "uuploaders": 864
+    },
+    {
+        "id": 5,
+        "name": "Ultra.City.Smiths.S01E04.WEBRip.x264-ION10",
+        "btih": "f7b8694f099b29ad1707643675c9abfe8da8cb50",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.210714454,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 21239,
+        "uuploaders": 884
+    },
+    {
+        "id": 13,
+        "name": "Ultra.City.Smiths.S01E06.480p.x264-mSD [IPT]",
+        "btih": "76ef43cd9773f3af5ba6573f87d872d019be0ec3",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.160974292,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 20977,
+        "uuploaders": 1379
+    },
+    {
+        "id": 28,
+        "name": "multi-btih-1-2-x-Ultra.City.Smiths.S01E06.WEBRip.x264-ION10-[rarbg.to]",
+        "btih": "549727f2a37a9e4bfae831e372a08209554707e7",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.229552195,
+        "creation": "2021-08-19T13:08:21.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 20319,
+        "uuploaders": 1253
+    },
+    {
+        "id": 2,
+        "name": "Ultra.City.Smiths.S01E02.WEB.x264-PHOENiX[eztv.re].mkv",
+        "btih": "bfd1e111e1dffeb5a48d2a6c2c75a4677aa86cd1",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.13418641,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 17472,
+        "uuploaders": 1141
+    },
+    {
+        "id": 19,
+        "name": "Ultra.City.Smiths.S01E06.720p.WEB.H264-GGWP[rartv]-[rarbg.to]",
+        "btih": "81a0667bbc61c357c1d400f7564d5996795a80f8",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 0.717227177,
+        "creation": "2021-08-19T12:59:28.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 14132,
+        "uuploaders": 682
+    },
+    {
+        "id": 26,
+        "name": "www.SceneTime.com   -    Ultra City Smiths S01E06 480p x264-mSD",
+        "btih": "f73e3fe7f2ef9710733db09a9d1f171e51c35468",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.160974377,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 12348,
+        "uuploaders": 1053
+    },
+    {
+        "id": 1,
+        "name": "Ultra.City.Smiths.S01.720p.WEBRip.Rus.Eng.Ozz",
+        "btih": "dbe9640d47492ad407b58d78f1e2c2cb6214ab62",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 2.838960735,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 1439,
+        "uuploaders": 82
+    },
+    {
+        "id": 25,
+        "name": "www.SceneTime.com   -    Ultra City Smiths S01E02 XviD-AFG",
+        "btih": "32577db906c71d5306e2eef7e17d1eafdb19be1c",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 0.198083487,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 645,
+        "uuploaders": 144
+    },
+    {
+        "id": 20,
+        "name": "Ultra.City.Smiths.S01E06.AAC.MP4-Mobile [IPT]",
+        "btih": "7ed16d3525932de5ca2b79f6ac3cdaf97ac54571",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.078247746,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 559,
+        "uuploaders": 22
+    },
+    {
+        "id": 4,
+        "name": "Ultra.City.Smiths.S01E04.WEB.x264-TORRENTGALAXY[TGx]",
+        "btih": "4fe0dbfe3de2fa2481bd540c930a6145f3ba933b",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.114771697,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 421,
+        "uuploaders": 176
+    },
+    {
+        "id": 7,
+        "name": "Ultra.City.Smiths.S01E06.1080p.HEVC.x265-MeGusta [IPT]",
+        "btih": "8b9c86afd20ef1d2ff53535164c1f3733da110af",
+        "resolution": "1080",
+        "encoding": "265",
+        "gigabytes": 0.336731006,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 196,
+        "uuploaders": 128
+    },
+    {
+        "id": 14,
+        "name": "Ultra.City.Smiths.S01E06.480p.x264-mSD[eztv.re].mkv",
+        "btih": "fea184e7d46912b5faa5bf3ed9e22d38c9bc98fc",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.160359083,
+        "creation": "2021-08-19T13:13:50.000000000Z,EZTV,Visit us: https://eztv.re/",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 184,
+        "uuploaders": 62
+    },
+    {
+        "id": 9,
+        "name": "Ultra.City.Smiths.S01E06.1080p.WEB.H264-GGWP [IPT]",
+        "btih": "0885782c91abb7d9a8552dbfccb946438c526339",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 1.512104828,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 140,
+        "uuploaders": 62
+    },
+    {
+        "id": 16,
+        "name": "Ultra.City.Smiths.S01E06.720p.HEVC.x265-MeGusta[eztv.re].mkv",
+        "btih": "590436ace8e7f03f4085d170577d49a23de754d0",
+        "resolution": "720",
+        "encoding": "265",
+        "gigabytes": 0.22174209,
+        "creation": "2021-08-19T13:10:57.000000000Z,EZTV,Visit us: https://eztv.re/",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 37,
+        "uuploaders": 31
+    },
+    {
+        "id": 18,
+        "name": "ultra.city.smiths.s01e06.720p.web.h264-ggwp[eztv.re].mkv",
+        "btih": "abdff065251f9595b7bdf88bd7c9303d2a5c99ad",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 0.717227004,
+        "creation": "2021-08-19T13:06:58.000000000Z,EZTV,Visit us: https://eztv.re/",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 12,
+        "uuploaders": 8
+    }
+],
+        [
+    {
+        "id": 15,
+        "name": "Ultra.City.Smiths.S01E06.720p.HEVC.x265-MeGusta [IPT]",
+        "btih": "db880c8fdd3805646d6b442d5877873a60d7e7ba",
+        "resolution": "720",
+        "encoding": "265",
+        "gigabytes": 0.231429943,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 59237,
+        "uuploaders": 1829
+    },
+    {
+        "id": 24,
+        "name": "Ultra.City.Smiths.S01E06.XviD-AFG[eztv.re].avi",
+        "btih": "b9ca88c3fd5ed8db3b1f8b8a979671d3497452d7",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 0.23930895,
+        "creation": "2021-08-19T13:09:44.000000000Z,EZTV,Visit us: https://eztv.re/",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 43900,
+        "uuploaders": 1527
+    },
+    {
+        "id": 27,
+        "name": "multi-btih-0-2-x-Ultra.City.Smiths.S01E06.1080p.WEB.H264-GGWP[rarbg]",
+        "btih": "9245d47215dd10c869af51e4a252333fc902a136",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 1.512102933,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 33717,
+        "uuploaders": 784
+    },
+    {
+        "id": 10,
+        "name": "ultra.city.smiths.s01e06.1080p.web.h264-ggwp[eztv.re].mkv",
+        "btih": "46eaa33e05990c167377c3a31e3c9ca56f3d67ec",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 1.512102759,
+        "creation": "2021-08-19T13:03:11.000000000Z,EZTV,Visit us: https://eztv.re/",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 33216,
+        "uuploaders": 494
+    },
+    {
+        "id": 3,
+        "name": "Ultra.City.Smiths.S01E02.XviD-AFG[eztv.re].avi",
+        "btih": "b25983c5228731c16e1a6df009ed55ee1e583623",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 0.197089446,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 30866,
+        "uuploaders": 735
+    },
+    {
+        "id": 8,
+        "name": "Ultra.City.Smiths.S01E06.1080p.HEVC.x265-MeGusta[eztv.re].mkv",
+        "btih": "062747327fe3a323038fbe9c6fa45d4ec6bc1e51",
+        "resolution": "1080",
+        "encoding": "265",
+        "gigabytes": 0.317870361,
+        "creation": "2021-08-19T17:26:56.000000000Z,EZTV,Visit us: https://eztv.re/",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 27400,
+        "uuploaders": 1282
+    },
+    {
+        "id": 23,
+        "name": "Ultra.City.Smiths.S01E06.XviD-AFG [IPT]",
+        "btih": "eab5dfe34de8b65b1ebf51439d3d64907ef0a8fa",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 0.240029046,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 26829,
+        "uuploaders": 1514
+    },
+    {
+        "id": 17,
+        "name": "Ultra.City.Smiths.S01E06.720p.WEB.H264-GGWP [IPT]",
+        "btih": "0784069f175231f4db30b406217aff969829527e",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 0.743695252,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 25840,
+        "uuploaders": 365
+    },
+    {
+        "id": 6,
+        "name": "Ultra.City.Smiths.S01E05.1080p.HEVC.x265-MeGusta[eztv.re].mkv",
+        "btih": "e1e2e255388116b0588a6aeb07d2045031b5ad16",
+        "resolution": "1080",
+        "encoding": "265",
+        "gigabytes": 0.303027765,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 23910,
+        "uuploaders": 1033
+    },
+    {
+        "id": 5,
+        "name": "Ultra.City.Smiths.S01E04.WEBRip.x264-ION10",
+        "btih": "f7b8694f099b29ad1707643675c9abfe8da8cb50",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.210714454,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 21878,
+        "uuploaders": 1079
+    },
+    {
+        "id": 13,
+        "name": "Ultra.City.Smiths.S01E06.480p.x264-mSD [IPT]",
+        "btih": "76ef43cd9773f3af5ba6573f87d872d019be0ec3",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.160974292,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 21473,
+        "uuploaders": 1587
+    },
+    {
+        "id": 28,
+        "name": "multi-btih-1-2-x-Ultra.City.Smiths.S01E06.WEBRip.x264-ION10-[rarbg.to]",
+        "btih": "549727f2a37a9e4bfae831e372a08209554707e7",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.229552195,
+        "creation": "2021-08-19T13:08:21.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 20972,
+        "uuploaders": 1460
+    },
+    {
+        "id": 2,
+        "name": "Ultra.City.Smiths.S01E02.WEB.x264-PHOENiX[eztv.re].mkv",
+        "btih": "bfd1e111e1dffeb5a48d2a6c2c75a4677aa86cd1",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.13418641,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 18476,
+        "uuploaders": 1309
+    },
+    {
+        "id": 26,
+        "name": "www.SceneTime.com   -    Ultra City Smiths S01E06 480p x264-mSD",
+        "btih": "f73e3fe7f2ef9710733db09a9d1f171e51c35468",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.160974377,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 14451,
+        "uuploaders": 1256
+    },
+    {
+        "id": 19,
+        "name": "Ultra.City.Smiths.S01E06.720p.WEB.H264-GGWP[rartv]-[rarbg.to]",
+        "btih": "81a0667bbc61c357c1d400f7564d5996795a80f8",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 0.717227177,
+        "creation": "2021-08-19T12:59:28.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 14304,
+        "uuploaders": 707
+    },
+    {
+        "id": 1,
+        "name": "Ultra.City.Smiths.S01.720p.WEBRip.Rus.Eng.Ozz",
+        "btih": "dbe9640d47492ad407b58d78f1e2c2cb6214ab62",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 2.838960735,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 2068,
+        "uuploaders": 122
+    },
+    {
+        "id": 25,
+        "name": "www.SceneTime.com   -    Ultra City Smiths S01E02 XviD-AFG",
+        "btih": "32577db906c71d5306e2eef7e17d1eafdb19be1c",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 0.198083487,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 1768,
+        "uuploaders": 293
+    },
+    {
+        "id": 4,
+        "name": "Ultra.City.Smiths.S01E04.WEB.x264-TORRENTGALAXY[TGx]",
+        "btih": "4fe0dbfe3de2fa2481bd540c930a6145f3ba933b",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.114771697,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 1277,
+        "uuploaders": 345
+    },
+    {
+        "id": 20,
+        "name": "Ultra.City.Smiths.S01E06.AAC.MP4-Mobile [IPT]",
+        "btih": "7ed16d3525932de5ca2b79f6ac3cdaf97ac54571",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.078247746,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 736,
+        "uuploaders": 45
+    },
+    {
+        "id": 7,
+        "name": "Ultra.City.Smiths.S01E06.1080p.HEVC.x265-MeGusta [IPT]",
+        "btih": "8b9c86afd20ef1d2ff53535164c1f3733da110af",
+        "resolution": "1080",
+        "encoding": "265",
+        "gigabytes": 0.336731006,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 221,
+        "uuploaders": 152
+    },
+    {
+        "id": 14,
+        "name": "Ultra.City.Smiths.S01E06.480p.x264-mSD[eztv.re].mkv",
+        "btih": "fea184e7d46912b5faa5bf3ed9e22d38c9bc98fc",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.160359083,
+        "creation": "2021-08-19T13:13:50.000000000Z,EZTV,Visit us: https://eztv.re/",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 184,
+        "uuploaders": 62
+    },
+    {
+        "id": 9,
+        "name": "Ultra.City.Smiths.S01E06.1080p.WEB.H264-GGWP [IPT]",
+        "btih": "0885782c91abb7d9a8552dbfccb946438c526339",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 1.512104828,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 153,
+        "uuploaders": 74
+    },
+    {
+        "id": 16,
+        "name": "Ultra.City.Smiths.S01E06.720p.HEVC.x265-MeGusta[eztv.re].mkv",
+        "btih": "590436ace8e7f03f4085d170577d49a23de754d0",
+        "resolution": "720",
+        "encoding": "265",
+        "gigabytes": 0.22174209,
+        "creation": "2021-08-19T13:10:57.000000000Z,EZTV,Visit us: https://eztv.re/",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 38,
+        "uuploaders": 33
+    },
+    {
+        "id": 18,
+        "name": "ultra.city.smiths.s01e06.720p.web.h264-ggwp[eztv.re].mkv",
+        "btih": "abdff065251f9595b7bdf88bd7c9303d2a5c99ad",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 0.717227004,
+        "creation": "2021-08-19T13:06:58.000000000Z,EZTV,Visit us: https://eztv.re/",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 16,
+        "uuploaders": 10
+    }
+],
+        [
+    {
+        "id": 15,
+        "name": "Ultra.City.Smiths.S01E06.720p.HEVC.x265-MeGusta [IPT]",
+        "btih": "db880c8fdd3805646d6b442d5877873a60d7e7ba",
+        "resolution": "720",
+        "encoding": "265",
+        "gigabytes": 0.231429943,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 59713,
+        "uuploaders": 2029
+    },
+    {
+        "id": 24,
+        "name": "Ultra.City.Smiths.S01E06.XviD-AFG[eztv.re].avi",
+        "btih": "b9ca88c3fd5ed8db3b1f8b8a979671d3497452d7",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 0.23930895,
+        "creation": "2021-08-19T13:09:44.000000000Z,EZTV,Visit us: https://eztv.re/",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 44669,
+        "uuploaders": 1710
+    },
+    {
+        "id": 27,
+        "name": "multi-btih-0-2-x-Ultra.City.Smiths.S01E06.1080p.WEB.H264-GGWP[rarbg]",
+        "btih": "9245d47215dd10c869af51e4a252333fc902a136",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 1.512102933,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 34528,
+        "uuploaders": 825
+    },
+    {
+        "id": 10,
+        "name": "ultra.city.smiths.s01e06.1080p.web.h264-ggwp[eztv.re].mkv",
+        "btih": "46eaa33e05990c167377c3a31e3c9ca56f3d67ec",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 1.512102759,
+        "creation": "2021-08-19T13:03:11.000000000Z,EZTV,Visit us: https://eztv.re/",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 34051,
+        "uuploaders": 528
+    },
+    {
+        "id": 3,
+        "name": "Ultra.City.Smiths.S01E02.XviD-AFG[eztv.re].avi",
+        "btih": "b25983c5228731c16e1a6df009ed55ee1e583623",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 0.197089446,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 31621,
+        "uuploaders": 840
+    },
+    {
+        "id": 23,
+        "name": "Ultra.City.Smiths.S01E06.XviD-AFG [IPT]",
+        "btih": "eab5dfe34de8b65b1ebf51439d3d64907ef0a8fa",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 0.240029046,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 28147,
+        "uuploaders": 1729
+    },
+    {
+        "id": 8,
+        "name": "Ultra.City.Smiths.S01E06.1080p.HEVC.x265-MeGusta[eztv.re].mkv",
+        "btih": "062747327fe3a323038fbe9c6fa45d4ec6bc1e51",
+        "resolution": "1080",
+        "encoding": "265",
+        "gigabytes": 0.317870361,
+        "creation": "2021-08-19T17:26:56.000000000Z,EZTV,Visit us: https://eztv.re/",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 28001,
+        "uuploaders": 1474
+    },
+    {
+        "id": 17,
+        "name": "Ultra.City.Smiths.S01E06.720p.WEB.H264-GGWP [IPT]",
+        "btih": "0784069f175231f4db30b406217aff969829527e",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 0.743695252,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 26439,
+        "uuploaders": 384
+    },
+    {
+        "id": 6,
+        "name": "Ultra.City.Smiths.S01E05.1080p.HEVC.x265-MeGusta[eztv.re].mkv",
+        "btih": "e1e2e255388116b0588a6aeb07d2045031b5ad16",
+        "resolution": "1080",
+        "encoding": "265",
+        "gigabytes": 0.303027765,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 24216,
+        "uuploaders": 1177
+    },
+    {
+        "id": 5,
+        "name": "Ultra.City.Smiths.S01E04.WEBRip.x264-ION10",
+        "btih": "f7b8694f099b29ad1707643675c9abfe8da8cb50",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.210714454,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 23695,
+        "uuploaders": 1264
+    },
+    {
+        "id": 13,
+        "name": "Ultra.City.Smiths.S01E06.480p.x264-mSD [IPT]",
+        "btih": "76ef43cd9773f3af5ba6573f87d872d019be0ec3",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.160974292,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 22116,
+        "uuploaders": 1764
+    },
+    {
+        "id": 28,
+        "name": "multi-btih-1-2-x-Ultra.City.Smiths.S01E06.WEBRip.x264-ION10-[rarbg.to]",
+        "btih": "549727f2a37a9e4bfae831e372a08209554707e7",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.229552195,
+        "creation": "2021-08-19T13:08:21.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 22015,
+        "uuploaders": 1659
+    },
+    {
+        "id": 2,
+        "name": "Ultra.City.Smiths.S01E02.WEB.x264-PHOENiX[eztv.re].mkv",
+        "btih": "bfd1e111e1dffeb5a48d2a6c2c75a4677aa86cd1",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.13418641,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 19346,
+        "uuploaders": 1472
+    },
+    {
+        "id": 26,
+        "name": "www.SceneTime.com   -    Ultra City Smiths S01E06 480p x264-mSD",
+        "btih": "f73e3fe7f2ef9710733db09a9d1f171e51c35468",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.160974377,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 15204,
+        "uuploaders": 1480
+    },
+    {
+        "id": 19,
+        "name": "Ultra.City.Smiths.S01E06.720p.WEB.H264-GGWP[rartv]-[rarbg.to]",
+        "btih": "81a0667bbc61c357c1d400f7564d5996795a80f8",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 0.717227177,
+        "creation": "2021-08-19T12:59:28.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 14520,
+        "uuploaders": 735
+    },
+    {
+        "id": 1,
+        "name": "Ultra.City.Smiths.S01.720p.WEBRip.Rus.Eng.Ozz",
+        "btih": "dbe9640d47492ad407b58d78f1e2c2cb6214ab62",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 2.838960735,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 2464,
+        "uuploaders": 165
+    },
+    {
+        "id": 25,
+        "name": "www.SceneTime.com   -    Ultra City Smiths S01E02 XviD-AFG",
+        "btih": "32577db906c71d5306e2eef7e17d1eafdb19be1c",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 0.198083487,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 1966,
+        "uuploaders": 437
+    },
+    {
+        "id": 4,
+        "name": "Ultra.City.Smiths.S01E04.WEB.x264-TORRENTGALAXY[TGx]",
+        "btih": "4fe0dbfe3de2fa2481bd540c930a6145f3ba933b",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.114771697,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 1640,
+        "uuploaders": 498
+    },
+    {
+        "id": 20,
+        "name": "Ultra.City.Smiths.S01E06.AAC.MP4-Mobile [IPT]",
+        "btih": "7ed16d3525932de5ca2b79f6ac3cdaf97ac54571",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.078247746,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 985,
+        "uuploaders": 59
+    },
+    {
+        "id": 7,
+        "name": "Ultra.City.Smiths.S01E06.1080p.HEVC.x265-MeGusta [IPT]",
+        "btih": "8b9c86afd20ef1d2ff53535164c1f3733da110af",
+        "resolution": "1080",
+        "encoding": "265",
+        "gigabytes": 0.336731006,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 240,
+        "uuploaders": 167
+    },
+    {
+        "id": 14,
+        "name": "Ultra.City.Smiths.S01E06.480p.x264-mSD[eztv.re].mkv",
+        "btih": "fea184e7d46912b5faa5bf3ed9e22d38c9bc98fc",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.160359083,
+        "creation": "2021-08-19T13:13:50.000000000Z,EZTV,Visit us: https://eztv.re/",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 184,
+        "uuploaders": 62
+    },
+    {
+        "id": 9,
+        "name": "Ultra.City.Smiths.S01E06.1080p.WEB.H264-GGWP [IPT]",
+        "btih": "0885782c91abb7d9a8552dbfccb946438c526339",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 1.512104828,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 178,
+        "uuploaders": 79
+    },
+    {
+        "id": 16,
+        "name": "Ultra.City.Smiths.S01E06.720p.HEVC.x265-MeGusta[eztv.re].mkv",
+        "btih": "590436ace8e7f03f4085d170577d49a23de754d0",
+        "resolution": "720",
+        "encoding": "265",
+        "gigabytes": 0.22174209,
+        "creation": "2021-08-19T13:10:57.000000000Z,EZTV,Visit us: https://eztv.re/",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 38,
+        "uuploaders": 33
+    },
+    {
+        "id": 18,
+        "name": "ultra.city.smiths.s01e06.720p.web.h264-ggwp[eztv.re].mkv",
+        "btih": "abdff065251f9595b7bdf88bd7c9303d2a5c99ad",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 0.717227004,
+        "creation": "2021-08-19T13:06:58.000000000Z,EZTV,Visit us: https://eztv.re/",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 34,
+        "uuploaders": 19
+    }
+],
+        [
+    {
+        "id": 15,
+        "name": "Ultra.City.Smiths.S01E06.720p.HEVC.x265-MeGusta [IPT]",
+        "btih": "db880c8fdd3805646d6b442d5877873a60d7e7ba",
+        "resolution": "720",
+        "encoding": "265",
+        "gigabytes": 0.231429943,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 60434,
+        "uuploaders": 2223
+    },
+    {
+        "id": 24,
+        "name": "Ultra.City.Smiths.S01E06.XviD-AFG[eztv.re].avi",
+        "btih": "b9ca88c3fd5ed8db3b1f8b8a979671d3497452d7",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 0.23930895,
+        "creation": "2021-08-19T13:09:44.000000000Z,EZTV,Visit us: https://eztv.re/",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 45773,
+        "uuploaders": 1906
+    },
+    {
+        "id": 27,
+        "name": "multi-btih-0-2-x-Ultra.City.Smiths.S01E06.1080p.WEB.H264-GGWP[rarbg]",
+        "btih": "9245d47215dd10c869af51e4a252333fc902a136",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 1.512102933,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 35237,
+        "uuploaders": 863
+    },
+    {
+        "id": 10,
+        "name": "ultra.city.smiths.s01e06.1080p.web.h264-ggwp[eztv.re].mkv",
+        "btih": "46eaa33e05990c167377c3a31e3c9ca56f3d67ec",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 1.512102759,
+        "creation": "2021-08-19T13:03:11.000000000Z,EZTV,Visit us: https://eztv.re/",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 34756,
+        "uuploaders": 557
+    },
+    {
+        "id": 3,
+        "name": "Ultra.City.Smiths.S01E02.XviD-AFG[eztv.re].avi",
+        "btih": "b25983c5228731c16e1a6df009ed55ee1e583623",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 0.197089446,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 33129,
+        "uuploaders": 854
+    },
+    {
+        "id": 23,
+        "name": "Ultra.City.Smiths.S01E06.XviD-AFG [IPT]",
+        "btih": "eab5dfe34de8b65b1ebf51439d3d64907ef0a8fa",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 0.240029046,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 28819,
+        "uuploaders": 1945
+    },
+    {
+        "id": 8,
+        "name": "Ultra.City.Smiths.S01E06.1080p.HEVC.x265-MeGusta[eztv.re].mkv",
+        "btih": "062747327fe3a323038fbe9c6fa45d4ec6bc1e51",
+        "resolution": "1080",
+        "encoding": "265",
+        "gigabytes": 0.317870361,
+        "creation": "2021-08-19T17:26:56.000000000Z,EZTV,Visit us: https://eztv.re/",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 28663,
+        "uuploaders": 1667
+    },
+    {
+        "id": 17,
+        "name": "Ultra.City.Smiths.S01E06.720p.WEB.H264-GGWP [IPT]",
+        "btih": "0784069f175231f4db30b406217aff969829527e",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 0.743695252,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 27175,
+        "uuploaders": 395
+    },
+    {
+        "id": 6,
+        "name": "Ultra.City.Smiths.S01E05.1080p.HEVC.x265-MeGusta[eztv.re].mkv",
+        "btih": "e1e2e255388116b0588a6aeb07d2045031b5ad16",
+        "resolution": "1080",
+        "encoding": "265",
+        "gigabytes": 0.303027765,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 24752,
+        "uuploaders": 1367
+    },
+    {
+        "id": 5,
+        "name": "Ultra.City.Smiths.S01E04.WEBRip.x264-ION10",
+        "btih": "f7b8694f099b29ad1707643675c9abfe8da8cb50",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.210714454,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 24572,
+        "uuploaders": 1461
+    },
+    {
+        "id": 28,
+        "name": "multi-btih-1-2-x-Ultra.City.Smiths.S01E06.WEBRip.x264-ION10-[rarbg.to]",
+        "btih": "549727f2a37a9e4bfae831e372a08209554707e7",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.229552195,
+        "creation": "2021-08-19T13:08:21.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 22776,
+        "uuploaders": 1856
+    },
+    {
+        "id": 13,
+        "name": "Ultra.City.Smiths.S01E06.480p.x264-mSD [IPT]",
+        "btih": "76ef43cd9773f3af5ba6573f87d872d019be0ec3",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.160974292,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 22577,
+        "uuploaders": 1970
+    },
+    {
+        "id": 2,
+        "name": "Ultra.City.Smiths.S01E02.WEB.x264-PHOENiX[eztv.re].mkv",
+        "btih": "bfd1e111e1dffeb5a48d2a6c2c75a4677aa86cd1",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.13418641,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 20195,
+        "uuploaders": 1576
+    },
+    {
+        "id": 26,
+        "name": "www.SceneTime.com   -    Ultra City Smiths S01E06 480p x264-mSD",
+        "btih": "f73e3fe7f2ef9710733db09a9d1f171e51c35468",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.160974377,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 15762,
+        "uuploaders": 1678
+    },
+    {
+        "id": 19,
+        "name": "Ultra.City.Smiths.S01E06.720p.WEB.H264-GGWP[rartv]-[rarbg.to]",
+        "btih": "81a0667bbc61c357c1d400f7564d5996795a80f8",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 0.717227177,
+        "creation": "2021-08-19T12:59:28.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 14928,
+        "uuploaders": 753
+    },
+    {
+        "id": 4,
+        "name": "Ultra.City.Smiths.S01E04.WEB.x264-TORRENTGALAXY[TGx]",
+        "btih": "4fe0dbfe3de2fa2481bd540c930a6145f3ba933b",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.114771697,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 3235,
+        "uuploaders": 667
+    },
+    {
+        "id": 1,
+        "name": "Ultra.City.Smiths.S01.720p.WEBRip.Rus.Eng.Ozz",
+        "btih": "dbe9640d47492ad407b58d78f1e2c2cb6214ab62",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 2.838960735,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 3183,
+        "uuploaders": 217
+    },
+    {
+        "id": 25,
+        "name": "www.SceneTime.com   -    Ultra City Smiths S01E02 XviD-AFG",
+        "btih": "32577db906c71d5306e2eef7e17d1eafdb19be1c",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 0.198083487,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 2939,
+        "uuploaders": 566
+    },
+    {
+        "id": 20,
+        "name": "Ultra.City.Smiths.S01E06.AAC.MP4-Mobile [IPT]",
+        "btih": "7ed16d3525932de5ca2b79f6ac3cdaf97ac54571",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.078247746,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 1418,
+        "uuploaders": 82
+    },
+    {
+        "id": 7,
+        "name": "Ultra.City.Smiths.S01E06.1080p.HEVC.x265-MeGusta [IPT]",
+        "btih": "8b9c86afd20ef1d2ff53535164c1f3733da110af",
+        "resolution": "1080",
+        "encoding": "265",
+        "gigabytes": 0.336731006,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 254,
+        "uuploaders": 178
+    },
+    {
+        "id": 14,
+        "name": "Ultra.City.Smiths.S01E06.480p.x264-mSD[eztv.re].mkv",
+        "btih": "fea184e7d46912b5faa5bf3ed9e22d38c9bc98fc",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.160359083,
+        "creation": "2021-08-19T13:13:50.000000000Z,EZTV,Visit us: https://eztv.re/",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 184,
+        "uuploaders": 62
+    },
+    {
+        "id": 9,
+        "name": "Ultra.City.Smiths.S01E06.1080p.WEB.H264-GGWP [IPT]",
+        "btih": "0885782c91abb7d9a8552dbfccb946438c526339",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 1.512104828,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 183,
+        "uuploaders": 83
+    },
+    {
+        "id": 18,
+        "name": "ultra.city.smiths.s01e06.720p.web.h264-ggwp[eztv.re].mkv",
+        "btih": "abdff065251f9595b7bdf88bd7c9303d2a5c99ad",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 0.717227004,
+        "creation": "2021-08-19T13:06:58.000000000Z,EZTV,Visit us: https://eztv.re/",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 52,
+        "uuploaders": 25
+    },
+    {
+        "id": 16,
+        "name": "Ultra.City.Smiths.S01E06.720p.HEVC.x265-MeGusta[eztv.re].mkv",
+        "btih": "590436ace8e7f03f4085d170577d49a23de754d0",
+        "resolution": "720",
+        "encoding": "265",
+        "gigabytes": 0.22174209,
+        "creation": "2021-08-19T13:10:57.000000000Z,EZTV,Visit us: https://eztv.re/",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 38,
+        "uuploaders": 33
+    }
+],
+        [
+    {
+        "id": 15,
+        "name": "Ultra.City.Smiths.S01E06.720p.HEVC.x265-MeGusta [IPT]",
+        "btih": "db880c8fdd3805646d6b442d5877873a60d7e7ba",
+        "resolution": "720",
+        "encoding": "265",
+        "gigabytes": 0.231429943,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 60827,
+        "uuploaders": 2390
+    },
+    {
+        "id": 24,
+        "name": "Ultra.City.Smiths.S01E06.XviD-AFG[eztv.re].avi",
+        "btih": "b9ca88c3fd5ed8db3b1f8b8a979671d3497452d7",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 0.23930895,
+        "creation": "2021-08-19T13:09:44.000000000Z,EZTV,Visit us: https://eztv.re/",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 46763,
+        "uuploaders": 2090
+    },
+    {
+        "id": 27,
+        "name": "multi-btih-0-2-x-Ultra.City.Smiths.S01E06.1080p.WEB.H264-GGWP[rarbg]",
+        "btih": "9245d47215dd10c869af51e4a252333fc902a136",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 1.512102933,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 36156,
+        "uuploaders": 928
+    },
+    {
+        "id": 10,
+        "name": "ultra.city.smiths.s01e06.1080p.web.h264-ggwp[eztv.re].mkv",
+        "btih": "46eaa33e05990c167377c3a31e3c9ca56f3d67ec",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 1.512102759,
+        "creation": "2021-08-19T13:03:11.000000000Z,EZTV,Visit us: https://eztv.re/",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 35681,
+        "uuploaders": 583
+    },
+    {
+        "id": 3,
+        "name": "Ultra.City.Smiths.S01E02.XviD-AFG[eztv.re].avi",
+        "btih": "b25983c5228731c16e1a6df009ed55ee1e583623",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 0.197089446,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 33881,
+        "uuploaders": 930
+    },
+    {
+        "id": 23,
+        "name": "Ultra.City.Smiths.S01E06.XviD-AFG [IPT]",
+        "btih": "eab5dfe34de8b65b1ebf51439d3d64907ef0a8fa",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 0.240029046,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 29935,
+        "uuploaders": 2122
+    },
+    {
+        "id": 8,
+        "name": "Ultra.City.Smiths.S01E06.1080p.HEVC.x265-MeGusta[eztv.re].mkv",
+        "btih": "062747327fe3a323038fbe9c6fa45d4ec6bc1e51",
+        "resolution": "1080",
+        "encoding": "265",
+        "gigabytes": 0.317870361,
+        "creation": "2021-08-19T17:26:56.000000000Z,EZTV,Visit us: https://eztv.re/",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 29618,
+        "uuploaders": 1854
+    },
+    {
+        "id": 5,
+        "name": "Ultra.City.Smiths.S01E04.WEBRip.x264-ION10",
+        "btih": "f7b8694f099b29ad1707643675c9abfe8da8cb50",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.210714454,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 27899,
+        "uuploaders": 1634
+    },
+    {
+        "id": 17,
+        "name": "Ultra.City.Smiths.S01E06.720p.WEB.H264-GGWP [IPT]",
+        "btih": "0784069f175231f4db30b406217aff969829527e",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 0.743695252,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 27694,
+        "uuploaders": 403
+    },
+    {
+        "id": 6,
+        "name": "Ultra.City.Smiths.S01E05.1080p.HEVC.x265-MeGusta[eztv.re].mkv",
+        "btih": "e1e2e255388116b0588a6aeb07d2045031b5ad16",
+        "resolution": "1080",
+        "encoding": "265",
+        "gigabytes": 0.303027765,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 25398,
+        "uuploaders": 1522
+    },
+    {
+        "id": 13,
+        "name": "Ultra.City.Smiths.S01E06.480p.x264-mSD [IPT]",
+        "btih": "76ef43cd9773f3af5ba6573f87d872d019be0ec3",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.160974292,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 24801,
+        "uuploaders": 2138
+    },
+    {
+        "id": 28,
+        "name": "multi-btih-1-2-x-Ultra.City.Smiths.S01E06.WEBRip.x264-ION10-[rarbg.to]",
+        "btih": "549727f2a37a9e4bfae831e372a08209554707e7",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.229552195,
+        "creation": "2021-08-19T13:08:21.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 23386,
+        "uuploaders": 2031
+    },
+    {
+        "id": 2,
+        "name": "Ultra.City.Smiths.S01E02.WEB.x264-PHOENiX[eztv.re].mkv",
+        "btih": "bfd1e111e1dffeb5a48d2a6c2c75a4677aa86cd1",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.13418641,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 20691,
+        "uuploaders": 1704
+    },
+    {
+        "id": 26,
+        "name": "www.SceneTime.com   -    Ultra City Smiths S01E06 480p x264-mSD",
+        "btih": "f73e3fe7f2ef9710733db09a9d1f171e51c35468",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.160974377,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 16806,
+        "uuploaders": 1857
+    },
+    {
+        "id": 19,
+        "name": "Ultra.City.Smiths.S01E06.720p.WEB.H264-GGWP[rartv]-[rarbg.to]",
+        "btih": "81a0667bbc61c357c1d400f7564d5996795a80f8",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 0.717227177,
+        "creation": "2021-08-19T12:59:28.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 15424,
+        "uuploaders": 783
+    },
+    {
+        "id": 4,
+        "name": "Ultra.City.Smiths.S01E04.WEB.x264-TORRENTGALAXY[TGx]",
+        "btih": "4fe0dbfe3de2fa2481bd540c930a6145f3ba933b",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.114771697,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 5081,
+        "uuploaders": 796
+    },
+    {
+        "id": 1,
+        "name": "Ultra.City.Smiths.S01.720p.WEBRip.Rus.Eng.Ozz",
+        "btih": "dbe9640d47492ad407b58d78f1e2c2cb6214ab62",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 2.838960735,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 3893,
+        "uuploaders": 270
+    },
+    {
+        "id": 25,
+        "name": "www.SceneTime.com   -    Ultra City Smiths S01E02 XviD-AFG",
+        "btih": "32577db906c71d5306e2eef7e17d1eafdb19be1c",
+        "resolution": "sd",
+        "encoding": "xvid",
+        "gigabytes": 0.198083487,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 3659,
+        "uuploaders": 680
+    },
+    {
+        "id": 20,
+        "name": "Ultra.City.Smiths.S01E06.AAC.MP4-Mobile [IPT]",
+        "btih": "7ed16d3525932de5ca2b79f6ac3cdaf97ac54571",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.078247746,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 1918,
+        "uuploaders": 105
+    },
+    {
+        "id": 7,
+        "name": "Ultra.City.Smiths.S01E06.1080p.HEVC.x265-MeGusta [IPT]",
+        "btih": "8b9c86afd20ef1d2ff53535164c1f3733da110af",
+        "resolution": "1080",
+        "encoding": "265",
+        "gigabytes": 0.336731006,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 270,
+        "uuploaders": 193
+    },
+    {
+        "id": 14,
+        "name": "Ultra.City.Smiths.S01E06.480p.x264-mSD[eztv.re].mkv",
+        "btih": "fea184e7d46912b5faa5bf3ed9e22d38c9bc98fc",
+        "resolution": "sd",
+        "encoding": "264",
+        "gigabytes": 0.160359083,
+        "creation": "2021-08-19T13:13:50.000000000Z,EZTV,Visit us: https://eztv.re/",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 184,
+        "uuploaders": 62
+    },
+    {
+        "id": 9,
+        "name": "Ultra.City.Smiths.S01E06.1080p.WEB.H264-GGWP [IPT]",
+        "btih": "0885782c91abb7d9a8552dbfccb946438c526339",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 1.512104828,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 184,
+        "uuploaders": 84
+    },
+    {
+        "id": 18,
+        "name": "ultra.city.smiths.s01e06.720p.web.h264-ggwp[eztv.re].mkv",
+        "btih": "abdff065251f9595b7bdf88bd7c9303d2a5c99ad",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 0.717227004,
+        "creation": "2021-08-19T13:06:58.000000000Z,EZTV,Visit us: https://eztv.re/",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 52,
+        "uuploaders": 25
+    },
+    {
+        "id": 16,
+        "name": "Ultra.City.Smiths.S01E06.720p.HEVC.x265-MeGusta[eztv.re].mkv",
+        "btih": "590436ace8e7f03f4085d170577d49a23de754d0",
+        "resolution": "720",
+        "encoding": "265",
+        "gigabytes": 0.22174209,
+        "creation": "2021-08-19T13:10:57.000000000Z,EZTV,Visit us: https://eztv.re/",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 41,
+        "uuploaders": 35
+    }
+]
+    ],
+    "collection_week_by_country": [
+        [
+    {
+        "number": "BRA_week_1",
+        "btiha_size": 9,
+        "udownloaders_total": 1379,
+        "uuploaders_total": 56
+    },
+    {
+        "number": "CAN_week_1",
+        "btiha_size": 13,
+        "udownloaders_total": 1730,
+        "uuploaders_total": 227
+    },
+    {
+        "number": "CHN_week_1",
+        "btiha_size": 10,
+        "udownloaders_total": 4793,
+        "uuploaders_total": 40
+    },
+    {
+        "number": "DEU_week_1",
+        "btiha_size": 14,
+        "udownloaders_total": 2012,
+        "uuploaders_total": 78
+    },
+    {
+        "number": "ESP_week_1",
+        "btiha_size": 9,
+        "udownloaders_total": 655,
+        "uuploaders_total": 26
+    },
+    {
+        "number": "FRA_week_1",
+        "btiha_size": 14,
+        "udownloaders_total": 1620,
+        "uuploaders_total": 102
+    },
+    {
+        "number": "HKG_week_1",
+        "btiha_size": 10,
+        "udownloaders_total": 340,
+        "uuploaders_total": 21
+    },
+    {
+        "number": "JPN_week_1",
+        "btiha_size": 9,
+        "udownloaders_total": 2886,
+        "uuploaders_total": 33
+    },
+    {
+        "number": "KOR_week_1",
+        "btiha_size": 9,
+        "udownloaders_total": 1758,
+        "uuploaders_total": 13
+    },
+    {
+        "number": "MEX_week_1",
+        "btiha_size": 9,
+        "udownloaders_total": 176,
+        "uuploaders_total": 7
+    },
+    {
+        "number": "NLD_week_1",
+        "btiha_size": 14,
+        "udownloaders_total": 1375,
+        "uuploaders_total": 204
+    },
+    {
+        "number": "RUS_week_1",
+        "btiha_size": 9,
+        "udownloaders_total": 1771,
+        "uuploaders_total": 33
+    },
+    {
+        "number": "SWE_week_1",
+        "btiha_size": 11,
+        "udownloaders_total": 599,
+        "uuploaders_total": 51
+    },
+    {
+        "number": "TUR_week_1",
+        "btiha_size": 9,
+        "udownloaders_total": 178,
+        "uuploaders_total": 10
+    },
+    {
+        "number": "UKR_week_1",
+        "btiha_size": 9,
+        "udownloaders_total": 215,
+        "uuploaders_total": 5
+    },
+    {
+        "number": "USA_week_1",
+        "btiha_size": 14,
+        "udownloaders_total": 23024,
+        "uuploaders_total": 1267
+    }
+],
+        [
+    {
+        "number": "BRA_week_2",
+        "btiha_size": 15,
+        "udownloaders_total": 3697,
+        "uuploaders_total": 76
+    },
+    {
+        "number": "CAN_week_2",
+        "btiha_size": 19,
+        "udownloaders_total": 4086,
+        "uuploaders_total": 316
+    },
+    {
+        "number": "CHN_week_2",
+        "btiha_size": 16,
+        "udownloaders_total": 13007,
+        "uuploaders_total": 68
+    },
+    {
+        "number": "DEU_week_2",
+        "btiha_size": 20,
+        "udownloaders_total": 5301,
+        "uuploaders_total": 108
+    },
+    {
+        "number": "ESP_week_2",
+        "btiha_size": 15,
+        "udownloaders_total": 1778,
+        "uuploaders_total": 35
+    },
+    {
+        "number": "FRA_week_2",
+        "btiha_size": 20,
+        "udownloaders_total": 4189,
+        "uuploaders_total": 133
+    },
+    {
+        "number": "HKG_week_2",
+        "btiha_size": 16,
+        "udownloaders_total": 886,
+        "uuploaders_total": 42
+    },
+    {
+        "number": "JPN_week_2",
+        "btiha_size": 15,
+        "udownloaders_total": 7878,
+        "uuploaders_total": 55
+    },
+    {
+        "number": "KOR_week_2",
+        "btiha_size": 15,
+        "udownloaders_total": 4723,
+        "uuploaders_total": 20
+    },
+    {
+        "number": "MEX_week_2",
+        "btiha_size": 15,
+        "udownloaders_total": 503,
+        "uuploaders_total": 8
+    },
+    {
+        "number": "NLD_week_2",
+        "btiha_size": 20,
+        "udownloaders_total": 3035,
+        "uuploaders_total": 257
+    },
+    {
+        "number": "RUS_week_2",
+        "btiha_size": 15,
+        "udownloaders_total": 4426,
+        "uuploaders_total": 64
+    },
+    {
+        "number": "SWE_week_2",
+        "btiha_size": 17,
+        "udownloaders_total": 1463,
+        "uuploaders_total": 103
+    },
+    {
+        "number": "TUR_week_2",
+        "btiha_size": 15,
+        "udownloaders_total": 515,
+        "uuploaders_total": 10
+    },
+    {
+        "number": "UKR_week_2",
+        "btiha_size": 15,
+        "udownloaders_total": 606,
+        "uuploaders_total": 10
+    },
+    {
+        "number": "USA_week_2",
+        "btiha_size": 20,
+        "udownloaders_total": 61184,
+        "uuploaders_total": 3045
+    }
+],
+        [
+    {
+        "number": "BRA_week_3",
+        "btiha_size": 15,
+        "udownloaders_total": 5470,
+        "uuploaders_total": 86
+    },
+    {
+        "number": "CAN_week_3",
+        "btiha_size": 19,
+        "udownloaders_total": 5754,
+        "uuploaders_total": 381
+    },
+    {
+        "number": "CHN_week_3",
+        "btiha_size": 16,
+        "udownloaders_total": 18338,
+        "uuploaders_total": 89
+    },
+    {
+        "number": "DEU_week_3",
+        "btiha_size": 20,
+        "udownloaders_total": 7586,
+        "uuploaders_total": 137
+    },
+    {
+        "number": "ESP_week_3",
+        "btiha_size": 15,
+        "udownloaders_total": 2704,
+        "uuploaders_total": 46
+    },
+    {
+        "number": "FRA_week_3",
+        "btiha_size": 20,
+        "udownloaders_total": 6087,
+        "uuploaders_total": 157
+    },
+    {
+        "number": "HKG_week_3",
+        "btiha_size": 16,
+        "udownloaders_total": 1228,
+        "uuploaders_total": 55
+    },
+    {
+        "number": "JPN_week_3",
+        "btiha_size": 15,
+        "udownloaders_total": 11146,
+        "uuploaders_total": 82
+    },
+    {
+        "number": "KOR_week_3",
+        "btiha_size": 15,
+        "udownloaders_total": 6750,
+        "uuploaders_total": 24
+    },
+    {
+        "number": "MEX_week_3",
+        "btiha_size": 15,
+        "udownloaders_total": 821,
+        "uuploaders_total": 16
+    },
+    {
+        "number": "NLD_week_3",
+        "btiha_size": 20,
+        "udownloaders_total": 4266,
+        "uuploaders_total": 293
+    },
+    {
+        "number": "RUS_week_3",
+        "btiha_size": 15,
+        "udownloaders_total": 7262,
+        "uuploaders_total": 92
+    },
+    {
+        "number": "SWE_week_3",
+        "btiha_size": 17,
+        "udownloaders_total": 2077,
+        "uuploaders_total": 133
+    },
+    {
+        "number": "TUR_week_3",
+        "btiha_size": 15,
+        "udownloaders_total": 855,
+        "uuploaders_total": 10
+    },
+    {
+        "number": "UKR_week_3",
+        "btiha_size": 15,
+        "udownloaders_total": 938,
+        "uuploaders_total": 12
+    },
+    {
+        "number": "USA_week_3",
+        "btiha_size": 20,
+        "udownloaders_total": 86914,
+        "uuploaders_total": 4545
+    }
+],
+        [
+    {
+        "number": "BRA_week_4",
+        "btiha_size": 15,
+        "udownloaders_total": 7294,
+        "uuploaders_total": 95
+    },
+    {
+        "number": "CAN_week_4",
+        "btiha_size": 19,
+        "udownloaders_total": 7662,
+        "uuploaders_total": 445
+    },
+    {
+        "number": "CHN_week_4",
+        "btiha_size": 16,
+        "udownloaders_total": 24745,
+        "uuploaders_total": 112
+    },
+    {
+        "number": "DEU_week_4",
+        "btiha_size": 20,
+        "udownloaders_total": 10198,
+        "uuploaders_total": 153
+    },
+    {
+        "number": "ESP_week_4",
+        "btiha_size": 15,
+        "udownloaders_total": 3589,
+        "uuploaders_total": 75
+    },
+    {
+        "number": "FRA_week_4",
+        "btiha_size": 20,
+        "udownloaders_total": 8083,
+        "uuploaders_total": 185
+    },
+    {
+        "number": "HKG_week_4",
+        "btiha_size": 16,
+        "udownloaders_total": 1664,
+        "uuploaders_total": 66
+    },
+    {
+        "number": "JPN_week_4",
+        "btiha_size": 15,
+        "udownloaders_total": 14946,
+        "uuploaders_total": 96
+    },
+    {
+        "number": "KOR_week_4",
+        "btiha_size": 15,
+        "udownloaders_total": 9075,
+        "uuploaders_total": 30
+    },
+    {
+        "number": "MEX_week_4",
+        "btiha_size": 15,
+        "udownloaders_total": 1048,
+        "uuploaders_total": 21
+    },
+    {
+        "number": "NLD_week_4",
+        "btiha_size": 20,
+        "udownloaders_total": 5593,
+        "uuploaders_total": 323
+    },
+    {
+        "number": "RUS_week_4",
+        "btiha_size": 15,
+        "udownloaders_total": 10416,
+        "uuploaders_total": 103
+    },
+    {
+        "number": "SWE_week_4",
+        "btiha_size": 17,
+        "udownloaders_total": 2796,
+        "uuploaders_total": 169
+    },
+    {
+        "number": "TUR_week_4",
+        "btiha_size": 15,
+        "udownloaders_total": 1069,
+        "uuploaders_total": 10
+    },
+    {
+        "number": "UKR_week_4",
+        "btiha_size": 15,
+        "udownloaders_total": 1215,
+        "uuploaders_total": 13
+    },
+    {
+        "number": "USA_week_4",
+        "btiha_size": 20,
+        "udownloaders_total": 116983,
+        "uuploaders_total": 6211
+    }
+],
+        [
+    {
+        "number": "BRA_week_5",
+        "btiha_size": 15,
+        "udownloaders_total": 8325,
+        "uuploaders_total": 105
+    },
+    {
+        "number": "CAN_week_5",
+        "btiha_size": 19,
+        "udownloaders_total": 8814,
+        "uuploaders_total": 510
+    },
+    {
+        "number": "CHN_week_5",
+        "btiha_size": 16,
+        "udownloaders_total": 28190,
+        "uuploaders_total": 139
+    },
+    {
+        "number": "DEU_week_5",
+        "btiha_size": 20,
+        "udownloaders_total": 11659,
+        "uuploaders_total": 173
+    },
+    {
+        "number": "ESP_week_5",
+        "btiha_size": 15,
+        "udownloaders_total": 4216,
+        "uuploaders_total": 88
+    },
+    {
+        "number": "FRA_week_5",
+        "btiha_size": 20,
+        "udownloaders_total": 9418,
+        "uuploaders_total": 206
+    },
+    {
+        "number": "HKG_week_5",
+        "btiha_size": 16,
+        "udownloaders_total": 1925,
+        "uuploaders_total": 77
+    },
+    {
+        "number": "JPN_week_5",
+        "btiha_size": 15,
+        "udownloaders_total": 17043,
+        "uuploaders_total": 107
+    },
+    {
+        "number": "KOR_week_5",
+        "btiha_size": 15,
+        "udownloaders_total": 10480,
+        "uuploaders_total": 34
+    },
+    {
+        "number": "MEX_week_5",
+        "btiha_size": 15,
+        "udownloaders_total": 1262,
+        "uuploaders_total": 23
+    },
+    {
+        "number": "NLD_week_5",
+        "btiha_size": 20,
+        "udownloaders_total": 6401,
+        "uuploaders_total": 341
+    },
+    {
+        "number": "RUS_week_5",
+        "btiha_size": 15,
+        "udownloaders_total": 12480,
+        "uuploaders_total": 107
+    },
+    {
+        "number": "SWE_week_5",
+        "btiha_size": 17,
+        "udownloaders_total": 3212,
+        "uuploaders_total": 189
+    },
+    {
+        "number": "TUR_week_5",
+        "btiha_size": 15,
+        "udownloaders_total": 1299,
+        "uuploaders_total": 11
+    },
+    {
+        "number": "UKR_week_5",
+        "btiha_size": 15,
+        "udownloaders_total": 1468,
+        "uuploaders_total": 16
+    },
+    {
+        "number": "USA_week_5",
+        "btiha_size": 20,
+        "udownloaders_total": 135238,
+        "uuploaders_total": 8415
+    }
+],
+        [
+    {
+        "number": "BRA_week_6",
+        "btiha_size": 19,
+        "udownloaders_total": 8657,
+        "uuploaders_total": 112
+    },
+    {
+        "number": "CAN_week_6",
+        "btiha_size": 23,
+        "udownloaders_total": 9360,
+        "uuploaders_total": 549
+    },
+    {
+        "number": "CHN_week_6",
+        "btiha_size": 20,
+        "udownloaders_total": 28996,
+        "uuploaders_total": 152
+    },
+    {
+        "number": "DEU_week_6",
+        "btiha_size": 24,
+        "udownloaders_total": 12068,
+        "uuploaders_total": 196
+    },
+    {
+        "number": "ESP_week_6",
+        "btiha_size": 19,
+        "udownloaders_total": 4449,
+        "uuploaders_total": 93
+    },
+    {
+        "number": "FRA_week_6",
+        "btiha_size": 24,
+        "udownloaders_total": 10008,
+        "uuploaders_total": 224
+    },
+    {
+        "number": "HKG_week_6",
+        "btiha_size": 20,
+        "udownloaders_total": 2035,
+        "uuploaders_total": 87
+    },
+    {
+        "number": "JPN_week_6",
+        "btiha_size": 19,
+        "udownloaders_total": 17568,
+        "uuploaders_total": 121
+    },
+    {
+        "number": "KOR_week_6",
+        "btiha_size": 19,
+        "udownloaders_total": 11109,
+        "uuploaders_total": 36
+    },
+    {
+        "number": "MEX_week_6",
+        "btiha_size": 18,
+        "udownloaders_total": 1353,
+        "uuploaders_total": 23
+    },
+    {
+        "number": "NLD_week_6",
+        "btiha_size": 24,
+        "udownloaders_total": 6804,
+        "uuploaders_total": 384
+    },
+    {
+        "number": "RUS_week_6",
+        "btiha_size": 19,
+        "udownloaders_total": 14469,
+        "uuploaders_total": 115
+    },
+    {
+        "number": "SWE_week_6",
+        "btiha_size": 21,
+        "udownloaders_total": 3481,
+        "uuploaders_total": 196
+    },
+    {
+        "number": "TUR_week_6",
+        "btiha_size": 18,
+        "udownloaders_total": 1388,
+        "uuploaders_total": 11
+    },
+    {
+        "number": "UKR_week_6",
+        "btiha_size": 19,
+        "udownloaders_total": 1659,
+        "uuploaders_total": 16
+    },
+    {
+        "number": "USA_week_6",
+        "btiha_size": 24,
+        "udownloaders_total": 142086,
+        "uuploaders_total": 10614
+    }
+],
+        [
+    {
+        "number": "BRA_week_7",
+        "btiha_size": 19,
+        "udownloaders_total": 8956,
+        "uuploaders_total": 116
+    },
+    {
+        "number": "CAN_week_7",
+        "btiha_size": 23,
+        "udownloaders_total": 9647,
+        "uuploaders_total": 584
+    },
+    {
+        "number": "CHN_week_7",
+        "btiha_size": 20,
+        "udownloaders_total": 29362,
+        "uuploaders_total": 170
+    },
+    {
+        "number": "DEU_week_7",
+        "btiha_size": 24,
+        "udownloaders_total": 12394,
+        "uuploaders_total": 221
+    },
+    {
+        "number": "ESP_week_7",
+        "btiha_size": 19,
+        "udownloaders_total": 4728,
+        "uuploaders_total": 106
+    },
+    {
+        "number": "FRA_week_7",
+        "btiha_size": 24,
+        "udownloaders_total": 10696,
+        "uuploaders_total": 244
+    },
+    {
+        "number": "HKG_week_7",
+        "btiha_size": 21,
+        "udownloaders_total": 2134,
+        "uuploaders_total": 100
+    },
+    {
+        "number": "JPN_week_7",
+        "btiha_size": 19,
+        "udownloaders_total": 17808,
+        "uuploaders_total": 142
+    },
+    {
+        "number": "KOR_week_7",
+        "btiha_size": 19,
+        "udownloaders_total": 11770,
+        "uuploaders_total": 44
+    },
+    {
+        "number": "MEX_week_7",
+        "btiha_size": 19,
+        "udownloaders_total": 1502,
+        "uuploaders_total": 23
+    },
+    {
+        "number": "NLD_week_7",
+        "btiha_size": 24,
+        "udownloaders_total": 7177,
+        "uuploaders_total": 401
+    },
+    {
+        "number": "RUS_week_7",
+        "btiha_size": 19,
+        "udownloaders_total": 17016,
+        "uuploaders_total": 142
+    },
+    {
+        "number": "SWE_week_7",
+        "btiha_size": 21,
+        "udownloaders_total": 3601,
+        "uuploaders_total": 200
+    },
+    {
+        "number": "TUR_week_7",
+        "btiha_size": 19,
+        "udownloaders_total": 1581,
+        "uuploaders_total": 11
+    },
+    {
+        "number": "UKR_week_7",
+        "btiha_size": 19,
+        "udownloaders_total": 1965,
+        "uuploaders_total": 21
+    },
+    {
+        "number": "USA_week_7",
+        "btiha_size": 24,
+        "udownloaders_total": 145857,
+        "uuploaders_total": 12880
+    }
+],
+        [
+    {
+        "number": "BRA_week_8",
+        "btiha_size": 19,
+        "udownloaders_total": 9346,
+        "uuploaders_total": 123
+    },
+    {
+        "number": "CAN_week_8",
+        "btiha_size": 23,
+        "udownloaders_total": 9865,
+        "uuploaders_total": 620
+    },
+    {
+        "number": "CHN_week_8",
+        "btiha_size": 20,
+        "udownloaders_total": 29799,
+        "uuploaders_total": 186
+    },
+    {
+        "number": "DEU_week_8",
+        "btiha_size": 24,
+        "udownloaders_total": 12730,
+        "uuploaders_total": 223
+    },
+    {
+        "number": "ESP_week_8",
+        "btiha_size": 19,
+        "udownloaders_total": 5064,
+        "uuploaders_total": 117
+    },
+    {
+        "number": "FRA_week_8",
+        "btiha_size": 24,
+        "udownloaders_total": 11283,
+        "uuploaders_total": 273
+    },
+    {
+        "number": "HKG_week_8",
+        "btiha_size": 21,
+        "udownloaders_total": 2243,
+        "uuploaders_total": 119
+    },
+    {
+        "number": "JPN_week_8",
+        "btiha_size": 19,
+        "udownloaders_total": 18002,
+        "uuploaders_total": 152
+    },
+    {
+        "number": "KOR_week_8",
+        "btiha_size": 19,
+        "udownloaders_total": 12354,
+        "uuploaders_total": 45
+    },
+    {
+        "number": "MEX_week_8",
+        "btiha_size": 19,
+        "udownloaders_total": 1654,
+        "uuploaders_total": 25
+    },
+    {
+        "number": "NLD_week_8",
+        "btiha_size": 24,
+        "udownloaders_total": 7524,
+        "uuploaders_total": 432
+    },
+    {
+        "number": "RUS_week_8",
+        "btiha_size": 19,
+        "udownloaders_total": 19287,
+        "uuploaders_total": 155
+    },
+    {
+        "number": "SWE_week_8",
+        "btiha_size": 21,
+        "udownloaders_total": 3704,
+        "uuploaders_total": 202
+    },
+    {
+        "number": "TUR_week_8",
+        "btiha_size": 19,
+        "udownloaders_total": 1785,
+        "uuploaders_total": 13
+    },
+    {
+        "number": "UKR_week_8",
+        "btiha_size": 19,
+        "udownloaders_total": 2262,
+        "uuploaders_total": 21
+    },
+    {
+        "number": "USA_week_8",
+        "btiha_size": 24,
+        "udownloaders_total": 148981,
+        "uuploaders_total": 14993
+    }
+],
+        [
+    {
+        "number": "BRA_week_9",
+        "btiha_size": 20,
+        "udownloaders_total": 9751,
+        "uuploaders_total": 138
+    },
+    {
+        "number": "CAN_week_9",
+        "btiha_size": 24,
+        "udownloaders_total": 10104,
+        "uuploaders_total": 645
+    },
+    {
+        "number": "CHN_week_9",
+        "btiha_size": 20,
+        "udownloaders_total": 30232,
+        "uuploaders_total": 209
+    },
+    {
+        "number": "DEU_week_9",
+        "btiha_size": 24,
+        "udownloaders_total": 13122,
+        "uuploaders_total": 234
+    },
+    {
+        "number": "ESP_week_9",
+        "btiha_size": 19,
+        "udownloaders_total": 5409,
+        "uuploaders_total": 120
+    },
+    {
+        "number": "FRA_week_9",
+        "btiha_size": 24,
+        "udownloaders_total": 11925,
+        "uuploaders_total": 299
+    },
+    {
+        "number": "HKG_week_9",
+        "btiha_size": 21,
+        "udownloaders_total": 2391,
+        "uuploaders_total": 142
+    },
+    {
+        "number": "JPN_week_9",
+        "btiha_size": 19,
+        "udownloaders_total": 18233,
+        "uuploaders_total": 159
+    },
+    {
+        "number": "KOR_week_9",
+        "btiha_size": 19,
+        "udownloaders_total": 13204,
+        "uuploaders_total": 46
+    },
+    {
+        "number": "MEX_week_9",
+        "btiha_size": 19,
+        "udownloaders_total": 1817,
+        "uuploaders_total": 27
+    },
+    {
+        "number": "NLD_week_9",
+        "btiha_size": 24,
+        "udownloaders_total": 7985,
+        "uuploaders_total": 443
+    },
+    {
+        "number": "RUS_week_9",
+        "btiha_size": 19,
+        "udownloaders_total": 22351,
+        "uuploaders_total": 161
+    },
+    {
+        "number": "SWE_week_9",
+        "btiha_size": 21,
+        "udownloaders_total": 3826,
+        "uuploaders_total": 204
+    },
+    {
+        "number": "TUR_week_9",
+        "btiha_size": 19,
+        "udownloaders_total": 1993,
+        "uuploaders_total": 18
+    },
+    {
+        "number": "UKR_week_9",
+        "btiha_size": 19,
+        "udownloaders_total": 2656,
+        "uuploaders_total": 21
+    },
+    {
+        "number": "USA_week_9",
+        "btiha_size": 24,
+        "udownloaders_total": 152166,
+        "uuploaders_total": 17086
+    }
+],
+        [
+    {
+        "number": "BRA_week_10",
+        "btiha_size": 20,
+        "udownloaders_total": 10268,
+        "uuploaders_total": 160
+    },
+    {
+        "number": "CAN_week_10",
+        "btiha_size": 24,
+        "udownloaders_total": 10452,
+        "uuploaders_total": 682
+    },
+    {
+        "number": "CHN_week_10",
+        "btiha_size": 20,
+        "udownloaders_total": 30756,
+        "uuploaders_total": 223
+    },
+    {
+        "number": "DEU_week_10",
+        "btiha_size": 24,
+        "udownloaders_total": 13642,
+        "uuploaders_total": 250
+    },
+    {
+        "number": "ESP_week_10",
+        "btiha_size": 19,
+        "udownloaders_total": 5964,
+        "uuploaders_total": 127
+    },
+    {
+        "number": "FRA_week_10",
+        "btiha_size": 24,
+        "udownloaders_total": 13018,
+        "uuploaders_total": 313
+    },
+    {
+        "number": "HKG_week_10",
+        "btiha_size": 21,
+        "udownloaders_total": 2555,
+        "uuploaders_total": 151
+    },
+    {
+        "number": "JPN_week_10",
+        "btiha_size": 19,
+        "udownloaders_total": 18550,
+        "uuploaders_total": 176
+    },
+    {
+        "number": "KOR_week_10",
+        "btiha_size": 19,
+        "udownloaders_total": 14104,
+        "uuploaders_total": 49
+    },
+    {
+        "number": "MEX_week_10",
+        "btiha_size": 19,
+        "udownloaders_total": 2044,
+        "uuploaders_total": 31
+    },
+    {
+        "number": "NLD_week_10",
+        "btiha_size": 24,
+        "udownloaders_total": 8573,
+        "uuploaders_total": 455
+    },
+    {
+        "number": "RUS_week_10",
+        "btiha_size": 19,
+        "udownloaders_total": 26711,
+        "uuploaders_total": 167
+    },
+    {
+        "number": "SWE_week_10",
+        "btiha_size": 21,
+        "udownloaders_total": 3958,
+        "uuploaders_total": 207
+    },
+    {
+        "number": "TUR_week_10",
+        "btiha_size": 19,
+        "udownloaders_total": 2224,
+        "uuploaders_total": 18
+    },
+    {
+        "number": "UKR_week_10",
+        "btiha_size": 19,
+        "udownloaders_total": 3196,
+        "uuploaders_total": 23
+    },
+    {
+        "number": "USA_week_10",
+        "btiha_size": 24,
+        "udownloaders_total": 155248,
+        "uuploaders_total": 18986
+    }
+]
+    ]
+}
