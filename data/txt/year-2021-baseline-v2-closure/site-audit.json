@@ -1,0 +1,401 @@
+{
+  "schema": "alpha60-results-baseline-v2-audit/1",
+  "year": "2021",
+  "status": "pass",
+  "counts": {
+    "passed": 77,
+    "absent": 0,
+    "old": 0,
+    "failed": 0,
+    "inventory": 77,
+    "unique": 77
+  },
+  "duplicate_keys": [],
+  "records": [
+    {
+      "collection_key": "archer-1201",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "army-of-the-dead",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "beatles-get-back",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "blade-runner-black-lotus-101",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "bliss",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "borats-american-lockdown",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "cinderella-2021",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "cobra-kai-03",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "cocaine-cowboys-the-kings-of-miami",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "coming-2-america",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "cowboy-bebop-2021-01",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "debris-113",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "detective-chinatown-3",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "dont-look-up",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "doom-patrol-301",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "doors",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "dune-2021",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "expanse-510",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "expanse-601",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "falcon-and-the-winter-soldier-101",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "falcon-and-the-winter-soldier-106",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "for-all-mankind-201",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "for-all-mankind-210",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "foundation-101",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "godzilla-vs-kong",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "halston-01",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "harder-they-fall",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "intergalactic-01",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "invasion-101",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "invincible-101",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "kung-fu-101",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "kung-fu-113",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "loki-101",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "loki-106",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "love-death-robots-02",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "lupin-02",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "malcolm-and-marie",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "matrix-resurrections",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "mitchells-vs-the-machines",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "mother-android",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "narcos-mexico-03",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "no-sudden-move",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "no-time-to-die",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "one-night-in-miami",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "one-piece-95x",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "one-piece-98x",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "only-murders-in-the-building-110",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "oprah-meghan-harry",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "outer-banks-02",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "outside-the-wire",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "pacific-rim-the-black",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "pose-307",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "princess-switch-3",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "prisoners-of-the-ghostland",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "q-force-01",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "queen-of-the-south-510",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "raya-and-the-last-dragon",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "reservation-dogs-101",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "shadow-and-bone-01",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "shang-chi-and-the-legend-of-the-ten-rings",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "snowpiercer-209",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "space-sweepers",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "star-wars-visions-01",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "succession-301",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "suicide-squad-2021",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "summer-of-soul",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "ted-lasso-201",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "tomorrow-war",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "trese-01",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "ultra-city-smiths-106",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "underground-railroad-01",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "wandavision-101",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "wandavision-109",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "what-if-2021-101",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "witcher-02",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "y-the-last-man-101",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "yasuke-01",
+      "status": "passed",
+      "issues": []
+    }
+  ]
+}

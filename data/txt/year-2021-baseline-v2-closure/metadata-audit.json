@@ -1,0 +1,438 @@
+{
+  "schema": "alpha60-year-media-object-metadata-readiness/1",
+  "year": "2021",
+  "inventory": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-0-media-objects.txt",
+  "metadata_directory": "/home/bkoz/src/alpha60-swarm-metadata/metadata",
+  "approved_empty_collection_ids": [
+    "army-of-the-dead",
+    "beatles-get-back",
+    "bliss",
+    "borats-american-lockdown",
+    "cinderella-2021",
+    "coming-2-america",
+    "detective-chinatown-3",
+    "dont-look-up",
+    "doors",
+    "dune-2021",
+    "godzilla-vs-kong",
+    "harder-they-fall",
+    "malcolm-and-marie",
+    "matrix-resurrections",
+    "mitchells-vs-the-machines",
+    "mother-android",
+    "no-sudden-move",
+    "no-time-to-die",
+    "one-night-in-miami",
+    "oprah-meghan-harry",
+    "outside-the-wire",
+    "princess-switch-3",
+    "prisoners-of-the-ghostland",
+    "raya-and-the-last-dragon",
+    "shang-chi-and-the-legend-of-the-ten-rings",
+    "space-sweepers",
+    "suicide-squad-2021",
+    "summer-of-soul",
+    "tomorrow-war"
+  ],
+  "approved_not_applicable_identity_ids": [
+    "borats-american-lockdown",
+    "ultra-city-smiths-106"
+  ],
+  "status": "pass",
+  "counts": {
+    "inventory_entries": 77,
+    "unique_keys": 77,
+    "ready_records": 77,
+    "error_records": 0,
+    "errors": 0
+  },
+  "inventory_issues": [],
+  "duplicate_keys": [],
+  "records": [
+    {
+      "collection_key": "archer-1201",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "army-of-the-dead",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "beatles-get-back",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "blade-runner-black-lotus-101",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "bliss",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "borats-american-lockdown",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "cinderella-2021",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "cobra-kai-03",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "cocaine-cowboys-the-kings-of-miami",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "coming-2-america",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "cowboy-bebop-2021-01",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "debris-113",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "detective-chinatown-3",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "dont-look-up",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "doom-patrol-301",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "doors",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "dune-2021",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "expanse-510",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "expanse-601",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "falcon-and-the-winter-soldier-101",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "falcon-and-the-winter-soldier-106",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "for-all-mankind-201",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "for-all-mankind-210",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "foundation-101",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "godzilla-vs-kong",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "halston-01",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "harder-they-fall",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "intergalactic-01",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "invasion-101",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "invincible-101",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "kung-fu-101",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "kung-fu-113",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "loki-101",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "loki-106",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "love-death-robots-02",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "lupin-02",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "malcolm-and-marie",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "matrix-resurrections",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "mitchells-vs-the-machines",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "mother-android",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "narcos-mexico-03",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "no-sudden-move",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "no-time-to-die",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "one-night-in-miami",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "one-piece-95x",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "one-piece-98x",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "only-murders-in-the-building-110",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "oprah-meghan-harry",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "outer-banks-02",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "outside-the-wire",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "pacific-rim-the-black",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "pose-307",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "princess-switch-3",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "prisoners-of-the-ghostland",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "q-force-01",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "queen-of-the-south-510",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "raya-and-the-last-dragon",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "reservation-dogs-101",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "shadow-and-bone-01",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "shang-chi-and-the-legend-of-the-ten-rings",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "snowpiercer-209",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "space-sweepers",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "star-wars-visions-01",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "succession-301",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "suicide-squad-2021",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "summer-of-soul",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "ted-lasso-201",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "tomorrow-war",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "trese-01",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "ultra-city-smiths-106",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "underground-railroad-01",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "wandavision-101",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "wandavision-109",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "what-if-2021-101",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "witcher-02",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "y-the-last-man-101",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "yasuke-01",
+      "status": "ready",
+      "issues": []
+    }
+  ]
+}

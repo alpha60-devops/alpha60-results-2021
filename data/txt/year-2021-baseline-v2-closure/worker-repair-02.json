@@ -1,0 +1,44 @@
+{
+  "archive_verification": {
+    "path": "/home/bkoz/src/alpha60-xperiments/year-2021-control/archive-verification.json",
+    "sha256": "3c1fa267de8e0a3994c3b711cf03d8837b150395a852637f3f8efc01de244e54",
+    "size": 24073
+  },
+  "counts": {
+    "errors": 0,
+    "passed": 1,
+    "records": 1
+  },
+  "executor": "eureka",
+  "finished_at": "2026-09-04T00:21:27.459131+00:00",
+  "owner": "eureka",
+  "records": [
+    {
+      "aggregate": "pass",
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2021-archives/ultra-city-smiths-106.cache/cache.20211027.tar.xz",
+      "collection_key": "ultra-city-smiths-106",
+      "executor": "eureka",
+      "finished_at": "2026-09-04T00:21:27.458602+00:00",
+      "owner": "eureka",
+      "results_revision": "70dbf2df3af335a20060cdd9a6d7eb78e3e989ba",
+      "started_at": "2026-09-04T00:20:34.410970+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/ultra-city-smiths-106",
+        "removed": true,
+        "status": "pass"
+      }
+    }
+  ],
+  "schema": "alpha60-year-baseline-v2-worker-run/1",
+  "started_at": "2026-09-04T00:20:34.409804+00:00",
+  "status": "pass",
+  "stolen": false,
+  "worker_map": {
+    "path": "/home/bkoz/src/alpha60-xperiments/year-2021-control/worker-map.json",
+    "sha256": "7579d04c5dcdc59b240a95af1b60b0ea4d32d602a822e3a67b7b6f311e3066b9",
+    "size": 91326
+  },
+  "year": "2021"
+}

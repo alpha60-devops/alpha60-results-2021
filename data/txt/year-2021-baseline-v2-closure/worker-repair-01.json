@@ -1,0 +1,44 @@
+{
+  "archive_verification": {
+    "path": "/home/bkoz/src/alpha60-xperiments/year-2021-control/archive-verification.json",
+    "sha256": "33c1f320355e6f561f89d5eb28fc4a250615d6445d1c15c45f461332e5512ead",
+    "size": 23403
+  },
+  "counts": {
+    "errors": 0,
+    "passed": 1,
+    "records": 1
+  },
+  "executor": "ord",
+  "finished_at": "2026-09-04T00:22:39.959231+00:00",
+  "owner": "ord",
+  "records": [
+    {
+      "aggregate": "pass",
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2021-archives/borats-american-lockdown.cache/cache.20210802.tar.xz",
+      "collection_key": "borats-american-lockdown",
+      "executor": "ord",
+      "finished_at": "2026-09-04T00:22:39.958668+00:00",
+      "owner": "ord",
+      "results_revision": "dabc3bd2597509fd38274479860c422308808b1d",
+      "started_at": "2026-09-04T00:20:32.046965+00:00",
+      "status": "pass",
+      "visualizations": "pass",
+      "work_cleanup": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/borats-american-lockdown",
+        "removed": true,
+        "status": "pass"
+      }
+    }
+  ],
+  "schema": "alpha60-year-baseline-v2-worker-run/1",
+  "started_at": "2026-09-04T00:20:32.046248+00:00",
+  "status": "pass",
+  "stolen": false,
+  "worker_map": {
+    "path": "/home/bkoz/src/alpha60-xperiments/year-2021-control/worker-map.json",
+    "sha256": "8007c46b300872bb9f00ced6cb29d0e2aa49e73a513f4c30d0e8765a7e08ef2c",
+    "size": 89669
+  },
+  "year": "2021"
+}
