@@ -1,6 +1,7 @@
 archer-1201
 army-of-the-dead
 beatles-get-back
+black-monday-310
 blade-runner-black-lotus-101
 bliss
 borats-american-lockdown
@@ -23,6 +24,7 @@ for-all-mankind-201
 for-all-mankind-210
 foundation-101
 godzilla-vs-kong
+good-fight-510
 halston-01
 harder-they-fall
 intergalactic-01
@@ -34,9 +36,13 @@ loki-101
 loki-106
 love-death-robots-02
 lupin-02
+made-for-love-107
 malcolm-and-marie
 matrix-resurrections
+me-you-cant-see-01
 mitchells-vs-the-machines
+money-heist-05.1
+money-heist-05.2
 mother-android
 narcos-mexico-03
 no-sudden-move
