@@ -1,0 +1,76 @@
+{
+  "cache_root": "/mnt/gold/src/alpha60-samples-cache.gold",
+  "owner": "eureka",
+  "records": [
+    {
+      "archive": {
+        "filename": "cache.20211216.tar.xz",
+        "filename_date": "20211216",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/money-heist-05.1.cache/cache.20211216.tar.xz",
+        "sha256": "db19a4fc00d2f79071c5cb57e98c41cbc72afc60ba706f9326fc827a6b077700",
+        "size": 1081998628
+      },
+      "collection_key": "money-heist-05.1",
+      "day_cache_validation": {
+        "allow_leading_sparse": false,
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 105,
+          "cache_members": 25494,
+          "first_observed_day_index": 1,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2021-12-16",
+          "sample_span_days": 105,
+          "sample_start": "2021-09-03",
+          "torrent_indices": 257
+        },
+        "required_collection_key": "money-heist-05.1",
+        "required_day_products": 105,
+        "required_sample_days": 105,
+        "required_sample_end": "2021-12-16",
+        "required_sample_start": "2021-09-03",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "5.1",
+        "collection_name": "Money Heist",
+        "metadata_version": "2025-11-22",
+        "sample_contract_sha256": "c6231f820d87f303d642aeac27e08e9c1c32796d2d67968fe1aa9c64e1cfc9ea",
+        "sample_contract_source": "frozen-campaign-reconciliation",
+        "sample_days": 105,
+        "sample_end": "2021-12-16",
+        "sample_start": "2021-09-03",
+        "sha256": "2c8f59992d6350d6b0b971d462242700bbdd312289d9373205ecc3cd3dd09f6b",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/money-heist-05.1.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20211216.tar.xz",
+            "size": 1081998628
+          }
+        ],
+        "expected_filename_date": "20211216"
+      },
+      "worker_archive_relative_path": "money-heist-05.1.cache/cache.20211216.tar.xz"
+    }
+  ],
+  "schema": "alpha60-year-day-worker-map/1",
+  "source_map_sha256": "3ef13091ed1f83960634d6280699305a03b6eead90f9572ae3e12e0eb06648fd",
+  "status": "pass",
+  "year": "2021"
+}

@@ -1,0 +1,340 @@
+{
+  "cache_root": "/mnt/gold/src/alpha60-samples-cache.gold",
+  "owner": "ord",
+  "records": [
+    {
+      "archive": {
+        "filename": "cache.20210803.tar.xz",
+        "filename_date": "20210803",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/black-monday-310.cache/cache.20210803.tar.xz",
+        "sha256": "145040b154af24f686c66b44db6e95029c63088187687917517ff0486618dd46",
+        "size": 820536
+      },
+      "collection_key": "black-monday-310",
+      "day_cache_validation": {
+        "allow_leading_sparse": false,
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 3,
+          "cache_members": 63,
+          "first_observed_day_index": 1,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2021-08-03",
+          "sample_span_days": 3,
+          "sample_start": "2021-08-01",
+          "torrent_indices": 21
+        },
+        "required_collection_key": "black-monday-310",
+        "required_day_products": 3,
+        "required_sample_days": 3,
+        "required_sample_end": "2021-08-03",
+        "required_sample_start": "2021-08-01",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "310",
+        "collection_name": "Black Monday",
+        "metadata_version": "2025-11-22",
+        "sample_contract_sha256": "c6231f820d87f303d642aeac27e08e9c1c32796d2d67968fe1aa9c64e1cfc9ea",
+        "sample_contract_source": "frozen-campaign-reconciliation",
+        "sample_days": 3,
+        "sample_end": "2021-08-03",
+        "sample_start": "2021-08-01",
+        "sha256": "73ceb0e28c6a69054c809a4b188854998a0f4a9c0d97a79355ce77c356db4b07",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/black-monday-310.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20210803.tar.xz",
+            "size": 820536
+          }
+        ],
+        "expected_filename_date": "20210803"
+      },
+      "worker_archive_relative_path": "black-monday-310.cache/cache.20210803.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20210831.tar.xz",
+        "filename_date": "20210831",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/good-fight-510.cache/cache.20210831.tar.xz",
+        "sha256": "4f414da415903b24056ccc22cea044660fd6df3b7f87e21e47163117f9157516",
+        "size": 9281004
+      },
+      "collection_key": "good-fight-510",
+      "day_cache_validation": {
+        "allow_leading_sparse": false,
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 6,
+          "cache_members": 203,
+          "first_observed_day_index": 1,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2021-08-31",
+          "sample_span_days": 6,
+          "sample_start": "2021-08-26",
+          "torrent_indices": 41
+        },
+        "required_collection_key": "good-fight-510",
+        "required_day_products": 6,
+        "required_sample_days": 6,
+        "required_sample_end": "2021-08-31",
+        "required_sample_start": "2021-08-26",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "510",
+        "collection_name": "The Good Fight",
+        "metadata_version": "2025-11-22",
+        "sample_contract_sha256": "c6231f820d87f303d642aeac27e08e9c1c32796d2d67968fe1aa9c64e1cfc9ea",
+        "sample_contract_source": "frozen-campaign-reconciliation",
+        "sample_days": 6,
+        "sample_end": "2021-08-31",
+        "sample_start": "2021-08-26",
+        "sha256": "db14c18200b81c2fc2c98c132d34f1e191a500ca7339851041a41aa4821a6c24",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/good-fight-510.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20210831.tar.xz",
+            "size": 9281004
+          }
+        ],
+        "expected_filename_date": "20210831"
+      },
+      "worker_archive_relative_path": "good-fight-510.cache/cache.20210831.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20210417.tar.xz",
+        "filename_date": "20210417",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/made-for-love-107.cache/cache.20210417.tar.xz",
+        "sha256": "3bb7ad179c12c4099a690a4dddee8d60080540668b49bc57bb7f651418dda103",
+        "size": 2602012
+      },
+      "collection_key": "made-for-love-107",
+      "day_cache_validation": {
+        "allow_leading_sparse": false,
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 3,
+          "cache_members": 146,
+          "first_observed_day_index": 1,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2021-04-17",
+          "sample_span_days": 3,
+          "sample_start": "2021-04-15",
+          "torrent_indices": 49
+        },
+        "required_collection_key": "made-for-love-107",
+        "required_day_products": 3,
+        "required_sample_days": 3,
+        "required_sample_end": "2021-04-17",
+        "required_sample_start": "2021-04-15",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "1",
+        "collection_name": "Made For Love",
+        "metadata_version": "2025-11-22",
+        "sample_contract_sha256": "c6231f820d87f303d642aeac27e08e9c1c32796d2d67968fe1aa9c64e1cfc9ea",
+        "sample_contract_source": "frozen-campaign-reconciliation",
+        "sample_days": 3,
+        "sample_end": "2021-04-17",
+        "sample_start": "2021-04-15",
+        "sha256": "b0aab1d71c8cbb9728c5400999f864c0239342626be922c65c2d6292feecd4f7",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/made-for-love-107.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20210417.tar.xz",
+            "size": 2602012
+          }
+        ],
+        "expected_filename_date": "20210417"
+      },
+      "worker_archive_relative_path": "made-for-love-107.cache/cache.20210417.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20210729.tar.xz",
+        "filename_date": "20210729",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/me-you-cant-see-01.cache/cache.20210729.tar.xz",
+        "sha256": "cd19dc23c74c068ad757019877ee65587b1691162a57f231a2f89756390927be",
+        "size": 59952476
+      },
+      "collection_key": "me-you-cant-see-01",
+      "day_cache_validation": {
+        "allow_leading_sparse": false,
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 70,
+          "cache_members": 4189,
+          "first_observed_day_index": 1,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2021-07-29",
+          "sample_span_days": 70,
+          "sample_start": "2021-05-21",
+          "torrent_indices": 66
+        },
+        "required_collection_key": "me-you-cant-see-01",
+        "required_day_products": 70,
+        "required_sample_days": 70,
+        "required_sample_end": "2021-07-29",
+        "required_sample_start": "2021-05-21",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "1",
+        "collection_name": "The Me You Can't See",
+        "metadata_version": "2025-11-22",
+        "sample_contract_sha256": "c6231f820d87f303d642aeac27e08e9c1c32796d2d67968fe1aa9c64e1cfc9ea",
+        "sample_contract_source": "frozen-campaign-reconciliation",
+        "sample_days": 70,
+        "sample_end": "2021-07-29",
+        "sample_start": "2021-05-21",
+        "sha256": "bf121b3a06ea40920c05b0d17c533d637db8f650bf44919bc982fe3bd93cf333",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/me-you-cant-see-01.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20210729.tar.xz",
+            "size": 59952476
+          }
+        ],
+        "expected_filename_date": "20210729"
+      },
+      "worker_archive_relative_path": "me-you-cant-see-01.cache/cache.20210729.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20220317.tar.xz",
+        "filename_date": "20220317",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/money-heist-05.2.cache/cache.20220317.tar.xz",
+        "sha256": "2fb42c0951cf29c34550107d117171b4d9e1eacb97778c5935df59cf704f1009",
+        "size": 795753888
+      },
+      "collection_key": "money-heist-05.2",
+      "day_cache_validation": {
+        "allow_leading_sparse": false,
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 105,
+          "cache_members": 22091,
+          "first_observed_day_index": 1,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2022-03-17",
+          "sample_span_days": 105,
+          "sample_start": "2021-12-03",
+          "torrent_indices": 221
+        },
+        "required_collection_key": "money-heist-05.2",
+        "required_day_products": 105,
+        "required_sample_days": 105,
+        "required_sample_end": "2022-03-17",
+        "required_sample_start": "2021-12-03",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "5.2",
+        "collection_name": "Money Heist",
+        "metadata_version": "2025-11-22",
+        "sample_contract_sha256": "c6231f820d87f303d642aeac27e08e9c1c32796d2d67968fe1aa9c64e1cfc9ea",
+        "sample_contract_source": "frozen-campaign-reconciliation",
+        "sample_days": 105,
+        "sample_end": "2022-03-17",
+        "sample_start": "2021-12-03",
+        "sha256": "963561c9b4b6a84633580bfa3f497673dd39581247e0dec68617333f9b7960b9",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/money-heist-05.2.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20220317.tar.xz",
+            "size": 795753888
+          }
+        ],
+        "expected_filename_date": "20220317"
+      },
+      "worker_archive_relative_path": "money-heist-05.2.cache/cache.20220317.tar.xz"
+    }
+  ],
+  "schema": "alpha60-year-day-worker-map/1",
+  "source_map_sha256": "3ef13091ed1f83960634d6280699305a03b6eead90f9572ae3e12e0eb06648fd",
+  "status": "pass",
+  "year": "2021"
+}
