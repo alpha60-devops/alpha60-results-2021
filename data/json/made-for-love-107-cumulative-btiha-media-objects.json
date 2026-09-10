@@ -1,0 +1,2307 @@
+{
+    "collection_name": "Made For Love",
+    "collection_id": "1",
+    "collection_key": "made-for-love-107",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "collection_btiha_duplicates": [],
+    "collection_btiha_metadata": [
+        {
+            "id": 1,
+            "name": "Made.For.Love.S01.1080p.HMAX.WEBRip.DD5.1.x264-MIXED[eztv.re]",
+            "size_total": 14.048676913,
+            "files_total": 8,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.852692687,
+                    "path": "Made.For.Love.S01.1080p.HMAX.WEBRip.DD5.1.x264-MIXED[eztv.re]/Made.For.Love.S01E01.1080p.WEB.H264-GLHF[eztv.re].mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.67517204,
+                    "path": "Made.For.Love.S01.1080p.HMAX.WEBRip.DD5.1.x264-MIXED[eztv.re]/Made.For.Love.S01E02.1080p.WEB.H264-GLHF[eztv.re].mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.619743395,
+                    "path": "Made.For.Love.S01.1080p.HMAX.WEBRip.DD5.1.x264-MIXED[eztv.re]/Made.For.Love.S01E03.1080p.WEB.H264-GLHF[eztv.re].mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.69772679,
+                    "path": "Made.For.Love.S01.1080p.HMAX.WEBRip.DD5.1.x264-MIXED[eztv.re]/Made.for.Love.S01E04.1080p.WEB.H264-CAKES[eztv.re].mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 1.643573209,
+                    "path": "Made.For.Love.S01.1080p.HMAX.WEBRip.DD5.1.x264-MIXED[eztv.re]/Made.for.Love.S01E05.1080p.WEB.H264-CAKES[eztv.re].mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 1.844180046,
+                    "path": "Made.For.Love.S01.1080p.HMAX.WEBRip.DD5.1.x264-MIXED[eztv.re]/Made.for.Love.S01E06.1080p.WEB.H264-CAKES[eztv.re].mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 1.844199156,
+                    "path": "Made.For.Love.S01.1080p.HMAX.WEBRip.DD5.1.x264-MIXED[eztv.re]/Made.for.Love.S01E07.1080p.WEB.H264-CAKES[eztv.re].mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 1.87138959,
+                    "path": "Made.For.Love.S01.1080p.HMAX.WEBRip.DD5.1.x264-MIXED[eztv.re]/Made.for.Love.S01E08.1080p.WEB.H264-CAKES[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Made.For.Love.S01.1080p.HMAX.WEBRip.DD5.1.x264-MIXED[rartv]-[rarbg.to]",
+            "size_total": 14.048676944,
+            "files_total": 9,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.852692687,
+                    "path": "Made.For.Love.S01.1080p.HMAX.WEBRip.DD5.1.x264-MIXED[rartv]/Made.For.Love.S01E01.1080p.WEB.H264-GLHF.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.67517204,
+                    "path": "Made.For.Love.S01.1080p.HMAX.WEBRip.DD5.1.x264-MIXED[rartv]/Made.For.Love.S01E02.1080p.WEB.H264-GLHF.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.619743395,
+                    "path": "Made.For.Love.S01.1080p.HMAX.WEBRip.DD5.1.x264-MIXED[rartv]/Made.For.Love.S01E03.1080p.WEB.H264-GLHF.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.69772679,
+                    "path": "Made.For.Love.S01.1080p.HMAX.WEBRip.DD5.1.x264-MIXED[rartv]/Made.for.Love.S01E04.1080p.WEB.H264-CAKES.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 1.643573209,
+                    "path": "Made.For.Love.S01.1080p.HMAX.WEBRip.DD5.1.x264-MIXED[rartv]/Made.for.Love.S01E05.1080p.WEB.H264-CAKES.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 1.844180046,
+                    "path": "Made.For.Love.S01.1080p.HMAX.WEBRip.DD5.1.x264-MIXED[rartv]/Made.for.Love.S01E06.1080p.WEB.H264-CAKES.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 1.844199156,
+                    "path": "Made.For.Love.S01.1080p.HMAX.WEBRip.DD5.1.x264-MIXED[rartv]/Made.for.Love.S01E07.1080p.WEB.H264-CAKES.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 1.87138959,
+                    "path": "Made.For.Love.S01.1080p.HMAX.WEBRip.DD5.1.x264-MIXED[rartv]/Made.for.Love.S01E08.1080p.WEB.H264-CAKES.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 3.1e-8,
+                    "path": "Made.For.Love.S01.1080p.HMAX.WEBRip.DD5.1.x264-MIXED[rartv]/RARBG.txt"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Made.For.Love.S01.1080p.WEBDL.NewStudio",
+            "size_total": 5.379621933,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.936394522,
+                    "path": "Made.For.Love.S01.1080p.WEBDL.NewStudio/Made.For.Love.S01E01.1080p.WEBDLRip.NS.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.750566277,
+                    "path": "Made.For.Love.S01.1080p.WEBDL.NewStudio/Made.For.Love.S01E02.1080p.WEBDLRip.NS.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.692661134,
+                    "path": "Made.For.Love.S01.1080p.WEBDL.NewStudio/Made.For.Love.S01E03.1080p.WEBDLRip.NS.mkv"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Made.For.Love.S01.2160p.WEB.H265-GLHF[eztv.re]",
+            "size_total": 21.911846187,
+            "files_total": 8,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.090935444,
+                    "path": "Made.For.Love.S01.2160p.WEB.H265-GLHF[eztv.re]/Made.For.Love.S01E01.2160p.WEB.H265-GLHF[eztv.re].mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 2.651777113,
+                    "path": "Made.For.Love.S01.2160p.WEB.H265-GLHF[eztv.re]/Made.For.Love.S01E02.2160p.WEB.H265-GLHF[eztv.re].mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 2.550940365,
+                    "path": "Made.For.Love.S01.2160p.WEB.H265-GLHF[eztv.re]/Made.For.Love.S01E03.2160p.WEB.H265-GLHF[eztv.re].mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 2.699323479,
+                    "path": "Made.For.Love.S01.2160p.WEB.H265-GLHF[eztv.re]/Made.For.Love.S01E04.2160p.WEB.H265-GLHF[eztv.re].mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 2.574345492,
+                    "path": "Made.For.Love.S01.2160p.WEB.H265-GLHF[eztv.re]/Made.For.Love.S01E05.2160p.WEB.H265-GLHF[eztv.re].mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 2.823170269,
+                    "path": "Made.For.Love.S01.2160p.WEB.H265-GLHF[eztv.re]/Made.For.Love.S01E06.2160p.WEB.H265-GLHF[eztv.re].mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 2.739239311,
+                    "path": "Made.For.Love.S01.2160p.WEB.H265-GLHF[eztv.re]/Made.For.Love.S01E07.2160p.WEB.H265-GLHF[eztv.re].mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 2.782114714,
+                    "path": "Made.For.Love.S01.2160p.WEB.H265-GLHF[eztv.re]/Made.For.Love.S01E08.2160p.WEB.H265-GLHF[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Made.For.Love.S01.2160p.WEBRip.AAC5.1.x265-GLHF[rartv]-[rarbg.to]",
+            "size_total": 21.911846218,
+            "files_total": 9,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.090935444,
+                    "path": "Made.For.Love.S01.2160p.WEB.H265-GLHF[rartv]/Made.For.Love.S01E01.2160p.WEB.H265-GLHF.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 2.651777113,
+                    "path": "Made.For.Love.S01.2160p.WEB.H265-GLHF[rartv]/Made.For.Love.S01E02.2160p.WEB.H265-GLHF.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 2.550940365,
+                    "path": "Made.For.Love.S01.2160p.WEB.H265-GLHF[rartv]/Made.For.Love.S01E03.2160p.WEB.H265-GLHF.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 2.699323479,
+                    "path": "Made.For.Love.S01.2160p.WEB.H265-GLHF[rartv]/Made.For.Love.S01E04.2160p.WEB.H265-GLHF.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 2.574345492,
+                    "path": "Made.For.Love.S01.2160p.WEB.H265-GLHF[rartv]/Made.For.Love.S01E05.2160p.WEB.H265-GLHF.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 2.823170269,
+                    "path": "Made.For.Love.S01.2160p.WEB.H265-GLHF[rartv]/Made.For.Love.S01E06.2160p.WEB.H265-GLHF.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 2.739239311,
+                    "path": "Made.For.Love.S01.2160p.WEB.H265-GLHF[rartv]/Made.For.Love.S01E07.2160p.WEB.H265-GLHF.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 2.782114714,
+                    "path": "Made.For.Love.S01.2160p.WEB.H265-GLHF[rartv]/Made.For.Love.S01E08.2160p.WEB.H265-GLHF.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 3.1e-8,
+                    "path": "Made.For.Love.S01.2160p.WEB.H265-GLHF[rartv]/RARBG.txt"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Made.For.Love.S01.720p.HMAX.WEBRip.DD5.1.x264-MIXED[eztv.re]",
+            "size_total": 6.233919871,
+            "files_total": 8,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.824083155,
+                    "path": "Made.For.Love.S01.720p.HMAX.WEBRip.DD5.1.x264-MIXED[eztv.re]/Made.For.Love.S01E01.720p.WEB.H264-GLHF[eztv.re].mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.740440355,
+                    "path": "Made.For.Love.S01.720p.HMAX.WEBRip.DD5.1.x264-MIXED[eztv.re]/Made.For.Love.S01E02.720p.WEB.H264-GLHF[eztv.re].mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.716426689,
+                    "path": "Made.For.Love.S01.720p.HMAX.WEBRip.DD5.1.x264-MIXED[eztv.re]/Made.For.Love.S01E03.720p.WEB.H264-GLHF[eztv.re].mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 0.750428446,
+                    "path": "Made.For.Love.S01.720p.HMAX.WEBRip.DD5.1.x264-MIXED[eztv.re]/Made.for.Love.S01E04.720p.WEB.H264-CAKES[eztv.re].mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.727317556,
+                    "path": "Made.For.Love.S01.720p.HMAX.WEBRip.DD5.1.x264-MIXED[eztv.re]/Made.for.Love.S01E05.720p.WEB.H264-CAKES[eztv.re].mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.816698664,
+                    "path": "Made.For.Love.S01.720p.HMAX.WEBRip.DD5.1.x264-MIXED[eztv.re]/Made.for.Love.S01E06.720p.WEB.H264-CAKES[eztv.re].mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 0.824838878,
+                    "path": "Made.For.Love.S01.720p.HMAX.WEBRip.DD5.1.x264-MIXED[eztv.re]/Made.for.Love.S01E07.720p.WEB.H264-CAKES[eztv.re].mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 0.833686128,
+                    "path": "Made.For.Love.S01.720p.HMAX.WEBRip.DD5.1.x264-MIXED[eztv.re]/Made.for.Love.S01E08.720p.WEB.H264-CAKES[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Made.For.Love.S01.720p.HMAX.WEBRip.DD5.1.x264-MIXED[rartv]-[rarbg.to]",
+            "size_total": 6.233919902,
+            "files_total": 9,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.824083155,
+                    "path": "Made.For.Love.S01.720p.HMAX.WEBRip.DD5.1.x264-MIXED[rartv]/Made.For.Love.S01E01.720p.WEB.H264-GLHF.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.740440355,
+                    "path": "Made.For.Love.S01.720p.HMAX.WEBRip.DD5.1.x264-MIXED[rartv]/Made.For.Love.S01E02.720p.WEB.H264-GLHF.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.716426689,
+                    "path": "Made.For.Love.S01.720p.HMAX.WEBRip.DD5.1.x264-MIXED[rartv]/Made.For.Love.S01E03.720p.WEB.H264-GLHF.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 0.750428446,
+                    "path": "Made.For.Love.S01.720p.HMAX.WEBRip.DD5.1.x264-MIXED[rartv]/Made.for.Love.S01E04.720p.WEB.H264-CAKES.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.727317556,
+                    "path": "Made.For.Love.S01.720p.HMAX.WEBRip.DD5.1.x264-MIXED[rartv]/Made.for.Love.S01E05.720p.WEB.H264-CAKES.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.816698664,
+                    "path": "Made.For.Love.S01.720p.HMAX.WEBRip.DD5.1.x264-MIXED[rartv]/Made.for.Love.S01E06.720p.WEB.H264-CAKES.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 0.824838878,
+                    "path": "Made.For.Love.S01.720p.HMAX.WEBRip.DD5.1.x264-MIXED[rartv]/Made.for.Love.S01E07.720p.WEB.H264-CAKES.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 0.833686128,
+                    "path": "Made.For.Love.S01.720p.HMAX.WEBRip.DD5.1.x264-MIXED[rartv]/Made.for.Love.S01E08.720p.WEB.H264-CAKES.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 3.1e-8,
+                    "path": "Made.For.Love.S01.720p.HMAX.WEBRip.DD5.1.x264-MIXED[rartv]/RARBG.txt"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Made.For.Love.S01.PROPER.WEBRip.x264-ION10-[rarbg.to]",
+            "size_total": 2.188334359,
+            "files_total": 17,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.285818253,
+                    "path": "Made.For.Love.S01.PROPER.WEBRip.x264-ION10/Made.For.Love.S01E01.PROPER.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 0.256446992,
+                    "path": "Made.For.Love.S01.PROPER.WEBRip.x264-ION10/Made.For.Love.S01E02.PROPER.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 3,
+                    "size": 0.24901068,
+                    "path": "Made.For.Love.S01.PROPER.WEBRip.x264-ION10/Made.For.Love.S01E03.PROPER.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 4,
+                    "size": 0.261762042,
+                    "path": "Made.For.Love.S01.PROPER.WEBRip.x264-ION10/Made.for.Love.S01E04.PROPER.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 5,
+                    "size": 0.256583869,
+                    "path": "Made.For.Love.S01.PROPER.WEBRip.x264-ION10/Made.for.Love.S01E05.PROPER.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 6,
+                    "size": 0.286628046,
+                    "path": "Made.For.Love.S01.PROPER.WEBRip.x264-ION10/Made.for.Love.S01E06.PROPER.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 7,
+                    "size": 0.288221936,
+                    "path": "Made.For.Love.S01.PROPER.WEBRip.x264-ION10/Made.for.Love.S01E07.PROPER.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 8,
+                    "size": 0.303576958,
+                    "path": "Made.For.Love.S01.PROPER.WEBRip.x264-ION10/Made.for.Love.S01E08.PROPER.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 9,
+                    "size": 3.1e-8,
+                    "path": "Made.For.Love.S01.PROPER.WEBRip.x264-ION10/RARBG.txt"
+                },
+                {
+                    "number": 10,
+                    "size": 0.000029888,
+                    "path": "Made.For.Love.S01.PROPER.WEBRip.x264-ION10/Subs/Made.For.Love.S01E01.PROPER.WEBRip.x264-ION10/2_English.srt"
+                },
+                {
+                    "number": 11,
+                    "size": 0.000033046,
+                    "path": "Made.For.Love.S01.PROPER.WEBRip.x264-ION10/Subs/Made.For.Love.S01E02.PROPER.WEBRip.x264-ION10/2_English.srt"
+                },
+                {
+                    "number": 12,
+                    "size": 0.00003281,
+                    "path": "Made.For.Love.S01.PROPER.WEBRip.x264-ION10/Subs/Made.For.Love.S01E03.PROPER.WEBRip.x264-ION10/2_English.srt"
+                },
+                {
+                    "number": 13,
+                    "size": 0.000036366,
+                    "path": "Made.For.Love.S01.PROPER.WEBRip.x264-ION10/Subs/Made.for.Love.S01E04.PROPER.WEBRip.x264-ION10/2_English.srt"
+                },
+                {
+                    "number": 14,
+                    "size": 0.000034929,
+                    "path": "Made.For.Love.S01.PROPER.WEBRip.x264-ION10/Subs/Made.for.Love.S01E05.PROPER.WEBRip.x264-ION10/2_English.srt"
+                },
+                {
+                    "number": 15,
+                    "size": 0.000039703,
+                    "path": "Made.For.Love.S01.PROPER.WEBRip.x264-ION10/Subs/Made.for.Love.S01E06.PROPER.WEBRip.x264-ION10/2_English.srt"
+                },
+                {
+                    "number": 16,
+                    "size": 0.000041791,
+                    "path": "Made.For.Love.S01.PROPER.WEBRip.x264-ION10/Subs/Made.for.Love.S01E07.PROPER.WEBRip.x264-ION10/2_English.srt"
+                },
+                {
+                    "number": 17,
+                    "size": 0.000037019,
+                    "path": "Made.For.Love.S01.PROPER.WEBRip.x264-ION10/Subs/Made.for.Love.S01E08.PROPER.WEBRip.x264-ION10/2_English.srt"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Made.For.Love.S01.PROPER.WEBRip.x264-ION10[eztv.re]",
+            "size_total": 2.188334328,
+            "files_total": 16,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.285818253,
+                    "path": "Made.For.Love.S01.PROPER.WEBRip.x264-ION10[eztv.re]/Made.For.Love.S01E01.PROPER.WEBRip.x264-ION10[eztv.re].mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 0.256446992,
+                    "path": "Made.For.Love.S01.PROPER.WEBRip.x264-ION10[eztv.re]/Made.For.Love.S01E02.PROPER.WEBRip.x264-ION10[eztv.re].mp4"
+                },
+                {
+                    "number": 3,
+                    "size": 0.24901068,
+                    "path": "Made.For.Love.S01.PROPER.WEBRip.x264-ION10[eztv.re]/Made.For.Love.S01E03.PROPER.WEBRip.x264-ION10[eztv.re].mp4"
+                },
+                {
+                    "number": 4,
+                    "size": 0.261762042,
+                    "path": "Made.For.Love.S01.PROPER.WEBRip.x264-ION10[eztv.re]/Made.for.Love.S01E04.PROPER.WEBRip.x264-ION10[eztv.re].mp4"
+                },
+                {
+                    "number": 5,
+                    "size": 0.256583869,
+                    "path": "Made.For.Love.S01.PROPER.WEBRip.x264-ION10[eztv.re]/Made.for.Love.S01E05.PROPER.WEBRip.x264-ION10[eztv.re].mp4"
+                },
+                {
+                    "number": 6,
+                    "size": 0.286628046,
+                    "path": "Made.For.Love.S01.PROPER.WEBRip.x264-ION10[eztv.re]/Made.for.Love.S01E06.PROPER.WEBRip.x264-ION10[eztv.re].mp4"
+                },
+                {
+                    "number": 7,
+                    "size": 0.288221936,
+                    "path": "Made.For.Love.S01.PROPER.WEBRip.x264-ION10[eztv.re]/Made.for.Love.S01E07.PROPER.WEBRip.x264-ION10[eztv.re].mp4"
+                },
+                {
+                    "number": 8,
+                    "size": 0.303576958,
+                    "path": "Made.For.Love.S01.PROPER.WEBRip.x264-ION10[eztv.re]/Made.for.Love.S01E08.PROPER.WEBRip.x264-ION10[eztv.re].mp4"
+                },
+                {
+                    "number": 9,
+                    "size": 0.000029888,
+                    "path": "Made.For.Love.S01.PROPER.WEBRip.x264-ION10[eztv.re]/Subs/Made.For.Love.S01E01.PROPER.WEBRip.x264-ION10[eztv.re]/2_English.srt"
+                },
+                {
+                    "number": 10,
+                    "size": 0.000033046,
+                    "path": "Made.For.Love.S01.PROPER.WEBRip.x264-ION10[eztv.re]/Subs/Made.For.Love.S01E02.PROPER.WEBRip.x264-ION10[eztv.re]/2_English.srt"
+                },
+                {
+                    "number": 11,
+                    "size": 0.00003281,
+                    "path": "Made.For.Love.S01.PROPER.WEBRip.x264-ION10[eztv.re]/Subs/Made.For.Love.S01E03.PROPER.WEBRip.x264-ION10[eztv.re]/2_English.srt"
+                },
+                {
+                    "number": 12,
+                    "size": 0.000036366,
+                    "path": "Made.For.Love.S01.PROPER.WEBRip.x264-ION10[eztv.re]/Subs/Made.for.Love.S01E04.PROPER.WEBRip.x264-ION10[eztv.re]/2_English.srt"
+                },
+                {
+                    "number": 13,
+                    "size": 0.000034929,
+                    "path": "Made.For.Love.S01.PROPER.WEBRip.x264-ION10[eztv.re]/Subs/Made.for.Love.S01E05.PROPER.WEBRip.x264-ION10[eztv.re]/2_English.srt"
+                },
+                {
+                    "number": 14,
+                    "size": 0.000039703,
+                    "path": "Made.For.Love.S01.PROPER.WEBRip.x264-ION10[eztv.re]/Subs/Made.for.Love.S01E06.PROPER.WEBRip.x264-ION10[eztv.re]/2_English.srt"
+                },
+                {
+                    "number": 15,
+                    "size": 0.000041791,
+                    "path": "Made.For.Love.S01.PROPER.WEBRip.x264-ION10[eztv.re]/Subs/Made.for.Love.S01E07.PROPER.WEBRip.x264-ION10[eztv.re]/2_English.srt"
+                },
+                {
+                    "number": 16,
+                    "size": 0.000037019,
+                    "path": "Made.For.Love.S01.PROPER.WEBRip.x264-ION10[eztv.re]/Subs/Made.for.Love.S01E08.PROPER.WEBRip.x264-ION10[eztv.re]/2_English.srt"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Made.for.Love.S01E07.1080p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.225852051,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.206104249,
+                    "path": "Made.for.Love.S01E07.1080p.HEVC.x265-MeGusta/Made.for.Love.S01E07.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00000114,
+                    "path": "Made.for.Love.S01E07.1080p.HEVC.x265-MeGusta/Made.for.Love.S01E07.1080p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.005448479,
+                    "path": "Made.for.Love.S01E07.1080p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.006718116,
+                    "path": "Made.for.Love.S01E07.1080p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.007580067,
+                    "path": "Made.for.Love.S01E07.1080p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Made.for.Love.S01E07.1080p.HEVC.x265-MeGusta[eztv.re].mkv",
+            "size_total": 0.206104249,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.206104249,
+                    "path": "Made.for.Love.S01E07.1080p.HEVC.x265-MeGusta[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Made.for.Love.S01E07.1080p.WEB.H264-CAKES [IPT]",
+            "size_total": 1.844201189,
+            "files_total": 12,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.53e-7,
+                    "path": "Made.for.Love.S01E07.1080p.WEB.H264-CAKES/made.for.love.s01e07.1080p.web.h264-cakes.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.2,
+                    "path": "Made.for.Love.S01E07.1080p.WEB.H264-CAKES/made.for.love.s01e07.1080p.web.h264-cakes.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.2,
+                    "path": "Made.for.Love.S01E07.1080p.WEB.H264-CAKES/made.for.love.s01e07.1080p.web.h264-cakes.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.2,
+                    "path": "Made.for.Love.S01E07.1080p.WEB.H264-CAKES/made.for.love.s01e07.1080p.web.h264-cakes.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.2,
+                    "path": "Made.for.Love.S01E07.1080p.WEB.H264-CAKES/made.for.love.s01e07.1080p.web.h264-cakes.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.2,
+                    "path": "Made.for.Love.S01E07.1080p.WEB.H264-CAKES/made.for.love.s01e07.1080p.web.h264-cakes.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.2,
+                    "path": "Made.for.Love.S01E07.1080p.WEB.H264-CAKES/made.for.love.s01e07.1080p.web.h264-cakes.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.2,
+                    "path": "Made.for.Love.S01E07.1080p.WEB.H264-CAKES/made.for.love.s01e07.1080p.web.h264-cakes.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.2,
+                    "path": "Made.for.Love.S01E07.1080p.WEB.H264-CAKES/made.for.love.s01e07.1080p.web.h264-cakes.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.044200376,
+                    "path": "Made.for.Love.S01E07.1080p.WEB.H264-CAKES/made.for.love.s01e07.1080p.web.h264-cakes.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.2,
+                    "path": "Made.for.Love.S01E07.1080p.WEB.H264-CAKES/made.for.love.s01e07.1080p.web.h264-cakes.rar"
+                },
+                {
+                    "number": 12,
+                    "size": 5.6e-7,
+                    "path": "Made.for.Love.S01E07.1080p.WEB.H264-CAKES/made.for.love.s01e07.1080p.web.h264-cakes.sfv"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "made.for.love.s01e07.1080p.web.h264-cakes[eztv.re].mkv",
+            "size_total": 1.844199156,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.844199156,
+                    "path": "made.for.love.s01e07.1080p.web.h264-cakes[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Made.for.Love.S01E07.1080p.WEB.H264-CAKES[rartv]-[rarbg.to]",
+            "size_total": 1.844199538,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Made.for.Love.S01E07.1080p.WEB.H264-CAKES[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Made.for.Love.S01E07.1080p.WEB.H264-CAKES[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 1.844199156,
+                    "path": "Made.for.Love.S01E07.1080p.WEB.H264-CAKES[rarbg]/made.for.love.s01e07.1080p.web.h264-cakes.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 2.53e-7,
+                    "path": "Made.for.Love.S01E07.1080p.WEB.H264-CAKES[rarbg]/made.for.love.s01e07.1080p.web.h264-cakes.nfo"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Made.For.Love.S01E07.2160p.WEB.H265-GLHF[rartv]-[rarbg.to]",
+            "size_total": 2.739239342,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.739239311,
+                    "path": "Made.For.Love.S01E07.2160p.WEB.H265-GLHF[rartv]/Made.For.Love.S01E07.2160p.WEB.H265-GLHF.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3.1e-8,
+                    "path": "Made.For.Love.S01E07.2160p.WEB.H265-GLHF[rartv]/RARBG.txt"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Made.for.Love.S01E07.480p.x264-mSD [IPT]",
+            "size_total": 0.131126708,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.130529136,
+                    "path": "Made.for.Love.S01E07.480p.x264-mSD/Made.for.Love.S01E07.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 9.7e-7,
+                    "path": "Made.for.Love.S01E07.480p.x264-mSD/Made.for.Love.S01E07.480p.x264-mSD.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000156158,
+                    "path": "Made.for.Love.S01E07.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000210854,
+                    "path": "Made.for.Love.S01E07.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.00022959,
+                    "path": "Made.for.Love.S01E07.480p.x264-mSD/Screens/screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Made.for.Love.S01E07.480p.x264-mSD[eztv.re].mkv",
+            "size_total": 0.130529136,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.130529136,
+                    "path": "Made.for.Love.S01E07.480p.x264-mSD[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Made.for.Love.S01E07.720p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.172469446,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.162988314,
+                    "path": "Made.for.Love.S01E07.720p.HEVC.x265-MeGusta/Made.for.Love.S01E07.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001135,
+                    "path": "Made.for.Love.S01E07.720p.HEVC.x265-MeGusta/Made.for.Love.S01E07.720p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.002675914,
+                    "path": "Made.for.Love.S01E07.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.003243912,
+                    "path": "Made.for.Love.S01E07.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.003560171,
+                    "path": "Made.for.Love.S01E07.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "Made.for.Love.S01E07.720p.HEVC.x265-MeGusta[eztv.re].mkv",
+            "size_total": 0.162988314,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.162988314,
+                    "path": "Made.for.Love.S01E07.720p.HEVC.x265-MeGusta[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "Made.for.Love.S01E07.720p.WEB.H264-CAKES [IPT]",
+            "size_total": 0.851672972,
+            "files_total": 13,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.52e-7,
+                    "path": "Made.for.Love.S01E07.720p.WEB.H264-CAKES/made.for.love.s01e07.720p.web.h264-cakes.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.1,
+                    "path": "Made.for.Love.S01E07.720p.WEB.H264-CAKES/made.for.love.s01e07.720p.web.h264-cakes.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.1,
+                    "path": "Made.for.Love.S01E07.720p.WEB.H264-CAKES/made.for.love.s01e07.720p.web.h264-cakes.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.1,
+                    "path": "Made.for.Love.S01E07.720p.WEB.H264-CAKES/made.for.love.s01e07.720p.web.h264-cakes.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.1,
+                    "path": "Made.for.Love.S01E07.720p.WEB.H264-CAKES/made.for.love.s01e07.720p.web.h264-cakes.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.1,
+                    "path": "Made.for.Love.S01E07.720p.WEB.H264-CAKES/made.for.love.s01e07.720p.web.h264-cakes.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.1,
+                    "path": "Made.for.Love.S01E07.720p.WEB.H264-CAKES/made.for.love.s01e07.720p.web.h264-cakes.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.1,
+                    "path": "Made.for.Love.S01E07.720p.WEB.H264-CAKES/made.for.love.s01e07.720p.web.h264-cakes.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.024839967,
+                    "path": "Made.for.Love.S01E07.720p.WEB.H264-CAKES/made.for.love.s01e07.720p.web.h264-cakes.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.1,
+                    "path": "Made.for.Love.S01E07.720p.WEB.H264-CAKES/made.for.love.s01e07.720p.web.h264-cakes.rar"
+                },
+                {
+                    "number": 11,
+                    "size": 4.95e-7,
+                    "path": "Made.for.Love.S01E07.720p.WEB.H264-CAKES/made.for.love.s01e07.720p.web.h264-cakes.sfv"
+                },
+                {
+                    "number": 12,
+                    "size": 0.026829936,
+                    "path": "Made.for.Love.S01E07.720p.WEB.H264-CAKES/Sample/made.for.love.s01e07.720p.web.h264-cakes-sample.mkv"
+                },
+                {
+                    "number": 13,
+                    "size": 0.000002322,
+                    "path": "Made.for.Love.S01E07.720p.WEB.H264-CAKES/tvmaze.nfo"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "name": "made.for.love.s01e07.720p.web.h264-cakes[eztv.re].mkv",
+            "size_total": 0.824838878,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.824838878,
+                    "path": "made.for.love.s01e07.720p.web.h264-cakes[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "name": "Made.for.Love.S01E07.720p.WEB.H264-CAKES[rartv]-[rarbg.to]",
+            "size_total": 0.824839259,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Made.for.Love.S01E07.720p.WEB.H264-CAKES[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Made.for.Love.S01E07.720p.WEB.H264-CAKES[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 0.824838878,
+                    "path": "Made.for.Love.S01E07.720p.WEB.H264-CAKES[rarbg]/made.for.love.s01e07.720p.web.h264-cakes.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 2.52e-7,
+                    "path": "Made.for.Love.S01E07.720p.WEB.H264-CAKES[rarbg]/made.for.love.s01e07.720p.web.h264-cakes.nfo"
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "name": "Made.for.Love.S01E07.720p.WEB.x265-MiNX[eztv.re].mkv",
+            "size_total": 0.102265022,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.102265022,
+                    "path": "Made.for.Love.S01E07.720p.WEB.x265-MiNX[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "name": "Made.for.Love.S01E07.AAC.MP4-Mobile [IPT]",
+            "size_total": 0.079273782,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.078584504,
+                    "path": "Made.for.Love.S01E07.AAC.MP4-Mobile/Made.for.Love.S01E07.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001229,
+                    "path": "Made.for.Love.S01E07.AAC.MP4-Mobile/Made.for.Love.S01E07.AAC.MP4-Mobile.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000181755,
+                    "path": "Made.for.Love.S01E07.AAC.MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000242001,
+                    "path": "Made.for.Love.S01E07.AAC.MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000264293,
+                    "path": "Made.for.Love.S01E07.AAC.MP4-Mobile/Screens/screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "name": "Made.for.Love.S01E07.WEB.x264-PHOENiX [IPT]",
+            "size_total": 0.135335799,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.134058211,
+                    "path": "Made.for.Love.S01E07.WEB.x264-PHOENiX/Made.for.Love.S01E07.WEB.x264-PHOENiX.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00000132,
+                    "path": "Made.for.Love.S01E07.WEB.x264-PHOENiX/Made.for.Love.S01E07.WEB.x264-PHOENiX.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000297399,
+                    "path": "Made.for.Love.S01E07.WEB.x264-PHOENiX/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000319067,
+                    "path": "Made.for.Love.S01E07.WEB.x264-PHOENiX/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000327225,
+                    "path": "Made.for.Love.S01E07.WEB.x264-PHOENiX/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000332577,
+                    "path": "Made.for.Love.S01E07.WEB.x264-PHOENiX/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "name": "Made.for.Love.S01E07.WEB.x264-PHOENiX[eztv.re].mkv",
+            "size_total": 0.134058211,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.134058211,
+                    "path": "Made.for.Love.S01E07.WEB.x264-PHOENiX[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "name": "Made.for.Love.S01E07.WEBRip.x264-ION10-[rarbg.to]",
+            "size_total": 0.288080066,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.288038146,
+                    "path": "Made.for.Love.S01E07.WEBRip.x264-ION10/Made.for.Love.S01E07.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Made.for.Love.S01E07.WEBRip.x264-ION10/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 9.9e-8,
+                    "path": "Made.for.Love.S01E07.WEBRip.x264-ION10/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000041791,
+                    "path": "Made.for.Love.S01E07.WEBRip.x264-ION10/Subs/2_English.srt"
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "name": "Made.for.Love.S01E07.XviD-AFG [IPT]",
+            "size_total": 0.192769862,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.19208316,
+                    "path": "Made.for.Love.S01E07.XviD-AFG/Made.for.Love.S01E07.XviD-AFG.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001104,
+                    "path": "Made.for.Love.S01E07.XviD-AFG/Made.for.Love.S01E07.XviD-AFG.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000171814,
+                    "path": "Made.for.Love.S01E07.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000238721,
+                    "path": "Made.for.Love.S01E07.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000275063,
+                    "path": "Made.for.Love.S01E07.XviD-AFG/Screens/screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "name": "Made.for.Love.S01E07.XviD-AFG[eztv.re].avi",
+            "size_total": 0.19208316,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.19208316,
+                    "path": "Made.for.Love.S01E07.XviD-AFG[eztv.re].avi"
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "name": "Made.for.Love.S01E08.1080p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.211318115,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.194148444,
+                    "path": "Made.for.Love.S01E08.1080p.HEVC.x265-MeGusta/Made.for.Love.S01E08.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001139,
+                    "path": "Made.for.Love.S01E08.1080p.HEVC.x265-MeGusta/Made.for.Love.S01E08.1080p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.005776344,
+                    "path": "Made.for.Love.S01E08.1080p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.005298446,
+                    "path": "Made.for.Love.S01E08.1080p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.006093742,
+                    "path": "Made.for.Love.S01E08.1080p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "name": "Made.for.Love.S01E08.1080p.HEVC.x265-MeGusta[eztv.re].mkv",
+            "size_total": 0.194148444,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.194148444,
+                    "path": "Made.for.Love.S01E08.1080p.HEVC.x265-MeGusta[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "name": "Made.for.Love.S01E08.1080p.WEB.H264-CAKES [IPT]",
+            "size_total": 1.871391623,
+            "files_total": 12,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.53e-7,
+                    "path": "Made.for.Love.S01E08.1080p.WEB.H264-CAKES/made.for.love.s01e08.1080p.web.h264-cakes.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.2,
+                    "path": "Made.for.Love.S01E08.1080p.WEB.H264-CAKES/made.for.love.s01e08.1080p.web.h264-cakes.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.2,
+                    "path": "Made.for.Love.S01E08.1080p.WEB.H264-CAKES/made.for.love.s01e08.1080p.web.h264-cakes.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.2,
+                    "path": "Made.for.Love.S01E08.1080p.WEB.H264-CAKES/made.for.love.s01e08.1080p.web.h264-cakes.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.2,
+                    "path": "Made.for.Love.S01E08.1080p.WEB.H264-CAKES/made.for.love.s01e08.1080p.web.h264-cakes.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.2,
+                    "path": "Made.for.Love.S01E08.1080p.WEB.H264-CAKES/made.for.love.s01e08.1080p.web.h264-cakes.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.2,
+                    "path": "Made.for.Love.S01E08.1080p.WEB.H264-CAKES/made.for.love.s01e08.1080p.web.h264-cakes.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.2,
+                    "path": "Made.for.Love.S01E08.1080p.WEB.H264-CAKES/made.for.love.s01e08.1080p.web.h264-cakes.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.2,
+                    "path": "Made.for.Love.S01E08.1080p.WEB.H264-CAKES/made.for.love.s01e08.1080p.web.h264-cakes.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.07139081,
+                    "path": "Made.for.Love.S01E08.1080p.WEB.H264-CAKES/made.for.love.s01e08.1080p.web.h264-cakes.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.2,
+                    "path": "Made.for.Love.S01E08.1080p.WEB.H264-CAKES/made.for.love.s01e08.1080p.web.h264-cakes.rar"
+                },
+                {
+                    "number": 12,
+                    "size": 5.6e-7,
+                    "path": "Made.for.Love.S01E08.1080p.WEB.H264-CAKES/made.for.love.s01e08.1080p.web.h264-cakes.sfv"
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "name": "made.for.love.s01e08.1080p.web.h264-cakes[eztv.re].mkv",
+            "size_total": 1.87138959,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.87138959,
+                    "path": "made.for.love.s01e08.1080p.web.h264-cakes[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "name": "Made.for.Love.S01E08.1080p.WEB.H264-CAKES[rartv]-[rarbg.to]",
+            "size_total": 1.871389972,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Made.for.Love.S01E08.1080p.WEB.H264-CAKES[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Made.for.Love.S01E08.1080p.WEB.H264-CAKES[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 1.87138959,
+                    "path": "Made.for.Love.S01E08.1080p.WEB.H264-CAKES[rarbg]/made.for.love.s01e08.1080p.web.h264-cakes.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 2.53e-7,
+                    "path": "Made.for.Love.S01E08.1080p.WEB.H264-CAKES[rarbg]/made.for.love.s01e08.1080p.web.h264-cakes.nfo"
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "name": "Made.For.Love.S01E08.2160p.WEB.H265-GLHF[rartv]-[rarbg.to]",
+            "size_total": 2.782114745,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.782114714,
+                    "path": "Made.For.Love.S01E08.2160p.WEB.H265-GLHF[rartv]/Made.For.Love.S01E08.2160p.WEB.H265-GLHF.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3.1e-8,
+                    "path": "Made.For.Love.S01E08.2160p.WEB.H265-GLHF[rartv]/RARBG.txt"
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "name": "Made.for.Love.S01E08.480p.x264-mSD [IPT]",
+            "size_total": 0.126666163,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.126167198,
+                    "path": "Made.for.Love.S01E08.480p.x264-mSD/Made.for.Love.S01E08.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 9.7e-7,
+                    "path": "Made.for.Love.S01E08.480p.x264-mSD/Made.for.Love.S01E08.480p.x264-mSD.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000169202,
+                    "path": "Made.for.Love.S01E08.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000157236,
+                    "path": "Made.for.Love.S01E08.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000171557,
+                    "path": "Made.for.Love.S01E08.480p.x264-mSD/Screens/screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "name": "Made.for.Love.S01E08.480p.x264-mSD[eztv.re].mkv",
+            "size_total": 0.126167198,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.126167198,
+                    "path": "Made.for.Love.S01E08.480p.x264-mSD[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "name": "Made.for.Love.S01E08.720p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.16398295,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.155454498,
+                    "path": "Made.for.Love.S01E08.720p.HEVC.x265-MeGusta/Made.for.Love.S01E08.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001136,
+                    "path": "Made.for.Love.S01E08.720p.HEVC.x265-MeGusta/Made.for.Love.S01E08.720p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.002866808,
+                    "path": "Made.for.Love.S01E08.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.002664684,
+                    "path": "Made.for.Love.S01E08.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.002995824,
+                    "path": "Made.for.Love.S01E08.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "name": "Made.for.Love.S01E08.720p.HEVC.x265-MeGusta[eztv.re].mkv",
+            "size_total": 0.155454498,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.155454498,
+                    "path": "Made.for.Love.S01E08.720p.HEVC.x265-MeGusta[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "name": "Made.for.Love.S01E08.720p.WEB.H264-CAKES [IPT]",
+            "size_total": 0.862639493,
+            "files_total": 13,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.52e-7,
+                    "path": "Made.for.Love.S01E08.720p.WEB.H264-CAKES/made.for.love.s01e08.720p.web.h264-cakes.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.1,
+                    "path": "Made.for.Love.S01E08.720p.WEB.H264-CAKES/made.for.love.s01e08.720p.web.h264-cakes.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.1,
+                    "path": "Made.for.Love.S01E08.720p.WEB.H264-CAKES/made.for.love.s01e08.720p.web.h264-cakes.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.1,
+                    "path": "Made.for.Love.S01E08.720p.WEB.H264-CAKES/made.for.love.s01e08.720p.web.h264-cakes.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.1,
+                    "path": "Made.for.Love.S01E08.720p.WEB.H264-CAKES/made.for.love.s01e08.720p.web.h264-cakes.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.1,
+                    "path": "Made.for.Love.S01E08.720p.WEB.H264-CAKES/made.for.love.s01e08.720p.web.h264-cakes.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.1,
+                    "path": "Made.for.Love.S01E08.720p.WEB.H264-CAKES/made.for.love.s01e08.720p.web.h264-cakes.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.1,
+                    "path": "Made.for.Love.S01E08.720p.WEB.H264-CAKES/made.for.love.s01e08.720p.web.h264-cakes.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.033687217,
+                    "path": "Made.for.Love.S01E08.720p.WEB.H264-CAKES/made.for.love.s01e08.720p.web.h264-cakes.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.1,
+                    "path": "Made.for.Love.S01E08.720p.WEB.H264-CAKES/made.for.love.s01e08.720p.web.h264-cakes.rar"
+                },
+                {
+                    "number": 11,
+                    "size": 4.95e-7,
+                    "path": "Made.for.Love.S01E08.720p.WEB.H264-CAKES/made.for.love.s01e08.720p.web.h264-cakes.sfv"
+                },
+                {
+                    "number": 12,
+                    "size": 0.028949207,
+                    "path": "Made.for.Love.S01E08.720p.WEB.H264-CAKES/Sample/made.for.love.s01e08.720p.web.h264-cakes-sample.mkv"
+                },
+                {
+                    "number": 13,
+                    "size": 0.000002322,
+                    "path": "Made.for.Love.S01E08.720p.WEB.H264-CAKES/tvmaze.nfo"
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "name": "made.for.love.s01e08.720p.web.h264-cakes[eztv.re].mkv",
+            "size_total": 0.833686128,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.833686128,
+                    "path": "made.for.love.s01e08.720p.web.h264-cakes[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "name": "Made.for.Love.S01E08.720p.WEB.H264-CAKES[rartv]-[rarbg.to]",
+            "size_total": 0.833686509,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Made.for.Love.S01E08.720p.WEB.H264-CAKES[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Made.for.Love.S01E08.720p.WEB.H264-CAKES[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 0.833686128,
+                    "path": "Made.for.Love.S01E08.720p.WEB.H264-CAKES[rarbg]/made.for.love.s01e08.720p.web.h264-cakes.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 2.52e-7,
+                    "path": "Made.for.Love.S01E08.720p.WEB.H264-CAKES[rarbg]/made.for.love.s01e08.720p.web.h264-cakes.nfo"
+                }
+            ]
+        },
+        {
+            "id": 43,
+            "name": "Made.for.Love.S01E08.720p.WEB.x265-MiNX[eztv.re].mkv",
+            "size_total": 0.093078341,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.093078341,
+                    "path": "Made.for.Love.S01E08.720p.WEB.x265-MiNX[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 44,
+            "name": "Made.for.Love.S01E08.AAC.MP4-Mobile [IPT]",
+            "size_total": 0.073539582,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.072976079,
+                    "path": "Made.for.Love.S01E08.AAC.MP4-Mobile/Made.for.Love.S01E08.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001227,
+                    "path": "Made.for.Love.S01E08.AAC.MP4-Mobile/Made.for.Love.S01E08.AAC.MP4-Mobile.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000191368,
+                    "path": "Made.for.Love.S01E08.AAC.MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000176875,
+                    "path": "Made.for.Love.S01E08.AAC.MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000194033,
+                    "path": "Made.for.Love.S01E08.AAC.MP4-Mobile/Screens/screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 45,
+            "name": "Made.for.Love.S01E08.WEB.x264-PHOENiX [IPT]",
+            "size_total": 0.12408555,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.123019532,
+                    "path": "Made.for.Love.S01E08.WEB.x264-PHOENiX/Made.for.Love.S01E08.WEB.x264-PHOENiX.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00000132,
+                    "path": "Made.for.Love.S01E08.WEB.x264-PHOENiX/Made.for.Love.S01E08.WEB.x264-PHOENiX.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000264912,
+                    "path": "Made.for.Love.S01E08.WEB.x264-PHOENiX/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000300911,
+                    "path": "Made.for.Love.S01E08.WEB.x264-PHOENiX/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000236438,
+                    "path": "Made.for.Love.S01E08.WEB.x264-PHOENiX/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000262437,
+                    "path": "Made.for.Love.S01E08.WEB.x264-PHOENiX/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 46,
+            "name": "Made.for.Love.S01E08.WEB.x264-PHOENiX[eztv.re].mkv",
+            "size_total": 0.123019532,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.123019532,
+                    "path": "Made.for.Love.S01E08.WEB.x264-PHOENiX[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 47,
+            "name": "Made.for.Love.S01E08.WEBRip.x264-ION10-[rarbg.to]",
+            "size_total": 0.303691934,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.303654786,
+                    "path": "Made.for.Love.S01E08.WEBRip.x264-ION10/Made.for.Love.S01E08.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Made.for.Love.S01E08.WEBRip.x264-ION10/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 9.9e-8,
+                    "path": "Made.for.Love.S01E08.WEBRip.x264-ION10/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000037019,
+                    "path": "Made.for.Love.S01E08.WEBRip.x264-ION10/Subs/2_English.srt"
+                }
+            ]
+        },
+        {
+            "id": 48,
+            "name": "Made.for.Love.S01E08.XviD-AFG [IPT]",
+            "size_total": 0.182120305,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.181567806,
+                    "path": "Made.for.Love.S01E08.XviD-AFG/Made.for.Love.S01E08.XviD-AFG.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001104,
+                    "path": "Made.for.Love.S01E08.XviD-AFG/Made.for.Love.S01E08.XviD-AFG.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000191372,
+                    "path": "Made.for.Love.S01E08.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000172569,
+                    "path": "Made.for.Love.S01E08.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000187454,
+                    "path": "Made.for.Love.S01E08.XviD-AFG/Screens/screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 49,
+            "name": "Made.for.Love.S01E08.XviD-AFG[eztv.re].avi",
+            "size_total": 0.181567806,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.181567806,
+                    "path": "Made.for.Love.S01E08.XviD-AFG[eztv.re].avi"
+                }
+            ]
+        }
+    ],
+    "collection_cumulative_by_btiha": [
+        {
+            "id": 8,
+            "name": "Made.For.Love.S01.PROPER.WEBRip.x264-ION10-[rarbg.to]",
+            "btih": "eaf4158bddf28700c26734712d8617b0115737ac",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 2.188334359,
+            "creation": "2021-04-15T13:11:47.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4500,
+            "uuploaders": 907
+        },
+        {
+            "id": 27,
+            "name": "Made.for.Love.S01E07.WEBRip.x264-ION10-[rarbg.to]",
+            "btih": "bf70a05a9327edc5086359601fcb8d3dd6f15174",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.288080066,
+            "creation": "2021-04-15T07:14:47.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4188,
+            "uuploaders": 768
+        },
+        {
+            "id": 34,
+            "name": "Made.for.Love.S01E08.1080p.WEB.H264-CAKES[rartv]-[rarbg.to]",
+            "btih": "63a960fa389a9896cc374d1f88d4fb2c70ee3887",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.871389972,
+            "creation": "2021-04-15T07:04:17.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3436,
+            "uuploaders": 1008
+        },
+        {
+            "id": 14,
+            "name": "Made.for.Love.S01E07.1080p.WEB.H264-CAKES[rartv]-[rarbg.to]",
+            "btih": "bd61e954093da93aae21eec8a9ccdb7e53cade9a",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.844199538,
+            "creation": "2021-04-15T07:04:17.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3021,
+            "uuploaders": 913
+        },
+        {
+            "id": 47,
+            "name": "Made.for.Love.S01E08.WEBRip.x264-ION10-[rarbg.to]",
+            "btih": "2a36d299a6f1debce50f0b06bb33e067293aba2a",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.303691934,
+            "creation": "2021-04-15T07:13:54.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2481,
+            "uuploaders": 694
+        },
+        {
+            "id": 42,
+            "name": "Made.for.Love.S01E08.720p.WEB.H264-CAKES[rartv]-[rarbg.to]",
+            "btih": "ac6e4e7e92b89c5b8eaa74127756b31a6fc4af34",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.833686509,
+            "creation": "2021-04-15T07:03:22.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2192,
+            "uuploaders": 350
+        },
+        {
+            "id": 22,
+            "name": "Made.for.Love.S01E07.720p.WEB.H264-CAKES[rartv]-[rarbg.to]",
+            "btih": "30fff4cfd2be4fe7567702fd43196eb75b3096d4",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.824839259,
+            "creation": "2021-04-15T07:02:59.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2066,
+            "uuploaders": 412
+        },
+        {
+            "id": 26,
+            "name": "Made.for.Love.S01E07.WEB.x264-PHOENiX[eztv.re].mkv",
+            "btih": "4eeff37fa41337744b48b03a56a335b28c2aa044",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.134058211,
+            "creation": "2021-04-15T07:17:14.000000000Z,Torrent RW PHP Class - http://github.com/adriengibrat/torrent-rw,Visit us: https://eztv.re/ - Bitcoin: 1EZTVtpeNttqdDayh3D98nfQYybeZhu5YV",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2020,
+            "uuploaders": 261
+        },
+        {
+            "id": 2,
+            "name": "Made.For.Love.S01.1080p.HMAX.WEBRip.DD5.1.x264-MIXED[rartv]-[rarbg.to]",
+            "btih": "7852bb04e985b8064a54e9baeab51f41b0a796b8",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 14.048676944,
+            "creation": "2021-04-15T12:25:24.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1972,
+            "uuploaders": 558
+        },
+        {
+            "id": 6,
+            "name": "Made.For.Love.S01.720p.HMAX.WEBRip.DD5.1.x264-MIXED[eztv.re]",
+            "btih": "8d3fe418b6f9c8e08ee42ff41bb3f568c856216f",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 6.233919871,
+            "creation": "2021-04-15T14:30:51.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1894,
+            "uuploaders": 578
+        },
+        {
+            "id": 9,
+            "name": "Made.For.Love.S01.PROPER.WEBRip.x264-ION10[eztv.re]",
+            "btih": "fce446333fee1ce6d6e1b827c9c23282af8fe550",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 2.188334328,
+            "creation": "2021-04-15T13:38:23.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1649,
+            "uuploaders": 562
+        },
+        {
+            "id": 39,
+            "name": "Made.for.Love.S01E08.720p.HEVC.x265-MeGusta[eztv.re].mkv",
+            "btih": "78e9f5af2c0c8dc0980629749bdbef55eb989e10",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.155454498,
+            "creation": "2021-04-15T07:24:00.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1397,
+            "uuploaders": 163
+        },
+        {
+            "id": 7,
+            "name": "Made.For.Love.S01.720p.HMAX.WEBRip.DD5.1.x264-MIXED[rartv]-[rarbg.to]",
+            "btih": "851466f0d7d892e6c3ee58bc85db62e5bb47c2d5",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 6.233919902,
+            "creation": "2021-04-15T12:25:15.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1166,
+            "uuploaders": 338
+        },
+        {
+            "id": 5,
+            "name": "Made.For.Love.S01.2160p.WEBRip.AAC5.1.x265-GLHF[rartv]-[rarbg.to]",
+            "btih": "bd3afbe40c69b124b94df26d46286dd5c692b7b3",
+            "resolution": "2160",
+            "encoding": "265",
+            "gigabytes": 21.911846218,
+            "creation": "2021-04-15T12:25:56.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1129,
+            "uuploaders": 313
+        },
+        {
+            "id": 43,
+            "name": "Made.for.Love.S01E08.720p.WEB.x265-MiNX[eztv.re].mkv",
+            "btih": "8a1093008a1e24796dee0e038274d7cb34633209",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.093078341,
+            "creation": "2021-04-15T07:35:46.000000000Z,Torrent RW PHP Class - http://github.com/adriengibrat/torrent-rw,Visit us: https://eztv.re/ - Bitcoin: 1EZTVtpeNttqdDayh3D98nfQYybeZhu5YV",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1109,
+            "uuploaders": 311
+        },
+        {
+            "id": 23,
+            "name": "Made.for.Love.S01E07.720p.WEB.x265-MiNX[eztv.re].mkv",
+            "btih": "c3ae649f086889c443c378474ae4340ecee58cec",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.102265022,
+            "creation": "2021-04-15T07:36:29.000000000Z,Torrent RW PHP Class - http://github.com/adriengibrat/torrent-rw,Visit us: https://eztv.re/ - Bitcoin: 1EZTVtpeNttqdDayh3D98nfQYybeZhu5YV",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1000,
+            "uuploaders": 348
+        },
+        {
+            "id": 46,
+            "name": "Made.for.Love.S01E08.WEB.x264-PHOENiX[eztv.re].mkv",
+            "btih": "45b2b48772b7e36fa53e48a158000a3a7dd778b9",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.123019532,
+            "creation": "2021-04-15T07:22:41.000000000Z,Torrent RW PHP Class - http://github.com/adriengibrat/torrent-rw,Visit us: https://eztv.re/ - Bitcoin: 1EZTVtpeNttqdDayh3D98nfQYybeZhu5YV",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 889,
+            "uuploaders": 306
+        },
+        {
+            "id": 31,
+            "name": "Made.for.Love.S01E08.1080p.HEVC.x265-MeGusta[eztv.re].mkv",
+            "btih": "62c28df16093236ed3c38009b19ab63850b0886c",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.194148444,
+            "creation": "2021-04-15T07:42:47.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 875,
+            "uuploaders": 261
+        },
+        {
+            "id": 35,
+            "name": "Made.For.Love.S01E08.2160p.WEB.H265-GLHF[rartv]-[rarbg.to]",
+            "btih": "178434d03e9c2ce56f53814e87a948ac13fe4849",
+            "resolution": "2160",
+            "encoding": "265",
+            "gigabytes": 2.782114745,
+            "creation": "2021-04-15T07:49:10.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 783,
+            "uuploaders": 256
+        },
+        {
+            "id": 15,
+            "name": "Made.For.Love.S01E07.2160p.WEB.H265-GLHF[rartv]-[rarbg.to]",
+            "btih": "b1b2a083d36a98dc60422cb37b880bdfd9502240",
+            "resolution": "2160",
+            "encoding": "265",
+            "gigabytes": 2.739239342,
+            "creation": "2021-04-15T07:49:08.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 776,
+            "uuploaders": 247
+        },
+        {
+            "id": 33,
+            "name": "made.for.love.s01e08.1080p.web.h264-cakes[eztv.re].mkv",
+            "btih": "3ccb5fc74d82b81f3e327956b1552c7196bf36d9",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.87138959,
+            "creation": "2021-04-15T07:09:07.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 677,
+            "uuploaders": 294
+        },
+        {
+            "id": 1,
+            "name": "Made.For.Love.S01.1080p.HMAX.WEBRip.DD5.1.x264-MIXED[eztv.re]",
+            "btih": "dd8b13b675dd16fd4aa04e304031eef7adbb3aff",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 14.048676913,
+            "creation": "2021-04-15T14:28:07.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 674,
+            "uuploaders": 295
+        },
+        {
+            "id": 13,
+            "name": "made.for.love.s01e07.1080p.web.h264-cakes[eztv.re].mkv",
+            "btih": "64f640ee6ac2a13d8003c1ab67beebb8e582c5ac",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.844199156,
+            "creation": "2021-04-15T07:09:55.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 645,
+            "uuploaders": 268
+        },
+        {
+            "id": 21,
+            "name": "made.for.love.s01e07.720p.web.h264-cakes[eztv.re].mkv",
+            "btih": "4c14dcc50fffac0b3cc329da4d51dbe8edd5b2e7",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.824838878,
+            "creation": "2021-04-15T07:05:31.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 630,
+            "uuploaders": 247
+        },
+        {
+            "id": 41,
+            "name": "made.for.love.s01e08.720p.web.h264-cakes[eztv.re].mkv",
+            "btih": "67c7fa8a5574abe3825910fe248bcf62434656b8",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.833686128,
+            "creation": "2021-04-15T07:03:58.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 628,
+            "uuploaders": 246
+        },
+        {
+            "id": 11,
+            "name": "Made.for.Love.S01E07.1080p.HEVC.x265-MeGusta[eztv.re].mkv",
+            "btih": "952a8b4827d0a925d5c480fad19579391e2305ed",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.206104249,
+            "creation": "2021-04-15T07:23:57.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 622,
+            "uuploaders": 242
+        },
+        {
+            "id": 49,
+            "name": "Made.for.Love.S01E08.XviD-AFG[eztv.re].avi",
+            "btih": "47ebfc0a084d7640fd9cedf33fac3c4b7cf4954e",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.181567806,
+            "creation": "2021-04-15T07:12:10.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 565,
+            "uuploaders": 151
+        },
+        {
+            "id": 17,
+            "name": "Made.for.Love.S01E07.480p.x264-mSD[eztv.re].mkv",
+            "btih": "39030ad26d1ae28e96e946bf50a5a5ec8ee1f6c7",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.130529136,
+            "creation": "2021-04-15T07:15:15.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 439,
+            "uuploaders": 171
+        },
+        {
+            "id": 19,
+            "name": "Made.for.Love.S01E07.720p.HEVC.x265-MeGusta[eztv.re].mkv",
+            "btih": "823eb9d3fcdaaa5a21f82a58b6d0809496e496f5",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.162988314,
+            "creation": "2021-04-15T07:16:51.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 411,
+            "uuploaders": 154
+        },
+        {
+            "id": 29,
+            "name": "Made.for.Love.S01E07.XviD-AFG[eztv.re].avi",
+            "btih": "c4b91c7122688720343d543b8f142f611fff4bbe",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.19208316,
+            "creation": "2021-04-15T07:17:40.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 404,
+            "uuploaders": 179
+        },
+        {
+            "id": 4,
+            "name": "Made.For.Love.S01.2160p.WEB.H265-GLHF[eztv.re]",
+            "btih": "41006b46f397357365ea87e68942d3cdbb9de3fc",
+            "resolution": "2160",
+            "encoding": "265",
+            "gigabytes": 21.911846187,
+            "creation": "2021-04-15T15:09:34.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 397,
+            "uuploaders": 209
+        },
+        {
+            "id": 37,
+            "name": "Made.for.Love.S01E08.480p.x264-mSD[eztv.re].mkv",
+            "btih": "fcb0ad1dd7f4f014c11f9f48b68f1adbc59c41c1",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.126167198,
+            "creation": "2021-04-15T07:08:34.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 296,
+            "uuploaders": 147
+        },
+        {
+            "id": 12,
+            "name": "Made.for.Love.S01E07.1080p.WEB.H264-CAKES [IPT]",
+            "btih": "cdd106399946ec4776e911ab15e458fef1fd94ef",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.844201189,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 200,
+            "uuploaders": 131
+        },
+        {
+            "id": 32,
+            "name": "Made.for.Love.S01E08.1080p.WEB.H264-CAKES [IPT]",
+            "btih": "58a9b72a9062f3ea70fe7948230080432311c27a",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.871391623,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 194,
+            "uuploaders": 127
+        },
+        {
+            "id": 10,
+            "name": "Made.for.Love.S01E07.1080p.HEVC.x265-MeGusta [IPT]",
+            "btih": "f1ca2cb679a41c7466395f266cf3b00ee6b251f5",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.225852051,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 179,
+            "uuploaders": 92
+        },
+        {
+            "id": 30,
+            "name": "Made.for.Love.S01E08.1080p.HEVC.x265-MeGusta [IPT]",
+            "btih": "e6e9dfa2984b21e3fcbf9453e0759f2683e64f8c",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.211318115,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 173,
+            "uuploaders": 90
+        },
+        {
+            "id": 36,
+            "name": "Made.for.Love.S01E08.480p.x264-mSD [IPT]",
+            "btih": "17d9fa7b59a31bd9872a3f2729c7cc36c989289d",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.126666163,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 172,
+            "uuploaders": 28
+        },
+        {
+            "id": 16,
+            "name": "Made.for.Love.S01E07.480p.x264-mSD [IPT]",
+            "btih": "4b1bd4a40898ce57d75a3b8d9c4a12c76741430b",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.131126708,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 156,
+            "uuploaders": 32
+        },
+        {
+            "id": 20,
+            "name": "Made.for.Love.S01E07.720p.WEB.H264-CAKES [IPT]",
+            "btih": "2664c6dfb66ed25e676278b435a7cf44f9927f27",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.851672972,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 110,
+            "uuploaders": 80
+        },
+        {
+            "id": 40,
+            "name": "Made.for.Love.S01E08.720p.WEB.H264-CAKES [IPT]",
+            "btih": "cc93bcdb4236ecad186bbe282f277e2725461d3a",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.862639493,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 103,
+            "uuploaders": 80
+        },
+        {
+            "id": 38,
+            "name": "Made.for.Love.S01E08.720p.HEVC.x265-MeGusta [IPT]",
+            "btih": "cf8aef157bde731f7bd059c3298a1b7ea164dab1",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.16398295,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 86,
+            "uuploaders": 70
+        },
+        {
+            "id": 18,
+            "name": "Made.for.Love.S01E07.720p.HEVC.x265-MeGusta [IPT]",
+            "btih": "2a372345f75184c37112160cb6beb2b7d84c0101",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.172469446,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 82,
+            "uuploaders": 51
+        },
+        {
+            "id": 3,
+            "name": "Made.For.Love.S01.1080p.WEBDL.NewStudio",
+            "btih": "e24be5b603e54a07114e2039d4909f62633b4a32",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 5.379621933,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 62,
+            "uuploaders": 25
+        },
+        {
+            "id": 28,
+            "name": "Made.for.Love.S01E07.XviD-AFG [IPT]",
+            "btih": "de72ef98383b8034c451837ecc8a772162e51f28",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.192769862,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 46,
+            "uuploaders": 34
+        },
+        {
+            "id": 48,
+            "name": "Made.for.Love.S01E08.XviD-AFG [IPT]",
+            "btih": "8d336f2b37ce2f5e27075ac28729c5dadcb9d8da",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.182120305,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 41,
+            "uuploaders": 34
+        },
+        {
+            "id": 24,
+            "name": "Made.for.Love.S01E07.AAC.MP4-Mobile [IPT]",
+            "btih": "b53192feebcea91cea90265ebed825fe8053ccaf",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.079273782,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 24,
+            "uuploaders": 20
+        },
+        {
+            "id": 44,
+            "name": "Made.for.Love.S01E08.AAC.MP4-Mobile [IPT]",
+            "btih": "2087e731f17079b439a9df204f0f79b01cf0fe7c",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.073539582,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 23,
+            "uuploaders": 18
+        },
+        {
+            "id": 45,
+            "name": "Made.for.Love.S01E08.WEB.x264-PHOENiX [IPT]",
+            "btih": "b1bd3b155c202466a63e0ac0621d3c564688c0d4",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.12408555,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 14,
+            "uuploaders": 11
+        },
+        {
+            "id": 25,
+            "name": "Made.for.Love.S01E07.WEB.x264-PHOENiX [IPT]",
+            "btih": "6f2e2e8ad5c30d6833e0512d89afa7a11c5ea612",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.135335799,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 12,
+            "uuploaders": 10
+        }
+    ]
+}

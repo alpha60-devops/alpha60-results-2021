@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt7808566",
+    "imdb_id": "tt7808566",
+    "revision": "31e26382b8f5d0a1c9bd66587e336fc4bd959c9a",
+    "wikidata_id": "Q85783044",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Made_for_Love_(TV_series)"
+  },
+  "coverage_sha256": "6f5c31af6c55cd83a2ea13718e34fc3815da26722f2f55ae4d9be3065363941c",
+  "generated_at": "2026-09-10T16:22:41.545674+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2021-archives/made-for-love-107.cache/cache.20210417.tar.xz",
+      "sha256": "3bb7ad179c12c4099a690a4dddee8d60080540668b49bc57bb7f651418dda103",
+      "size": 2602012
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-coverage-evidence/made-for-love-107.md",
+      "sha256": "cdfeef6a6584d1634274fb330f6b7d8ea0ad5919d569393b05c661d9e40ea5de",
+      "size": 554
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-cache-stream-receipts/made-for-love-107.json",
+      "sha256": "382f51bfe0b50fff7025a139de5ee328891ed48545bb3b59c82a25fa6ad44dc7",
+      "size": 2006
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-product-receipts/made-for-love-107.json",
+      "sha256": "dfebb6c20cbf5f9dbcca844be5e71c728898ae75101ee189e8ad08460ef6f9b4",
+      "size": 367
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-control/worker-map.json",
+      "sha256": "909a944a33f8241a03a3598d848d86191d00a30a040f8d7fc751b7bbc277bb36",
+      "size": 12987
+    }
+  },
+  "media_object": "made-for-love-107",
+  "published_files": {
+    "data/csv/bytes/made-for-love-107-cumulative-detail.2021-btiha-itemized-by-bytes.csv": "6b2b35d6221a20ff2df884a9bf6d8e322b69350855e48c0922f5ddf34bec9101",
+    "docs/itemized/figures/made-for-love-107-carto-4k.webp": "12f40e2e39c7679fddfa76747f72017bae7a163891da727e6c2257974e6151b1",
+    "docs/itemized/figures/made-for-love-107-carto.png": "9b569a662f50da60a3a192763c7c0dc04186eb279006c21fb29ac001e91078af",
+    "docs/itemized/figures/made-for-love-107-cumulative-detail-btiha-itemized-by-bytes.svg": "ef27748f4ed6f036584480ec1a69467e34c6c70e0d70349c693135899b638777",
+    "docs/itemized/figures/made-for-love-107-data-ge-1080p-4k.webp": "c7ceb37d32ec8502b05b98cf5960b101b47bb4b53ec0c71583f131258c97bb39",
+    "docs/itemized/figures/made-for-love-107-data-ge-1080p.webp": "8be800c4fa8a78736511cd9eb80332cd103a49e29fb8790ad9e55f0077bacddb",
+    "docs/itemized/figures/made-for-love-107-data-lt-1080p-4k.webp": "cfac46fbcecfd5605ffc423a629e0ddb404cca7d8526d27179f9a9e764cc973e",
+    "docs/itemized/figures/made-for-love-107-data-lt-1080p.webp": "4be249c69e3368fee31e38d1ca6b0c8036ac995ccff3b64f7c3d36e9c158c0ec",
+    "docs/itemized/figures/made-for-love-107-downloads-by-day-day.svg": "99e955f001ec34e28ec5659262d6a9bd5559a6975a5c8db74460348cd2a619d6",
+    "docs/itemized/figures/made-for-love-107-downloads-by-week-made-for-love-107-week.svg": "2cc0f0776f3f598eee3364981915822096368136abaacf21444014eba8ce54b2",
+    "docs/itemized/made-for-love-107-sample-cache-audit.md": "37c3cf3606aae94d5c7bab57ac067cf459ed2415f3d28c78d0f876d47d5a2d28",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "4ad12234c22b1cc8c6ac0bd2a890eb9a45b14844",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "ed3dbca0eab97b6a0e329c7d3f2ff202418ab8dba7729ae6c3cd4852ee06ac2a",
+      "size": 37337560
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/made-for-love-107/tmp/made-for-love-107-cumulative-btiha.geojson",
+        "sha256": "2cbf9d876d95ce39bc541ac692b44c1fbca6f7bf57d177a642c5c800d9102561",
+        "size": 1491021
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/made-for-love-107/tmp/made-for-love-107-cumulative-btiha-media-objects.json",
+        "sha256": "00d6fade6a55159c3a9570e5b7fb7dcc5c90755509d243840000038541318bf4",
+        "size": 91141
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi",
+      "revision": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+      "untracked": false
+    },
+    "media_object": "made-for-love-107",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "2b6e089b0f2b859c11dbdec11c354f187fc875a2d3d6ff68ccd6d692e0342126",
+      "size": 8761328
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "ac0b8fe4ecd11aa639a37a9b3df83dba08cf103723eb6004aea76989f1a5b09e",
+      "size": 3694176
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          49.0,
+          44.0,
+          38.0,
+          36.0,
+          32.0,
+          30.0,
+          28.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "London",
+          "Toronto",
+          "Lelystad",
+          "Los Angeles",
+          "New York City",
+          "Sydney",
+          "Amsterdam",
+          "Melbourne",
+          "Shanghai",
+          "Dallas"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          36.0,
+          36.0,
+          32.0,
+          31.0,
+          30.0,
+          30.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "London",
+          "Sydney",
+          "Nairobi",
+          "New York City",
+          "Lelystad",
+          "Toronto",
+          "Melbourne",
+          "Los Angeles",
+          "Amsterdam",
+          "Frankfurt am Main"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 3,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 10,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 6,
+        "x_tick_marks": 6,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 1,
+        "y_tick_labels": 20
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "4ad12234c22b1cc8c6ac0bd2a890eb9a45b14844",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "96f413ef69521fbc99d4a2dd0aa761990335dc85",
+    "izzi": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+    "metadata": "31e26382b8f5d0a1c9bd66587e336fc4bd959c9a"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2021"
+}
