@@ -1,0 +1,911 @@
+{
+    "collection_name": "Black Monday",
+    "collection_id": "310",
+    "collection_key": "black-monday-310",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "collection_btiha_duplicates": [],
+    "collection_btiha_metadata": [
+        {
+            "id": 1,
+            "name": "Black.Monday.S03E10.1080p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.357081625,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.33912085,
+                    "path": "Black.Monday.S03E10.1080p.HEVC.x265-MeGusta/Black.Monday.S03E10.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001138,
+                    "path": "Black.Monday.S03E10.1080p.HEVC.x265-MeGusta/Black.Monday.S03E10.1080p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.005625773,
+                    "path": "Black.Monday.S03E10.1080p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.007869897,
+                    "path": "Black.Monday.S03E10.1080p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.004463967,
+                    "path": "Black.Monday.S03E10.1080p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Black.Monday.S03E10.1080p.HEVC.x265-MeGusta[eztv.re].mkv",
+            "size_total": 0.33912085,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.33912085,
+                    "path": "Black.Monday.S03E10.1080p.HEVC.x265-MeGusta[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Black.Monday.S03E10.1080p.WEB.H264-GLHF [IPT]",
+            "size_total": 2.177277984,
+            "files_total": 14,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4e-8,
+                    "path": "Black.Monday.S03E10.1080p.WEB.H264-GLHF/black.monday.s03e10.1080p.web.h264-glhf.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.2,
+                    "path": "Black.Monday.S03E10.1080p.WEB.H264-GLHF/black.monday.s03e10.1080p.web.h264-glhf.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.2,
+                    "path": "Black.Monday.S03E10.1080p.WEB.H264-GLHF/black.monday.s03e10.1080p.web.h264-glhf.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.2,
+                    "path": "Black.Monday.S03E10.1080p.WEB.H264-GLHF/black.monday.s03e10.1080p.web.h264-glhf.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.2,
+                    "path": "Black.Monday.S03E10.1080p.WEB.H264-GLHF/black.monday.s03e10.1080p.web.h264-glhf.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.2,
+                    "path": "Black.Monday.S03E10.1080p.WEB.H264-GLHF/black.monday.s03e10.1080p.web.h264-glhf.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.2,
+                    "path": "Black.Monday.S03E10.1080p.WEB.H264-GLHF/black.monday.s03e10.1080p.web.h264-glhf.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.2,
+                    "path": "Black.Monday.S03E10.1080p.WEB.H264-GLHF/black.monday.s03e10.1080p.web.h264-glhf.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.2,
+                    "path": "Black.Monday.S03E10.1080p.WEB.H264-GLHF/black.monday.s03e10.1080p.web.h264-glhf.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.2,
+                    "path": "Black.Monday.S03E10.1080p.WEB.H264-GLHF/black.monday.s03e10.1080p.web.h264-glhf.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.099535252,
+                    "path": "Black.Monday.S03E10.1080p.WEB.H264-GLHF/black.monday.s03e10.1080p.web.h264-glhf.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.2,
+                    "path": "Black.Monday.S03E10.1080p.WEB.H264-GLHF/black.monday.s03e10.1080p.web.h264-glhf.rar"
+                },
+                {
+                    "number": 13,
+                    "size": 5.94e-7,
+                    "path": "Black.Monday.S03E10.1080p.WEB.H264-GLHF/black.monday.s03e10.1080p.web.h264-glhf.sfv"
+                },
+                {
+                    "number": 14,
+                    "size": 0.077742098,
+                    "path": "Black.Monday.S03E10.1080p.WEB.H264-GLHF/Sample/black.monday.s03e10.1080p.web.h264-glhf-sample.mkv"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "black.monday.s03e10.1080p.web.h264-glhf[eztv.re].mkv",
+            "size_total": 2.099533932,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.099533932,
+                    "path": "black.monday.s03e10.1080p.web.h264-glhf[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Black.Monday.S03E10.1080p.WEB.H264-GLHF[rartv]-[rarbg.to]",
+            "size_total": 2.177276199,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Black.Monday.S03E10.1080p.WEB.H264-GLHF[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Black.Monday.S03E10.1080p.WEB.H264-GLHF[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 0.077742098,
+                    "path": "Black.Monday.S03E10.1080p.WEB.H264-GLHF[rarbg]/Sample/black.monday.s03e10.1080p.web.h264-glhf-sample.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 2.099533932,
+                    "path": "Black.Monday.S03E10.1080p.WEB.H264-GLHF[rarbg]/black.monday.s03e10.1080p.web.h264-glhf.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 4e-8,
+                    "path": "Black.Monday.S03E10.1080p.WEB.H264-GLHF[rarbg]/black.monday.s03e10.1080p.web.h264-glhf.nfo"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Black.Monday.S03E10.2160p.WEB.H265-GLHF[rartv]-[rarbg.to]",
+            "size_total": 3.428265887,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Black.Monday.S03E10.2160p.WEB.H265-GLHF[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Black.Monday.S03E10.2160p.WEB.H265-GLHF[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 3.428265718,
+                    "path": "Black.Monday.S03E10.2160p.WEB.H265-GLHF[rarbg]/black.monday.s03e10.2160p.web.h265-glhf.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 4e-8,
+                    "path": "Black.Monday.S03E10.2160p.WEB.H265-GLHF[rarbg]/black.monday.s03e10.2160p.web.h265-glhf.nfo"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Black.Monday.S03E10.480p.x264-mSD [IPT]",
+            "size_total": 0.223398333,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.222788914,
+                    "path": "Black.Monday.S03E10.480p.x264-mSD/Black.Monday.S03E10.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 9.68e-7,
+                    "path": "Black.Monday.S03E10.480p.x264-mSD/Black.Monday.S03E10.480p.x264-mSD.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000181462,
+                    "path": "Black.Monday.S03E10.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000290208,
+                    "path": "Black.Monday.S03E10.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000136781,
+                    "path": "Black.Monday.S03E10.480p.x264-mSD/Screens/screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Black.Monday.S03E10.480p.x264-mSD[eztv.re].mkv",
+            "size_total": 0.222788914,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.222788914,
+                    "path": "Black.Monday.S03E10.480p.x264-mSD[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Black.Monday.S03E10.720p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.282606404,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.273891887,
+                    "path": "Black.Monday.S03E10.720p.HEVC.x265-MeGusta/Black.Monday.S03E10.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001126,
+                    "path": "Black.Monday.S03E10.720p.HEVC.x265-MeGusta/Black.Monday.S03E10.720p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.002763056,
+                    "path": "Black.Monday.S03E10.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.003699164,
+                    "path": "Black.Monday.S03E10.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.002251171,
+                    "path": "Black.Monday.S03E10.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Black.Monday.S03E10.720p.HEVC.x265-MeGusta[eztv.re].mkv",
+            "size_total": 0.273891887,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.273891887,
+                    "path": "Black.Monday.S03E10.720p.HEVC.x265-MeGusta[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Black.Monday.S03E10.720p.WEB.H264-GGWP [IPT]",
+            "size_total": 1.026075254,
+            "files_total": 14,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.9e-8,
+                    "path": "Black.Monday.S03E10.720p.WEB.H264-GGWP/black.monday.s03e10.720p.web.h264-ggwp.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.1,
+                    "path": "Black.Monday.S03E10.720p.WEB.H264-GGWP/black.monday.s03e10.720p.web.h264-ggwp.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.1,
+                    "path": "Black.Monday.S03E10.720p.WEB.H264-GGWP/black.monday.s03e10.720p.web.h264-ggwp.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.1,
+                    "path": "Black.Monday.S03E10.720p.WEB.H264-GGWP/black.monday.s03e10.720p.web.h264-ggwp.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.1,
+                    "path": "Black.Monday.S03E10.720p.WEB.H264-GGWP/black.monday.s03e10.720p.web.h264-ggwp.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.1,
+                    "path": "Black.Monday.S03E10.720p.WEB.H264-GGWP/black.monday.s03e10.720p.web.h264-ggwp.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.1,
+                    "path": "Black.Monday.S03E10.720p.WEB.H264-GGWP/black.monday.s03e10.720p.web.h264-ggwp.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.1,
+                    "path": "Black.Monday.S03E10.720p.WEB.H264-GGWP/black.monday.s03e10.720p.web.h264-ggwp.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.1,
+                    "path": "Black.Monday.S03E10.720p.WEB.H264-GGWP/black.monday.s03e10.720p.web.h264-ggwp.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.089583457,
+                    "path": "Black.Monday.S03E10.720p.WEB.H264-GGWP/black.monday.s03e10.720p.web.h264-ggwp.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.1,
+                    "path": "Black.Monday.S03E10.720p.WEB.H264-GGWP/black.monday.s03e10.720p.web.h264-ggwp.rar"
+                },
+                {
+                    "number": 12,
+                    "size": 5.3e-7,
+                    "path": "Black.Monday.S03E10.720p.WEB.H264-GGWP/black.monday.s03e10.720p.web.h264-ggwp.sfv"
+                },
+                {
+                    "number": 13,
+                    "size": 0.036489621,
+                    "path": "Black.Monday.S03E10.720p.WEB.H264-GGWP/Sample/black.monday.s03e10.720p.web.h264-ggwp-sample.mkv"
+                },
+                {
+                    "number": 14,
+                    "size": 0.000001607,
+                    "path": "Black.Monday.S03E10.720p.WEB.H264-GGWP/tvmaze.nfo"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "black.monday.s03e10.720p.web.h264-ggwp[eztv.re].mkv",
+            "size_total": 0.989582267,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.989582267,
+                    "path": "black.monday.s03e10.720p.web.h264-ggwp[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Black.Monday.S03E10.720p.WEB.H264-GGWP[rartv]-[rarbg.to]",
+            "size_total": 0.989582435,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Black.Monday.S03E10.720p.WEB.H264-GGWP[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Black.Monday.S03E10.720p.WEB.H264-GGWP[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 0.989582267,
+                    "path": "Black.Monday.S03E10.720p.WEB.H264-GGWP[rarbg]/black.monday.s03e10.720p.web.h264-ggwp.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 3.9e-8,
+                    "path": "Black.Monday.S03E10.720p.WEB.H264-GGWP[rarbg]/black.monday.s03e10.720p.web.h264-ggwp.nfo"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Black.Monday.S03E10.AAC.MP4-Mobile [IPT]",
+            "size_total": 0.114878755,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.11417692,
+                    "path": "Black.Monday.S03E10.AAC.MP4-Mobile/Black.Monday.S03E10.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001224,
+                    "path": "Black.Monday.S03E10.AAC.MP4-Mobile/Black.Monday.S03E10.AAC.MP4-Mobile.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00020872,
+                    "path": "Black.Monday.S03E10.AAC.MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000335179,
+                    "path": "Black.Monday.S03E10.AAC.MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000156712,
+                    "path": "Black.Monday.S03E10.AAC.MP4-Mobile/Screens/screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Black.Monday.S03E10.HDR.2160p.WEB.H265-GLHF[eztv.re].mkv",
+            "size_total": 3.429083338,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.429083338,
+                    "path": "Black.Monday.S03E10.HDR.2160p.WEB.H265-GLHF[eztv.re].mkv"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Black.Monday.S03E10.HDR.2160p.WEB.H265-GLHF[rartv]-[rarbg.to]",
+            "size_total": 3.429083511,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Black.Monday.S03E10.HDR.2160p.WEB.H265-GLHF[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Black.Monday.S03E10.HDR.2160p.WEB.H265-GLHF[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 3.429083338,
+                    "path": "Black.Monday.S03E10.HDR.2160p.WEB.H265-GLHF[rarbg]/black.monday.s03e10.hdr.2160p.web.h265-glhf.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 4.4e-8,
+                    "path": "Black.Monday.S03E10.HDR.2160p.WEB.H265-GLHF[rarbg]/black.monday.s03e10.hdr.2160p.web.h265-glhf.nfo"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Black.Monday.S03E10.ONE.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]",
+            "size_total": 2.106518361,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.106518232,
+                    "path": "Black.Monday.S03E10.ONE.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/Black.Monday.S03E10.ONE.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Black.Monday.S03E10.ONE.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 9.9e-8,
+                    "path": "Black.Monday.S03E10.ONE.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Black.Monday.S03E10.ONE.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]",
+            "size_total": 0.994237429,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.9942373,
+                    "path": "Black.Monday.S03E10.ONE.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/Black.Monday.S03E10.ONE.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Black.Monday.S03E10.ONE.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 9.9e-8,
+                    "path": "Black.Monday.S03E10.ONE.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "Black.Monday.S03E10.WEBRip.x264-ION10-[rarbg.to]",
+            "size_total": 0.308230849,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.30812748,
+                    "path": "Black.Monday.S03E10.WEBRip.x264-ION10/Black.Monday.S03E10.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Black.Monday.S03E10.WEBRip.x264-ION10/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 9.9e-8,
+                    "path": "Black.Monday.S03E10.WEBRip.x264-ION10/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 4,
+                    "size": 0.00010324,
+                    "path": "Black.Monday.S03E10.WEBRip.x264-ION10/Subs/2_English.srt"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "Black.Monday.S03E10.XviD-AFG [IPT]",
+            "size_total": 0.285814552,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.285103554,
+                    "path": "Black.Monday.S03E10.XviD-AFG/Black.Monday.S03E10.XviD-AFG.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001105,
+                    "path": "Black.Monday.S03E10.XviD-AFG/Black.Monday.S03E10.XviD-AFG.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000213511,
+                    "path": "Black.Monday.S03E10.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.00034266,
+                    "path": "Black.Monday.S03E10.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000153722,
+                    "path": "Black.Monday.S03E10.XviD-AFG/Screens/screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "name": "Black.Monday.S03E10.XviD-AFG[eztv.re].avi",
+            "size_total": 0.285103554,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.285103554,
+                    "path": "Black.Monday.S03E10.XviD-AFG[eztv.re].avi"
+                }
+            ]
+        }
+    ],
+    "collection_cumulative_by_btiha": [
+        {
+            "id": 18,
+            "name": "Black.Monday.S03E10.ONE.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]",
+            "btih": "a8329c580e5d5f8572b9b9f09246224b25278398",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.994237429,
+            "creation": "2021-08-01T15:12:28.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4983,
+            "uuploaders": 218
+        },
+        {
+            "id": 5,
+            "name": "Black.Monday.S03E10.1080p.WEB.H264-GLHF[rartv]-[rarbg.to]",
+            "btih": "cf870ef0779b44f8fe95114cad551c5739caf316",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.177276199,
+            "creation": "2021-08-01T04:07:57.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1707,
+            "uuploaders": 409
+        },
+        {
+            "id": 8,
+            "name": "Black.Monday.S03E10.480p.x264-mSD[eztv.re].mkv",
+            "btih": "b4c2bf75d79de9452b67e1aaad3d5c8b6c51e63a",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.222788914,
+            "creation": "2021-08-01T04:41:37.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1647,
+            "uuploaders": 241
+        },
+        {
+            "id": 19,
+            "name": "Black.Monday.S03E10.WEBRip.x264-ION10-[rarbg.to]",
+            "btih": "a49ec299c422ab087153d0a687f22dfd3491f381",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.308230849,
+            "creation": "2021-08-01T04:18:19.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1592,
+            "uuploaders": 623
+        },
+        {
+            "id": 10,
+            "name": "Black.Monday.S03E10.720p.HEVC.x265-MeGusta[eztv.re].mkv",
+            "btih": "1c08f977f4f6c795afb5e2eda971898df706460d",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.273891887,
+            "creation": "2021-08-01T04:21:33.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1515,
+            "uuploaders": 164
+        },
+        {
+            "id": 21,
+            "name": "Black.Monday.S03E10.XviD-AFG[eztv.re].avi",
+            "btih": "dec201a213dbebd6437880d2281d81ba74b250ee",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.285103554,
+            "creation": "2021-08-01T04:21:01.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1354,
+            "uuploaders": 149
+        },
+        {
+            "id": 17,
+            "name": "Black.Monday.S03E10.ONE.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]",
+            "btih": "7114324aba3fafa2c883b03c5297e1abafd26eb8",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.106518361,
+            "creation": "2021-08-01T15:12:41.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1181,
+            "uuploaders": 299
+        },
+        {
+            "id": 4,
+            "name": "black.monday.s03e10.1080p.web.h264-glhf[eztv.re].mkv",
+            "btih": "e87860ef30d4c10f08feca41a87161d716333c85",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.099533932,
+            "creation": "2021-08-01T04:08:13.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1086,
+            "uuploaders": 147
+        },
+        {
+            "id": 15,
+            "name": "Black.Monday.S03E10.HDR.2160p.WEB.H265-GLHF[eztv.re].mkv",
+            "btih": "902029325082918bbc533ccdf019bc3ef590d82d",
+            "resolution": "2160",
+            "encoding": "265",
+            "gigabytes": 3.429083338,
+            "creation": "2021-08-01T04:48:27.000000000Z,Torrent RW PHP Class - http://github.com/adriengibrat/torrent-rw,Visit us: https://eztv.re/ - Bitcoin: 1EZTVtpeNttqdDayh3D98nfQYybeZhu5YV",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 737,
+            "uuploaders": 48
+        },
+        {
+            "id": 6,
+            "name": "Black.Monday.S03E10.2160p.WEB.H265-GLHF[rartv]-[rarbg.to]",
+            "btih": "a7f0840292b035223bb094615ddadece582ee1f2",
+            "resolution": "2160",
+            "encoding": "265",
+            "gigabytes": 3.428265887,
+            "creation": "2021-08-01T04:15:13.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 732,
+            "uuploaders": 43
+        },
+        {
+            "id": 12,
+            "name": "black.monday.s03e10.720p.web.h264-ggwp[eztv.re].mkv",
+            "btih": "461524d0dcbfee3cb69ca2c39a1a28df6dc17645",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.989582267,
+            "creation": "2021-08-01T04:15:59.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 725,
+            "uuploaders": 171
+        },
+        {
+            "id": 13,
+            "name": "Black.Monday.S03E10.720p.WEB.H264-GGWP[rartv]-[rarbg.to]",
+            "btih": "939f5c9a463eabeab0b9a8f1be35b34e8cf17078",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.989582435,
+            "creation": "2021-08-01T04:08:14.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 688,
+            "uuploaders": 194
+        },
+        {
+            "id": 2,
+            "name": "Black.Monday.S03E10.1080p.HEVC.x265-MeGusta[eztv.re].mkv",
+            "btih": "06da6b5f28e8c4f18405f79868f7de5860a08f57",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.33912085,
+            "creation": "2021-08-01T04:23:26.000000000Z,EZTV,Visit us: https://eztv.re/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 636,
+            "uuploaders": 134
+        },
+        {
+            "id": 16,
+            "name": "Black.Monday.S03E10.HDR.2160p.WEB.H265-GLHF[rartv]-[rarbg.to]",
+            "btih": "3431e85ff5ce3a20f5b259fe21711c21cb66cf79",
+            "resolution": "2160",
+            "encoding": "265",
+            "gigabytes": 3.429083511,
+            "creation": "2021-08-01T04:16:35.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 286,
+            "uuploaders": 123
+        },
+        {
+            "id": 3,
+            "name": "Black.Monday.S03E10.1080p.WEB.H264-GLHF [IPT]",
+            "btih": "e08190acdc1d299e61c737b2cba9c84a281d4b2f",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.177277984,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 203,
+            "uuploaders": 138
+        },
+        {
+            "id": 1,
+            "name": "Black.Monday.S03E10.1080p.HEVC.x265-MeGusta [IPT]",
+            "btih": "3435b12dc947f88d907c1f001a1c4efa2269c41c",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.357081625,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 187,
+            "uuploaders": 98
+        },
+        {
+            "id": 11,
+            "name": "Black.Monday.S03E10.720p.WEB.H264-GGWP [IPT]",
+            "btih": "fd55a7f096f3e3afaf8f700195874e16ac774117",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.026075254,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 79,
+            "uuploaders": 56
+        },
+        {
+            "id": 9,
+            "name": "Black.Monday.S03E10.720p.HEVC.x265-MeGusta [IPT]",
+            "btih": "b44be8cc3367adec84aff35c3835d4f8440f93f0",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.282606404,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 66,
+            "uuploaders": 60
+        },
+        {
+            "id": 7,
+            "name": "Black.Monday.S03E10.480p.x264-mSD [IPT]",
+            "btih": "fb8b63cb95690dd0d21d74e3a3324d151000d934",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.223398333,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 29,
+            "uuploaders": 19
+        },
+        {
+            "id": 20,
+            "name": "Black.Monday.S03E10.XviD-AFG [IPT]",
+            "btih": "65b794dd351527f3c242246a3372cf503d734408",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.285814552,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 27,
+            "uuploaders": 22
+        },
+        {
+            "id": 14,
+            "name": "Black.Monday.S03E10.AAC.MP4-Mobile [IPT]",
+            "btih": "4fa4b03607e0494c928a0338d39e5b99411040b0",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.114878755,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 21,
+            "uuploaders": 14
+        }
+    ]
+}

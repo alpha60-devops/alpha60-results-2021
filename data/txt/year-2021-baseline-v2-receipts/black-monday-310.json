@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt7406334",
+    "imdb_id": "tt7406334",
+    "revision": "31e26382b8f5d0a1c9bd66587e336fc4bd959c9a",
+    "wikidata_id": "Q55605562",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Black_Monday_(TV_series)"
+  },
+  "coverage_sha256": "ba9329146e817c0a9202b8dda031feaed9cf2a30c1328db97952fdaf4534eef7",
+  "generated_at": "2026-09-10T16:21:53.875713+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2021-archives/black-monday-310.cache/cache.20210803.tar.xz",
+      "sha256": "145040b154af24f686c66b44db6e95029c63088187687917517ff0486618dd46",
+      "size": 820536
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-coverage-evidence/black-monday-310.md",
+      "sha256": "9aaa8b5c8573590a05d680ea989711108f6d63d42f0077bedb5aad399189e52f",
+      "size": 552
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-cache-stream-receipts/black-monday-310.json",
+      "sha256": "b44258d08507516616299c120c392068e2ad7588ef42ec9dffccea532df62c32",
+      "size": 1999
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-product-receipts/black-monday-310.json",
+      "sha256": "f0310a05c7091f43732b42c56ad117a2d8afdf0231fb02ea6c6f80522d80f465",
+      "size": 366
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-control/worker-map.json",
+      "sha256": "909a944a33f8241a03a3598d848d86191d00a30a040f8d7fc751b7bbc277bb36",
+      "size": 12987
+    }
+  },
+  "media_object": "black-monday-310",
+  "published_files": {
+    "data/csv/bytes/black-monday-310-cumulative-detail.2021-btiha-itemized-by-bytes.csv": "f86365a14a5a229ad4908e9a4f620d059157f8fdd3a34ba15e68a4616b3866d0",
+    "docs/itemized/black-monday-310-sample-cache-audit.md": "58f32db7ed79f72c2aaeda089ae1a52e3f163a7625b24d2953fa417b81e8b62e",
+    "docs/itemized/figures/black-monday-310-carto-4k.webp": "9ccff6b0f822933c9e4e7c49af0da550fc285c5e880863ce086c07843ff21ae7",
+    "docs/itemized/figures/black-monday-310-carto.png": "dfc4a73621eb1657199a284a07d67df86a3473806aa7c00a7b69944fa1462abc",
+    "docs/itemized/figures/black-monday-310-cumulative-detail-btiha-itemized-by-bytes.svg": "8901e4042963b6fd65b6248ee1356ec0d61b9e7f4dcb3cab70b9fec9e28e292a",
+    "docs/itemized/figures/black-monday-310-data-ge-1080p-4k.webp": "28257f027d1a3d7e167a4655536b5071152ae032a04a18b0f21d5cae9e3ac34a",
+    "docs/itemized/figures/black-monday-310-data-ge-1080p.webp": "c124a898cc2a406916f4b309895fb34eeabba2c9c775e79ff1be2117b17ec457",
+    "docs/itemized/figures/black-monday-310-data-lt-1080p-4k.webp": "a64399b9f2c85896e2a2ad3a4ebc1119a8c732f75e308a2c86f9be9d91798296",
+    "docs/itemized/figures/black-monday-310-data-lt-1080p.webp": "2f56f04f475a36ec2d234e502fb828dab4aa24a0c7036bbe0a0401bda75b7c8f",
+    "docs/itemized/figures/black-monday-310-downloads-by-day-day.svg": "deffd6e31e9727223f18f7cd487c90059abff9db1db47a6b75d0c26ca65fdaf5",
+    "docs/itemized/figures/black-monday-310-downloads-by-week-black-monday-310-week.svg": "8dd1b63ae5174a3182a5c00b9613b0489be03097d65668b8357a3d3ae541fedc",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "4ad12234c22b1cc8c6ac0bd2a890eb9a45b14844",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "ed3dbca0eab97b6a0e329c7d3f2ff202418ab8dba7729ae6c3cd4852ee06ac2a",
+      "size": 37337560
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/black-monday-310/tmp/black-monday-310-cumulative-btiha.geojson",
+        "sha256": "278fd641399b38e9cb2bfe32addbd913b1895a37f9bffb27a7a43b7fc0567cbf",
+        "size": 630801
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/black-monday-310/tmp/black-monday-310-cumulative-btiha-media-objects.json",
+        "sha256": "ed0cdd03b57bdb7975a8abb442437e9f650d20c973c3880b061dcc61dde99c25",
+        "size": 34480
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi",
+      "revision": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+      "untracked": false
+    },
+    "media_object": "black-monday-310",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "2b6e089b0f2b859c11dbdec11c354f187fc875a2d3d6ff68ccd6d692e0342126",
+      "size": 8761328
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "ac0b8fe4ecd11aa639a37a9b3df83dba08cf103723eb6004aea76989f1a5b09e",
+      "size": 3694176
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          47.0,
+          43.0,
+          42.0,
+          39.0,
+          36.0,
+          36.0,
+          32.0,
+          28.0,
+          28.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "London",
+          "Columbus",
+          "Lelystad",
+          "New York City",
+          "Amsterdam",
+          "Breda",
+          "Toronto",
+          "Los Angeles",
+          "Tokyo",
+          "Seattle"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          63.0,
+          58.0,
+          44.0,
+          30.0,
+          29.0,
+          29.0,
+          28.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "London",
+          "New York City",
+          "Lelystad",
+          "Toronto",
+          "Columbus",
+          "Amsterdam",
+          "Moscow",
+          "Nairobi",
+          "Sydney",
+          "Seoul"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 3,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 12,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 1,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "4ad12234c22b1cc8c6ac0bd2a890eb9a45b14844",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "96f413ef69521fbc99d4a2dd0aa761990335dc85",
+    "izzi": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+    "metadata": "31e26382b8f5d0a1c9bd66587e336fc4bd959c9a"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2021"
+}
