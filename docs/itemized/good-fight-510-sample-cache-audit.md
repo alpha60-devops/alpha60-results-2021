@@ -1,0 +1,88 @@
+---
+layout: default
+title: "good-fight-510 Sample Cache Audit"
+author: "Benjamin De Kosnik <bkoz@gnu.org>"
+description: "Cache coverage and visualization audit for one media object."
+---
+
+# good-fight-510 sample cache audit
+
+## 1. Media object
+
+| Field | Value |
+| --- | --- |
+| Media object | The Good Fight |
+| Collection key | `good-fight-510` |
+| imdb_id | [tt6338482](https://www.imdb.com/title/tt6338482/) |
+| wikipedia_url | [The Good Fight](https://en.wikipedia.org/wiki/The_Good_Fight) |
+| Sample dates | 2021-08-26-to-2021-08-31 |
+| Sample days | 6 |
+| BTIH count | 41 |
+| Unique BTIH count | 35 |
+| Downloaders total | 223,310 |
+| Uploaders total | 30,425 |
+| Data version | `2026-08-05` |
+| IP geolocation version | `6:1777968300` |
+
+## 2. Sample coverage report
+
+- Generated: 2026-09-10T15:44:03Z
+- Sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/good-fight-510.xz`
+- Hour directories: 126
+- Zero-length sample files: 0
+- Other unparsable sample files: 0
+- Hourly discontinuities: 0 (0 missing hours)
+- Missing days: 0
+
+### Sample archive discontinuities
+
+None detected.
+
+## 3. Media objects file size histogram
+
+![The Good Fight collection size histogram](figures/good-fight-510-cumulative-detail-btiha-itemized-by-bytes.svg)
+
+## 4. Visualization pass — graphs
+
+### Downloads by week cumulative (normalized start)
+
+<script type="text/javascript" crossorigin="anonymous" id="graph-hover"
+	src="../../resources/izzi-graph-hover-txt-polyline-red.js">
+</script>
+
+<div class="media-object-audit-week-graph" style="max-width: 100%;">
+{% include_relative figures/good-fight-510-downloads-by-week-good-fight-510-week.svg %}
+</div>
+<style>
+.media-object-audit-week-graph svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+</style>
+
+### Downloads by day, Saturday and Sunday in gray
+
+![good-fight-510 downloads by day](figures/good-fight-510-downloads-by-day-day.svg)
+
+## 5. Visualization pass — maps
+
+### Cumulative geographic slices
+
+| Africa | Americas | Asia | Europe | Oceania | Unknown |
+| --- | --- | --- | --- | --- | --- |
+| 3.72 | 29.88 | 15.67 | 24.47 | 2.86 | 7.49 |
+
+### Cumulative network infrastructure
+
+[![The Good Fight cumulative map](figures/good-fight-510-carto.png)](figures/good-fight-510-carto-4k.webp){:target="_blank" rel="noopener"}
+
+### Cumulative data maps
+
+**Cumulative >= 1080p**
+
+[![Cumulative >= 1080p](figures/good-fight-510-data-ge-1080p.webp)](figures/good-fight-510-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
+
+**Cumulative < 1080p**
+
+[![Cumulative < 1080p](figures/good-fight-510-data-lt-1080p.webp)](figures/good-fight-510-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}
