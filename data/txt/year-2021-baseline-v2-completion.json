@@ -1,41 +1,46 @@
 {
+  "campaign": {
+    "inventory_count": 83,
+    "inventory_sha256": "bdda9265e7155c9e7de91b17eba6b0f4062dfe98ecbdff10019bb733589780cb",
+    "version": 2
+  },
   "campaign_counts": {
-    "archive_records": 77,
-    "baseline_v2_pages": 77,
-    "day_complete": 77,
-    "day_product_pairs": 6988,
+    "archive_records": 83,
+    "baseline_v2_pages": 6,
+    "day_complete": 6,
+    "day_product_pairs": 292,
     "excluded_records": 0,
-    "index_links": 77,
-    "inventory": 77,
+    "index_links": 83,
+    "inventory": 83,
+    "reused_predecessor": 77,
+    "validated_current": 6,
     "worker_failed": 0,
-    "worker_passed": 77
+    "worker_passed": 6
   },
   "counts": {
     "absent": 0,
     "failed": 0,
-    "inventory": 77,
+    "inventory": 6,
     "old": 0,
-    "passed": 77,
-    "unique": 77
+    "passed": 6,
+    "unique": 6
   },
   "evidence_sha256": {
-    "campaign_audit": "145ec93cd41343d0b5ae188e4a8e9c5e921120a50e4171dbec2ff1d13fd547a8",
-    "metadata-audit.json": "f171f47713579be5a75b38f61e88457f4ebc7a9f1e91b6947d943c2fe8bb2f8c",
-    "site-audit.json": "094fcf979eb7f1048d1e7ac1e65b5cec7882dbe7defca813967d6c93eb46437c",
-    "worker-original-01.json": "b2b32c36e59e37a2f3e29d767719e9ad1d0e31171d4449eeba870792e759428c",
-    "worker-original-02.json": "3d63c7ad6e10c6e5da45f379dceaaa4b030de1d46eded7d9b33ba0adbd6da3ea",
-    "worker-repair-01.json": "c77559c942eb47306956e4244fdd90fa85447441b8de45b0f28ba2e5f1d498cc",
-    "worker-repair-02.json": "e877842a6898c9aacd874f5b8e71e2dcc3f44c8d17599f6378a4b2cc4d48833a"
+    "campaign_audit": "05a6c7f728393a595e27910d49e113489d3d1342bc1243e0e9c3c8b7be696346",
+    "metadata-audit.json": "08ccc5d5fddaed3d7f6dd9d827eb5d788313d239cf3d7dccc93db4cb60e09519",
+    "site-audit.json": "ab645c5ec402e96271e8348bee3719fab335f9af9b48ef3a88c168c08d74f1b0",
+    "worker-original-01.json": "e8fac5fc1620106f73f944066c1db23d81fbba6acb34c90575750e0e3f691f20",
+    "worker-original-02.json": "b13a3d32beae7f3c3d6cbf9c08ddebbb62167944d28fe01adbcb5e7fd3af912d"
   },
-  "generated_at": "2026-09-04T00:29:36.502208+00:00",
+  "generated_at": "2026-09-10T16:36:16.306911+00:00",
   "schema": "alpha60-year-baseline-v2-completion/1",
   "source_revisions": {
-    "alpha60": "266854316e16c7daa84891da3052099e07c6bd33",
+    "alpha60": "cf3fddbc1f2db79569b830a6c97eb1be7f423d4d",
     "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
-    "data": "903f8276e5f31a4387bb88a459e5012c544222f6",
-    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
-    "metadata": "576c2b15dd1e39c011f3278699f852aced240cd0",
-    "results": "e2d6b90f281bdc07985b1fe2c82f621542e97ebb"
+    "data": "96f413ef69521fbc99d4a2dd0aa761990335dc85",
+    "izzi": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+    "metadata": "31e26382b8f5d0a1c9bd66587e336fc4bd959c9a",
+    "results": "23d39b59a2a48382ad6612d8ed2c6b59356040f8"
   },
   "status": "passed",
   "year": "2021"
