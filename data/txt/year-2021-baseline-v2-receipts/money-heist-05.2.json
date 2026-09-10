@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt6468322",
+    "imdb_id": "tt6468322",
+    "revision": "31e26382b8f5d0a1c9bd66587e336fc4bd959c9a",
+    "wikidata_id": "Q29647346",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Money_Heist"
+  },
+  "coverage_sha256": "e9c9f54a16bb553a97397c7075e55100ea825041c49c1c236c962b8dae2b2ea3",
+  "generated_at": "2026-09-10T16:29:42.303029+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2021-archives/money-heist-05.2.cache/cache.20220317.tar.xz",
+      "sha256": "2fb42c0951cf29c34550107d117171b4d9e1eacb97778c5935df59cf704f1009",
+      "size": 795753888
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-coverage-evidence/money-heist-05.2.md",
+      "sha256": "260fca0191044fc91a7b5e6a041ec825ee0e6e2e1c63050cbc375d8f71dfd162",
+      "size": 554
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-cache-stream-receipts/money-heist-05.2.json",
+      "sha256": "4ad99e40469e1a03ce52915e89a9411c34b715bd9657db8ad52e647ed6778d53",
+      "size": 2837
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-day-product-receipts/money-heist-05.2.json",
+      "sha256": "3f79e063f8ba149c87f6e680dec851ab4b77b373cc947acd08d433e005095126",
+      "size": 370
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-control/worker-map.json",
+      "sha256": "909a944a33f8241a03a3598d848d86191d00a30a040f8d7fc751b7bbc277bb36",
+      "size": 12987
+    }
+  },
+  "media_object": "money-heist-05.2",
+  "published_files": {
+    "data/csv/bytes/money-heist-05.2-cumulative-detail.2021-btiha-itemized-by-bytes.csv": "60889c5525e48d4a6d29a62800f5a914ffb88f5d421cb3037f9d549b269ec699",
+    "docs/itemized/figures/money-heist-05-2-downloads-by-day-day.svg": "5d249c0932624b86f9e04d21bc52d6c6c7a1c633fb12b4aa4f6563f22b5aeb36",
+    "docs/itemized/figures/money-heist-05-2-downloads-by-week-money-heist-05.2-week.svg": "c15a7e0501308bc11f1cc0e799b3903369b8ea70cce452c626a91163c1416138",
+    "docs/itemized/figures/money-heist-05.2-carto-4k.webp": "cec349b5aa62df82c5ac0037c72e5d282e5a5f3157747086375e79298dc50b0a",
+    "docs/itemized/figures/money-heist-05.2-carto.png": "e4e3d689e771fa8f5ca696fa7a469c41ca5cdd7af667302dca556c1ec54249c0",
+    "docs/itemized/figures/money-heist-05.2-cumulative-detail-btiha-itemized-by-bytes.svg": "70c98e52de3536e78e4ea26a69769c3e961013bfac24ed3d80d9752478388dd0",
+    "docs/itemized/figures/money-heist-05.2-data-ge-1080p-4k.webp": "1b6788539519be822d54d73eae6a896a58c1f3416e32a7d8b28020407c6c31b8",
+    "docs/itemized/figures/money-heist-05.2-data-ge-1080p.webp": "dc415e834a6f71dff3f9f4e79413949a262db4dd3c5a35dea3426b6b361a8908",
+    "docs/itemized/figures/money-heist-05.2-data-lt-1080p-4k.webp": "c3f9552e6053afe35813606ac946173b53e8bf5fadf5c4698a9640b340bfe72e",
+    "docs/itemized/figures/money-heist-05.2-data-lt-1080p.webp": "870c91387a3b094adeb4207fcb9ae53d68ebcb207dd8ca328fbb9b770a80fd18",
+    "docs/itemized/money-heist-05.2-sample-cache-audit.md": "5cd6d974a99172d1990534823453257f85ee0ab29f1785c7ee043eaab8d0adcc",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "4ad12234c22b1cc8c6ac0bd2a890eb9a45b14844",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "ed3dbca0eab97b6a0e329c7d3f2ff202418ab8dba7729ae6c3cd4852ee06ac2a",
+      "size": 37337560
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/money-heist-05.2/tmp/money-heist-05.2-cumulative-btiha.geojson",
+        "sha256": "fc9abd975c6230d1d4bcc5b4063d2719bb639d0b8b1e71b89144056826d36837",
+        "size": 70853505
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2021/money-heist-05.2/tmp/money-heist-05.2-cumulative-btiha-media-objects.json",
+        "sha256": "283af0ef887839d0724d47cd38811e81e44dedbfbf7bf606d527cfcf8a1ca9d8",
+        "size": 3759278
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi",
+      "revision": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+      "untracked": false
+    },
+    "media_object": "money-heist-05.2",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "2b6e089b0f2b859c11dbdec11c354f187fc875a2d3d6ff68ccd6d692e0342126",
+      "size": 8761328
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2021-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "ac0b8fe4ecd11aa639a37a9b3df83dba08cf103723eb6004aea76989f1a5b09e",
+      "size": 3694176
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          56.0,
+          50.0,
+          47.0,
+          40.0,
+          36.0,
+          33.0,
+          32.0,
+          30.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "Ashburn",
+          "Mumbai",
+          "Chennai",
+          "Saint Petersburg",
+          "Delhi",
+          "London",
+          "Hyderabad",
+          "Bengaluru"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          87.0,
+          54.0,
+          50.0,
+          42.0,
+          40.0,
+          39.0,
+          34.0,
+          32.0,
+          32.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Mumbai",
+          "Moscow",
+          "Hyderabad",
+          "Chennai",
+          "Delhi",
+          "Ashburn",
+          "Seoul",
+          "Saint Petersburg",
+          "Bengaluru",
+          "Nairobi"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 29,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 15,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "4ad12234c22b1cc8c6ac0bd2a890eb9a45b14844",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "96f413ef69521fbc99d4a2dd0aa761990335dc85",
+    "izzi": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+    "metadata": "31e26382b8f5d0a1c9bd66587e336fc4bd959c9a"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2021"
+}
