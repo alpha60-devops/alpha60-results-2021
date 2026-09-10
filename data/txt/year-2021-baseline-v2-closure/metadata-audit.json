@@ -1,7 +1,7 @@
 {
   "schema": "alpha60-year-media-object-metadata-readiness/1",
   "year": "2021",
-  "inventory": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-0-media-objects.txt",
+  "inventory": "/home/bkoz/src/alpha60/config/year-cache-campaigns/raw-discovery/year-2021-cohort.txt",
   "metadata_directory": "/home/bkoz/src/alpha60-swarm-metadata/metadata",
   "approved_empty_collection_ids": [
     "army-of-the-dead",
@@ -38,11 +38,13 @@
     "borats-american-lockdown",
     "ultra-city-smiths-106"
   ],
+  "campaign_sample_contracts": 83,
+  "prevalidated_predecessor_records": 77,
   "status": "pass",
   "counts": {
-    "inventory_entries": 77,
-    "unique_keys": 77,
-    "ready_records": 77,
+    "inventory_entries": 83,
+    "unique_keys": 83,
+    "ready_records": 83,
     "error_records": 0,
     "errors": 0
   },
@@ -52,387 +54,577 @@
     {
       "collection_key": "archer-1201",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-baseline-v2-receipts/archer-1201.json"
     },
     {
       "collection_key": "army-of-the-dead",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-baseline-v2-receipts/army-of-the-dead.json"
     },
     {
       "collection_key": "beatles-get-back",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-baseline-v2-receipts/beatles-get-back.json"
+    },
+    {
+      "collection_key": "black-monday-310",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
     },
     {
       "collection_key": "blade-runner-black-lotus-101",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-baseline-v2-receipts/blade-runner-black-lotus-101.json"
     },
     {
       "collection_key": "bliss",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-baseline-v2-receipts/bliss.json"
     },
     {
       "collection_key": "borats-american-lockdown",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-baseline-v2-receipts/borats-american-lockdown.json"
     },
     {
       "collection_key": "cinderella-2021",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-baseline-v2-receipts/cinderella-2021.json"
     },
     {
       "collection_key": "cobra-kai-03",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-baseline-v2-receipts/cobra-kai-03.json"
     },
     {
       "collection_key": "cocaine-cowboys-the-kings-of-miami",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-baseline-v2-receipts/cocaine-cowboys-the-kings-of-miami.json"
     },
     {
       "collection_key": "coming-2-america",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-baseline-v2-receipts/coming-2-america.json"
     },
     {
       "collection_key": "cowboy-bebop-2021-01",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-baseline-v2-receipts/cowboy-bebop-2021-01.json"
     },
     {
       "collection_key": "debris-113",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-baseline-v2-receipts/debris-113.json"
     },
     {
       "collection_key": "detective-chinatown-3",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-baseline-v2-receipts/detective-chinatown-3.json"
     },
     {
       "collection_key": "dont-look-up",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-baseline-v2-receipts/dont-look-up.json"
     },
     {
       "collection_key": "doom-patrol-301",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-baseline-v2-receipts/doom-patrol-301.json"
     },
     {
       "collection_key": "doors",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-baseline-v2-receipts/doors.json"
     },
     {
       "collection_key": "dune-2021",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-baseline-v2-receipts/dune-2021.json"
     },
     {
       "collection_key": "expanse-510",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-baseline-v2-receipts/expanse-510.json"
     },
     {
       "collection_key": "expanse-601",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-baseline-v2-receipts/expanse-601.json"
     },
     {
       "collection_key": "falcon-and-the-winter-soldier-101",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-baseline-v2-receipts/falcon-and-the-winter-soldier-101.json"
     },
     {
       "collection_key": "falcon-and-the-winter-soldier-106",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-baseline-v2-receipts/falcon-and-the-winter-soldier-106.json"
     },
     {
       "collection_key": "for-all-mankind-201",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-baseline-v2-receipts/for-all-mankind-201.json"
     },
     {
       "collection_key": "for-all-mankind-210",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-baseline-v2-receipts/for-all-mankind-210.json"
     },
     {
       "collection_key": "foundation-101",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-baseline-v2-receipts/foundation-101.json"
     },
     {
       "collection_key": "godzilla-vs-kong",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-baseline-v2-receipts/godzilla-vs-kong.json"
+    },
+    {
+      "collection_key": "good-fight-510",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
     },
     {
       "collection_key": "halston-01",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-baseline-v2-receipts/halston-01.json"
     },
     {
       "collection_key": "harder-they-fall",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-baseline-v2-receipts/harder-they-fall.json"
     },
     {
       "collection_key": "intergalactic-01",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-baseline-v2-receipts/intergalactic-01.json"
     },
     {
       "collection_key": "invasion-101",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-baseline-v2-receipts/invasion-101.json"
     },
     {
       "collection_key": "invincible-101",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-baseline-v2-receipts/invincible-101.json"
     },
     {
       "collection_key": "kung-fu-101",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-baseline-v2-receipts/kung-fu-101.json"
     },
     {
       "collection_key": "kung-fu-113",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-baseline-v2-receipts/kung-fu-113.json"
     },
     {
       "collection_key": "loki-101",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-baseline-v2-receipts/loki-101.json"
     },
     {
       "collection_key": "loki-106",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-baseline-v2-receipts/loki-106.json"
     },
     {
       "collection_key": "love-death-robots-02",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-baseline-v2-receipts/love-death-robots-02.json"
     },
     {
       "collection_key": "lupin-02",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-baseline-v2-receipts/lupin-02.json"
+    },
+    {
+      "collection_key": "made-for-love-107",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
     },
     {
       "collection_key": "malcolm-and-marie",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-baseline-v2-receipts/malcolm-and-marie.json"
     },
     {
       "collection_key": "matrix-resurrections",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-baseline-v2-receipts/matrix-resurrections.json"
+    },
+    {
+      "collection_key": "me-you-cant-see-01",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
     },
     {
       "collection_key": "mitchells-vs-the-machines",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-baseline-v2-receipts/mitchells-vs-the-machines.json"
+    },
+    {
+      "collection_key": "money-heist-05.1",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
+    },
+    {
+      "collection_key": "money-heist-05.2",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
     },
     {
       "collection_key": "mother-android",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-baseline-v2-receipts/mother-android.json"
     },
     {
       "collection_key": "narcos-mexico-03",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-baseline-v2-receipts/narcos-mexico-03.json"
     },
     {
       "collection_key": "no-sudden-move",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-baseline-v2-receipts/no-sudden-move.json"
     },
     {
       "collection_key": "no-time-to-die",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-baseline-v2-receipts/no-time-to-die.json"
     },
     {
       "collection_key": "one-night-in-miami",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-baseline-v2-receipts/one-night-in-miami.json"
     },
     {
       "collection_key": "one-piece-95x",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-baseline-v2-receipts/one-piece-95x.json"
     },
     {
       "collection_key": "one-piece-98x",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-baseline-v2-receipts/one-piece-98x.json"
     },
     {
       "collection_key": "only-murders-in-the-building-110",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-baseline-v2-receipts/only-murders-in-the-building-110.json"
     },
     {
       "collection_key": "oprah-meghan-harry",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-baseline-v2-receipts/oprah-meghan-harry.json"
     },
     {
       "collection_key": "outer-banks-02",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-baseline-v2-receipts/outer-banks-02.json"
     },
     {
       "collection_key": "outside-the-wire",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-baseline-v2-receipts/outside-the-wire.json"
     },
     {
       "collection_key": "pacific-rim-the-black",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-baseline-v2-receipts/pacific-rim-the-black.json"
     },
     {
       "collection_key": "pose-307",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-baseline-v2-receipts/pose-307.json"
     },
     {
       "collection_key": "princess-switch-3",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-baseline-v2-receipts/princess-switch-3.json"
     },
     {
       "collection_key": "prisoners-of-the-ghostland",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-baseline-v2-receipts/prisoners-of-the-ghostland.json"
     },
     {
       "collection_key": "q-force-01",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-baseline-v2-receipts/q-force-01.json"
     },
     {
       "collection_key": "queen-of-the-south-510",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-baseline-v2-receipts/queen-of-the-south-510.json"
     },
     {
       "collection_key": "raya-and-the-last-dragon",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-baseline-v2-receipts/raya-and-the-last-dragon.json"
     },
     {
       "collection_key": "reservation-dogs-101",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-baseline-v2-receipts/reservation-dogs-101.json"
     },
     {
       "collection_key": "shadow-and-bone-01",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-baseline-v2-receipts/shadow-and-bone-01.json"
     },
     {
       "collection_key": "shang-chi-and-the-legend-of-the-ten-rings",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-baseline-v2-receipts/shang-chi-and-the-legend-of-the-ten-rings.json"
     },
     {
       "collection_key": "snowpiercer-209",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-baseline-v2-receipts/snowpiercer-209.json"
     },
     {
       "collection_key": "space-sweepers",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-baseline-v2-receipts/space-sweepers.json"
     },
     {
       "collection_key": "star-wars-visions-01",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-baseline-v2-receipts/star-wars-visions-01.json"
     },
     {
       "collection_key": "succession-301",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-baseline-v2-receipts/succession-301.json"
     },
     {
       "collection_key": "suicide-squad-2021",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-baseline-v2-receipts/suicide-squad-2021.json"
     },
     {
       "collection_key": "summer-of-soul",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-baseline-v2-receipts/summer-of-soul.json"
     },
     {
       "collection_key": "ted-lasso-201",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-baseline-v2-receipts/ted-lasso-201.json"
     },
     {
       "collection_key": "tomorrow-war",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-baseline-v2-receipts/tomorrow-war.json"
     },
     {
       "collection_key": "trese-01",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-baseline-v2-receipts/trese-01.json"
     },
     {
       "collection_key": "ultra-city-smiths-106",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-baseline-v2-receipts/ultra-city-smiths-106.json"
     },
     {
       "collection_key": "underground-railroad-01",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-baseline-v2-receipts/underground-railroad-01.json"
     },
     {
       "collection_key": "wandavision-101",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-baseline-v2-receipts/wandavision-101.json"
     },
     {
       "collection_key": "wandavision-109",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-baseline-v2-receipts/wandavision-109.json"
     },
     {
       "collection_key": "what-if-2021-101",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-baseline-v2-receipts/what-if-2021-101.json"
     },
     {
       "collection_key": "witcher-02",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-baseline-v2-receipts/witcher-02.json"
     },
     {
       "collection_key": "y-the-last-man-101",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-baseline-v2-receipts/y-the-last-man-101.json"
     },
     {
       "collection_key": "yasuke-01",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2021/data/txt/year-2021-baseline-v2-receipts/yasuke-01.json"
     }
   ]
 }
