@@ -24,7 +24,7 @@ description: "Cache coverage and visualization audit for one media object."
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
-## 2. Sample coverage report
+## 2. Coverage report
 
 - Generated: 2026-09-03T11:11:21Z
 - Evidence: read-only Day-member stream of the selected cache archive; no raw sample contents were opened
@@ -37,11 +37,11 @@ description: "Cache coverage and visualization audit for one media object."
 
 None detected.
 
-## 3. Media objects file size histogram
+## 3. File sizes histogram *median[lowest, highest]*
 
 ![One Night In Miami collection size histogram](figures/one-night-in-miami-cumulative-detail-btiha-itemized-by-bytes.svg)
 
-## 4. Visualization pass — graphs
+## 4. Graphs
 
 ### Downloads by week cumulative (normalized start)
 
@@ -64,24 +64,29 @@ None detected.
 
 ![one-night-in-miami downloads by day](figures/one-night-in-miami-downloads-by-day-day.svg)
 
-## 5. Visualization pass — maps
+## 5. Cumulative Maps
 
-### Cumulative geographic slices
+<script defer type="text/javascript" crossorigin="anonymous" id="geojson-map"
+        src="../../resources/izzi-map-leaflet-geojson-v7.8.js"></script>
+
+<!-- https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2021/refs/heads/main/data/ -->
+
+### <a href="https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2021/refs/heads/main/data/geojson.cumulative/one-night-in-miami-cumulative-aggregate.geojson.gz" data-map-title="One Night In Miami — one-night-in-miami" onclick="leaflet_map_open_window(this.href, this.dataset.mapTitle); return false;" class="table-link" aria-label="Open One Night In Miami (one-night-in-miami) cumulative data map in new window" title="Opens interactive map for One Night In Miami (one-night-in-miami) data">Swarm Detail</a>
+
+### Geographic Regions
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
 | 9.42 | 36.11 | 19.14 | 18.71 | 1.81 | 10.43 |
 
-### Cumulative network infrastructure
+### Network infrastructure
 
 [![One Night In Miami cumulative map](figures/one-night-in-miami-carto.png)](figures/one-night-in-miami-carto-4k.webp){:target="_blank" rel="noopener"}
 
-### Cumulative data maps
-
-**Cumulative >= 1080p**
+### Resolution >= 1080p
 
 [![Cumulative >= 1080p](figures/one-night-in-miami-data-ge-1080p.webp)](figures/one-night-in-miami-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
 
-**Cumulative < 1080p**
+### Resolution < 1080p
 
 [![Cumulative < 1080p](figures/one-night-in-miami-data-lt-1080p.webp)](figures/one-night-in-miami-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}

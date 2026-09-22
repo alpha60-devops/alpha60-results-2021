@@ -24,7 +24,7 @@ description: "Cache coverage and visualization audit for one media object."
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
-## 2. Sample coverage report
+## 2. Coverage report
 
 - Generated: 2026-09-03T11:11:21Z
 - Evidence: read-only Day-member stream of the selected cache archive; no raw sample contents were opened
@@ -37,11 +37,11 @@ description: "Cache coverage and visualization audit for one media object."
 
 None detected.
 
-## 3. Media objects file size histogram
+## 3. File sizes histogram *median[lowest, highest]*
 
 ![Pacific Rim The Black collection size histogram](figures/pacific-rim-the-black-cumulative-detail-btiha-itemized-by-bytes.svg)
 
-## 4. Visualization pass — graphs
+## 4. Graphs
 
 ### Downloads by week cumulative (normalized start)
 
@@ -64,24 +64,29 @@ None detected.
 
 ![pacific-rim-the-black downloads by day](figures/pacific-rim-the-black-downloads-by-day-day.svg)
 
-## 5. Visualization pass — maps
+## 5. Cumulative Maps
 
-### Cumulative geographic slices
+<script defer type="text/javascript" crossorigin="anonymous" id="geojson-map"
+        src="../../resources/izzi-map-leaflet-geojson-v7.8.js"></script>
+
+<!-- https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2021/refs/heads/main/data/ -->
+
+### <a href="https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2021/refs/heads/main/data/geojson.cumulative/pacific-rim-the-black-cumulative-aggregate.geojson.gz" data-map-title="Pacific Rim The Black — pacific-rim-the-black" onclick="leaflet_map_open_window(this.href, this.dataset.mapTitle); return false;" class="table-link" aria-label="Open Pacific Rim The Black (pacific-rim-the-black) cumulative data map in new window" title="Opens interactive map for Pacific Rim The Black (pacific-rim-the-black) data">Swarm Detail</a>
+
+### Geographic Regions
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
 | 3.09 | 36.96 | 21.20 | 21.53 | 1.56 | 11.17 |
 
-### Cumulative network infrastructure
+### Network infrastructure
 
 [![Pacific Rim The Black cumulative map](figures/pacific-rim-the-black-carto.png)](figures/pacific-rim-the-black-carto-4k.webp){:target="_blank" rel="noopener"}
 
-### Cumulative data maps
-
-**Cumulative >= 1080p**
+### Resolution >= 1080p
 
 [![Cumulative >= 1080p](figures/pacific-rim-the-black-data-ge-1080p.webp)](figures/pacific-rim-the-black-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
 
-**Cumulative < 1080p**
+### Resolution < 1080p
 
 [![Cumulative < 1080p](figures/pacific-rim-the-black-data-lt-1080p.webp)](figures/pacific-rim-the-black-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}

@@ -24,7 +24,7 @@ description: "Cache coverage and visualization audit for one media object."
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
-## 2. Sample coverage report
+## 2. Coverage report
 
 - Generated: 2026-09-03T11:11:21Z
 - Evidence: read-only Day-member stream of the selected cache archive; no raw sample contents were opened
@@ -37,11 +37,11 @@ description: "Cache coverage and visualization audit for one media object."
 
 None detected.
 
-## 3. Media objects file size histogram
+## 3. File sizes histogram *median[lowest, highest]*
 
 ![Oprah With Meghan and Harry collection size histogram](figures/oprah-meghan-harry-cumulative-detail-btiha-itemized-by-bytes.svg)
 
-## 4. Visualization pass — graphs
+## 4. Graphs
 
 ### Downloads by week cumulative (normalized start)
 
@@ -64,24 +64,29 @@ None detected.
 
 ![oprah-meghan-harry downloads by day](figures/oprah-meghan-harry-downloads-by-day-day.svg)
 
-## 5. Visualization pass — maps
+## 5. Cumulative Maps
 
-### Cumulative geographic slices
+<script defer type="text/javascript" crossorigin="anonymous" id="geojson-map"
+        src="../../resources/izzi-map-leaflet-geojson-v7.8.js"></script>
+
+<!-- https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2021/refs/heads/main/data/ -->
+
+### <a href="https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2021/refs/heads/main/data/geojson.cumulative/oprah-meghan-harry-cumulative-aggregate.geojson.gz" data-map-title="Oprah With Meghan and Harry — oprah-meghan-harry" onclick="leaflet_map_open_window(this.href, this.dataset.mapTitle); return false;" class="table-link" aria-label="Open Oprah With Meghan and Harry (oprah-meghan-harry) cumulative data map in new window" title="Opens interactive map for Oprah With Meghan and Harry (oprah-meghan-harry) data">Swarm Detail</a>
+
+### Geographic Regions
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
 | 11.82 | 24.30 | 21.35 | 21.17 | 2.17 | 5.04 |
 
-### Cumulative network infrastructure
+### Network infrastructure
 
 [![Oprah With Meghan and Harry cumulative map](figures/oprah-meghan-harry-carto.png)](figures/oprah-meghan-harry-carto-4k.webp){:target="_blank" rel="noopener"}
 
-### Cumulative data maps
-
-**Cumulative >= 1080p**
+### Resolution >= 1080p
 
 [![Cumulative >= 1080p](figures/oprah-meghan-harry-data-ge-1080p.webp)](figures/oprah-meghan-harry-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
 
-**Cumulative < 1080p**
+### Resolution < 1080p
 
 [![Cumulative < 1080p](figures/oprah-meghan-harry-data-lt-1080p.webp)](figures/oprah-meghan-harry-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}

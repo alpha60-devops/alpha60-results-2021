@@ -24,7 +24,7 @@ description: "Cache coverage and visualization audit for one media object."
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
-## 2. Sample coverage report
+## 2. Coverage report
 
 - Generated: 2026-09-03T11:11:21Z
 - Evidence: read-only Day-member stream of the selected cache archive; no raw sample contents were opened
@@ -37,11 +37,11 @@ description: "Cache coverage and visualization audit for one media object."
 
 None detected.
 
-## 3. Media objects file size histogram
+## 3. File sizes histogram *median[lowest, highest]*
 
 ![Outside The Wire collection size histogram](figures/outside-the-wire-cumulative-detail-btiha-itemized-by-bytes.svg)
 
-## 4. Visualization pass — graphs
+## 4. Graphs
 
 ### Downloads by week cumulative (normalized start)
 
@@ -64,24 +64,29 @@ None detected.
 
 ![outside-the-wire downloads by day](figures/outside-the-wire-downloads-by-day-day.svg)
 
-## 5. Visualization pass — maps
+## 5. Cumulative Maps
 
-### Cumulative geographic slices
+<script defer type="text/javascript" crossorigin="anonymous" id="geojson-map"
+        src="../../resources/izzi-map-leaflet-geojson-v7.8.js"></script>
+
+<!-- https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2021/refs/heads/main/data/ -->
+
+### <a href="https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2021/refs/heads/main/data/geojson.cumulative/outside-the-wire-cumulative-aggregate.geojson.gz" data-map-title="Outside The Wire — outside-the-wire" onclick="leaflet_map_open_window(this.href, this.dataset.mapTitle); return false;" class="table-link" aria-label="Open Outside The Wire (outside-the-wire) cumulative data map in new window" title="Opens interactive map for Outside The Wire (outside-the-wire) data">Swarm Detail</a>
+
+### Geographic Regions
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
 | 10.37 | 7.73 | 24.18 | 48.55 | 1.29 | 0.59 |
 
-### Cumulative network infrastructure
+### Network infrastructure
 
 [![Outside The Wire cumulative map](figures/outside-the-wire-carto.png)](figures/outside-the-wire-carto-4k.webp){:target="_blank" rel="noopener"}
 
-### Cumulative data maps
-
-**Cumulative >= 1080p**
+### Resolution >= 1080p
 
 [![Cumulative >= 1080p](figures/outside-the-wire-data-ge-1080p.webp)](figures/outside-the-wire-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
 
-**Cumulative < 1080p**
+### Resolution < 1080p
 
 [![Cumulative < 1080p](figures/outside-the-wire-data-lt-1080p.webp)](figures/outside-the-wire-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}

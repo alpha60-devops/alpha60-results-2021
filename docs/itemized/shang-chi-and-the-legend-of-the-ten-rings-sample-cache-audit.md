@@ -24,7 +24,7 @@ description: "Cache coverage and visualization audit for one media object."
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
-## 2. Sample coverage report
+## 2. Coverage report
 
 - Generated: 2026-09-03T11:11:21Z
 - Evidence: read-only Day-member stream of the selected cache archive; no raw sample contents were opened
@@ -37,11 +37,11 @@ description: "Cache coverage and visualization audit for one media object."
 
 None detected.
 
-## 3. Media objects file size histogram
+## 3. File sizes histogram *median[lowest, highest]*
 
 ![Shang Chi and the Legend of the Ten Rings collection size histogram](figures/shang-chi-and-the-legend-of-the-ten-rings-cumulative-detail-btiha-itemized-by-bytes.svg)
 
-## 4. Visualization pass — graphs
+## 4. Graphs
 
 ### Downloads by week cumulative (normalized start)
 
@@ -64,24 +64,29 @@ None detected.
 
 ![shang-chi-and-the-legend-of-the-ten-rings downloads by day](figures/shang-chi-and-the-legend-of-the-ten-rings-downloads-by-day-day.svg)
 
-## 5. Visualization pass — maps
+## 5. Cumulative Maps
 
-### Cumulative geographic slices
+<script defer type="text/javascript" crossorigin="anonymous" id="geojson-map"
+        src="../../resources/izzi-map-leaflet-geojson-v7.8.js"></script>
+
+<!-- https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2021/refs/heads/main/data/ -->
+
+### <a href="https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2021/refs/heads/main/data/geojson.cumulative/shang-chi-and-the-legend-of-the-ten-rings-cumulative-aggregate.geojson.gz" data-map-title="Shang Chi and the Legend of the Ten Rings — shang-chi-and-the-legend-of-the-ten-rings" onclick="leaflet_map_open_window(this.href, this.dataset.mapTitle); return false;" class="table-link" aria-label="Open Shang Chi and the Legend of the Ten Rings (shang-chi-and-the-legend-of-the-ten-rings) cumulative data map in new window" title="Opens interactive map for Shang Chi and the Legend of the Ten Rings (shang-chi-and-the-legend-of-the-ten-rings) data">Swarm Detail</a>
+
+### Geographic Regions
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
 | 7.70 | 16.04 | 34.03 | 33.00 | 1.71 | 0.84 |
 
-### Cumulative network infrastructure
+### Network infrastructure
 
 [![Shang Chi and the Legend of the Ten Rings cumulative map](figures/shang-chi-and-the-legend-of-the-ten-rings-carto.png)](figures/shang-chi-and-the-legend-of-the-ten-rings-carto-4k.webp){:target="_blank" rel="noopener"}
 
-### Cumulative data maps
-
-**Cumulative >= 1080p**
+### Resolution >= 1080p
 
 [![Cumulative >= 1080p](figures/shang-chi-and-the-legend-of-the-ten-rings-data-ge-1080p.webp)](figures/shang-chi-and-the-legend-of-the-ten-rings-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
 
-**Cumulative < 1080p**
+### Resolution < 1080p
 
 [![Cumulative < 1080p](figures/shang-chi-and-the-legend-of-the-ten-rings-data-lt-1080p.webp)](figures/shang-chi-and-the-legend-of-the-ten-rings-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}

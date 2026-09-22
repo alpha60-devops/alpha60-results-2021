@@ -24,7 +24,7 @@ description: "Cache coverage and visualization audit for one media object."
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
-## 2. Sample coverage report
+## 2. Coverage report
 
 - Generated: 2026-09-03T11:11:21Z
 - Evidence: read-only Day-member stream of the selected cache archive; no raw sample contents were opened
@@ -43,11 +43,11 @@ description: "Cache coverage and visualization audit for one media object."
 - missing Day index 41: `2021-10-13`
 - missing Day index 42: `2021-10-14`
 
-## 3. Media objects file size histogram
+## 3. File sizes histogram *median[lowest, highest]*
 
 ![Cinderella collection size histogram](figures/cinderella-2021-cumulative-detail-btiha-itemized-by-bytes.svg)
 
-## 4. Visualization pass — graphs
+## 4. Graphs
 
 ### Downloads by week cumulative (normalized start)
 
@@ -70,24 +70,29 @@ description: "Cache coverage and visualization audit for one media object."
 
 ![cinderella-2021 downloads by day](figures/cinderella-2021-downloads-by-day-day.svg)
 
-## 5. Visualization pass — maps
+## 5. Cumulative Maps
 
-### Cumulative geographic slices
+<script defer type="text/javascript" crossorigin="anonymous" id="geojson-map"
+        src="../../resources/izzi-map-leaflet-geojson-v7.8.js"></script>
+
+<!-- https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2021/refs/heads/main/data/ -->
+
+### <a href="https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2021/refs/heads/main/data/geojson.cumulative/cinderella-2021-cumulative-aggregate.geojson.gz" data-map-title="Cinderella — cinderella-2021" onclick="leaflet_map_open_window(this.href, this.dataset.mapTitle); return false;" class="table-link" aria-label="Open Cinderella (cinderella-2021) cumulative data map in new window" title="Opens interactive map for Cinderella (cinderella-2021) data">Swarm Detail</a>
+
+### Geographic Regions
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
 | 10.39 | 25.06 | 24.22 | 24.33 | 1.86 | 5.24 |
 
-### Cumulative network infrastructure
+### Network infrastructure
 
 [![Cinderella cumulative map](figures/cinderella-2021-carto.png)](figures/cinderella-2021-carto-4k.webp){:target="_blank" rel="noopener"}
 
-### Cumulative data maps
-
-**Cumulative >= 1080p**
+### Resolution >= 1080p
 
 [![Cumulative >= 1080p](figures/cinderella-2021-data-ge-1080p.webp)](figures/cinderella-2021-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
 
-**Cumulative < 1080p**
+### Resolution < 1080p
 
 [![Cumulative < 1080p](figures/cinderella-2021-data-lt-1080p.webp)](figures/cinderella-2021-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}
